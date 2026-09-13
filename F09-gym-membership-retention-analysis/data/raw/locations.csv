@@ -1,0 +1,5 @@
+location_id,location_name,location_type,member_capacity
+1,Besiktas,Flagship,420
+2,Kadikoy,Standard,350
+3,Sisli,Standard,330
+4,Atasehir,Express,250

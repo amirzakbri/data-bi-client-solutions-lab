@@ -1,0 +1,25 @@
+Project ID,Client ID,Client Name,Project Type,Start Date,End Date,Status,Budget Hours,Contract Revenue,Budget Cost,Billing Rate
+P001,C01,Northstar Retail,Dashboard,2026-01-01,2026-03-29,Completed,496,100700,47600,181
+P002,C02,Lumen Health,Website,2026-01-06,2026-05-03,Completed,288,50100,28400,190
+P003,C03,Atlas Property,Campaign,2026-01-11,2026-04-16,Completed,302,52700,30200,154
+P004,C04,Orbit SaaS,Automation,2026-01-16,2026-04-26,Completed,532,104900,47100,194
+P005,C05,Cedar Finance,Analytics Retainer,2026-02-01,2026-04-08,Completed,181,31400,17300,150
+P006,C06,BrightPath Learning,Dashboard,2026-02-06,2026-06-04,Completed,305,51500,30900,150
+P007,C07,Harbor Legal,Website,2026-02-11,2026-04-19,Completed,463,57100,38300,138
+P008,C08,PeakFit Clubs,Campaign,2026-02-16,2026-05-21,Completed,570,94500,51900,159
+P009,C01,Northstar Retail,Automation,2026-03-01,2026-05-22,Completed,348,56400,29900,157
+P010,C02,Lumen Health,Analytics Retainer,2026-03-06,2026-06-20,Completed,289,62100,30200,186
+P011,C03,Atlas Property,Dashboard,2026-03-11,2026-05-12,Completed,392,67200,37500,192
+P012,C04,Orbit SaaS,Website,2026-03-16,2026-06-06,Completed,176,29200,16400,164
+P013,C05,Cedar Finance,Campaign,2026-04-01,2026-07-12,Completed,310,55300,31500,182
+P014,C06,BrightPath Learning,Automation,2026-04-06,2026-07-13,Completed,179,34500,16900,193
+P015,C07,Harbor Legal,Analytics Retainer,2026-04-11,2026-06-14,Completed,317,60800,31500,179
+P016,C08,PeakFit Clubs,Dashboard,2026-04-16,2026-06-14,At Risk,302,51200,26600,164
+P017,C01,Northstar Retail,Website,2026-05-01,2026-06-30,Active,557,92700,54100,187
+P018,C02,Lumen Health,Campaign,2026-05-06,2026-07-23,At Risk,196,29900,18300,147
+P019,C03,Atlas Property,Automation,2026-05-11,2026-08-05,Active,242,31200,23700,140
+P020,C04,Orbit SaaS,Analytics Retainer,2026-05-16,2026-07-03,At Risk,335,46500,29500,149
+P021,C05,Cedar Finance,Dashboard,2026-06-01,2026-07-31,Active,525,79900,45100,162
+P022,C06,BrightPath Learning,Website,2026-06-06,2026-09-06,At Risk,408,77500,35700,169
+P023,C07,Harbor Legal,Campaign,2026-06-11,2026-08-27,Active,539,83300,47500,159
+P024,C08,PeakFit Clubs,Automation,2026-06-16,2026-10-03,At Risk,180,31200,17100,176

@@ -1,0 +1,12 @@
+{
+  "source_orders": 1451,
+  "source_order_lines": 2901,
+  "promotion_rows": 884,
+  "completed_orders": 1268,
+  "correct_revenue": 843743.19,
+  "broken_revenue": 914777.13,
+  "revenue_overstatement": 71033.94,
+  "true_2026_customers": 214,
+  "summed_monthly_distinct": 449,
+  "july_orders": 75
+}

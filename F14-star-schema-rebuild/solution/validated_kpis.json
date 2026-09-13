@@ -1,0 +1,15 @@
+{
+  "fact_rows": 1037,
+  "orders": 700,
+  "units": 3107,
+  "revenue": 381041.8,
+  "cost": 216284,
+  "profit": 164757.8,
+  "margin_pct": 43.2,
+  "customers": 180,
+  "products": 12,
+  "stores": 4,
+  "date_rows": 203,
+  "reconciliation_checks": 10,
+  "checks_passed": 10
+}

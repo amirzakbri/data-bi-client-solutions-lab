@@ -1,0 +1,9 @@
+{
+  "rawRows": 324,
+  "cleanRows": 314,
+  "rejected": 10,
+  "duplicates": 4,
+  "correctedRows": 15,
+  "totalRevenue": 4949.02,
+  "issueLogRows": 25
+}

@@ -1,0 +1,14 @@
+{
+  "source_shipments": 3521,
+  "tracking_events": 10557,
+  "delivery_attempts": 3973,
+  "delivered_shipments": 3439,
+  "on_time_deliveries": 2849,
+  "late_deliveries": 590,
+  "failed_shipments": 76,
+  "in_transit_shipments": 6,
+  "on_time_pct": 82.8,
+  "avg_late_hours": 26.6,
+  "severe_late_deliveries": 326,
+  "first_attempt_success_pct": 84.8
+}

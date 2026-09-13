@@ -1,0 +1,13 @@
+{
+  "invoices": 180,
+  "invoiced": 303327.7,
+  "collected": 228210.05,
+  "outstanding": 75117.65,
+  "overdue": 72277.35,
+  "open": 56,
+  "overdueCount": 53,
+  "collectionRate": 0.7524,
+  "avgDaysOverdue": 180.7,
+  "paymentRows": 169,
+  "criticalQueue": 41
+}

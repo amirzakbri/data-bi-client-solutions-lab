@@ -1,0 +1,12 @@
+{
+  "review_count": 3600,
+  "unique_reviews": 3600,
+  "product_count": 30,
+  "average_rating": 3.731,
+  "negative_text_reviews": 682,
+  "negative_text_rate": 0.1894,
+  "unclassified_reviews": 821,
+  "sentiment_mismatches": 70,
+  "urgent_products": 4,
+  "investigate_products": 9
+}

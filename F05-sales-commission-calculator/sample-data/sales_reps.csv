@@ -1,0 +1,13 @@
+Rep ID,Rep Name,Segment,Region,Monthly Quota
+R01,Maya Chen,Enterprise,North,90000
+R02,Ethan Brooks,Enterprise,South,85000
+R03,Sofia Patel,Mid-Market,East,80000
+R04,Noah Williams,Mid-Market,West,78000
+R05,Lina Haddad,SMB,North,62000
+R06,Lucas Martin,SMB,South,68000
+R07,Aylin Demir,Enterprise,East,100000
+R08,Owen Taylor,Mid-Market,North,80000
+R09,Sara Kim,SMB,West,70000
+R10,Daniel Ruiz,Enterprise,West,95000
+R11,Elif Kaya,Mid-Market,South,82000
+R12,Jon Bell,SMB,East,65000

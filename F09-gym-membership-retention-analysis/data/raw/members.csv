@@ -1,0 +1,1201 @@
+member_id,member_code,first_name,last_name,age,location_id,plan_id,acquisition_channel,join_date,cancel_date,status
+1,M00001,Zeynep,Celik,31,3,3,Referral,2024-07-29,,Active
+2,M00002,Ayse,Ozdemir,33,4,2,Instagram,2025-11-20,,Active
+3,M00003,Ece,Kaya,32,3,3,Organic Search,2024-03-06,2026-02-03,Cancelled
+4,M00004,Ayse,Aydin,26,2,2,Organic Search,2024-01-04,,Active
+5,M00005,Derya,Yilmaz,36,3,1,Instagram,2024-04-25,,Active
+6,M00006,Selin,Yilmaz,27,2,3,Walk-in,2024-08-26,,Active
+7,M00007,Zeynep,Kurt,34,2,1,Referral,2024-01-02,,Active
+8,M00008,Ece,Koc,35,2,1,Paid Search,2024-10-26,2026-02-03,Cancelled
+9,M00009,Deniz,Ozdemir,30,4,1,Corporate Partner,2025-08-23,,Active
+10,M00010,Emre,Koc,51,1,1,Referral,2026-06-15,2026-07-22,Cancelled
+11,M00011,Kerem,Kurt,61,1,1,Referral,2024-07-28,2024-11-01,Cancelled
+12,M00012,Ayse,Demir,46,4,1,Walk-in,2024-12-20,2026-04-21,Cancelled
+13,M00013,Ceren,Koc,58,1,4,Organic Search,2024-04-10,,Active
+14,M00014,Ceren,Kaya,44,3,1,Organic Search,2025-08-06,2026-07-30,Cancelled
+15,M00015,Mert,Sahin,35,2,1,Walk-in,2025-04-21,2026-07-24,Cancelled
+16,M00016,Kerem,Kaya,48,4,1,Referral,2024-08-03,,Active
+17,M00017,Deniz,Demir,56,1,1,Walk-in,2024-08-02,2026-03-16,Cancelled
+18,M00018,Ece,Aydin,45,3,3,Corporate Partner,2026-05-06,,Active
+19,M00019,Ceren,Yilmaz,55,2,3,Instagram,2026-02-25,,Active
+20,M00020,Ece,Kurt,46,1,4,Organic Search,2026-06-04,,Active
+21,M00021,Zeynep,Aydin,62,2,1,Walk-in,2025-07-05,,Active
+22,M00022,Ayse,Ozdemir,47,1,4,Referral,2026-03-15,,Active
+23,M00023,Ayse,Sahin,42,1,1,Walk-in,2026-06-15,,Active
+24,M00024,Can,Kurt,45,2,1,Paid Search,2025-10-18,,Active
+25,M00025,Ece,Sahin,62,1,4,Instagram,2025-02-03,2025-06-15,Cancelled
+26,M00026,Mert,Arslan,55,2,1,Referral,2024-06-21,,Active
+27,M00027,Bora,Yilmaz,56,3,3,Walk-in,2024-06-07,,Active
+28,M00028,Ceren,Kurt,61,3,1,Paid Search,2025-05-10,2026-04-29,Cancelled
+29,M00029,Arda,Kaya,50,1,3,Walk-in,2025-10-21,,Active
+30,M00030,Ceren,Demir,44,1,1,Paid Search,2026-01-29,,Active
+31,M00031,Can,Sahin,49,2,4,Referral,2025-11-15,,Active
+32,M00032,Derya,Aydin,57,1,4,Instagram,2025-11-18,,Active
+33,M00033,Ayse,Kaya,54,2,1,Walk-in,2025-04-22,,Active
+34,M00034,Ceren,Arslan,29,4,1,Organic Search,2024-02-16,2026-02-08,Cancelled
+35,M00035,Zeynep,Demir,32,1,1,Instagram,2024-11-12,,Active
+36,M00036,Kerem,Aydin,31,1,1,Referral,2024-08-15,,Active
+37,M00037,Ayse,Aydin,39,2,1,Walk-in,2025-08-29,2025-12-03,Cancelled
+38,M00038,Can,Kurt,18,3,2,Organic Search,2025-02-17,2025-09-14,Cancelled
+39,M00039,Bora,Koc,45,2,1,Walk-in,2026-05-08,,Active
+40,M00040,Derya,Kurt,44,4,1,Corporate Partner,2026-05-19,2026-06-25,Cancelled
+41,M00041,Mert,Kurt,51,3,2,Walk-in,2026-01-29,,Active
+42,M00042,Ceren,Celik,62,2,3,Walk-in,2024-10-02,,Active
+43,M00043,Bora,Yilmaz,48,2,2,Referral,2025-12-03,,Active
+44,M00044,Ayse,Kaya,19,1,4,Paid Search,2026-06-18,2026-07-28,Cancelled
+45,M00045,Ayse,Ozdemir,63,3,4,Instagram,2025-04-09,,Active
+46,M00046,Can,Aydin,45,2,3,Paid Search,2026-04-23,2026-06-07,Cancelled
+47,M00047,Ceren,Kurt,24,1,2,Walk-in,2025-09-18,,Active
+48,M00048,Arda,Koc,31,4,4,Walk-in,2026-02-05,2026-06-24,Cancelled
+49,M00049,Emre,Demir,62,2,1,Referral,2025-09-28,,Active
+50,M00050,Mert,Kurt,25,3,4,Organic Search,2026-01-17,2026-03-10,Cancelled
+51,M00051,Zeynep,Yilmaz,32,4,4,Paid Search,2024-06-19,,Active
+52,M00052,Bora,Kurt,42,1,1,Walk-in,2024-04-16,,Active
+53,M00053,Kerem,Ozdemir,60,3,3,Referral,2025-03-26,,Active
+54,M00054,Can,Sahin,36,1,1,Referral,2024-10-07,,Active
+55,M00055,Elif,Koc,18,4,4,Corporate Partner,2026-03-03,,Active
+56,M00056,Kerem,Yilmaz,47,1,4,Referral,2025-05-30,,Active
+57,M00057,Arda,Arslan,44,2,4,Referral,2024-07-17,,Active
+58,M00058,Emre,Kurt,18,1,1,Walk-in,2024-09-18,2026-03-29,Cancelled
+59,M00059,Elif,Sahin,60,3,1,Referral,2024-07-20,,Active
+60,M00060,Mert,Kurt,33,1,2,Paid Search,2025-12-30,,Active
+61,M00061,Ece,Celik,61,1,1,Referral,2025-05-07,,Active
+62,M00062,Ceren,Demir,33,3,1,Corporate Partner,2025-09-24,,Active
+63,M00063,Kerem,Yilmaz,62,2,1,Organic Search,2026-04-26,2026-06-30,Cancelled
+64,M00064,Ece,Aydin,46,2,4,Paid Search,2025-06-19,,Active
+65,M00065,Deniz,Arslan,40,3,1,Organic Search,2025-03-03,2026-05-27,Cancelled
+66,M00066,Zeynep,Kurt,21,1,1,Organic Search,2025-05-09,,Active
+67,M00067,Ece,Koc,48,3,1,Instagram,2026-05-27,2026-06-29,Cancelled
+68,M00068,Elif,Sahin,56,1,1,Organic Search,2025-11-10,,Active
+69,M00069,Selin,Kaya,42,1,1,Referral,2024-02-13,,Active
+70,M00070,Bora,Arslan,35,3,4,Organic Search,2026-04-25,2026-07-17,Cancelled
+71,M00071,Ayse,Arslan,27,4,2,Corporate Partner,2024-06-14,,Active
+72,M00072,Mert,Ozdemir,61,4,4,Organic Search,2025-09-07,,Active
+73,M00073,Selin,Ozdemir,39,1,1,Walk-in,2026-05-22,2026-07-29,Cancelled
+74,M00074,Elif,Yilmaz,27,1,2,Referral,2024-12-25,,Active
+75,M00075,Derya,Aydin,52,1,1,Organic Search,2024-07-01,2025-08-07,Cancelled
+76,M00076,Elif,Ozdemir,52,2,4,Walk-in,2024-05-25,2025-08-01,Cancelled
+77,M00077,Ayse,Demir,64,4,1,Instagram,2025-08-30,,Active
+78,M00078,Derya,Celik,48,2,3,Walk-in,2024-11-26,,Active
+79,M00079,Can,Aydin,26,1,3,Walk-in,2025-11-05,,Active
+80,M00080,Selin,Arslan,31,1,1,Instagram,2025-03-27,2026-05-04,Cancelled
+81,M00081,Zeynep,Kaya,28,2,2,Walk-in,2024-11-06,,Active
+82,M00082,Deniz,Celik,24,4,4,Paid Search,2026-06-21,,Active
+83,M00083,Mert,Kurt,35,1,1,Referral,2024-08-17,2025-08-12,Cancelled
+84,M00084,Ceren,Kurt,53,1,2,Organic Search,2025-07-25,,Active
+85,M00085,Ceren,Sahin,44,1,1,Walk-in,2024-11-19,,Active
+86,M00086,Kerem,Kurt,47,1,2,Referral,2024-09-09,,Active
+87,M00087,Zeynep,Yilmaz,53,2,2,Walk-in,2025-04-02,,Active
+88,M00088,Ayse,Sahin,61,4,3,Organic Search,2025-09-12,,Active
+89,M00089,Arda,Arslan,26,3,2,Referral,2024-01-18,,Active
+90,M00090,Derya,Koc,30,3,1,Walk-in,2025-06-29,2026-02-14,Cancelled
+91,M00091,Kerem,Celik,46,1,3,Referral,2024-01-04,,Active
+92,M00092,Mert,Kurt,63,2,1,Walk-in,2026-02-05,2026-06-24,Cancelled
+93,M00093,Mert,Yilmaz,38,3,1,Organic Search,2024-07-19,,Active
+94,M00094,Mert,Arslan,63,3,1,Referral,2024-03-15,,Active
+95,M00095,Ceren,Kaya,26,1,4,Organic Search,2024-07-16,,Active
+96,M00096,Derya,Celik,29,2,3,Walk-in,2026-05-14,,Active
+97,M00097,Elif,Aydin,49,4,3,Paid Search,2026-01-23,,Active
+98,M00098,Zeynep,Celik,58,4,1,Corporate Partner,2024-11-24,,Active
+99,M00099,Zeynep,Demir,52,3,4,Instagram,2025-04-13,,Active
+100,M00100,Ece,Kurt,44,3,3,Referral,2025-04-30,,Active
+101,M00101,Ece,Yilmaz,30,2,4,Organic Search,2024-05-13,,Active
+102,M00102,Mert,Demir,61,1,1,Walk-in,2024-11-07,2025-09-24,Cancelled
+103,M00103,Ayse,Kaya,26,1,2,Referral,2024-10-04,2026-04-06,Cancelled
+104,M00104,Mert,Demir,26,2,1,Referral,2024-07-14,,Active
+105,M00105,Mert,Celik,34,1,4,Referral,2026-02-13,,Active
+106,M00106,Kerem,Kurt,49,1,3,Paid Search,2024-08-12,,Active
+107,M00107,Selin,Celik,23,2,3,Paid Search,2026-03-28,,Active
+108,M00108,Mert,Arslan,50,1,4,Instagram,2025-12-20,2026-01-29,Cancelled
+109,M00109,Derya,Ozdemir,25,3,3,Walk-in,2025-05-08,,Active
+110,M00110,Deniz,Arslan,55,1,3,Referral,2024-11-16,,Active
+111,M00111,Mert,Arslan,39,4,4,Referral,2024-11-01,2025-06-02,Cancelled
+112,M00112,Derya,Arslan,47,2,4,Referral,2026-05-08,2026-06-28,Cancelled
+113,M00113,Emre,Koc,25,3,3,Walk-in,2025-09-22,2026-06-20,Cancelled
+114,M00114,Ayse,Kurt,29,2,2,Referral,2024-06-19,,Active
+115,M00115,Ayse,Ozdemir,19,3,1,Instagram,2024-07-02,,Active
+116,M00116,Can,Celik,42,4,2,Corporate Partner,2024-07-12,,Active
+117,M00117,Ayse,Demir,25,2,3,Walk-in,2024-06-13,,Active
+118,M00118,Selin,Yilmaz,49,3,3,Referral,2025-03-08,,Active
+119,M00119,Ayse,Celik,24,1,3,Organic Search,2026-02-09,,Active
+120,M00120,Bora,Ozdemir,31,2,2,Referral,2024-01-22,,Active
+121,M00121,Ayse,Koc,47,2,4,Paid Search,2025-09-29,2025-11-03,Cancelled
+122,M00122,Ceren,Sahin,44,2,2,Organic Search,2024-07-19,,Active
+123,M00123,Zeynep,Sahin,40,3,1,Referral,2024-11-01,,Active
+124,M00124,Can,Kurt,50,1,2,Instagram,2026-02-11,,Active
+125,M00125,Emre,Yilmaz,43,1,4,Organic Search,2024-08-31,,Active
+126,M00126,Can,Ozdemir,38,3,1,Instagram,2024-07-10,,Active
+127,M00127,Derya,Aydin,59,1,2,Corporate Partner,2026-03-17,2026-06-19,Cancelled
+128,M00128,Arda,Sahin,47,4,4,Instagram,2024-11-10,,Active
+129,M00129,Deniz,Aydin,56,1,3,Organic Search,2026-04-17,,Active
+130,M00130,Deniz,Ozdemir,58,1,2,Instagram,2025-07-20,2025-10-31,Cancelled
+131,M00131,Deniz,Koc,32,2,4,Referral,2025-04-18,,Active
+132,M00132,Selin,Celik,40,2,4,Walk-in,2025-04-20,,Active
+133,M00133,Kerem,Ozdemir,46,3,2,Organic Search,2025-07-24,,Active
+134,M00134,Derya,Demir,38,1,3,Walk-in,2024-07-20,,Active
+135,M00135,Kerem,Demir,63,1,1,Instagram,2025-09-03,,Active
+136,M00136,Can,Ozdemir,20,2,3,Walk-in,2024-02-17,,Active
+137,M00137,Kerem,Arslan,35,1,2,Paid Search,2026-03-01,,Active
+138,M00138,Emre,Kurt,56,2,4,Referral,2025-05-31,,Active
+139,M00139,Mert,Ozdemir,31,2,1,Corporate Partner,2024-07-25,,Active
+140,M00140,Bora,Koc,57,2,4,Corporate Partner,2025-02-16,2026-07-19,Cancelled
+141,M00141,Arda,Sahin,47,3,3,Referral,2026-06-23,,Active
+142,M00142,Bora,Kaya,27,3,4,Corporate Partner,2025-07-05,,Active
+143,M00143,Emre,Ozdemir,29,2,1,Walk-in,2024-09-12,2025-09-04,Cancelled
+144,M00144,Bora,Kurt,31,3,2,Instagram,2025-05-01,,Active
+145,M00145,Arda,Kurt,54,4,3,Walk-in,2024-02-09,,Active
+146,M00146,Zeynep,Kurt,41,2,4,Paid Search,2025-12-09,2026-07-14,Cancelled
+147,M00147,Derya,Celik,18,2,1,Corporate Partner,2026-04-28,2026-06-19,Cancelled
+148,M00148,Selin,Kurt,58,2,1,Organic Search,2025-05-25,,Active
+149,M00149,Elif,Sahin,21,2,1,Instagram,2024-05-06,,Active
+150,M00150,Emre,Sahin,54,1,3,Paid Search,2024-06-03,2026-01-05,Cancelled
+151,M00151,Mert,Yilmaz,50,3,4,Walk-in,2025-02-15,2026-02-28,Cancelled
+152,M00152,Selin,Kurt,36,1,1,Organic Search,2024-09-19,,Active
+153,M00153,Selin,Aydin,38,2,2,Corporate Partner,2025-12-20,,Active
+154,M00154,Ayse,Sahin,23,1,4,Instagram,2025-01-04,2025-06-27,Cancelled
+155,M00155,Zeynep,Ozdemir,45,3,1,Referral,2024-04-19,,Active
+156,M00156,Selin,Koc,45,2,2,Paid Search,2025-09-17,2026-03-01,Cancelled
+157,M00157,Zeynep,Demir,36,1,2,Organic Search,2026-02-03,,Active
+158,M00158,Deniz,Kurt,43,1,4,Walk-in,2024-01-26,,Active
+159,M00159,Emre,Demir,56,1,1,Referral,2026-04-10,,Active
+160,M00160,Emre,Koc,28,4,1,Instagram,2024-05-08,,Active
+161,M00161,Arda,Yilmaz,41,1,3,Organic Search,2024-07-16,,Active
+162,M00162,Mert,Kurt,57,1,2,Organic Search,2025-02-05,,Active
+163,M00163,Elif,Celik,23,1,3,Instagram,2025-12-19,,Active
+164,M00164,Selin,Kaya,44,2,1,Corporate Partner,2024-07-15,,Active
+165,M00165,Arda,Celik,42,4,3,Walk-in,2024-12-11,,Active
+166,M00166,Mert,Arslan,40,1,2,Instagram,2025-05-31,2025-11-09,Cancelled
+167,M00167,Mert,Sahin,24,1,3,Corporate Partner,2025-08-08,,Active
+168,M00168,Bora,Kaya,20,2,3,Corporate Partner,2024-10-15,,Active
+169,M00169,Can,Celik,59,1,2,Corporate Partner,2025-09-10,2025-12-16,Cancelled
+170,M00170,Can,Yilmaz,24,4,3,Paid Search,2026-03-31,,Active
+171,M00171,Zeynep,Demir,26,2,3,Paid Search,2024-10-06,,Active
+172,M00172,Bora,Koc,52,3,1,Referral,2024-11-07,2026-02-17,Cancelled
+173,M00173,Bora,Koc,42,4,1,Organic Search,2024-02-20,,Active
+174,M00174,Can,Sahin,53,1,3,Corporate Partner,2025-10-24,,Active
+175,M00175,Deniz,Aydin,21,4,4,Instagram,2024-02-05,,Active
+176,M00176,Ayse,Demir,30,2,1,Organic Search,2024-07-17,2024-12-21,Cancelled
+177,M00177,Mert,Celik,26,3,1,Organic Search,2025-10-27,2026-01-06,Cancelled
+178,M00178,Elif,Yilmaz,59,3,4,Referral,2025-06-06,,Active
+179,M00179,Deniz,Koc,48,2,3,Referral,2025-08-25,2026-03-17,Cancelled
+180,M00180,Selin,Celik,29,3,1,Organic Search,2024-04-13,2025-07-20,Cancelled
+181,M00181,Ece,Sahin,46,2,1,Corporate Partner,2025-04-04,,Active
+182,M00182,Arda,Kaya,42,1,1,Referral,2025-09-23,,Active
+183,M00183,Can,Ozdemir,58,4,4,Paid Search,2026-02-28,2026-07-27,Cancelled
+184,M00184,Selin,Arslan,34,4,1,Paid Search,2026-03-31,2026-06-08,Cancelled
+185,M00185,Derya,Koc,34,2,4,Referral,2024-05-16,,Active
+186,M00186,Ceren,Sahin,36,1,1,Organic Search,2024-11-28,2026-03-03,Cancelled
+187,M00187,Can,Koc,28,1,2,Walk-in,2024-03-22,2024-12-31,Cancelled
+188,M00188,Zeynep,Ozdemir,33,4,3,Organic Search,2025-04-17,,Active
+189,M00189,Bora,Arslan,56,1,3,Walk-in,2024-11-21,,Active
+190,M00190,Ece,Sahin,48,1,3,Walk-in,2025-05-11,,Active
+191,M00191,Arda,Koc,33,1,2,Referral,2026-01-24,2026-07-25,Cancelled
+192,M00192,Ceren,Arslan,37,3,2,Organic Search,2026-02-23,2026-05-06,Cancelled
+193,M00193,Ayse,Arslan,21,2,1,Corporate Partner,2025-02-20,,Active
+194,M00194,Emre,Kaya,30,2,2,Organic Search,2025-10-29,,Active
+195,M00195,Ece,Sahin,23,4,2,Organic Search,2025-07-18,,Active
+196,M00196,Ayse,Koc,51,2,1,Paid Search,2024-12-10,2026-07-02,Cancelled
+197,M00197,Ceren,Demir,19,3,2,Walk-in,2024-12-23,2026-07-26,Cancelled
+198,M00198,Kerem,Aydin,46,3,2,Paid Search,2024-07-06,,Active
+199,M00199,Ceren,Ozdemir,45,1,4,Walk-in,2025-01-21,,Active
+200,M00200,Kerem,Demir,22,2,3,Referral,2025-06-02,,Active
+201,M00201,Ayse,Yilmaz,19,3,3,Walk-in,2024-08-13,2025-03-23,Cancelled
+202,M00202,Bora,Ozdemir,61,1,3,Organic Search,2026-01-18,,Active
+203,M00203,Zeynep,Arslan,38,3,4,Organic Search,2024-04-02,,Active
+204,M00204,Ceren,Kaya,55,4,1,Organic Search,2024-05-09,,Active
+205,M00205,Derya,Yilmaz,34,1,2,Corporate Partner,2025-07-08,,Active
+206,M00206,Can,Sahin,22,1,2,Referral,2024-06-22,2025-08-16,Cancelled
+207,M00207,Ece,Kurt,58,1,3,Organic Search,2025-10-18,,Active
+208,M00208,Selin,Sahin,47,3,3,Referral,2026-03-26,,Active
+209,M00209,Kerem,Celik,31,1,4,Referral,2024-07-19,,Active
+210,M00210,Deniz,Ozdemir,45,3,3,Walk-in,2026-03-01,2026-04-16,Cancelled
+211,M00211,Selin,Yilmaz,61,4,1,Referral,2024-03-24,,Active
+212,M00212,Ceren,Celik,40,1,1,Organic Search,2024-12-05,,Active
+213,M00213,Ece,Koc,35,2,3,Instagram,2024-09-21,,Active
+214,M00214,Ece,Yilmaz,30,3,3,Organic Search,2025-07-27,,Active
+215,M00215,Selin,Aydin,23,4,1,Referral,2025-06-08,2026-03-21,Cancelled
+216,M00216,Deniz,Kurt,60,2,3,Paid Search,2026-06-09,,Active
+217,M00217,Mert,Ozdemir,31,2,3,Instagram,2025-02-18,2025-08-02,Cancelled
+218,M00218,Deniz,Koc,34,2,3,Corporate Partner,2025-07-01,,Active
+219,M00219,Emre,Celik,56,2,3,Instagram,2024-12-25,,Active
+220,M00220,Can,Aydin,20,3,1,Organic Search,2024-05-01,,Active
+221,M00221,Mert,Yilmaz,64,1,1,Corporate Partner,2024-08-09,,Active
+222,M00222,Emre,Demir,54,3,2,Paid Search,2025-02-09,,Active
+223,M00223,Mert,Ozdemir,25,4,1,Walk-in,2024-01-26,2025-08-19,Cancelled
+224,M00224,Emre,Arslan,52,2,1,Walk-in,2024-12-08,,Active
+225,M00225,Selin,Kurt,33,1,3,Organic Search,2024-01-24,,Active
+226,M00226,Ceren,Koc,49,3,3,Instagram,2025-07-22,,Active
+227,M00227,Ece,Koc,26,1,3,Instagram,2025-02-12,,Active
+228,M00228,Elif,Kaya,47,4,1,Corporate Partner,2024-06-02,,Active
+229,M00229,Arda,Demir,42,1,4,Instagram,2025-07-12,,Active
+230,M00230,Ece,Koc,51,4,3,Referral,2026-05-04,,Active
+231,M00231,Mert,Koc,23,1,1,Referral,2025-05-05,,Active
+232,M00232,Elif,Kaya,28,4,1,Referral,2024-07-19,,Active
+233,M00233,Ayse,Demir,45,4,1,Referral,2025-11-26,,Active
+234,M00234,Emre,Yilmaz,56,1,3,Referral,2025-01-17,,Active
+235,M00235,Zeynep,Celik,60,4,2,Paid Search,2024-06-10,2025-05-10,Cancelled
+236,M00236,Derya,Yilmaz,25,1,1,Instagram,2025-10-07,2026-07-21,Cancelled
+237,M00237,Deniz,Celik,41,3,2,Paid Search,2025-03-08,,Active
+238,M00238,Mert,Aydin,28,1,3,Organic Search,2025-06-09,,Active
+239,M00239,Zeynep,Arslan,55,3,2,Corporate Partner,2026-05-13,,Active
+240,M00240,Elif,Koc,58,1,2,Referral,2025-06-13,2025-08-05,Cancelled
+241,M00241,Elif,Sahin,62,2,1,Organic Search,2026-04-17,2026-05-27,Cancelled
+242,M00242,Mert,Kurt,27,3,1,Organic Search,2026-01-04,2026-02-23,Cancelled
+243,M00243,Arda,Celik,59,2,3,Walk-in,2024-10-12,,Active
+244,M00244,Mert,Sahin,42,2,1,Referral,2026-02-10,,Active
+245,M00245,Ayse,Aydin,54,1,4,Paid Search,2024-10-21,,Active
+246,M00246,Can,Kaya,27,2,4,Organic Search,2024-08-15,,Active
+247,M00247,Ceren,Arslan,52,1,1,Instagram,2024-07-31,,Active
+248,M00248,Kerem,Sahin,32,3,3,Walk-in,2025-12-28,,Active
+249,M00249,Mert,Celik,64,2,3,Corporate Partner,2024-10-29,,Active
+250,M00250,Mert,Ozdemir,26,2,3,Referral,2024-04-27,,Active
+251,M00251,Kerem,Kurt,48,2,1,Instagram,2025-07-08,2025-10-15,Cancelled
+252,M00252,Ceren,Yilmaz,29,2,3,Referral,2025-03-26,,Active
+253,M00253,Derya,Sahin,24,4,3,Referral,2024-11-19,,Active
+254,M00254,Selin,Demir,20,2,3,Instagram,2024-08-21,,Active
+255,M00255,Arda,Kurt,56,1,1,Paid Search,2024-06-29,,Active
+256,M00256,Ece,Koc,37,3,1,Referral,2025-07-14,,Active
+257,M00257,Emre,Demir,43,3,3,Organic Search,2025-01-21,,Active
+258,M00258,Ceren,Sahin,18,3,3,Corporate Partner,2025-09-04,,Active
+259,M00259,Selin,Aydin,20,2,1,Referral,2025-01-16,2025-04-20,Cancelled
+260,M00260,Arda,Demir,59,3,2,Corporate Partner,2024-10-16,,Active
+261,M00261,Emre,Kurt,47,2,1,Organic Search,2025-10-02,,Active
+262,M00262,Derya,Demir,22,3,4,Referral,2025-08-13,,Active
+263,M00263,Deniz,Koc,47,3,3,Organic Search,2025-03-19,,Active
+264,M00264,Elif,Yilmaz,30,3,3,Organic Search,2025-11-27,,Active
+265,M00265,Ayse,Celik,47,3,4,Referral,2024-11-03,,Active
+266,M00266,Selin,Sahin,38,2,2,Paid Search,2024-07-01,,Active
+267,M00267,Derya,Kurt,28,4,3,Referral,2024-02-05,,Active
+268,M00268,Can,Demir,46,1,1,Paid Search,2024-11-08,,Active
+269,M00269,Emre,Yilmaz,49,4,2,Walk-in,2024-02-27,,Active
+270,M00270,Emre,Arslan,64,1,3,Corporate Partner,2025-05-17,,Active
+271,M00271,Emre,Ozdemir,46,2,1,Referral,2025-03-26,2026-01-22,Cancelled
+272,M00272,Zeynep,Arslan,58,2,4,Organic Search,2024-12-15,,Active
+273,M00273,Ayse,Demir,47,1,1,Organic Search,2025-05-03,,Active
+274,M00274,Elif,Yilmaz,41,2,1,Instagram,2025-05-31,,Active
+275,M00275,Mert,Sahin,36,3,2,Instagram,2024-06-08,,Active
+276,M00276,Kerem,Arslan,62,2,3,Referral,2024-12-02,,Active
+277,M00277,Kerem,Sahin,20,4,3,Organic Search,2026-06-17,,Active
+278,M00278,Ceren,Sahin,46,3,1,Instagram,2024-05-30,,Active
+279,M00279,Bora,Arslan,45,1,1,Referral,2024-07-27,,Active
+280,M00280,Ceren,Kaya,53,3,3,Referral,2026-03-13,,Active
+281,M00281,Elif,Kurt,51,3,4,Walk-in,2025-01-11,,Active
+282,M00282,Can,Arslan,28,1,2,Instagram,2025-05-11,,Active
+283,M00283,Derya,Ozdemir,38,1,3,Walk-in,2026-05-12,2026-07-26,Cancelled
+284,M00284,Ceren,Kurt,44,3,4,Referral,2024-06-05,2026-05-11,Cancelled
+285,M00285,Bora,Ozdemir,19,1,2,Paid Search,2024-04-19,,Active
+286,M00286,Zeynep,Arslan,23,3,2,Organic Search,2024-09-12,,Active
+287,M00287,Kerem,Celik,64,1,1,Referral,2024-12-05,2025-04-06,Cancelled
+288,M00288,Ayse,Kaya,42,1,1,Organic Search,2024-08-02,,Active
+289,M00289,Kerem,Sahin,28,2,3,Walk-in,2024-10-06,,Active
+290,M00290,Elif,Yilmaz,29,3,3,Walk-in,2024-01-11,,Active
+291,M00291,Ayse,Kurt,49,3,1,Corporate Partner,2024-12-17,,Active
+292,M00292,Can,Yilmaz,51,3,1,Referral,2025-07-02,,Active
+293,M00293,Derya,Kurt,44,3,1,Referral,2024-01-08,,Active
+294,M00294,Arda,Kurt,44,3,1,Referral,2024-09-19,,Active
+295,M00295,Ayse,Kurt,53,4,3,Instagram,2025-04-30,,Active
+296,M00296,Mert,Sahin,29,2,3,Walk-in,2025-05-02,2025-07-03,Cancelled
+297,M00297,Elif,Koc,33,2,2,Referral,2024-12-12,,Active
+298,M00298,Deniz,Arslan,35,1,4,Referral,2024-11-06,,Active
+299,M00299,Deniz,Ozdemir,37,3,4,Paid Search,2026-04-22,,Active
+300,M00300,Bora,Kaya,21,3,3,Instagram,2024-06-17,2025-06-20,Cancelled
+301,M00301,Can,Ozdemir,35,1,1,Walk-in,2025-02-16,,Active
+302,M00302,Zeynep,Sahin,35,3,1,Referral,2024-05-01,2026-01-29,Cancelled
+303,M00303,Kerem,Demir,39,1,4,Paid Search,2026-05-22,,Active
+304,M00304,Ece,Celik,44,3,3,Corporate Partner,2024-02-10,,Active
+305,M00305,Mert,Yilmaz,62,1,1,Corporate Partner,2024-03-14,,Active
+306,M00306,Zeynep,Kurt,61,3,2,Referral,2026-04-14,,Active
+307,M00307,Ayse,Aydin,41,2,2,Paid Search,2026-03-27,,Active
+308,M00308,Ceren,Aydin,26,1,1,Walk-in,2025-04-26,,Active
+309,M00309,Kerem,Celik,64,1,3,Organic Search,2026-02-21,2026-05-24,Cancelled
+310,M00310,Zeynep,Arslan,53,3,1,Paid Search,2024-11-04,2025-01-06,Cancelled
+311,M00311,Emre,Arslan,21,3,3,Corporate Partner,2025-03-04,,Active
+312,M00312,Ceren,Aydin,54,2,4,Referral,2024-08-20,,Active
+313,M00313,Elif,Sahin,48,2,3,Paid Search,2024-02-03,,Active
+314,M00314,Bora,Aydin,56,4,1,Walk-in,2025-07-04,,Active
+315,M00315,Emre,Aydin,42,3,3,Instagram,2025-05-13,,Active
+316,M00316,Mert,Arslan,32,2,1,Organic Search,2024-12-28,,Active
+317,M00317,Kerem,Yilmaz,43,3,2,Instagram,2024-08-01,,Active
+318,M00318,Ayse,Kurt,48,1,3,Referral,2025-09-03,,Active
+319,M00319,Emre,Ozdemir,47,3,1,Instagram,2025-07-30,2026-05-03,Cancelled
+320,M00320,Ece,Sahin,58,1,2,Referral,2024-08-06,,Active
+321,M00321,Elif,Koc,45,1,3,Organic Search,2025-01-24,,Active
+322,M00322,Selin,Sahin,19,2,3,Paid Search,2025-02-11,,Active
+323,M00323,Mert,Sahin,50,3,1,Organic Search,2025-05-12,,Active
+324,M00324,Ayse,Kurt,28,2,3,Organic Search,2026-02-08,,Active
+325,M00325,Ayse,Arslan,23,2,3,Organic Search,2024-09-08,,Active
+326,M00326,Elif,Koc,53,1,3,Paid Search,2024-11-17,,Active
+327,M00327,Ece,Yilmaz,24,2,1,Referral,2024-02-05,,Active
+328,M00328,Elif,Ozdemir,39,3,3,Organic Search,2026-01-09,,Active
+329,M00329,Deniz,Kaya,31,1,3,Organic Search,2024-08-11,,Active
+330,M00330,Selin,Arslan,53,3,1,Referral,2025-12-27,2026-03-16,Cancelled
+331,M00331,Emre,Aydin,26,1,1,Instagram,2025-09-26,2026-05-14,Cancelled
+332,M00332,Bora,Kaya,53,3,1,Walk-in,2024-05-31,,Active
+333,M00333,Can,Kaya,53,2,3,Referral,2024-12-12,,Active
+334,M00334,Kerem,Demir,62,4,1,Corporate Partner,2024-04-12,,Active
+335,M00335,Deniz,Sahin,25,2,2,Paid Search,2024-11-16,,Active
+336,M00336,Deniz,Koc,33,4,1,Walk-in,2024-05-11,,Active
+337,M00337,Bora,Kaya,28,1,1,Paid Search,2024-01-09,,Active
+338,M00338,Ayse,Sahin,33,3,3,Organic Search,2025-06-12,2026-05-17,Cancelled
+339,M00339,Kerem,Yilmaz,62,4,1,Corporate Partner,2025-04-04,,Active
+340,M00340,Mert,Koc,63,4,2,Paid Search,2025-09-28,,Active
+341,M00341,Elif,Demir,28,1,1,Paid Search,2025-08-17,,Active
+342,M00342,Mert,Kurt,52,3,1,Referral,2024-01-05,2025-09-28,Cancelled
+343,M00343,Kerem,Demir,42,3,3,Walk-in,2026-06-18,,Active
+344,M00344,Zeynep,Demir,57,2,1,Organic Search,2025-12-20,2026-07-21,Cancelled
+345,M00345,Ayse,Demir,56,4,3,Organic Search,2026-06-01,,Active
+346,M00346,Derya,Ozdemir,48,2,4,Paid Search,2024-08-21,2026-06-25,Cancelled
+347,M00347,Deniz,Ozdemir,22,4,4,Paid Search,2025-12-21,,Active
+348,M00348,Can,Yilmaz,46,4,4,Instagram,2025-01-07,2025-08-05,Cancelled
+349,M00349,Selin,Ozdemir,59,1,3,Instagram,2024-10-02,,Active
+350,M00350,Elif,Celik,34,1,1,Referral,2026-02-20,2026-05-27,Cancelled
+351,M00351,Mert,Kurt,20,3,1,Corporate Partner,2025-05-23,2026-02-22,Cancelled
+352,M00352,Selin,Yilmaz,22,4,2,Referral,2024-01-08,,Active
+353,M00353,Elif,Kurt,64,2,3,Organic Search,2025-06-03,,Active
+354,M00354,Can,Arslan,41,2,1,Organic Search,2024-10-19,,Active
+355,M00355,Derya,Kurt,54,1,1,Walk-in,2026-04-26,2026-07-26,Cancelled
+356,M00356,Mert,Yilmaz,20,3,4,Walk-in,2026-04-24,2026-07-30,Cancelled
+357,M00357,Elif,Kaya,21,4,1,Instagram,2024-12-11,,Active
+358,M00358,Ece,Ozdemir,53,4,1,Paid Search,2024-04-03,,Active
+359,M00359,Emre,Koc,34,2,3,Walk-in,2026-06-11,2026-07-24,Cancelled
+360,M00360,Derya,Sahin,56,1,4,Referral,2025-04-04,,Active
+361,M00361,Bora,Aydin,56,2,2,Paid Search,2024-09-13,2026-05-30,Cancelled
+362,M00362,Mert,Ozdemir,26,2,1,Referral,2025-12-09,,Active
+363,M00363,Selin,Arslan,19,4,1,Referral,2024-06-18,,Active
+364,M00364,Bora,Aydin,18,1,3,Instagram,2024-08-17,,Active
+365,M00365,Selin,Kurt,58,1,2,Corporate Partner,2026-02-03,2026-07-02,Cancelled
+366,M00366,Ayse,Arslan,61,4,4,Walk-in,2024-02-05,,Active
+367,M00367,Bora,Aydin,43,4,2,Walk-in,2025-03-30,,Active
+368,M00368,Deniz,Kaya,22,3,3,Corporate Partner,2024-09-25,2024-12-02,Cancelled
+369,M00369,Can,Kurt,28,3,2,Walk-in,2025-10-07,,Active
+370,M00370,Kerem,Sahin,28,1,4,Instagram,2025-12-22,,Active
+371,M00371,Mert,Kurt,26,1,1,Walk-in,2025-09-30,2026-06-13,Cancelled
+372,M00372,Can,Aydin,50,3,4,Referral,2025-08-15,,Active
+373,M00373,Kerem,Kaya,41,3,3,Instagram,2024-04-04,,Active
+374,M00374,Arda,Aydin,47,4,3,Referral,2025-11-18,,Active
+375,M00375,Ayse,Yilmaz,46,1,1,Walk-in,2025-07-29,,Active
+376,M00376,Can,Yilmaz,22,2,2,Instagram,2025-09-05,,Active
+377,M00377,Ayse,Celik,43,4,4,Organic Search,2025-12-28,,Active
+378,M00378,Emre,Demir,18,1,2,Corporate Partner,2026-05-24,2026-07-25,Cancelled
+379,M00379,Ece,Yilmaz,25,3,2,Instagram,2024-09-02,2025-06-01,Cancelled
+380,M00380,Ceren,Kurt,26,3,2,Corporate Partner,2024-12-15,,Active
+381,M00381,Mert,Yilmaz,18,1,1,Organic Search,2025-10-11,,Active
+382,M00382,Ceren,Kurt,33,1,1,Organic Search,2024-01-21,2024-03-26,Cancelled
+383,M00383,Elif,Yilmaz,43,3,2,Corporate Partner,2025-08-15,,Active
+384,M00384,Zeynep,Kurt,58,1,2,Instagram,2024-09-05,,Active
+385,M00385,Ceren,Celik,34,1,2,Organic Search,2024-09-13,,Active
+386,M00386,Ceren,Celik,37,3,4,Referral,2024-10-27,2025-02-14,Cancelled
+387,M00387,Ayse,Ozdemir,62,1,3,Organic Search,2024-03-04,,Active
+388,M00388,Zeynep,Celik,37,3,4,Instagram,2024-07-16,,Active
+389,M00389,Selin,Kaya,29,2,2,Paid Search,2024-06-29,,Active
+390,M00390,Emre,Celik,50,1,3,Organic Search,2024-08-27,,Active
+391,M00391,Deniz,Sahin,29,2,3,Instagram,2026-04-30,,Active
+392,M00392,Elif,Koc,59,1,3,Instagram,2024-06-19,,Active
+393,M00393,Ayse,Kaya,23,4,2,Paid Search,2025-06-10,,Active
+394,M00394,Ceren,Ozdemir,53,1,4,Organic Search,2024-07-26,,Active
+395,M00395,Derya,Celik,57,1,3,Corporate Partner,2026-04-03,,Active
+396,M00396,Selin,Ozdemir,57,1,1,Corporate Partner,2025-04-10,,Active
+397,M00397,Kerem,Koc,43,3,2,Instagram,2024-11-14,2025-01-24,Cancelled
+398,M00398,Kerem,Aydin,53,2,1,Paid Search,2025-07-06,2026-01-30,Cancelled
+399,M00399,Selin,Ozdemir,64,1,3,Organic Search,2025-11-10,,Active
+400,M00400,Can,Celik,26,1,4,Instagram,2024-06-30,2025-09-22,Cancelled
+401,M00401,Ceren,Kurt,28,4,1,Referral,2025-04-23,,Active
+402,M00402,Ceren,Celik,32,1,1,Corporate Partner,2026-01-29,,Active
+403,M00403,Ece,Koc,39,1,3,Corporate Partner,2024-06-12,,Active
+404,M00404,Mert,Kaya,52,3,1,Corporate Partner,2025-12-01,,Active
+405,M00405,Bora,Sahin,44,2,2,Walk-in,2025-01-26,,Active
+406,M00406,Mert,Celik,22,3,2,Corporate Partner,2024-04-08,2026-02-11,Cancelled
+407,M00407,Ayse,Yilmaz,26,3,2,Referral,2025-08-28,2026-03-14,Cancelled
+408,M00408,Zeynep,Koc,41,2,3,Walk-in,2026-05-27,,Active
+409,M00409,Can,Demir,56,2,1,Corporate Partner,2025-03-05,,Active
+410,M00410,Zeynep,Koc,53,1,1,Paid Search,2026-05-17,,Active
+411,M00411,Mert,Aydin,18,1,1,Corporate Partner,2024-01-06,,Active
+412,M00412,Selin,Kurt,24,1,1,Organic Search,2024-07-12,,Active
+413,M00413,Derya,Aydin,48,4,1,Paid Search,2024-06-10,,Active
+414,M00414,Zeynep,Ozdemir,40,1,1,Walk-in,2026-06-15,2026-07-19,Cancelled
+415,M00415,Ayse,Kurt,57,1,4,Corporate Partner,2024-04-15,,Active
+416,M00416,Ceren,Kaya,35,1,2,Walk-in,2025-01-31,,Active
+417,M00417,Elif,Koc,31,1,3,Corporate Partner,2026-06-03,,Active
+418,M00418,Elif,Demir,21,4,1,Organic Search,2025-12-05,2026-06-03,Cancelled
+419,M00419,Emre,Arslan,23,4,1,Organic Search,2024-12-11,,Active
+420,M00420,Kerem,Aydin,22,4,3,Referral,2026-03-22,,Active
+421,M00421,Bora,Aydin,29,1,1,Paid Search,2026-02-27,,Active
+422,M00422,Emre,Aydin,63,3,3,Referral,2026-03-01,,Active
+423,M00423,Ayse,Arslan,33,1,4,Paid Search,2025-08-24,2026-01-19,Cancelled
+424,M00424,Mert,Celik,62,3,1,Paid Search,2025-02-05,,Active
+425,M00425,Derya,Sahin,55,1,4,Walk-in,2025-08-20,,Active
+426,M00426,Bora,Kaya,28,3,2,Instagram,2026-02-05,,Active
+427,M00427,Mert,Aydin,60,1,1,Walk-in,2024-11-27,2025-03-23,Cancelled
+428,M00428,Kerem,Kurt,56,1,3,Walk-in,2026-02-01,2026-05-13,Cancelled
+429,M00429,Kerem,Celik,30,3,1,Corporate Partner,2025-03-09,2025-07-09,Cancelled
+430,M00430,Emre,Demir,53,3,3,Corporate Partner,2024-05-18,,Active
+431,M00431,Ece,Arslan,23,2,1,Instagram,2026-03-28,,Active
+432,M00432,Emre,Koc,54,3,3,Organic Search,2026-04-05,2026-07-25,Cancelled
+433,M00433,Selin,Koc,55,2,1,Walk-in,2025-03-21,,Active
+434,M00434,Derya,Kaya,64,2,3,Referral,2024-01-28,,Active
+435,M00435,Zeynep,Arslan,25,2,1,Referral,2025-03-15,,Active
+436,M00436,Derya,Aydin,63,2,3,Instagram,2025-09-05,,Active
+437,M00437,Deniz,Kurt,55,1,3,Referral,2024-06-09,,Active
+438,M00438,Elif,Celik,40,3,3,Referral,2025-05-30,,Active
+439,M00439,Derya,Demir,44,3,2,Referral,2024-03-25,,Active
+440,M00440,Elif,Yilmaz,31,2,1,Organic Search,2025-01-08,,Active
+441,M00441,Deniz,Demir,47,2,2,Referral,2025-11-16,,Active
+442,M00442,Ayse,Kaya,25,1,2,Organic Search,2025-01-26,,Active
+443,M00443,Ece,Kaya,34,3,2,Referral,2024-09-08,,Active
+444,M00444,Ayse,Kurt,35,1,1,Instagram,2024-11-07,,Active
+445,M00445,Derya,Yilmaz,41,4,1,Paid Search,2025-05-30,,Active
+446,M00446,Derya,Sahin,29,2,1,Organic Search,2025-04-25,,Active
+447,M00447,Ayse,Kurt,18,1,1,Referral,2026-01-07,,Active
+448,M00448,Ayse,Arslan,36,4,3,Paid Search,2025-09-11,2026-03-12,Cancelled
+449,M00449,Zeynep,Koc,59,2,1,Referral,2024-04-01,,Active
+450,M00450,Zeynep,Arslan,47,3,4,Corporate Partner,2024-03-08,,Active
+451,M00451,Selin,Aydin,21,3,3,Referral,2026-05-03,,Active
+452,M00452,Ayse,Kaya,46,1,3,Instagram,2024-04-05,2025-07-16,Cancelled
+453,M00453,Arda,Kurt,47,1,2,Organic Search,2024-08-13,,Active
+454,M00454,Can,Celik,53,2,1,Walk-in,2024-07-21,,Active
+455,M00455,Kerem,Demir,26,1,4,Organic Search,2024-08-04,,Active
+456,M00456,Derya,Kurt,55,1,1,Corporate Partner,2024-10-26,,Active
+457,M00457,Kerem,Celik,32,2,4,Walk-in,2026-02-09,,Active
+458,M00458,Derya,Celik,58,3,3,Walk-in,2024-07-16,,Active
+459,M00459,Deniz,Koc,55,3,3,Corporate Partner,2024-10-10,,Active
+460,M00460,Ceren,Ozdemir,58,3,3,Organic Search,2026-04-07,2026-07-21,Cancelled
+461,M00461,Selin,Yilmaz,46,3,4,Organic Search,2024-05-04,2025-04-08,Cancelled
+462,M00462,Mert,Yilmaz,42,1,4,Paid Search,2024-11-09,2025-11-22,Cancelled
+463,M00463,Can,Arslan,56,2,4,Organic Search,2026-06-08,,Active
+464,M00464,Arda,Sahin,18,2,2,Walk-in,2025-04-13,,Active
+465,M00465,Elif,Ozdemir,41,4,4,Walk-in,2024-05-30,2025-10-07,Cancelled
+466,M00466,Deniz,Koc,29,1,2,Walk-in,2025-04-21,,Active
+467,M00467,Derya,Demir,53,2,1,Referral,2026-05-18,,Active
+468,M00468,Mert,Yilmaz,30,4,2,Paid Search,2024-06-20,,Active
+469,M00469,Zeynep,Arslan,36,4,1,Referral,2026-04-30,,Active
+470,M00470,Bora,Kaya,61,4,4,Corporate Partner,2025-09-06,,Active
+471,M00471,Emre,Sahin,34,1,1,Walk-in,2024-11-27,,Active
+472,M00472,Elif,Kurt,31,1,1,Paid Search,2024-01-10,2026-06-02,Cancelled
+473,M00473,Mert,Kurt,36,1,2,Referral,2024-02-04,,Active
+474,M00474,Ece,Kurt,45,3,3,Organic Search,2024-11-01,,Active
+475,M00475,Ceren,Demir,42,1,1,Instagram,2025-09-05,,Active
+476,M00476,Arda,Aydin,54,2,2,Referral,2026-06-19,2026-07-29,Cancelled
+477,M00477,Emre,Kurt,52,1,1,Referral,2026-05-25,,Active
+478,M00478,Zeynep,Celik,50,1,4,Referral,2024-03-25,2025-02-18,Cancelled
+479,M00479,Mert,Arslan,35,1,3,Walk-in,2026-01-28,,Active
+480,M00480,Can,Celik,55,3,1,Walk-in,2024-01-10,,Active
+481,M00481,Elif,Yilmaz,53,2,3,Paid Search,2024-01-16,,Active
+482,M00482,Emre,Aydin,47,2,4,Paid Search,2024-01-13,,Active
+483,M00483,Can,Kaya,38,3,3,Walk-in,2024-06-19,,Active
+484,M00484,Zeynep,Aydin,27,4,3,Corporate Partner,2025-03-12,2026-03-15,Cancelled
+485,M00485,Deniz,Sahin,51,1,1,Walk-in,2026-06-26,,Active
+486,M00486,Bora,Demir,29,3,3,Referral,2025-07-29,,Active
+487,M00487,Elif,Koc,63,3,3,Referral,2024-09-08,,Active
+488,M00488,Selin,Aydin,29,3,1,Paid Search,2025-03-03,,Active
+489,M00489,Emre,Aydin,61,1,1,Organic Search,2025-09-16,,Active
+490,M00490,Derya,Koc,62,1,3,Paid Search,2025-04-16,,Active
+491,M00491,Ceren,Ozdemir,19,2,3,Instagram,2024-06-02,,Active
+492,M00492,Zeynep,Kurt,51,3,1,Walk-in,2024-02-04,,Active
+493,M00493,Bora,Kaya,41,2,1,Paid Search,2025-02-20,2026-05-13,Cancelled
+494,M00494,Derya,Aydin,51,1,4,Referral,2025-12-21,2026-03-15,Cancelled
+495,M00495,Derya,Aydin,30,3,3,Instagram,2024-03-24,,Active
+496,M00496,Ceren,Ozdemir,51,4,1,Walk-in,2024-05-02,,Active
+497,M00497,Emre,Ozdemir,55,1,1,Referral,2024-02-23,,Active
+498,M00498,Emre,Kaya,37,2,1,Walk-in,2025-02-20,,Active
+499,M00499,Emre,Aydin,58,1,1,Referral,2025-05-17,,Active
+500,M00500,Derya,Sahin,45,3,4,Paid Search,2026-03-28,,Active
+501,M00501,Ceren,Kurt,57,2,2,Corporate Partner,2024-04-13,,Active
+502,M00502,Ceren,Kurt,51,3,1,Referral,2024-06-15,,Active
+503,M00503,Ayse,Sahin,58,2,1,Organic Search,2024-07-20,,Active
+504,M00504,Ayse,Ozdemir,23,4,3,Paid Search,2025-12-16,,Active
+505,M00505,Arda,Yilmaz,57,1,2,Corporate Partner,2024-12-12,,Active
+506,M00506,Ece,Kaya,47,1,4,Walk-in,2025-04-19,,Active
+507,M00507,Deniz,Aydin,58,4,3,Corporate Partner,2024-04-20,,Active
+508,M00508,Emre,Kaya,40,3,1,Paid Search,2025-02-10,2026-04-08,Cancelled
+509,M00509,Ceren,Kurt,58,2,3,Instagram,2024-09-30,,Active
+510,M00510,Deniz,Kurt,32,4,1,Organic Search,2024-03-29,2024-11-21,Cancelled
+511,M00511,Ceren,Aydin,56,1,4,Organic Search,2024-07-20,,Active
+512,M00512,Ayse,Arslan,30,1,2,Referral,2024-07-25,,Active
+513,M00513,Deniz,Demir,42,2,4,Referral,2024-07-13,2025-10-31,Cancelled
+514,M00514,Ayse,Kurt,61,1,4,Instagram,2024-02-01,,Active
+515,M00515,Zeynep,Koc,47,3,4,Instagram,2025-03-18,,Active
+516,M00516,Mert,Celik,48,1,4,Referral,2026-05-01,2026-07-07,Cancelled
+517,M00517,Ceren,Kaya,30,3,1,Referral,2024-03-30,,Active
+518,M00518,Ayse,Arslan,35,3,3,Instagram,2026-04-05,,Active
+519,M00519,Deniz,Koc,60,2,1,Organic Search,2024-11-22,,Active
+520,M00520,Deniz,Celik,22,2,3,Paid Search,2024-03-21,2025-07-30,Cancelled
+521,M00521,Mert,Koc,32,1,2,Paid Search,2024-09-28,,Active
+522,M00522,Mert,Kurt,59,4,1,Organic Search,2024-06-15,,Active
+523,M00523,Derya,Sahin,38,3,2,Organic Search,2025-02-04,2025-12-25,Cancelled
+524,M00524,Bora,Kurt,63,4,4,Paid Search,2024-09-19,2025-10-16,Cancelled
+525,M00525,Derya,Demir,37,1,1,Organic Search,2024-02-27,,Active
+526,M00526,Elif,Yilmaz,31,4,4,Organic Search,2024-05-03,2026-03-11,Cancelled
+527,M00527,Emre,Koc,56,4,3,Walk-in,2026-05-21,,Active
+528,M00528,Arda,Yilmaz,56,3,2,Organic Search,2026-04-18,,Active
+529,M00529,Deniz,Kaya,50,3,4,Walk-in,2024-05-22,2025-06-05,Cancelled
+530,M00530,Kerem,Kaya,57,2,4,Instagram,2024-05-03,2026-07-25,Cancelled
+531,M00531,Arda,Yilmaz,50,4,1,Organic Search,2025-02-01,2025-06-04,Cancelled
+532,M00532,Can,Yilmaz,47,1,3,Organic Search,2024-01-29,,Active
+533,M00533,Arda,Sahin,54,3,4,Corporate Partner,2025-02-19,2025-04-21,Cancelled
+534,M00534,Deniz,Aydin,35,2,4,Instagram,2025-07-12,,Active
+535,M00535,Mert,Celik,29,3,4,Referral,2026-01-24,,Active
+536,M00536,Elif,Kurt,57,4,4,Instagram,2025-12-28,2026-05-23,Cancelled
+537,M00537,Derya,Kaya,23,3,3,Instagram,2024-02-28,,Active
+538,M00538,Arda,Kurt,34,1,3,Instagram,2024-11-17,,Active
+539,M00539,Emre,Ozdemir,45,1,4,Corporate Partner,2026-01-01,,Active
+540,M00540,Derya,Koc,62,1,3,Corporate Partner,2024-05-12,,Active
+541,M00541,Ayse,Kaya,34,1,3,Walk-in,2024-03-21,,Active
+542,M00542,Kerem,Arslan,33,2,1,Instagram,2024-06-23,2025-12-27,Cancelled
+543,M00543,Elif,Aydin,21,2,4,Corporate Partner,2025-06-28,,Active
+544,M00544,Ece,Arslan,56,1,1,Referral,2026-03-09,,Active
+545,M00545,Mert,Celik,19,1,1,Paid Search,2026-05-21,2026-07-24,Cancelled
+546,M00546,Bora,Yilmaz,22,1,4,Paid Search,2024-03-04,,Active
+547,M00547,Can,Sahin,37,2,1,Corporate Partner,2024-08-13,,Active
+548,M00548,Ceren,Ozdemir,36,3,3,Organic Search,2024-09-12,,Active
+549,M00549,Selin,Aydin,39,2,1,Organic Search,2025-03-09,,Active
+550,M00550,Derya,Demir,31,1,4,Paid Search,2024-07-31,,Active
+551,M00551,Mert,Arslan,35,2,1,Instagram,2025-07-23,,Active
+552,M00552,Kerem,Kurt,64,2,3,Organic Search,2024-07-14,,Active
+553,M00553,Selin,Demir,61,1,3,Walk-in,2024-02-12,,Active
+554,M00554,Kerem,Demir,39,3,2,Corporate Partner,2025-11-23,,Active
+555,M00555,Deniz,Aydin,36,3,3,Organic Search,2024-05-09,,Active
+556,M00556,Arda,Arslan,56,2,3,Organic Search,2025-05-25,,Active
+557,M00557,Emre,Aydin,36,2,3,Referral,2025-06-26,,Active
+558,M00558,Derya,Koc,46,4,1,Organic Search,2025-05-14,,Active
+559,M00559,Deniz,Ozdemir,28,4,2,Referral,2024-10-30,2025-02-13,Cancelled
+560,M00560,Mert,Yilmaz,58,2,1,Organic Search,2025-09-10,,Active
+561,M00561,Can,Koc,52,1,4,Corporate Partner,2026-06-02,2026-07-20,Cancelled
+562,M00562,Kerem,Yilmaz,60,3,4,Referral,2025-01-11,,Active
+563,M00563,Selin,Kurt,62,1,2,Instagram,2024-05-31,,Active
+564,M00564,Selin,Aydin,21,2,1,Referral,2025-03-07,2025-09-21,Cancelled
+565,M00565,Can,Yilmaz,49,1,1,Referral,2025-03-31,,Active
+566,M00566,Kerem,Celik,60,3,4,Referral,2026-06-16,2026-07-17,Cancelled
+567,M00567,Ayse,Arslan,34,2,1,Organic Search,2026-06-11,2026-07-27,Cancelled
+568,M00568,Kerem,Koc,63,3,3,Organic Search,2026-06-24,2026-07-30,Cancelled
+569,M00569,Selin,Kaya,41,1,1,Referral,2025-11-10,,Active
+570,M00570,Derya,Kaya,41,2,2,Referral,2025-04-07,,Active
+571,M00571,Ece,Kurt,36,4,4,Referral,2026-05-30,,Active
+572,M00572,Mert,Yilmaz,27,3,3,Corporate Partner,2025-08-31,,Active
+573,M00573,Elif,Kaya,63,2,1,Corporate Partner,2024-07-12,2026-03-22,Cancelled
+574,M00574,Kerem,Yilmaz,62,3,3,Paid Search,2024-01-28,,Active
+575,M00575,Bora,Aydin,50,3,1,Referral,2025-12-23,2026-07-19,Cancelled
+576,M00576,Bora,Kurt,18,2,1,Paid Search,2026-02-05,,Active
+577,M00577,Ceren,Ozdemir,60,2,1,Walk-in,2024-01-22,,Active
+578,M00578,Bora,Yilmaz,43,3,1,Paid Search,2025-08-06,,Active
+579,M00579,Arda,Ozdemir,51,4,3,Referral,2025-12-09,,Active
+580,M00580,Deniz,Yilmaz,62,1,3,Instagram,2024-02-15,,Active
+581,M00581,Derya,Ozdemir,54,2,3,Instagram,2024-04-04,,Active
+582,M00582,Can,Kurt,33,1,2,Organic Search,2025-01-19,,Active
+583,M00583,Selin,Ozdemir,29,3,1,Corporate Partner,2024-09-29,2025-03-03,Cancelled
+584,M00584,Ece,Celik,28,1,4,Walk-in,2025-12-05,,Active
+585,M00585,Elif,Demir,50,2,3,Instagram,2026-02-12,,Active
+586,M00586,Deniz,Celik,56,1,2,Organic Search,2026-05-09,2026-07-22,Cancelled
+587,M00587,Deniz,Koc,49,2,2,Paid Search,2024-06-11,,Active
+588,M00588,Bora,Aydin,62,4,2,Walk-in,2026-05-09,2026-06-14,Cancelled
+589,M00589,Ceren,Aydin,20,1,3,Organic Search,2025-05-28,2025-09-29,Cancelled
+590,M00590,Elif,Kaya,58,1,2,Organic Search,2025-05-27,2026-03-25,Cancelled
+591,M00591,Arda,Ozdemir,21,2,2,Corporate Partner,2025-06-22,,Active
+592,M00592,Zeynep,Celik,18,1,4,Referral,2024-06-23,,Active
+593,M00593,Kerem,Demir,34,3,1,Corporate Partner,2024-07-07,,Active
+594,M00594,Bora,Yilmaz,58,4,3,Instagram,2025-09-12,2026-07-26,Cancelled
+595,M00595,Kerem,Koc,46,1,1,Referral,2025-08-24,,Active
+596,M00596,Bora,Sahin,41,4,1,Walk-in,2024-08-24,2025-07-17,Cancelled
+597,M00597,Ceren,Arslan,32,3,1,Instagram,2026-01-11,,Active
+598,M00598,Ece,Demir,46,4,3,Organic Search,2024-08-02,,Active
+599,M00599,Zeynep,Arslan,53,3,1,Organic Search,2025-03-06,,Active
+600,M00600,Mert,Arslan,18,2,4,Walk-in,2025-10-12,,Active
+601,M00601,Ceren,Yilmaz,28,3,3,Instagram,2025-06-01,,Active
+602,M00602,Elif,Arslan,31,2,2,Organic Search,2025-03-15,,Active
+603,M00603,Ayse,Aydin,38,3,1,Walk-in,2025-03-18,2026-04-07,Cancelled
+604,M00604,Derya,Celik,20,1,4,Organic Search,2024-02-14,,Active
+605,M00605,Deniz,Ozdemir,29,4,2,Walk-in,2025-02-26,2026-01-10,Cancelled
+606,M00606,Kerem,Yilmaz,27,1,1,Instagram,2024-08-31,,Active
+607,M00607,Zeynep,Aydin,26,1,3,Organic Search,2024-11-04,,Active
+608,M00608,Selin,Celik,38,1,1,Organic Search,2025-09-19,,Active
+609,M00609,Derya,Demir,51,1,4,Walk-in,2025-01-08,,Active
+610,M00610,Emre,Arslan,60,2,4,Organic Search,2024-02-07,,Active
+611,M00611,Kerem,Yilmaz,44,4,4,Paid Search,2024-09-19,2026-01-30,Cancelled
+612,M00612,Bora,Ozdemir,32,1,4,Organic Search,2025-04-01,2026-06-05,Cancelled
+613,M00613,Deniz,Koc,46,1,1,Paid Search,2024-08-10,,Active
+614,M00614,Ceren,Yilmaz,20,3,1,Instagram,2025-07-17,,Active
+615,M00615,Zeynep,Ozdemir,55,2,2,Corporate Partner,2025-02-26,2025-04-30,Cancelled
+616,M00616,Deniz,Koc,53,4,1,Organic Search,2025-06-24,,Active
+617,M00617,Arda,Kurt,20,1,2,Instagram,2024-01-13,,Active
+618,M00618,Deniz,Kaya,62,2,3,Referral,2025-02-06,,Active
+619,M00619,Selin,Koc,42,3,1,Walk-in,2024-04-02,,Active
+620,M00620,Can,Ozdemir,41,1,1,Instagram,2024-03-28,,Active
+621,M00621,Kerem,Celik,56,1,4,Referral,2026-01-06,2026-03-06,Cancelled
+622,M00622,Ceren,Aydin,26,1,2,Corporate Partner,2024-07-07,,Active
+623,M00623,Emre,Sahin,60,3,2,Organic Search,2025-04-01,2025-09-13,Cancelled
+624,M00624,Elif,Yilmaz,25,2,3,Organic Search,2026-03-06,,Active
+625,M00625,Ayse,Yilmaz,39,1,3,Instagram,2025-11-01,,Active
+626,M00626,Emre,Sahin,34,2,2,Referral,2024-11-23,,Active
+627,M00627,Can,Demir,23,2,1,Paid Search,2025-04-08,,Active
+628,M00628,Can,Celik,24,3,2,Paid Search,2025-06-10,,Active
+629,M00629,Elif,Celik,35,2,3,Walk-in,2024-04-08,2024-06-20,Cancelled
+630,M00630,Selin,Demir,27,1,3,Referral,2024-12-20,,Active
+631,M00631,Derya,Sahin,36,2,2,Corporate Partner,2024-06-30,2024-10-14,Cancelled
+632,M00632,Emre,Koc,58,2,2,Instagram,2024-04-23,,Active
+633,M00633,Can,Kaya,59,3,3,Instagram,2025-08-13,,Active
+634,M00634,Kerem,Koc,26,3,3,Referral,2024-12-17,,Active
+635,M00635,Derya,Sahin,45,4,4,Organic Search,2026-06-11,,Active
+636,M00636,Ece,Yilmaz,27,4,2,Referral,2025-09-27,,Active
+637,M00637,Arda,Celik,24,4,2,Corporate Partner,2025-08-23,,Active
+638,M00638,Ceren,Aydin,20,1,4,Instagram,2024-01-24,,Active
+639,M00639,Kerem,Kaya,34,3,1,Paid Search,2024-04-13,,Active
+640,M00640,Kerem,Aydin,30,3,4,Instagram,2024-03-31,,Active
+641,M00641,Ece,Arslan,42,4,2,Walk-in,2026-06-04,,Active
+642,M00642,Derya,Koc,26,2,2,Referral,2025-12-12,,Active
+643,M00643,Kerem,Ozdemir,29,3,2,Corporate Partner,2026-02-16,,Active
+644,M00644,Mert,Aydin,44,1,2,Paid Search,2025-02-23,2026-05-19,Cancelled
+645,M00645,Ece,Ozdemir,59,4,1,Referral,2025-06-20,,Active
+646,M00646,Mert,Sahin,25,2,4,Referral,2025-09-03,,Active
+647,M00647,Bora,Sahin,52,2,1,Walk-in,2025-07-02,,Active
+648,M00648,Ayse,Kurt,31,2,1,Paid Search,2024-02-14,2024-12-22,Cancelled
+649,M00649,Derya,Kurt,20,1,3,Instagram,2024-08-28,,Active
+650,M00650,Ayse,Yilmaz,37,2,1,Referral,2026-03-29,2026-05-14,Cancelled
+651,M00651,Derya,Ozdemir,46,3,1,Paid Search,2024-07-12,,Active
+652,M00652,Kerem,Celik,55,1,1,Walk-in,2024-12-14,,Active
+653,M00653,Bora,Kaya,56,2,3,Walk-in,2025-01-18,,Active
+654,M00654,Emre,Demir,36,1,2,Instagram,2024-03-23,,Active
+655,M00655,Selin,Koc,48,1,1,Organic Search,2026-01-31,,Active
+656,M00656,Kerem,Demir,53,2,2,Paid Search,2024-04-28,2026-04-22,Cancelled
+657,M00657,Zeynep,Demir,46,3,1,Walk-in,2024-02-02,,Active
+658,M00658,Selin,Arslan,36,4,1,Corporate Partner,2025-04-02,,Active
+659,M00659,Elif,Celik,38,4,2,Walk-in,2025-07-18,,Active
+660,M00660,Deniz,Sahin,21,2,3,Paid Search,2026-01-12,,Active
+661,M00661,Elif,Kaya,39,3,1,Referral,2024-11-01,2024-12-20,Cancelled
+662,M00662,Derya,Celik,49,1,4,Walk-in,2024-01-09,,Active
+663,M00663,Kerem,Sahin,26,1,2,Instagram,2024-11-12,,Active
+664,M00664,Can,Sahin,22,2,3,Organic Search,2026-04-26,,Active
+665,M00665,Mert,Celik,59,1,3,Instagram,2024-06-07,2025-09-25,Cancelled
+666,M00666,Ayse,Demir,48,2,1,Referral,2024-04-17,,Active
+667,M00667,Derya,Aydin,51,4,2,Walk-in,2025-07-08,,Active
+668,M00668,Mert,Koc,27,3,1,Paid Search,2025-12-11,2026-01-21,Cancelled
+669,M00669,Ceren,Yilmaz,37,1,4,Paid Search,2025-10-10,2026-03-04,Cancelled
+670,M00670,Ayse,Yilmaz,36,3,2,Paid Search,2026-05-27,,Active
+671,M00671,Ece,Ozdemir,33,2,4,Referral,2026-02-01,,Active
+672,M00672,Zeynep,Ozdemir,51,1,3,Walk-in,2025-04-04,,Active
+673,M00673,Ceren,Ozdemir,56,2,2,Walk-in,2024-07-11,,Active
+674,M00674,Can,Yilmaz,22,4,1,Referral,2026-01-02,2026-03-13,Cancelled
+675,M00675,Arda,Koc,19,2,2,Corporate Partner,2024-04-30,2024-07-28,Cancelled
+676,M00676,Bora,Kurt,23,4,3,Referral,2026-06-09,2026-07-17,Cancelled
+677,M00677,Ayse,Kurt,24,1,2,Corporate Partner,2025-04-11,,Active
+678,M00678,Bora,Ozdemir,23,2,2,Instagram,2024-09-01,,Active
+679,M00679,Ece,Demir,62,3,1,Walk-in,2025-04-09,,Active
+680,M00680,Arda,Yilmaz,28,2,1,Corporate Partner,2024-05-28,,Active
+681,M00681,Elif,Kaya,19,2,3,Walk-in,2024-06-01,,Active
+682,M00682,Can,Kaya,42,1,1,Walk-in,2024-05-05,2025-07-27,Cancelled
+683,M00683,Selin,Kurt,31,2,1,Referral,2024-08-15,,Active
+684,M00684,Ceren,Kurt,26,1,1,Instagram,2024-01-16,,Active
+685,M00685,Ece,Sahin,18,3,3,Walk-in,2024-09-23,2025-04-15,Cancelled
+686,M00686,Zeynep,Kaya,18,3,3,Instagram,2024-07-06,,Active
+687,M00687,Derya,Kurt,64,2,2,Corporate Partner,2024-05-01,,Active
+688,M00688,Deniz,Celik,25,3,1,Corporate Partner,2025-12-27,,Active
+689,M00689,Can,Aydin,51,2,3,Referral,2024-11-28,,Active
+690,M00690,Selin,Koc,43,2,1,Referral,2024-05-11,,Active
+691,M00691,Selin,Sahin,58,3,1,Referral,2025-01-07,,Active
+692,M00692,Arda,Yilmaz,23,1,3,Walk-in,2025-01-16,,Active
+693,M00693,Ayse,Yilmaz,57,3,3,Instagram,2024-04-30,,Active
+694,M00694,Kerem,Yilmaz,26,4,3,Walk-in,2024-10-18,,Active
+695,M00695,Ayse,Sahin,56,1,2,Organic Search,2024-04-19,,Active
+696,M00696,Kerem,Koc,26,1,3,Organic Search,2024-12-05,,Active
+697,M00697,Selin,Kurt,30,4,2,Instagram,2024-10-30,,Active
+698,M00698,Zeynep,Aydin,54,3,1,Instagram,2026-03-19,2026-06-15,Cancelled
+699,M00699,Bora,Demir,29,3,2,Referral,2024-03-06,2024-08-27,Cancelled
+700,M00700,Ceren,Sahin,63,3,1,Organic Search,2025-01-08,,Active
+701,M00701,Ece,Sahin,32,3,3,Referral,2024-09-17,,Active
+702,M00702,Arda,Celik,36,4,1,Referral,2026-04-07,2026-06-25,Cancelled
+703,M00703,Zeynep,Arslan,37,1,1,Walk-in,2025-01-03,,Active
+704,M00704,Arda,Demir,40,1,3,Instagram,2025-02-19,2025-11-03,Cancelled
+705,M00705,Selin,Sahin,27,1,1,Paid Search,2024-03-25,,Active
+706,M00706,Kerem,Demir,33,4,3,Organic Search,2024-06-12,,Active
+707,M00707,Can,Ozdemir,36,1,2,Organic Search,2025-01-29,,Active
+708,M00708,Selin,Aydin,26,2,2,Organic Search,2025-09-05,,Active
+709,M00709,Ece,Yilmaz,55,3,2,Instagram,2026-02-20,,Active
+710,M00710,Emre,Kurt,42,1,4,Referral,2024-02-01,,Active
+711,M00711,Selin,Sahin,28,1,4,Referral,2025-04-02,,Active
+712,M00712,Arda,Arslan,41,1,3,Referral,2024-02-19,,Active
+713,M00713,Ece,Arslan,46,2,1,Instagram,2025-07-28,,Active
+714,M00714,Arda,Kurt,45,2,3,Referral,2025-08-12,,Active
+715,M00715,Arda,Koc,64,3,1,Paid Search,2024-03-14,2025-07-15,Cancelled
+716,M00716,Ayse,Kaya,50,2,4,Corporate Partner,2025-12-30,2026-02-14,Cancelled
+717,M00717,Ayse,Ozdemir,23,1,4,Paid Search,2025-01-09,,Active
+718,M00718,Selin,Kurt,34,1,3,Paid Search,2025-04-18,,Active
+719,M00719,Selin,Ozdemir,43,1,1,Walk-in,2024-01-31,2024-05-22,Cancelled
+720,M00720,Mert,Kaya,34,1,1,Paid Search,2025-09-06,,Active
+721,M00721,Zeynep,Celik,35,1,1,Walk-in,2026-05-16,,Active
+722,M00722,Deniz,Kaya,34,3,2,Instagram,2026-01-01,2026-03-27,Cancelled
+723,M00723,Deniz,Arslan,53,1,1,Paid Search,2024-06-18,,Active
+724,M00724,Mert,Celik,42,3,1,Corporate Partner,2026-05-14,,Active
+725,M00725,Kerem,Arslan,22,4,4,Walk-in,2025-08-07,2026-06-15,Cancelled
+726,M00726,Ceren,Koc,36,3,3,Corporate Partner,2025-06-18,,Active
+727,M00727,Ece,Koc,19,3,1,Corporate Partner,2024-05-18,2025-09-11,Cancelled
+728,M00728,Derya,Kaya,42,2,1,Organic Search,2025-09-28,2026-03-04,Cancelled
+729,M00729,Derya,Aydin,30,4,1,Referral,2024-10-28,,Active
+730,M00730,Mert,Demir,47,1,3,Organic Search,2025-09-29,,Active
+731,M00731,Bora,Yilmaz,62,3,3,Paid Search,2025-04-11,,Active
+732,M00732,Derya,Ozdemir,53,2,1,Walk-in,2025-08-22,,Active
+733,M00733,Kerem,Ozdemir,26,2,2,Paid Search,2026-01-10,2026-07-21,Cancelled
+734,M00734,Emre,Celik,46,1,1,Walk-in,2025-12-13,,Active
+735,M00735,Zeynep,Demir,24,1,1,Referral,2024-03-31,2026-05-06,Cancelled
+736,M00736,Arda,Kaya,44,2,1,Organic Search,2025-10-18,,Active
+737,M00737,Mert,Kurt,25,1,3,Walk-in,2026-02-26,,Active
+738,M00738,Derya,Koc,47,2,3,Paid Search,2025-12-24,,Active
+739,M00739,Kerem,Celik,23,1,1,Walk-in,2024-03-31,,Active
+740,M00740,Kerem,Aydin,54,3,1,Paid Search,2025-06-08,2025-08-23,Cancelled
+741,M00741,Ece,Yilmaz,37,1,1,Paid Search,2024-01-19,,Active
+742,M00742,Deniz,Aydin,45,2,1,Organic Search,2024-02-15,,Active
+743,M00743,Ayse,Ozdemir,20,4,1,Instagram,2026-04-18,2026-07-30,Cancelled
+744,M00744,Ceren,Kaya,47,1,2,Organic Search,2026-03-21,,Active
+745,M00745,Arda,Koc,58,2,1,Instagram,2024-11-11,,Active
+746,M00746,Bora,Yilmaz,48,1,3,Referral,2026-01-04,,Active
+747,M00747,Derya,Koc,49,4,1,Referral,2025-01-31,2025-07-11,Cancelled
+748,M00748,Ceren,Kaya,54,2,1,Organic Search,2026-01-28,,Active
+749,M00749,Elif,Demir,58,1,4,Organic Search,2026-04-18,2026-06-01,Cancelled
+750,M00750,Derya,Koc,38,2,1,Paid Search,2026-02-27,2026-05-13,Cancelled
+751,M00751,Selin,Arslan,31,1,3,Paid Search,2024-11-21,,Active
+752,M00752,Deniz,Ozdemir,55,3,4,Referral,2026-03-11,,Active
+753,M00753,Kerem,Ozdemir,46,1,3,Instagram,2025-04-20,,Active
+754,M00754,Ceren,Arslan,44,3,1,Organic Search,2025-09-22,,Active
+755,M00755,Ceren,Aydin,28,2,4,Instagram,2024-09-01,2025-07-20,Cancelled
+756,M00756,Ayse,Celik,20,3,1,Referral,2026-03-01,2026-04-21,Cancelled
+757,M00757,Zeynep,Sahin,62,3,1,Referral,2025-12-27,,Active
+758,M00758,Ceren,Sahin,49,1,2,Referral,2024-06-09,,Active
+759,M00759,Can,Arslan,57,1,4,Walk-in,2024-03-17,,Active
+760,M00760,Bora,Kurt,58,1,1,Organic Search,2025-11-17,2026-01-30,Cancelled
+761,M00761,Kerem,Aydin,58,4,2,Walk-in,2024-02-26,,Active
+762,M00762,Selin,Aydin,33,1,1,Instagram,2026-01-07,,Active
+763,M00763,Derya,Ozdemir,19,1,1,Paid Search,2025-08-28,2026-03-18,Cancelled
+764,M00764,Ayse,Kurt,43,1,1,Walk-in,2024-07-21,,Active
+765,M00765,Mert,Sahin,58,1,1,Walk-in,2024-03-15,,Active
+766,M00766,Ceren,Aydin,45,3,1,Referral,2024-03-10,2024-09-04,Cancelled
+767,M00767,Ayse,Kaya,48,1,3,Instagram,2024-03-27,,Active
+768,M00768,Zeynep,Koc,50,1,2,Referral,2025-10-11,,Active
+769,M00769,Zeynep,Aydin,32,1,1,Instagram,2026-03-03,2026-04-20,Cancelled
+770,M00770,Ceren,Ozdemir,26,4,1,Referral,2024-01-31,,Active
+771,M00771,Derya,Kurt,64,1,1,Referral,2024-11-29,,Active
+772,M00772,Arda,Kurt,19,1,3,Paid Search,2025-08-03,,Active
+773,M00773,Deniz,Kurt,54,1,1,Corporate Partner,2025-05-18,,Active
+774,M00774,Ceren,Arslan,31,3,3,Walk-in,2026-02-11,,Active
+775,M00775,Ceren,Kurt,41,3,4,Referral,2026-02-13,,Active
+776,M00776,Zeynep,Demir,56,2,1,Corporate Partner,2024-05-29,,Active
+777,M00777,Mert,Yilmaz,39,4,3,Walk-in,2025-12-25,2026-02-08,Cancelled
+778,M00778,Kerem,Kaya,24,4,2,Referral,2025-10-23,,Active
+779,M00779,Zeynep,Kaya,45,3,3,Paid Search,2024-10-16,,Active
+780,M00780,Ayse,Arslan,30,3,3,Paid Search,2024-03-05,,Active
+781,M00781,Can,Kaya,38,1,1,Referral,2025-04-07,,Active
+782,M00782,Deniz,Kurt,19,1,4,Referral,2025-07-03,2026-04-27,Cancelled
+783,M00783,Derya,Kurt,44,2,1,Referral,2024-02-20,,Active
+784,M00784,Ayse,Celik,34,4,3,Paid Search,2024-06-12,,Active
+785,M00785,Emre,Kaya,30,2,3,Referral,2024-09-03,,Active
+786,M00786,Deniz,Celik,32,1,3,Instagram,2025-05-27,,Active
+787,M00787,Can,Celik,34,3,4,Instagram,2024-09-27,,Active
+788,M00788,Can,Aydin,37,3,3,Corporate Partner,2024-08-13,,Active
+789,M00789,Kerem,Demir,57,2,1,Corporate Partner,2025-05-01,,Active
+790,M00790,Kerem,Koc,39,3,4,Organic Search,2025-11-30,,Active
+791,M00791,Bora,Kurt,20,4,1,Walk-in,2024-04-02,2024-05-21,Cancelled
+792,M00792,Mert,Demir,46,3,2,Corporate Partner,2025-12-14,,Active
+793,M00793,Selin,Ozdemir,33,1,3,Paid Search,2024-05-25,,Active
+794,M00794,Ece,Koc,52,3,4,Walk-in,2025-11-21,,Active
+795,M00795,Ayse,Kaya,45,1,3,Walk-in,2024-10-07,,Active
+796,M00796,Elif,Demir,21,2,3,Walk-in,2024-09-06,2025-06-03,Cancelled
+797,M00797,Zeynep,Yilmaz,19,2,2,Paid Search,2025-12-19,2026-03-14,Cancelled
+798,M00798,Kerem,Arslan,55,2,1,Walk-in,2025-04-26,,Active
+799,M00799,Zeynep,Demir,39,1,1,Instagram,2025-04-23,,Active
+800,M00800,Arda,Celik,44,2,3,Paid Search,2024-09-28,,Active
+801,M00801,Can,Celik,45,3,2,Organic Search,2025-11-13,,Active
+802,M00802,Selin,Kurt,24,2,4,Corporate Partner,2024-08-09,2025-06-06,Cancelled
+803,M00803,Ceren,Kurt,56,2,1,Organic Search,2026-05-21,,Active
+804,M00804,Ayse,Celik,53,3,4,Referral,2025-04-25,,Active
+805,M00805,Arda,Arslan,27,3,3,Organic Search,2024-04-23,,Active
+806,M00806,Arda,Arslan,18,1,4,Referral,2025-09-12,,Active
+807,M00807,Deniz,Kurt,57,2,4,Paid Search,2024-09-07,,Active
+808,M00808,Can,Arslan,55,1,4,Referral,2026-06-17,,Active
+809,M00809,Mert,Koc,27,2,3,Referral,2024-04-06,,Active
+810,M00810,Emre,Sahin,57,1,3,Instagram,2026-04-17,,Active
+811,M00811,Kerem,Aydin,40,2,2,Paid Search,2026-01-01,2026-05-03,Cancelled
+812,M00812,Deniz,Sahin,64,3,1,Instagram,2025-01-20,,Active
+813,M00813,Ece,Aydin,39,3,4,Paid Search,2025-11-09,2026-04-20,Cancelled
+814,M00814,Bora,Celik,32,2,1,Corporate Partner,2025-01-12,2025-09-02,Cancelled
+815,M00815,Ayse,Arslan,59,1,3,Walk-in,2024-12-26,,Active
+816,M00816,Kerem,Koc,46,2,3,Instagram,2024-07-24,,Active
+817,M00817,Selin,Koc,60,3,4,Organic Search,2024-04-11,,Active
+818,M00818,Kerem,Kurt,26,4,1,Instagram,2024-11-13,2026-01-22,Cancelled
+819,M00819,Zeynep,Arslan,56,2,3,Instagram,2025-02-06,,Active
+820,M00820,Selin,Arslan,30,4,1,Organic Search,2026-03-04,,Active
+821,M00821,Zeynep,Koc,42,2,2,Referral,2025-07-21,,Active
+822,M00822,Zeynep,Celik,23,1,2,Instagram,2026-02-24,,Active
+823,M00823,Can,Sahin,49,3,2,Referral,2025-02-18,,Active
+824,M00824,Selin,Kurt,50,3,2,Instagram,2024-02-04,,Active
+825,M00825,Mert,Demir,58,3,3,Instagram,2026-03-17,,Active
+826,M00826,Kerem,Celik,32,4,1,Walk-in,2025-07-10,2026-01-17,Cancelled
+827,M00827,Bora,Demir,35,1,3,Organic Search,2025-02-13,,Active
+828,M00828,Mert,Yilmaz,46,3,1,Paid Search,2024-10-29,2025-10-09,Cancelled
+829,M00829,Ayse,Kaya,37,3,1,Organic Search,2025-12-18,2026-06-19,Cancelled
+830,M00830,Ece,Kaya,35,1,2,Instagram,2024-04-10,,Active
+831,M00831,Arda,Arslan,30,4,4,Walk-in,2025-11-27,,Active
+832,M00832,Selin,Celik,26,1,1,Referral,2025-02-06,2025-08-28,Cancelled
+833,M00833,Mert,Arslan,50,1,1,Paid Search,2026-05-25,2026-06-27,Cancelled
+834,M00834,Ece,Demir,29,3,4,Referral,2024-05-02,,Active
+835,M00835,Selin,Demir,46,1,3,Paid Search,2026-06-09,2026-07-19,Cancelled
+836,M00836,Can,Yilmaz,61,1,4,Corporate Partner,2026-03-25,,Active
+837,M00837,Emre,Sahin,22,1,3,Paid Search,2025-08-14,,Active
+838,M00838,Mert,Sahin,25,3,3,Corporate Partner,2025-08-11,,Active
+839,M00839,Ayse,Koc,34,1,3,Organic Search,2024-11-18,,Active
+840,M00840,Selin,Arslan,21,3,2,Instagram,2025-05-21,,Active
+841,M00841,Ceren,Celik,41,2,3,Paid Search,2024-07-02,,Active
+842,M00842,Kerem,Demir,38,1,3,Paid Search,2026-01-17,2026-04-06,Cancelled
+843,M00843,Derya,Koc,52,3,4,Organic Search,2026-01-29,,Active
+844,M00844,Kerem,Arslan,28,4,4,Corporate Partner,2024-02-09,,Active
+845,M00845,Derya,Celik,41,2,3,Walk-in,2025-12-14,,Active
+846,M00846,Elif,Sahin,42,1,1,Corporate Partner,2024-02-08,,Active
+847,M00847,Arda,Yilmaz,42,2,4,Organic Search,2024-08-28,,Active
+848,M00848,Selin,Kurt,57,2,1,Paid Search,2024-10-17,,Active
+849,M00849,Selin,Kurt,57,2,3,Referral,2025-05-10,,Active
+850,M00850,Bora,Aydin,59,1,1,Instagram,2024-11-28,,Active
+851,M00851,Deniz,Koc,41,2,2,Organic Search,2024-09-08,,Active
+852,M00852,Selin,Ozdemir,44,1,4,Organic Search,2025-09-30,2025-11-28,Cancelled
+853,M00853,Elif,Ozdemir,49,3,3,Paid Search,2025-08-19,,Active
+854,M00854,Ayse,Yilmaz,38,4,4,Corporate Partner,2025-03-18,2026-03-11,Cancelled
+855,M00855,Derya,Demir,24,1,4,Referral,2024-06-01,2025-03-04,Cancelled
+856,M00856,Derya,Sahin,35,2,1,Instagram,2025-08-24,,Active
+857,M00857,Ece,Koc,36,4,3,Corporate Partner,2026-05-08,,Active
+858,M00858,Emre,Kaya,53,1,1,Walk-in,2024-09-30,,Active
+859,M00859,Kerem,Demir,43,4,3,Referral,2024-09-28,2026-05-08,Cancelled
+860,M00860,Arda,Sahin,46,3,2,Walk-in,2025-01-27,2025-10-26,Cancelled
+861,M00861,Ayse,Aydin,43,2,2,Instagram,2024-08-30,,Active
+862,M00862,Emre,Celik,64,3,1,Referral,2026-02-08,,Active
+863,M00863,Selin,Sahin,40,2,1,Walk-in,2025-05-01,2026-01-25,Cancelled
+864,M00864,Selin,Arslan,53,4,2,Organic Search,2025-04-04,,Active
+865,M00865,Ece,Kurt,20,2,4,Referral,2025-06-19,2025-09-22,Cancelled
+866,M00866,Deniz,Yilmaz,34,3,4,Walk-in,2024-04-19,,Active
+867,M00867,Selin,Celik,61,1,2,Organic Search,2024-07-02,,Active
+868,M00868,Can,Ozdemir,39,3,1,Walk-in,2025-09-17,,Active
+869,M00869,Bora,Celik,53,1,1,Paid Search,2024-10-17,,Active
+870,M00870,Deniz,Aydin,46,4,3,Referral,2025-06-01,,Active
+871,M00871,Ceren,Demir,54,1,1,Organic Search,2026-01-02,,Active
+872,M00872,Deniz,Koc,40,3,1,Walk-in,2026-02-12,,Active
+873,M00873,Zeynep,Ozdemir,62,2,4,Corporate Partner,2024-10-12,,Active
+874,M00874,Emre,Demir,19,3,1,Referral,2026-05-09,,Active
+875,M00875,Selin,Demir,60,1,3,Organic Search,2024-04-16,,Active
+876,M00876,Emre,Demir,55,1,1,Walk-in,2024-05-10,,Active
+877,M00877,Zeynep,Demir,37,2,1,Referral,2026-01-13,,Active
+878,M00878,Mert,Sahin,38,4,1,Referral,2024-04-24,,Active
+879,M00879,Arda,Koc,55,1,1,Corporate Partner,2024-01-13,,Active
+880,M00880,Emre,Kaya,20,1,1,Referral,2025-10-15,,Active
+881,M00881,Bora,Arslan,47,4,3,Referral,2025-03-17,,Active
+882,M00882,Arda,Kurt,50,1,2,Instagram,2025-06-29,,Active
+883,M00883,Can,Sahin,25,3,2,Paid Search,2025-02-05,,Active
+884,M00884,Bora,Yilmaz,63,2,3,Organic Search,2024-07-03,,Active
+885,M00885,Can,Kaya,18,1,4,Paid Search,2025-07-18,2026-05-22,Cancelled
+886,M00886,Arda,Yilmaz,34,3,3,Instagram,2024-06-07,,Active
+887,M00887,Deniz,Sahin,27,4,2,Corporate Partner,2024-01-24,2026-07-04,Cancelled
+888,M00888,Can,Ozdemir,63,2,1,Organic Search,2024-09-23,,Active
+889,M00889,Arda,Sahin,47,1,2,Organic Search,2026-06-30,,Active
+890,M00890,Mert,Demir,21,3,3,Paid Search,2025-12-04,,Active
+891,M00891,Selin,Koc,42,3,2,Organic Search,2025-07-07,2026-04-11,Cancelled
+892,M00892,Ceren,Demir,44,1,1,Walk-in,2024-10-01,,Active
+893,M00893,Selin,Arslan,44,2,4,Referral,2025-05-24,2025-12-25,Cancelled
+894,M00894,Selin,Kaya,50,1,3,Instagram,2024-06-24,,Active
+895,M00895,Zeynep,Koc,23,4,3,Referral,2024-06-24,2024-08-20,Cancelled
+896,M00896,Elif,Celik,23,3,1,Instagram,2025-09-27,2026-07-09,Cancelled
+897,M00897,Derya,Ozdemir,23,2,3,Instagram,2025-06-05,,Active
+898,M00898,Emre,Celik,63,1,2,Walk-in,2025-02-20,,Active
+899,M00899,Can,Aydin,30,2,1,Walk-in,2025-12-25,,Active
+900,M00900,Derya,Aydin,49,2,2,Organic Search,2024-01-13,,Active
+901,M00901,Ece,Arslan,55,1,3,Organic Search,2025-02-17,,Active
+902,M00902,Arda,Kurt,38,1,1,Walk-in,2025-04-27,,Active
+903,M00903,Selin,Kaya,36,2,4,Corporate Partner,2026-05-04,,Active
+904,M00904,Ayse,Kaya,36,4,2,Corporate Partner,2025-07-24,,Active
+905,M00905,Can,Celik,19,4,1,Referral,2024-03-22,2024-05-10,Cancelled
+906,M00906,Zeynep,Koc,64,2,1,Organic Search,2024-08-29,,Active
+907,M00907,Bora,Demir,62,1,4,Walk-in,2024-05-10,,Active
+908,M00908,Ece,Kurt,32,1,1,Corporate Partner,2026-04-05,,Active
+909,M00909,Zeynep,Aydin,51,3,1,Referral,2024-11-25,,Active
+910,M00910,Deniz,Ozdemir,54,3,3,Corporate Partner,2024-06-17,,Active
+911,M00911,Ece,Yilmaz,45,3,2,Corporate Partner,2025-03-17,,Active
+912,M00912,Arda,Demir,41,2,2,Corporate Partner,2024-06-09,,Active
+913,M00913,Emre,Kaya,53,4,1,Organic Search,2024-11-20,,Active
+914,M00914,Ayse,Sahin,27,1,3,Paid Search,2024-04-07,,Active
+915,M00915,Ayse,Demir,40,1,3,Organic Search,2024-07-08,,Active
+916,M00916,Elif,Arslan,49,3,3,Walk-in,2025-10-03,,Active
+917,M00917,Ayse,Demir,48,2,2,Paid Search,2025-09-19,,Active
+918,M00918,Ayse,Aydin,22,4,3,Walk-in,2024-04-11,,Active
+919,M00919,Emre,Celik,40,2,1,Walk-in,2025-05-26,2025-07-21,Cancelled
+920,M00920,Mert,Sahin,54,3,2,Organic Search,2026-06-21,,Active
+921,M00921,Zeynep,Yilmaz,55,4,2,Referral,2025-12-22,,Active
+922,M00922,Emre,Yilmaz,33,1,4,Referral,2024-08-30,2025-07-04,Cancelled
+923,M00923,Bora,Demir,22,2,2,Instagram,2024-04-02,,Active
+924,M00924,Ceren,Sahin,49,4,1,Instagram,2024-01-19,,Active
+925,M00925,Selin,Demir,44,2,1,Walk-in,2026-05-22,,Active
+926,M00926,Ece,Aydin,34,1,3,Corporate Partner,2024-12-03,,Active
+927,M00927,Kerem,Kurt,46,2,2,Instagram,2025-02-26,,Active
+928,M00928,Ceren,Sahin,23,2,1,Referral,2026-06-28,,Active
+929,M00929,Kerem,Kaya,26,1,1,Walk-in,2026-01-09,,Active
+930,M00930,Arda,Aydin,48,1,4,Paid Search,2024-10-14,,Active
+931,M00931,Ayse,Ozdemir,25,4,4,Walk-in,2024-06-15,,Active
+932,M00932,Selin,Arslan,53,4,3,Walk-in,2024-11-27,,Active
+933,M00933,Ece,Yilmaz,21,4,4,Referral,2024-06-21,2025-06-07,Cancelled
+934,M00934,Mert,Sahin,27,3,1,Corporate Partner,2025-05-17,2025-08-17,Cancelled
+935,M00935,Elif,Kaya,62,1,2,Corporate Partner,2024-10-20,,Active
+936,M00936,Can,Arslan,20,3,1,Walk-in,2024-04-03,2024-07-24,Cancelled
+937,M00937,Elif,Arslan,27,1,2,Walk-in,2024-02-27,,Active
+938,M00938,Elif,Koc,51,2,2,Walk-in,2025-07-30,2026-04-13,Cancelled
+939,M00939,Bora,Koc,58,3,1,Instagram,2025-11-30,,Active
+940,M00940,Ayse,Demir,37,1,4,Organic Search,2025-06-04,,Active
+941,M00941,Can,Aydin,30,4,2,Organic Search,2025-03-20,,Active
+942,M00942,Selin,Sahin,41,2,3,Instagram,2024-04-01,,Active
+943,M00943,Ece,Yilmaz,26,1,3,Instagram,2025-04-05,,Active
+944,M00944,Emre,Kurt,28,1,1,Walk-in,2026-02-11,2026-05-03,Cancelled
+945,M00945,Bora,Demir,54,1,3,Paid Search,2025-01-15,,Active
+946,M00946,Mert,Celik,33,4,1,Organic Search,2025-05-17,,Active
+947,M00947,Selin,Kaya,24,1,2,Corporate Partner,2025-03-03,,Active
+948,M00948,Bora,Aydin,30,4,1,Walk-in,2024-01-14,2024-09-05,Cancelled
+949,M00949,Mert,Yilmaz,22,1,3,Referral,2026-01-19,,Active
+950,M00950,Zeynep,Ozdemir,25,1,2,Organic Search,2024-05-17,,Active
+951,M00951,Ayse,Kurt,20,2,1,Walk-in,2024-09-15,2024-10-31,Cancelled
+952,M00952,Deniz,Ozdemir,42,1,2,Paid Search,2024-04-07,,Active
+953,M00953,Deniz,Kaya,63,2,3,Paid Search,2025-08-26,,Active
+954,M00954,Ceren,Yilmaz,19,1,4,Corporate Partner,2024-02-10,,Active
+955,M00955,Selin,Celik,21,4,4,Referral,2026-02-06,2026-04-09,Cancelled
+956,M00956,Emre,Kurt,38,1,1,Organic Search,2024-10-31,,Active
+957,M00957,Ceren,Aydin,50,3,1,Organic Search,2024-05-02,,Active
+958,M00958,Ceren,Ozdemir,54,2,1,Instagram,2026-02-12,2026-06-12,Cancelled
+959,M00959,Elif,Yilmaz,28,1,1,Organic Search,2025-03-13,2025-11-27,Cancelled
+960,M00960,Ceren,Arslan,61,1,3,Referral,2025-08-19,,Active
+961,M00961,Zeynep,Kurt,63,4,3,Organic Search,2024-06-10,2025-11-16,Cancelled
+962,M00962,Zeynep,Yilmaz,38,3,1,Walk-in,2024-05-22,,Active
+963,M00963,Arda,Aydin,31,3,4,Instagram,2025-11-22,2026-02-07,Cancelled
+964,M00964,Ayse,Arslan,32,2,1,Referral,2026-05-25,,Active
+965,M00965,Ayse,Arslan,19,1,4,Paid Search,2024-12-19,,Active
+966,M00966,Can,Koc,63,1,4,Referral,2025-04-19,,Active
+967,M00967,Ceren,Celik,36,4,2,Instagram,2025-06-22,,Active
+968,M00968,Derya,Koc,46,2,1,Instagram,2025-05-22,,Active
+969,M00969,Mert,Celik,43,1,2,Referral,2025-07-26,,Active
+970,M00970,Selin,Yilmaz,63,3,4,Paid Search,2026-03-24,2026-07-09,Cancelled
+971,M00971,Ceren,Kurt,57,3,1,Organic Search,2025-03-08,,Active
+972,M00972,Elif,Celik,33,3,1,Corporate Partner,2024-04-09,2026-05-02,Cancelled
+973,M00973,Derya,Kurt,53,3,1,Organic Search,2025-01-29,2025-09-13,Cancelled
+974,M00974,Ceren,Arslan,43,4,4,Paid Search,2024-03-04,,Active
+975,M00975,Ayse,Celik,63,2,3,Instagram,2024-02-07,,Active
+976,M00976,Emre,Aydin,40,3,1,Organic Search,2026-05-22,2026-07-25,Cancelled
+977,M00977,Arda,Kaya,24,1,3,Instagram,2025-05-28,,Active
+978,M00978,Zeynep,Ozdemir,62,3,2,Instagram,2024-04-07,2026-07-21,Cancelled
+979,M00979,Zeynep,Celik,46,3,4,Instagram,2025-01-30,,Active
+980,M00980,Deniz,Sahin,28,1,3,Walk-in,2026-03-18,,Active
+981,M00981,Bora,Koc,47,1,1,Organic Search,2024-03-08,,Active
+982,M00982,Can,Arslan,38,4,1,Corporate Partner,2024-06-14,2024-08-09,Cancelled
+983,M00983,Mert,Kaya,45,4,2,Instagram,2024-12-24,,Active
+984,M00984,Can,Kurt,57,1,1,Referral,2026-06-12,,Active
+985,M00985,Ece,Kurt,36,2,3,Referral,2025-02-09,,Active
+986,M00986,Bora,Aydin,18,1,4,Walk-in,2025-02-23,,Active
+987,M00987,Ceren,Demir,20,2,3,Walk-in,2025-08-01,2025-08-31,Cancelled
+988,M00988,Mert,Yilmaz,60,3,3,Organic Search,2025-11-28,,Active
+989,M00989,Can,Kurt,30,1,3,Walk-in,2026-03-15,,Active
+990,M00990,Ayse,Aydin,62,2,4,Organic Search,2025-04-14,,Active
+991,M00991,Ceren,Sahin,37,4,3,Walk-in,2025-09-28,,Active
+992,M00992,Ece,Arslan,49,1,4,Instagram,2024-08-13,,Active
+993,M00993,Derya,Arslan,50,2,1,Instagram,2025-04-12,,Active
+994,M00994,Selin,Sahin,51,2,4,Referral,2026-01-26,,Active
+995,M00995,Ceren,Aydin,61,1,1,Referral,2024-06-07,,Active
+996,M00996,Emre,Koc,21,1,2,Walk-in,2025-08-12,,Active
+997,M00997,Ece,Yilmaz,45,1,4,Referral,2026-01-06,,Active
+998,M00998,Ceren,Arslan,55,1,4,Referral,2025-08-23,,Active
+999,M00999,Zeynep,Sahin,56,4,1,Referral,2025-04-29,,Active
+1000,M01000,Ayse,Koc,18,1,2,Instagram,2024-05-17,2024-07-06,Cancelled
+1001,M01001,Can,Ozdemir,27,4,4,Organic Search,2024-01-21,2024-12-02,Cancelled
+1002,M01002,Elif,Koc,24,1,1,Organic Search,2026-04-24,2026-06-02,Cancelled
+1003,M01003,Ece,Kaya,47,3,1,Instagram,2024-12-26,,Active
+1004,M01004,Emre,Sahin,64,1,2,Walk-in,2024-05-16,2025-03-20,Cancelled
+1005,M01005,Bora,Sahin,55,2,1,Organic Search,2026-02-13,,Active
+1006,M01006,Deniz,Celik,47,4,3,Paid Search,2025-03-18,,Active
+1007,M01007,Ece,Sahin,26,3,4,Corporate Partner,2024-06-23,,Active
+1008,M01008,Derya,Celik,44,4,2,Organic Search,2024-11-01,,Active
+1009,M01009,Can,Kaya,34,2,3,Referral,2024-03-06,,Active
+1010,M01010,Mert,Sahin,62,1,3,Paid Search,2025-07-07,2026-01-19,Cancelled
+1011,M01011,Bora,Yilmaz,59,4,2,Instagram,2024-03-04,,Active
+1012,M01012,Ece,Kurt,54,3,1,Referral,2024-12-09,,Active
+1013,M01013,Bora,Demir,27,1,3,Instagram,2026-01-28,,Active
+1014,M01014,Ayse,Ozdemir,34,1,1,Referral,2025-09-12,,Active
+1015,M01015,Selin,Kurt,56,4,3,Instagram,2025-09-01,,Active
+1016,M01016,Ayse,Yilmaz,37,1,3,Organic Search,2025-08-04,,Active
+1017,M01017,Emre,Arslan,18,3,1,Walk-in,2026-02-08,2026-04-17,Cancelled
+1018,M01018,Selin,Yilmaz,19,2,1,Referral,2025-10-01,,Active
+1019,M01019,Zeynep,Aydin,55,1,2,Walk-in,2026-06-05,2026-07-19,Cancelled
+1020,M01020,Ceren,Kurt,54,2,1,Walk-in,2024-12-18,2025-11-14,Cancelled
+1021,M01021,Ayse,Ozdemir,37,2,2,Organic Search,2024-02-10,,Active
+1022,M01022,Can,Celik,26,3,1,Organic Search,2025-08-22,,Active
+1023,M01023,Mert,Sahin,52,2,4,Walk-in,2026-04-13,2026-06-04,Cancelled
+1024,M01024,Kerem,Demir,23,1,1,Instagram,2026-05-26,2026-06-26,Cancelled
+1025,M01025,Arda,Sahin,47,1,1,Referral,2024-01-21,,Active
+1026,M01026,Derya,Celik,25,1,3,Referral,2025-10-23,,Active
+1027,M01027,Zeynep,Ozdemir,22,4,2,Organic Search,2025-07-05,2026-04-26,Cancelled
+1028,M01028,Elif,Sahin,21,2,2,Corporate Partner,2025-08-14,,Active
+1029,M01029,Emre,Kaya,52,4,1,Organic Search,2024-10-07,,Active
+1030,M01030,Mert,Sahin,43,3,2,Instagram,2026-02-12,,Active
+1031,M01031,Ceren,Demir,25,2,2,Walk-in,2024-12-30,2025-10-10,Cancelled
+1032,M01032,Elif,Celik,44,1,1,Paid Search,2025-06-26,2026-04-13,Cancelled
+1033,M01033,Derya,Ozdemir,49,2,1,Instagram,2025-04-03,2026-02-06,Cancelled
+1034,M01034,Emre,Ozdemir,31,4,2,Referral,2026-06-09,,Active
+1035,M01035,Emre,Arslan,33,1,1,Instagram,2024-01-15,2026-02-24,Cancelled
+1036,M01036,Arda,Arslan,47,3,1,Walk-in,2025-06-22,,Active
+1037,M01037,Ayse,Aydin,31,1,1,Walk-in,2024-03-21,2025-12-26,Cancelled
+1038,M01038,Can,Kurt,61,2,2,Paid Search,2024-12-06,,Active
+1039,M01039,Selin,Kurt,24,1,1,Walk-in,2024-02-05,,Active
+1040,M01040,Arda,Ozdemir,38,3,3,Referral,2024-03-26,,Active
+1041,M01041,Deniz,Arslan,29,4,1,Corporate Partner,2024-05-11,2026-02-13,Cancelled
+1042,M01042,Ceren,Koc,52,1,2,Corporate Partner,2024-08-08,,Active
+1043,M01043,Emre,Aydin,35,3,2,Walk-in,2026-02-02,,Active
+1044,M01044,Ceren,Kaya,60,3,1,Corporate Partner,2026-02-18,2026-06-21,Cancelled
+1045,M01045,Kerem,Celik,27,4,4,Paid Search,2024-07-31,,Active
+1046,M01046,Arda,Demir,56,2,1,Paid Search,2024-08-11,2026-04-15,Cancelled
+1047,M01047,Derya,Celik,56,2,1,Instagram,2025-09-03,,Active
+1048,M01048,Arda,Demir,21,3,1,Paid Search,2025-05-30,2026-04-09,Cancelled
+1049,M01049,Emre,Kaya,28,3,3,Organic Search,2025-04-21,,Active
+1050,M01050,Kerem,Arslan,60,3,3,Organic Search,2024-04-12,,Active
+1051,M01051,Zeynep,Celik,63,1,3,Corporate Partner,2025-08-17,,Active
+1052,M01052,Derya,Yilmaz,62,3,2,Instagram,2024-07-05,,Active
+1053,M01053,Derya,Yilmaz,19,2,1,Corporate Partner,2024-08-25,,Active
+1054,M01054,Elif,Celik,22,3,1,Paid Search,2025-01-18,2026-03-23,Cancelled
+1055,M01055,Selin,Kaya,44,3,3,Walk-in,2024-03-12,,Active
+1056,M01056,Ayse,Ozdemir,35,3,1,Referral,2025-10-15,2026-06-23,Cancelled
+1057,M01057,Zeynep,Yilmaz,52,1,4,Organic Search,2026-04-03,,Active
+1058,M01058,Ayse,Kaya,18,1,3,Referral,2025-11-15,,Active
+1059,M01059,Ceren,Celik,19,4,4,Organic Search,2026-01-19,2026-06-17,Cancelled
+1060,M01060,Can,Koc,54,3,3,Corporate Partner,2025-11-18,,Active
+1061,M01061,Ece,Yilmaz,52,4,3,Walk-in,2026-06-24,,Active
+1062,M01062,Deniz,Kurt,54,2,4,Corporate Partner,2024-12-01,2025-07-26,Cancelled
+1063,M01063,Can,Koc,28,3,1,Referral,2024-02-04,,Active
+1064,M01064,Deniz,Celik,19,1,3,Paid Search,2024-01-29,,Active
+1065,M01065,Arda,Kaya,46,4,2,Organic Search,2024-08-10,,Active
+1066,M01066,Ayse,Sahin,21,3,4,Corporate Partner,2025-04-26,2026-04-09,Cancelled
+1067,M01067,Derya,Demir,38,2,4,Organic Search,2025-02-04,,Active
+1068,M01068,Ceren,Ozdemir,40,2,4,Instagram,2025-04-12,,Active
+1069,M01069,Arda,Arslan,28,3,1,Instagram,2024-10-05,,Active
+1070,M01070,Can,Kaya,52,3,1,Referral,2025-01-26,2025-09-19,Cancelled
+1071,M01071,Zeynep,Celik,20,3,3,Walk-in,2024-04-28,,Active
+1072,M01072,Ceren,Ozdemir,24,2,1,Referral,2025-10-01,,Active
+1073,M01073,Elif,Arslan,62,3,1,Paid Search,2024-03-20,,Active
+1074,M01074,Elif,Celik,37,1,3,Referral,2024-04-21,,Active
+1075,M01075,Deniz,Arslan,40,4,1,Walk-in,2025-06-12,,Active
+1076,M01076,Ayse,Kurt,41,3,4,Walk-in,2024-06-01,,Active
+1077,M01077,Selin,Koc,45,1,1,Referral,2026-05-21,,Active
+1078,M01078,Arda,Ozdemir,18,1,1,Organic Search,2025-02-10,,Active
+1079,M01079,Deniz,Ozdemir,50,3,2,Referral,2026-04-13,,Active
+1080,M01080,Kerem,Aydin,52,1,3,Organic Search,2025-12-30,,Active
+1081,M01081,Zeynep,Koc,38,4,1,Paid Search,2025-02-26,,Active
+1082,M01082,Emre,Ozdemir,28,1,4,Instagram,2026-01-07,,Active
+1083,M01083,Mert,Arslan,25,4,2,Referral,2026-05-21,,Active
+1084,M01084,Ayse,Ozdemir,40,2,3,Walk-in,2025-04-21,,Active
+1085,M01085,Can,Koc,52,4,1,Instagram,2025-08-25,,Active
+1086,M01086,Ece,Ozdemir,56,1,1,Organic Search,2026-03-16,,Active
+1087,M01087,Kerem,Kurt,63,1,1,Organic Search,2024-02-26,,Active
+1088,M01088,Ayse,Yilmaz,45,1,1,Referral,2024-08-23,,Active
+1089,M01089,Can,Kurt,45,1,2,Referral,2026-06-29,,Active
+1090,M01090,Derya,Demir,57,1,1,Organic Search,2025-06-22,,Active
+1091,M01091,Can,Demir,62,3,4,Referral,2024-04-22,2024-11-19,Cancelled
+1092,M01092,Kerem,Celik,64,3,1,Instagram,2026-02-28,,Active
+1093,M01093,Can,Kurt,26,2,1,Organic Search,2026-02-03,2026-03-05,Cancelled
+1094,M01094,Bora,Yilmaz,61,1,2,Instagram,2024-05-19,,Active
+1095,M01095,Can,Aydin,32,3,3,Instagram,2026-06-23,,Active
+1096,M01096,Ece,Yilmaz,23,2,3,Referral,2025-08-28,,Active
+1097,M01097,Ceren,Ozdemir,32,4,3,Paid Search,2025-08-18,,Active
+1098,M01098,Can,Celik,31,1,1,Walk-in,2025-03-06,,Active
+1099,M01099,Emre,Ozdemir,51,2,1,Instagram,2025-04-14,,Active
+1100,M01100,Ece,Kurt,56,4,1,Referral,2024-02-05,,Active
+1101,M01101,Arda,Kaya,40,3,4,Instagram,2025-09-09,2026-07-07,Cancelled
+1102,M01102,Elif,Celik,23,1,4,Organic Search,2024-04-11,,Active
+1103,M01103,Bora,Kurt,35,3,3,Organic Search,2024-02-08,2024-07-08,Cancelled
+1104,M01104,Bora,Kurt,20,4,1,Walk-in,2026-03-13,2026-06-26,Cancelled
+1105,M01105,Kerem,Yilmaz,47,2,3,Walk-in,2024-11-06,,Active
+1106,M01106,Zeynep,Koc,62,1,1,Instagram,2024-03-25,,Active
+1107,M01107,Mert,Arslan,47,4,2,Walk-in,2024-06-23,,Active
+1108,M01108,Ceren,Aydin,18,3,4,Organic Search,2025-03-28,,Active
+1109,M01109,Emre,Kaya,42,2,1,Walk-in,2026-04-11,,Active
+1110,M01110,Selin,Ozdemir,34,1,2,Referral,2025-05-28,,Active
+1111,M01111,Ece,Kurt,35,1,4,Paid Search,2024-04-18,2024-08-07,Cancelled
+1112,M01112,Ayse,Demir,61,2,2,Corporate Partner,2024-03-03,,Active
+1113,M01113,Zeynep,Demir,60,3,3,Organic Search,2025-11-27,,Active
+1114,M01114,Selin,Koc,23,2,1,Instagram,2025-12-22,,Active
+1115,M01115,Selin,Arslan,28,3,2,Walk-in,2025-04-04,,Active
+1116,M01116,Emre,Demir,60,3,1,Walk-in,2024-07-15,2024-11-15,Cancelled
+1117,M01117,Mert,Yilmaz,21,3,3,Organic Search,2024-09-19,,Active
+1118,M01118,Ece,Kaya,34,1,3,Referral,2026-04-08,,Active
+1119,M01119,Arda,Arslan,55,2,1,Walk-in,2024-12-21,2025-12-07,Cancelled
+1120,M01120,Elif,Celik,57,1,1,Instagram,2025-08-31,2026-03-18,Cancelled
+1121,M01121,Ece,Koc,18,2,1,Organic Search,2025-09-28,2026-01-18,Cancelled
+1122,M01122,Kerem,Aydin,60,4,4,Organic Search,2024-12-15,,Active
+1123,M01123,Ece,Koc,36,4,2,Paid Search,2025-05-27,,Active
+1124,M01124,Mert,Celik,23,2,1,Organic Search,2025-08-02,,Active
+1125,M01125,Selin,Koc,47,2,1,Referral,2026-03-18,,Active
+1126,M01126,Ayse,Yilmaz,18,2,3,Referral,2024-04-21,2025-11-13,Cancelled
+1127,M01127,Elif,Kurt,20,3,4,Referral,2025-10-21,2026-02-06,Cancelled
+1128,M01128,Zeynep,Koc,64,4,1,Organic Search,2024-05-05,,Active
+1129,M01129,Bora,Sahin,61,1,3,Paid Search,2026-04-06,,Active
+1130,M01130,Arda,Arslan,62,3,2,Paid Search,2026-02-28,,Active
+1131,M01131,Emre,Demir,33,2,1,Organic Search,2025-11-10,2026-01-25,Cancelled
+1132,M01132,Ceren,Demir,51,2,3,Referral,2025-04-28,,Active
+1133,M01133,Ceren,Kurt,43,1,1,Corporate Partner,2024-10-27,,Active
+1134,M01134,Can,Aydin,36,1,4,Paid Search,2024-12-02,2026-02-17,Cancelled
+1135,M01135,Ayse,Kaya,50,2,3,Instagram,2024-10-26,,Active
+1136,M01136,Derya,Kurt,34,4,1,Corporate Partner,2024-11-02,,Active
+1137,M01137,Mert,Celik,24,2,1,Walk-in,2025-07-24,,Active
+1138,M01138,Ayse,Ozdemir,63,4,3,Corporate Partner,2025-09-19,,Active
+1139,M01139,Zeynep,Sahin,21,3,1,Corporate Partner,2026-02-09,,Active
+1140,M01140,Can,Yilmaz,21,3,3,Walk-in,2024-06-17,2025-12-17,Cancelled
+1141,M01141,Ece,Yilmaz,33,2,2,Corporate Partner,2024-06-24,,Active
+1142,M01142,Selin,Kurt,49,1,2,Referral,2025-10-27,,Active
+1143,M01143,Zeynep,Demir,60,1,4,Corporate Partner,2024-03-03,2025-04-29,Cancelled
+1144,M01144,Can,Celik,46,1,4,Paid Search,2024-02-22,,Active
+1145,M01145,Emre,Celik,27,4,1,Organic Search,2024-09-03,2025-12-03,Cancelled
+1146,M01146,Kerem,Kaya,45,2,1,Instagram,2024-02-15,,Active
+1147,M01147,Deniz,Yilmaz,54,3,1,Referral,2025-10-06,2026-02-14,Cancelled
+1148,M01148,Derya,Demir,64,1,4,Paid Search,2025-05-22,,Active
+1149,M01149,Selin,Arslan,60,1,3,Organic Search,2024-12-08,,Active
+1150,M01150,Arda,Celik,39,2,3,Corporate Partner,2025-02-25,,Active
+1151,M01151,Deniz,Demir,50,3,1,Instagram,2026-02-01,2026-03-15,Cancelled
+1152,M01152,Ayse,Aydin,39,1,1,Instagram,2026-05-20,,Active
+1153,M01153,Deniz,Arslan,48,3,1,Instagram,2024-12-12,,Active
+1154,M01154,Emre,Aydin,47,3,1,Referral,2025-07-27,2026-02-28,Cancelled
+1155,M01155,Kerem,Celik,59,4,4,Referral,2026-06-18,2026-07-26,Cancelled
+1156,M01156,Derya,Aydin,45,1,2,Paid Search,2024-11-30,,Active
+1157,M01157,Emre,Arslan,32,1,2,Corporate Partner,2024-04-18,,Active
+1158,M01158,Kerem,Kurt,48,4,4,Walk-in,2025-05-17,,Active
+1159,M01159,Selin,Aydin,58,4,2,Corporate Partner,2025-05-12,2025-09-08,Cancelled
+1160,M01160,Ece,Ozdemir,53,3,2,Corporate Partner,2026-03-13,,Active
+1161,M01161,Emre,Kaya,51,3,1,Walk-in,2025-04-06,2025-11-24,Cancelled
+1162,M01162,Arda,Demir,31,2,3,Referral,2025-08-31,,Active
+1163,M01163,Kerem,Ozdemir,25,2,3,Corporate Partner,2024-03-11,,Active
+1164,M01164,Elif,Koc,53,3,1,Organic Search,2024-04-01,,Active
+1165,M01165,Mert,Sahin,29,4,1,Organic Search,2025-11-08,2026-05-16,Cancelled
+1166,M01166,Ece,Koc,50,2,3,Referral,2024-07-23,,Active
+1167,M01167,Can,Kurt,23,2,1,Instagram,2024-01-25,,Active
+1168,M01168,Elif,Celik,61,1,3,Instagram,2024-01-14,,Active
+1169,M01169,Kerem,Kurt,37,3,4,Corporate Partner,2026-05-12,2026-06-12,Cancelled
+1170,M01170,Selin,Demir,33,1,1,Instagram,2024-03-17,2024-05-15,Cancelled
+1171,M01171,Bora,Kaya,40,2,1,Referral,2024-08-12,2025-03-23,Cancelled
+1172,M01172,Arda,Sahin,42,3,2,Referral,2026-02-26,2026-07-13,Cancelled
+1173,M01173,Ece,Arslan,59,3,3,Paid Search,2024-06-12,,Active
+1174,M01174,Emre,Yilmaz,33,2,3,Organic Search,2026-02-01,,Active
+1175,M01175,Kerem,Kurt,60,2,4,Corporate Partner,2026-05-12,2026-06-14,Cancelled
+1176,M01176,Selin,Celik,27,2,1,Organic Search,2025-08-31,2026-03-06,Cancelled
+1177,M01177,Bora,Kaya,28,4,3,Paid Search,2025-12-25,2026-02-12,Cancelled
+1178,M01178,Can,Aydin,58,4,4,Paid Search,2024-12-13,,Active
+1179,M01179,Arda,Demir,51,1,4,Organic Search,2025-06-11,,Active
+1180,M01180,Emre,Koc,50,1,2,Walk-in,2024-10-17,,Active
+1181,M01181,Can,Celik,47,2,2,Instagram,2024-08-14,,Active
+1182,M01182,Arda,Yilmaz,32,4,4,Organic Search,2026-03-16,2026-07-16,Cancelled
+1183,M01183,Zeynep,Arslan,58,3,4,Instagram,2026-05-18,2026-07-22,Cancelled
+1184,M01184,Elif,Yilmaz,55,3,3,Corporate Partner,2025-11-25,2026-01-31,Cancelled
+1185,M01185,Elif,Yilmaz,45,1,4,Corporate Partner,2024-09-16,,Active
+1186,M01186,Kerem,Sahin,37,2,4,Paid Search,2024-04-01,2026-06-12,Cancelled
+1187,M01187,Selin,Yilmaz,61,1,1,Instagram,2025-03-12,2026-05-01,Cancelled
+1188,M01188,Elif,Aydin,52,1,2,Organic Search,2024-06-02,,Active
+1189,M01189,Ece,Arslan,40,3,3,Walk-in,2025-11-24,,Active
+1190,M01190,Deniz,Arslan,62,2,2,Instagram,2024-03-17,,Active
+1191,M01191,Emre,Sahin,44,1,4,Instagram,2024-03-31,,Active
+1192,M01192,Kerem,Kurt,22,3,3,Instagram,2024-08-06,,Active
+1193,M01193,Ayse,Kaya,35,1,3,Organic Search,2024-06-24,,Active
+1194,M01194,Ayse,Kaya,43,4,3,Organic Search,2025-05-06,,Active
+1195,M01195,Kerem,Celik,57,3,1,Corporate Partner,2024-09-10,,Active
+1196,M01196,Zeynep,Demir,29,1,2,Paid Search,2026-05-03,2026-07-16,Cancelled
+1197,M01197,Ece,Demir,57,3,1,Referral,2024-10-11,2025-11-23,Cancelled
+1198,M01198,Can,Koc,46,3,2,Instagram,2025-10-09,2026-01-04,Cancelled
+1199,M01199,Deniz,Kurt,61,2,1,Referral,2024-12-02,,Active
+1200,M01200,Derya,Celik,53,2,2,Paid Search,2026-03-18,2026-05-15,Cancelled

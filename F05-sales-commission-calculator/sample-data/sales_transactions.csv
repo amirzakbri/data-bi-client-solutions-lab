@@ -1,0 +1,241 @@
+Deal ID,Close Date,Rep ID,Rep Name,Segment,Region,Product,Product Type,Gross Revenue,Returns,Credit %,Bonus Eligible,Approval Status,Account ID
+D0001,2026-06-30,R01,Maya Chen,Enterprise,North,Training Pack,Services,900,108,0.5,No,Approved,AC-1000
+D0002,2026-07-01,R02,Ethan Brooks,Enterprise,South,Analytics Cloud,Software,1828,0,1,Yes,Pending,AC-1001
+D0003,2026-07-02,R03,Sofia Patel,Mid-Market,East,Implementation,Services,2756,0,1,No,Approved,AC-1002
+D0004,2026-07-03,R04,Noah Williams,Mid-Market,West,Support Plus,Support,3684,0,1,No,Approved,AC-1003
+D0005,2026-07-04,R05,Lina Haddad,SMB,North,Workflow Pro,Software,4612,0,1,Yes,Approved,AC-1004
+D0006,2026-07-05,R06,Lucas Martin,SMB,South,Training Pack,Services,5540,0,1,No,Approved,AC-1005
+D0007,2026-07-06,R07,Aylin Demir,Enterprise,East,Analytics Cloud,Software,6468,0,1,Yes,Pending,AC-1006
+D0008,2026-07-07,R08,Owen Taylor,Mid-Market,North,Implementation,Services,7396,0,1,No,Approved,AC-1007
+D0009,2026-07-08,R09,Sara Kim,SMB,West,Support Plus,Support,8324,0,1,No,Approved,AC-1008
+D0010,2026-07-09,R10,Daniel Ruiz,Enterprise,West,Workflow Pro,Software,8019,0,1,Yes,Approved,AC-1009
+D0011,2026-07-10,R11,Elif Kaya,Mid-Market,South,Training Pack,Services,1747,0,1,No,Approved,AC-1010
+D0012,2026-07-11,R12,Jon Bell,SMB,East,Analytics Cloud,Software,2675,0,1,Yes,Pending,AC-1011
+D0013,2026-07-12,R01,Maya Chen,Enterprise,North,Implementation,Services,3603,0,1,No,Approved,AC-1012
+D0014,2026-07-13,R02,Ethan Brooks,Enterprise,South,Support Plus,Support,4531,0,1,No,Approved,AC-1013
+D0015,2026-07-14,R03,Sofia Patel,Mid-Market,East,Workflow Pro,Software,5459,0,1,Yes,Approved,AC-1014
+D0016,2026-07-15,R04,Noah Williams,Mid-Market,West,Training Pack,Services,6387,0,1,No,Approved,AC-1015
+D0017,2026-07-16,R05,Lina Haddad,SMB,North,Analytics Cloud,Software,7315,0,1,Yes,Pending,AC-1016
+D0018,2026-07-17,R06,Lucas Martin,SMB,South,Implementation,Services,8243,1978.32,1,No,Approved,AC-1017
+D0019,2026-07-18,R07,Aylin Demir,Enterprise,East,Support Plus,Support,7938,0,1,No,Approved,AC-1018
+D0020,2026-07-19,R08,Owen Taylor,Mid-Market,North,Workflow Pro,Software,1666,0,1,Yes,Approved,AC-1019
+D0021,2026-07-20,R09,Sara Kim,SMB,West,Training Pack,Services,2594,0,1,No,Approved,AC-1020
+D0022,2026-07-21,R10,Daniel Ruiz,Enterprise,West,Analytics Cloud,Software,3522,0,1,Yes,Pending,AC-1021
+D0023,2026-07-22,R11,Elif Kaya,Mid-Market,South,Implementation,Services,4450,0,1,No,Approved,AC-1022
+D0024,2026-07-23,R12,Jon Bell,SMB,East,Support Plus,Support,5378,0,0.5,No,Approved,AC-1023
+D0025,2026-07-24,R01,Maya Chen,Enterprise,North,Workflow Pro,Software,6306,0,1,Yes,Approved,AC-1024
+D0026,2026-07-25,R02,Ethan Brooks,Enterprise,South,Training Pack,Services,7234,0,1,No,Approved,AC-1025
+D0027,2026-07-26,R03,Sofia Patel,Mid-Market,East,Analytics Cloud,Software,8162,0,1,Yes,Pending,AC-1026
+D0028,2026-07-27,R04,Noah Williams,Mid-Market,West,Implementation,Services,7857,0,1,No,Approved,AC-1027
+D0029,2026-07-28,R05,Lina Haddad,SMB,North,Support Plus,Support,1585,0,1,No,Approved,AC-1028
+D0030,2026-07-29,R06,Lucas Martin,SMB,South,Workflow Pro,Software,2513,0,0.75,Yes,Approved,AC-1029
+D0031,2026-07-30,R07,Aylin Demir,Enterprise,East,Training Pack,Services,3441,0,1,No,Approved,AC-1030
+D0032,2026-06-30,R08,Owen Taylor,Mid-Market,North,Analytics Cloud,Software,4369,0,1,Yes,Pending,AC-1031
+D0033,2026-07-01,R09,Sara Kim,SMB,West,Implementation,Services,5297,0,1,No,Approved,AC-1032
+D0034,2026-07-02,R10,Daniel Ruiz,Enterprise,West,Support Plus,Support,6225,0,1,No,Approved,AC-1033
+D0035,2026-07-03,R11,Elif Kaya,Mid-Market,South,Workflow Pro,Software,7153,1287.54,1,Yes,Approved,AC-1034
+D0036,2026-07-04,R12,Jon Bell,SMB,East,Training Pack,Services,8081,0,1,No,Approved,AC-1035
+D0037,2026-07-05,R01,Maya Chen,Enterprise,North,Analytics Cloud,Software,7776,0,1,Yes,Pending,AC-1036
+D0038,2026-07-06,R02,Ethan Brooks,Enterprise,South,Implementation,Services,1504,0,1,No,Approved,AC-1037
+D0039,2026-07-07,R03,Sofia Patel,Mid-Market,East,Support Plus,Support,2432,0,1,No,Approved,AC-1038
+D0040,2026-07-08,R04,Noah Williams,Mid-Market,West,Workflow Pro,Software,3360,0,1,Yes,Approved,AC-1039
+D0041,2026-07-09,R05,Lina Haddad,SMB,North,Training Pack,Services,4288,0,1,No,Approved,AC-1040
+D0042,2026-07-10,R06,Lucas Martin,SMB,South,Analytics Cloud,Software,5216,0,1,Yes,Pending,AC-1041
+D0043,2026-07-11,R07,Aylin Demir,Enterprise,East,Implementation,Services,6144,0,1,No,Approved,AC-1042
+D0044,2026-07-12,R08,Owen Taylor,Mid-Market,North,Support Plus,Support,7072,0,1,No,Approved,AC-1043
+D0045,2026-07-13,R09,Sara Kim,SMB,West,Workflow Pro,Software,8000,0,1,Yes,Approved,AC-1044
+D0046,2026-07-14,R10,Daniel Ruiz,Enterprise,West,Training Pack,Services,7695,0,1,No,Approved,AC-1045
+D0047,2026-07-15,R11,Elif Kaya,Mid-Market,South,Analytics Cloud,Software,1423,0,0.5,Yes,Pending,AC-1046
+D0048,2026-07-16,R12,Jon Bell,SMB,East,Implementation,Services,2351,0,1,No,Approved,AC-1047
+D0049,2026-07-17,R01,Maya Chen,Enterprise,North,Support Plus,Support,3279,0,1,No,Approved,AC-1048
+D0050,2026-07-18,R02,Ethan Brooks,Enterprise,South,Workflow Pro,Software,4207,0,1,Yes,Approved,AC-1049
+D0051,2026-07-19,R03,Sofia Patel,Mid-Market,East,Training Pack,Services,5135,0,1,No,Approved,AC-1050
+D0052,2026-07-20,R04,Noah Williams,Mid-Market,West,Analytics Cloud,Software,6063,727.56,1,Yes,Pending,AC-1051
+D0053,2026-07-21,R05,Lina Haddad,SMB,North,Implementation,Services,6991,0,1,No,Approved,AC-1052
+D0054,2026-07-22,R06,Lucas Martin,SMB,South,Support Plus,Support,7919,0,1,No,Approved,AC-1053
+D0055,2026-07-23,R07,Aylin Demir,Enterprise,East,Workflow Pro,Software,7614,0,1,Yes,Approved,AC-1054
+D0056,2026-07-24,R08,Owen Taylor,Mid-Market,North,Training Pack,Services,1342,0,1,No,Approved,AC-1055
+D0057,2026-07-25,R09,Sara Kim,SMB,West,Analytics Cloud,Software,2270,0,1,Yes,Pending,AC-1056
+D0058,2026-07-26,R10,Daniel Ruiz,Enterprise,West,Implementation,Services,3198,0,1,No,Approved,AC-1057
+D0059,2026-07-27,R11,Elif Kaya,Mid-Market,South,Support Plus,Support,4126,0,0.75,No,Approved,AC-1058
+D0060,2026-07-28,R12,Jon Bell,SMB,East,Workflow Pro,Software,5054,0,1,Yes,Approved,AC-1059
+D0061,2026-07-29,R01,Maya Chen,Enterprise,North,Training Pack,Services,5982,0,1,No,Approved,AC-1060
+D0062,2026-07-30,R02,Ethan Brooks,Enterprise,South,Analytics Cloud,Software,6910,0,1,Yes,Pending,AC-1061
+D0063,2026-06-30,R03,Sofia Patel,Mid-Market,East,Implementation,Services,7838,0,1,No,Approved,AC-1062
+D0064,2026-07-01,R04,Noah Williams,Mid-Market,West,Support Plus,Support,7533,0,1,No,Approved,AC-1063
+D0065,2026-07-02,R05,Lina Haddad,SMB,North,Workflow Pro,Software,1261,0,1,Yes,Approved,AC-1064
+D0066,2026-07-03,R06,Lucas Martin,SMB,South,Training Pack,Services,2189,0,1,No,Approved,AC-1065
+D0067,2026-07-04,R07,Aylin Demir,Enterprise,East,Analytics Cloud,Software,3117,0,1,Yes,Pending,AC-1066
+D0068,2026-07-05,R08,Owen Taylor,Mid-Market,North,Implementation,Services,4045,0,1,No,Approved,AC-1067
+D0069,2026-07-06,R09,Sara Kim,SMB,West,Support Plus,Support,4973,1193.52,1,No,Approved,AC-1068
+D0070,2026-07-07,R10,Daniel Ruiz,Enterprise,West,Workflow Pro,Software,5901,0,0.5,Yes,Approved,AC-1069
+D0071,2026-07-08,R11,Elif Kaya,Mid-Market,South,Training Pack,Services,6829,0,1,No,Approved,AC-1070
+D0072,2026-07-09,R12,Jon Bell,SMB,East,Analytics Cloud,Software,7757,0,1,Yes,Pending,AC-1071
+D0073,2026-07-10,R01,Maya Chen,Enterprise,North,Implementation,Services,7452,0,1,No,Approved,AC-1072
+D0074,2026-07-11,R02,Ethan Brooks,Enterprise,South,Support Plus,Support,1180,0,1,No,Approved,AC-1073
+D0075,2026-07-12,R03,Sofia Patel,Mid-Market,East,Workflow Pro,Software,2108,0,1,Yes,Approved,AC-1074
+D0076,2026-07-13,R04,Noah Williams,Mid-Market,West,Training Pack,Services,3036,0,1,No,Approved,AC-1075
+D0077,2026-07-14,R05,Lina Haddad,SMB,North,Analytics Cloud,Software,3964,0,1,Yes,Pending,AC-1076
+D0078,2026-07-15,R06,Lucas Martin,SMB,South,Implementation,Services,4892,0,1,No,Approved,AC-1077
+D0079,2026-07-16,R07,Aylin Demir,Enterprise,East,Support Plus,Support,5820,0,1,No,Approved,AC-1078
+D0080,2026-07-17,R08,Owen Taylor,Mid-Market,North,Workflow Pro,Software,6748,0,1,Yes,Approved,AC-1079
+D0081,2026-07-18,R09,Sara Kim,SMB,West,Training Pack,Services,7676,0,1,No,Approved,AC-1080
+D0082,2026-07-19,R10,Daniel Ruiz,Enterprise,West,Analytics Cloud,Software,7371,0,1,Yes,Pending,AC-1081
+D0083,2026-07-20,R11,Elif Kaya,Mid-Market,South,Implementation,Services,1099,0,1,No,Approved,AC-1082
+D0084,2026-07-21,R12,Jon Bell,SMB,East,Support Plus,Support,2027,0,1,No,Approved,AC-1083
+D0085,2026-07-22,R01,Maya Chen,Enterprise,North,Workflow Pro,Software,2955,0,1,Yes,Approved,AC-1084
+D0086,2026-07-23,R02,Ethan Brooks,Enterprise,South,Training Pack,Services,3883,698.94,1,No,Approved,AC-1085
+D0087,2026-07-24,R03,Sofia Patel,Mid-Market,East,Analytics Cloud,Software,4811,0,1,Yes,Pending,AC-1086
+D0088,2026-07-25,R04,Noah Williams,Mid-Market,West,Implementation,Services,5739,0,0.75,No,Approved,AC-1087
+D0089,2026-07-26,R05,Lina Haddad,SMB,North,Support Plus,Support,6667,0,1,No,Approved,AC-1088
+D0090,2026-07-27,R06,Lucas Martin,SMB,South,Workflow Pro,Software,7595,0,1,Yes,Approved,AC-1089
+D0091,2026-07-28,R07,Aylin Demir,Enterprise,East,Training Pack,Services,7290,0,1,No,Approved,AC-1090
+D0092,2026-07-29,R08,Owen Taylor,Mid-Market,North,Analytics Cloud,Software,8218,0,1,Yes,Pending,AC-1091
+D0093,2026-07-30,R09,Sara Kim,SMB,West,Implementation,Services,1946,0,0.5,No,Approved,AC-1092
+D0094,2026-06-30,R10,Daniel Ruiz,Enterprise,West,Support Plus,Support,2874,0,1,No,Approved,AC-1093
+D0095,2026-07-01,R11,Elif Kaya,Mid-Market,South,Workflow Pro,Software,3802,0,1,Yes,Approved,AC-1094
+D0096,2026-07-02,R12,Jon Bell,SMB,East,Training Pack,Services,4730,0,1,No,Approved,AC-1095
+D0097,2026-07-03,R01,Maya Chen,Enterprise,North,Analytics Cloud,Software,5658,0,1,Yes,Pending,AC-1096
+D0098,2026-07-04,R02,Ethan Brooks,Enterprise,South,Implementation,Services,6586,0,1,No,Approved,AC-1097
+D0099,2026-07-05,R03,Sofia Patel,Mid-Market,East,Support Plus,Support,7514,0,1,No,Approved,AC-1098
+D0100,2026-07-06,R04,Noah Williams,Mid-Market,West,Workflow Pro,Software,7209,0,1,Yes,Approved,AC-1099
+D0101,2026-07-07,R05,Lina Haddad,SMB,North,Training Pack,Services,8137,0,1,No,Approved,AC-1100
+D0102,2026-07-08,R06,Lucas Martin,SMB,South,Analytics Cloud,Software,1865,0,1,Yes,Pending,AC-1101
+D0103,2026-07-09,R07,Aylin Demir,Enterprise,East,Implementation,Services,2793,335.16,1,No,Approved,AC-1102
+D0104,2026-07-10,R08,Owen Taylor,Mid-Market,North,Support Plus,Support,3721,0,1,No,Approved,AC-1103
+D0105,2026-07-11,R09,Sara Kim,SMB,West,Workflow Pro,Software,4649,0,1,Yes,Approved,AC-1104
+D0106,2026-07-12,R10,Daniel Ruiz,Enterprise,West,Training Pack,Services,5577,0,1,No,Approved,AC-1105
+D0107,2026-07-13,R11,Elif Kaya,Mid-Market,South,Analytics Cloud,Software,6505,0,1,Yes,Pending,AC-1106
+D0108,2026-07-14,R12,Jon Bell,SMB,East,Implementation,Services,7433,0,1,No,Approved,AC-1107
+D0109,2026-07-15,R01,Maya Chen,Enterprise,North,Support Plus,Support,7128,0,1,No,Approved,AC-1108
+D0110,2026-07-16,R02,Ethan Brooks,Enterprise,South,Workflow Pro,Software,8056,0,1,Yes,Approved,AC-1109
+D0111,2026-07-17,R03,Sofia Patel,Mid-Market,East,Training Pack,Services,1784,0,1,No,Approved,AC-1110
+D0112,2026-07-18,R04,Noah Williams,Mid-Market,West,Analytics Cloud,Software,2712,0,1,Yes,Pending,AC-1111
+D0113,2026-07-19,R05,Lina Haddad,SMB,North,Implementation,Services,3640,0,1,No,Approved,AC-1112
+D0114,2026-07-20,R06,Lucas Martin,SMB,South,Support Plus,Support,4568,0,1,No,Approved,AC-1113
+D0115,2026-07-21,R07,Aylin Demir,Enterprise,East,Workflow Pro,Software,5496,0,1,Yes,Approved,AC-1114
+D0116,2026-07-22,R08,Owen Taylor,Mid-Market,North,Training Pack,Services,6424,0,0.5,No,Approved,AC-1115
+D0117,2026-07-23,R09,Sara Kim,SMB,West,Analytics Cloud,Software,7352,0,0.75,Yes,Pending,AC-1116
+D0118,2026-07-24,R10,Daniel Ruiz,Enterprise,West,Implementation,Services,7047,0,1,No,Approved,AC-1117
+D0119,2026-07-25,R11,Elif Kaya,Mid-Market,South,Support Plus,Support,7975,0,1,No,Approved,AC-1118
+D0120,2026-07-26,R12,Jon Bell,SMB,East,Workflow Pro,Software,1703,408.72,1,Yes,Approved,AC-1119
+D0121,2026-07-27,R01,Maya Chen,Enterprise,North,Training Pack,Services,2631,0,1,No,Approved,AC-1120
+D0122,2026-07-28,R02,Ethan Brooks,Enterprise,South,Analytics Cloud,Software,3559,0,1,Yes,Pending,AC-1121
+D0123,2026-07-29,R03,Sofia Patel,Mid-Market,East,Implementation,Services,4487,0,1,No,Approved,AC-1122
+D0124,2026-07-30,R04,Noah Williams,Mid-Market,West,Support Plus,Support,5415,0,1,No,Approved,AC-1123
+D0125,2026-06-30,R05,Lina Haddad,SMB,North,Workflow Pro,Software,6343,0,1,Yes,Approved,AC-1124
+D0126,2026-07-01,R06,Lucas Martin,SMB,South,Training Pack,Services,7271,0,1,No,Approved,AC-1125
+D0127,2026-07-02,R07,Aylin Demir,Enterprise,East,Analytics Cloud,Software,6966,0,1,Yes,Pending,AC-1126
+D0128,2026-07-03,R08,Owen Taylor,Mid-Market,North,Implementation,Services,7894,0,1,No,Approved,AC-1127
+D0129,2026-07-04,R09,Sara Kim,SMB,West,Support Plus,Support,1622,0,1,No,Approved,AC-1128
+D0130,2026-07-05,R10,Daniel Ruiz,Enterprise,West,Workflow Pro,Software,2550,0,1,Yes,Approved,AC-1129
+D0131,2026-07-06,R11,Elif Kaya,Mid-Market,South,Training Pack,Services,3478,0,1,No,Approved,AC-1130
+D0132,2026-07-07,R12,Jon Bell,SMB,East,Analytics Cloud,Software,4406,0,1,Yes,Pending,AC-1131
+D0133,2026-07-08,R01,Maya Chen,Enterprise,North,Implementation,Services,5334,0,1,No,Approved,AC-1132
+D0134,2026-07-09,R02,Ethan Brooks,Enterprise,South,Support Plus,Support,6262,0,1,No,Approved,AC-1133
+D0135,2026-07-10,R03,Sofia Patel,Mid-Market,East,Workflow Pro,Software,7190,0,1,Yes,Approved,AC-1134
+D0136,2026-07-11,R04,Noah Williams,Mid-Market,West,Training Pack,Services,6885,0,1,No,Approved,AC-1135
+D0137,2026-07-12,R05,Lina Haddad,SMB,North,Analytics Cloud,Software,7813,1406.34,1,Yes,Pending,AC-1136
+D0138,2026-07-13,R06,Lucas Martin,SMB,South,Implementation,Services,1541,0,1,No,Approved,AC-1137
+D0139,2026-07-14,R07,Aylin Demir,Enterprise,East,Support Plus,Support,2469,0,0.5,No,Approved,AC-1138
+D0140,2026-07-15,R08,Owen Taylor,Mid-Market,North,Workflow Pro,Software,3397,0,1,Yes,Approved,AC-1139
+D0141,2026-07-16,R09,Sara Kim,SMB,West,Training Pack,Services,4325,0,1,No,Approved,AC-1140
+D0142,2026-07-17,R10,Daniel Ruiz,Enterprise,West,Analytics Cloud,Software,5253,0,1,Yes,Pending,AC-1141
+D0143,2026-07-18,R11,Elif Kaya,Mid-Market,South,Implementation,Services,6181,0,1,No,Approved,AC-1142
+D0144,2026-07-19,R12,Jon Bell,SMB,East,Support Plus,Support,7109,0,1,No,Approved,AC-1143
+D0145,2026-07-20,R01,Maya Chen,Enterprise,North,Workflow Pro,Software,6804,0,1,Yes,Approved,AC-1144
+D0146,2026-07-21,R02,Ethan Brooks,Enterprise,South,Training Pack,Services,7732,0,0.75,No,Approved,AC-1145
+D0147,2026-07-22,R03,Sofia Patel,Mid-Market,East,Analytics Cloud,Software,1460,0,1,Yes,Pending,AC-1146
+D0148,2026-07-23,R04,Noah Williams,Mid-Market,West,Implementation,Services,2388,0,1,No,Approved,AC-1147
+D0149,2026-07-24,R05,Lina Haddad,SMB,North,Support Plus,Support,3316,0,1,No,Approved,AC-1148
+D0150,2026-07-25,R06,Lucas Martin,SMB,South,Workflow Pro,Software,4244,0,1,Yes,Approved,AC-1149
+D0151,2026-07-26,R07,Aylin Demir,Enterprise,East,Training Pack,Services,5172,0,1,No,Approved,AC-1150
+D0152,2026-07-27,R08,Owen Taylor,Mid-Market,North,Analytics Cloud,Software,6100,0,1,Yes,Pending,AC-1151
+D0153,2026-07-28,R09,Sara Kim,SMB,West,Implementation,Services,7028,0,1,No,Approved,AC-1152
+D0154,2026-07-29,R10,Daniel Ruiz,Enterprise,West,Support Plus,Support,6723,806.76,1,No,Approved,AC-1153
+D0155,2026-07-30,R11,Elif Kaya,Mid-Market,South,Workflow Pro,Software,7651,0,1,Yes,Approved,AC-1154
+D0156,2026-06-30,R12,Jon Bell,SMB,East,Training Pack,Services,1379,0,1,No,Approved,AC-1155
+D0157,2026-07-01,R01,Maya Chen,Enterprise,North,Analytics Cloud,Software,2307,0,1,Yes,Pending,AC-1156
+D0158,2026-07-02,R02,Ethan Brooks,Enterprise,South,Implementation,Services,3235,0,1,No,Approved,AC-1157
+D0159,2026-07-03,R03,Sofia Patel,Mid-Market,East,Support Plus,Support,4163,0,1,No,Approved,AC-1158
+D0160,2026-07-04,R04,Noah Williams,Mid-Market,West,Workflow Pro,Software,5091,0,1,Yes,Approved,AC-1159
+D0161,2026-07-05,R05,Lina Haddad,SMB,North,Training Pack,Services,6019,0,1,No,Approved,AC-1160
+D0162,2026-07-06,R06,Lucas Martin,SMB,South,Analytics Cloud,Software,6947,0,0.5,Yes,Pending,AC-1161
+D0163,2026-07-07,R07,Aylin Demir,Enterprise,East,Implementation,Services,6642,0,1,No,Approved,AC-1162
+D0164,2026-07-08,R08,Owen Taylor,Mid-Market,North,Support Plus,Support,7570,0,1,No,Approved,AC-1163
+D0165,2026-07-09,R09,Sara Kim,SMB,West,Workflow Pro,Software,1298,0,1,Yes,Approved,AC-1164
+D0166,2026-07-10,R10,Daniel Ruiz,Enterprise,West,Training Pack,Services,2226,0,1,No,Approved,AC-1165
+D0167,2026-07-11,R11,Elif Kaya,Mid-Market,South,Analytics Cloud,Software,3154,0,1,Yes,Pending,AC-1166
+D0168,2026-07-12,R12,Jon Bell,SMB,East,Implementation,Services,4082,0,1,No,Approved,AC-1167
+D0169,2026-07-13,R01,Maya Chen,Enterprise,North,Support Plus,Support,5010,0,1,No,Approved,AC-1168
+D0170,2026-07-14,R02,Ethan Brooks,Enterprise,South,Workflow Pro,Software,5938,0,1,Yes,Approved,AC-1169
+D0171,2026-07-15,R03,Sofia Patel,Mid-Market,East,Training Pack,Services,6866,1647.84,1,No,Approved,AC-1170
+D0172,2026-07-16,R04,Noah Williams,Mid-Market,West,Analytics Cloud,Software,6561,0,1,Yes,Pending,AC-1171
+D0173,2026-07-17,R05,Lina Haddad,SMB,North,Implementation,Services,7489,0,1,No,Approved,AC-1172
+D0174,2026-07-18,R06,Lucas Martin,SMB,South,Support Plus,Support,1217,0,1,No,Approved,AC-1173
+D0175,2026-07-19,R07,Aylin Demir,Enterprise,East,Workflow Pro,Software,2145,0,0.75,Yes,Approved,AC-1174
+D0176,2026-07-20,R08,Owen Taylor,Mid-Market,North,Training Pack,Services,3073,0,1,No,Approved,AC-1175
+D0177,2026-07-21,R09,Sara Kim,SMB,West,Analytics Cloud,Software,4001,0,1,Yes,Pending,AC-1176
+D0178,2026-07-22,R10,Daniel Ruiz,Enterprise,West,Implementation,Services,4929,0,1,No,Approved,AC-1177
+D0179,2026-07-23,R11,Elif Kaya,Mid-Market,South,Support Plus,Support,5857,0,1,No,Approved,AC-1178
+D0180,2026-07-24,R12,Jon Bell,SMB,East,Workflow Pro,Software,6785,0,1,Yes,Approved,AC-1179
+D0181,2026-07-25,R01,Maya Chen,Enterprise,North,Training Pack,Services,6480,0,1,No,Approved,AC-1180
+D0182,2026-07-26,R02,Ethan Brooks,Enterprise,South,Analytics Cloud,Software,7408,0,1,Yes,Pending,AC-1181
+D0183,2026-07-27,R03,Sofia Patel,Mid-Market,East,Implementation,Services,8336,0,1,No,Approved,AC-1182
+D0184,2026-07-28,R04,Noah Williams,Mid-Market,West,Support Plus,Support,2064,0,1,No,Approved,AC-1183
+D0185,2026-07-29,R05,Lina Haddad,SMB,North,Workflow Pro,Software,2992,0,0.5,Yes,Approved,AC-1184
+D0186,2026-07-30,R06,Lucas Martin,SMB,South,Training Pack,Services,3920,0,1,No,Approved,AC-1185
+D0187,2026-06-30,R07,Aylin Demir,Enterprise,East,Analytics Cloud,Software,4848,0,1,Yes,Pending,AC-1186
+D0188,2026-07-01,R08,Owen Taylor,Mid-Market,North,Implementation,Services,5776,1039.68,1,No,Approved,AC-1187
+D0189,2026-07-02,R09,Sara Kim,SMB,West,Support Plus,Support,6704,0,1,No,Approved,AC-1188
+D0190,2026-07-03,R10,Daniel Ruiz,Enterprise,West,Workflow Pro,Software,6399,0,1,Yes,Approved,AC-1189
+D0191,2026-07-04,R11,Elif Kaya,Mid-Market,South,Training Pack,Services,7327,0,1,No,Approved,AC-1190
+D0192,2026-07-05,R12,Jon Bell,SMB,East,Analytics Cloud,Software,8255,0,1,Yes,Pending,AC-1191
+D0193,2026-07-06,R01,Maya Chen,Enterprise,North,Implementation,Services,1983,0,1,No,Approved,AC-1192
+D0194,2026-07-07,R02,Ethan Brooks,Enterprise,South,Support Plus,Support,2911,0,1,No,Approved,AC-1193
+D0195,2026-07-08,R03,Sofia Patel,Mid-Market,East,Workflow Pro,Software,3839,0,1,Yes,Approved,AC-1194
+D0196,2026-07-09,R04,Noah Williams,Mid-Market,West,Training Pack,Services,4767,0,1,No,Approved,AC-1195
+D0197,2026-07-10,R05,Lina Haddad,SMB,North,Analytics Cloud,Software,5695,0,1,Yes,Pending,AC-1196
+D0198,2026-07-11,R06,Lucas Martin,SMB,South,Implementation,Services,6623,0,1,No,Approved,AC-1197
+D0199,2026-07-12,R07,Aylin Demir,Enterprise,East,Support Plus,Support,6318,0,1,No,Approved,AC-1198
+D0200,2026-07-13,R08,Owen Taylor,Mid-Market,North,Workflow Pro,Software,7246,0,1,Yes,Approved,AC-1199
+D0201,2026-07-14,R09,Sara Kim,SMB,West,Training Pack,Services,8174,0,1,No,Approved,AC-1200
+D0202,2026-07-15,R10,Daniel Ruiz,Enterprise,West,Analytics Cloud,Software,1902,0,1,Yes,Pending,AC-1201
+D0203,2026-07-16,R11,Elif Kaya,Mid-Market,South,Implementation,Services,2830,0,1,No,Approved,AC-1202
+D0204,2026-07-17,R12,Jon Bell,SMB,East,Support Plus,Support,3758,0,0.75,No,Approved,AC-1203
+D0205,2026-07-18,R01,Maya Chen,Enterprise,North,Workflow Pro,Software,4686,562.32,1,Yes,Approved,AC-1204
+D0206,2026-07-19,R02,Ethan Brooks,Enterprise,South,Training Pack,Services,5614,0,1,No,Approved,AC-1205
+D0207,2026-07-20,R03,Sofia Patel,Mid-Market,East,Analytics Cloud,Software,6542,0,1,Yes,Pending,AC-1206
+D0208,2026-07-21,R04,Noah Williams,Mid-Market,West,Implementation,Services,6237,0,0.5,No,Approved,AC-1207
+D0209,2026-07-22,R05,Lina Haddad,SMB,North,Support Plus,Support,7165,0,1,No,Approved,AC-1208
+D0210,2026-07-23,R06,Lucas Martin,SMB,South,Workflow Pro,Software,8093,0,1,Yes,Approved,AC-1209
+D0211,2026-07-24,R07,Aylin Demir,Enterprise,East,Training Pack,Services,1821,0,1,No,Approved,AC-1210
+D0212,2026-07-25,R08,Owen Taylor,Mid-Market,North,Analytics Cloud,Software,2749,0,1,Yes,Pending,AC-1211
+D0213,2026-07-26,R09,Sara Kim,SMB,West,Implementation,Services,3677,0,1,No,Approved,AC-1212
+D0214,2026-07-27,R10,Daniel Ruiz,Enterprise,West,Support Plus,Support,4605,0,1,No,Approved,AC-1213
+D0215,2026-07-28,R11,Elif Kaya,Mid-Market,South,Workflow Pro,Software,5533,0,1,Yes,Approved,AC-1214
+D0216,2026-07-29,R12,Jon Bell,SMB,East,Training Pack,Services,6461,0,1,No,Approved,AC-1215
+D0217,2026-07-30,R01,Maya Chen,Enterprise,North,Analytics Cloud,Software,6156,0,1,Yes,Pending,AC-1216
+D0218,2026-06-30,R02,Ethan Brooks,Enterprise,South,Implementation,Services,7084,0,1,No,Approved,AC-1217
+D0219,2026-07-01,R03,Sofia Patel,Mid-Market,East,Support Plus,Support,8012,0,1,No,Approved,AC-1218
+D0220,2026-07-02,R04,Noah Williams,Mid-Market,West,Workflow Pro,Software,1740,0,1,Yes,Approved,AC-1219
+D0221,2026-07-03,R05,Lina Haddad,SMB,North,Training Pack,Services,2668,0,1,No,Approved,AC-1220
+D0222,2026-07-04,R06,Lucas Martin,SMB,South,Analytics Cloud,Software,3596,863.04,1,Yes,Pending,AC-1221
+D0223,2026-07-05,R07,Aylin Demir,Enterprise,East,Implementation,Services,4524,0,1,No,Approved,AC-1222
+D0224,2026-07-06,R08,Owen Taylor,Mid-Market,North,Support Plus,Support,5452,0,1,No,Approved,AC-1223
+D0225,2026-07-07,R09,Sara Kim,SMB,West,Workflow Pro,Software,6380,0,1,Yes,Approved,AC-1224
+D0226,2026-07-08,R10,Daniel Ruiz,Enterprise,West,Training Pack,Services,6075,0,1,No,Approved,AC-1225
+D0227,2026-07-09,R11,Elif Kaya,Mid-Market,South,Analytics Cloud,Software,7003,0,1,Yes,Pending,AC-1226
+D0228,2026-07-10,R12,Jon Bell,SMB,East,Implementation,Services,7931,0,1,No,Approved,AC-1227
+D0229,2026-07-11,R01,Maya Chen,Enterprise,North,Support Plus,Support,1659,0,1,No,Approved,AC-1228
+D0230,2026-07-12,R02,Ethan Brooks,Enterprise,South,Workflow Pro,Software,2587,0,1,Yes,Approved,AC-1229
+D0231,2026-07-13,R03,Sofia Patel,Mid-Market,East,Training Pack,Services,3515,0,0.5,No,Approved,AC-1230
+D0232,2026-07-14,R04,Noah Williams,Mid-Market,West,Analytics Cloud,Software,4443,0,1,Yes,Pending,AC-1231
+D0233,2026-07-15,R05,Lina Haddad,SMB,North,Implementation,Services,5371,0,0.75,No,Approved,AC-1232
+D0234,2026-07-16,R06,Lucas Martin,SMB,South,Support Plus,Support,6299,0,1,No,Approved,AC-1233
+D0235,2026-07-17,R07,Aylin Demir,Enterprise,East,Workflow Pro,Software,5994,0,1,Yes,Approved,AC-1234
+D0236,2026-07-18,R08,Owen Taylor,Mid-Market,North,Training Pack,Services,6922,0,1,No,Approved,AC-1235
+D0237,2026-07-19,R09,Sara Kim,SMB,West,Analytics Cloud,Software,7850,0,1,Yes,Pending,AC-1236
+D0238,2026-07-20,R10,Daniel Ruiz,Enterprise,West,Implementation,Services,1578,0,1,No,Approved,AC-1237
+D0239,2026-07-21,R11,Elif Kaya,Mid-Market,South,Support Plus,Support,2506,451.08,1,No,Approved,AC-1238
+D0240,2026-07-22,R12,Jon Bell,SMB,East,Workflow Pro,Software,3434,0,1,Yes,Approved,AC-1239

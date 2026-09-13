@@ -1,0 +1,1001 @@
+SalesLineID,DateKey,ProductKey,CustomerKey,StoreKey,Quantity,DiscountPct,Revenue,Cost,GrossProfit,ProductName,Category,Subcategory,Brand,UnitCost,CustomerName,Region,Segment,City,StoreName,StoreRegion,Manager,Date,Year,MonthNumber,Month,Quarter,DayName
+1,20250726,88,597,18,2,0.0,35.72,23.94,11.78,Product 088,Personal Care,Personal Care Group 1,Brand 14,11.97,Customer 0597,North,Consumer,City 22,Store 18,South,Manager 03,2025-07-26,2025,7,Jul,3,Saturday
+2,20250723,75,374,2,2,0.0,492.63,318.06,174.57,Product 075,Household,Household Group 4,Brand 01,159.03,Customer 0374,South,Corporate,City 39,Store 02,South,Manager 03,2025-07-23,2025,7,Jul,3,Wednesday
+3,20241220,26,1040,2,2,0.0,427.63,252.54,175.09,Product 026,Snacks,Snacks Group 3,Brand 12,126.27,Customer 1040,West,Consumer,City 33,Store 02,South,Manager 03,2024-12-20,2024,12,Dec,4,Friday
+4,20240614,38,1233,4,1,0.0,346.41,161.56,184.85,Product 038,Snacks,Snacks Group 3,Brand 09,161.56,Customer 1233,North,Consumer,City 34,Store 04,West,Manager 05,2024-06-14,2024,6,Jun,2,Friday
+5,20250101,74,143,17,1,0.0,239.26,128.15,111.11,Product 074,Snacks,Snacks Group 3,Brand 15,128.15,Customer 0143,East,Consumer,City 48,Store 17,North,Manager 02,2025-01-01,2025,1,Jan,1,Wednesday
+6,20250424,72,1426,23,1,0.0,203.03,134.33,68.7,Product 072,Office,Office Group 1,Brand 13,134.33,Customer 1426,South,SMB,City 35,Store 23,East,Manager 08,2025-04-24,2025,4,Apr,2,Thursday
+7,20250101,53,20,16,1,0.05,132.37,71.73,60.64,Product 053,Electronics,Electronics Group 2,Brand 09,71.73,Customer 0020,West,SMB,City 21,Store 16,West,Manager 01,2025-01-01,2025,1,Jan,1,Wednesday
+8,20250920,34,931,4,2,0.0,547.96,352.54,195.42,Product 034,Personal Care,Personal Care Group 3,Brand 05,176.27,Customer 0931,East,Corporate,City 20,Store 04,West,Manager 05,2025-09-20,2025,9,Sep,3,Saturday
+9,20241120,103,3400,24,3,0.0,799.32,520.65,278.67,Product 103,Beverages,Beverages Group 4,Brand 14,173.55,Customer 3400,West,Corporate,City 41,Store 24,West,Manager 01,2024-11-20,2024,11,Nov,4,Wednesday
+10,20240824,30,1611,19,1,0.05,60.13,40.0,20.13,Product 030,Office,Office Group 3,Brand 01,40.0,Customer 1611,East,Corporate,City 28,Store 19,East,Manager 04,2024-08-24,2024,8,Aug,3,Saturday
+11,20240508,45,324,2,1,0.15,196.79,144.18,52.61,Product 045,Household,Household Group 2,Brand 01,144.18,Customer 0324,West,Consumer,City 37,Store 02,South,Manager 03,2024-05-08,2024,5,May,2,Wednesday
+12,20250113,64,3951,24,1,0.05,198.52,139.12,59.4,Product 064,Personal Care,Personal Care Group 1,Brand 05,139.12,Customer 3951,East,SMB,City 16,Store 24,West,Manager 01,2025-01-13,2025,1,Jan,1,Monday
+13,20240418,85,3148,24,1,0.05,270.5,157.46,113.04,Product 085,Beverages,Beverages Group 2,Brand 11,157.46,Customer 3148,West,Consumer,City 29,Store 24,West,Manager 01,2024-04-18,2024,4,Apr,2,Thursday
+14,20251102,47,1736,2,3,0.0,70.19,35.22,34.97,Product 047,Electronics,Electronics Group 4,Brand 03,11.74,Customer 1736,West,SMB,City 09,Store 02,South,Manager 03,2025-11-02,2025,11,Nov,4,Sunday
+15,20251105,3,1211,5,2,0.0,81.32,53.1,28.22,Product 003,Household,Household Group 4,Brand 04,26.55,Customer 1211,East,Consumer,City 12,Store 05,North,Manager 06,2025-11-05,2025,11,Nov,4,Wednesday
+16,20250125,2,3105,16,1,0.05,222.43,135.26,87.17,Product 002,Snacks,Snacks Group 3,Brand 03,135.26,Customer 3105,North,SMB,City 34,Store 16,West,Manager 01,2025-01-25,2025,1,Jan,1,Saturday
+17,20251117,57,2729,24,3,0.1,369.1,234.12,134.98,Product 057,Household,Household Group 2,Brand 13,78.04,Customer 2729,North,Consumer,City 42,Store 24,West,Manager 01,2025-11-17,2025,11,Nov,4,Monday
+18,20241201,36,287,11,2,0.05,150.4,100.88,49.52,Product 036,Office,Office Group 1,Brand 07,50.44,Customer 0287,East,Consumer,City 48,Store 11,East,Manager 04,2024-12-01,2024,12,Dec,4,Sunday
+19,20241122,46,901,5,1,0.0,360.07,165.56,194.51,Product 046,Personal Care,Personal Care Group 3,Brand 02,165.56,Customer 0901,North,Corporate,City 38,Store 05,North,Manager 06,2024-11-22,2024,11,Nov,4,Friday
+20,20250827,91,2847,15,1,0.2,57.95,41.28,16.67,Product 091,Beverages,Beverages Group 4,Brand 02,41.28,Customer 2847,East,Corporate,City 16,Store 15,East,Manager 08,2025-08-27,2025,8,Aug,3,Wednesday
+21,20240722,89,1345,17,1,0.15,88.13,69.24,18.89,Product 089,Electronics,Electronics Group 2,Brand 15,69.24,Customer 1345,North,Consumer,City 02,Store 17,North,Manager 02,2024-07-22,2024,7,Jul,3,Monday
+22,20250609,73,541,11,3,0.1,45.27,34.14,11.13,Product 073,Beverages,Beverages Group 2,Brand 14,11.38,Customer 0541,North,SMB,City 14,Store 11,East,Manager 04,2025-06-09,2025,6,Jun,2,Monday
+23,20250716,37,242,15,1,0.0,151.67,84.39,67.28,Product 037,Beverages,Beverages Group 2,Brand 08,84.39,Customer 0242,South,Consumer,City 03,Store 15,East,Manager 08,2025-07-16,2025,7,Jul,3,Wednesday
+24,20241227,6,1666,1,2,0.1,196.68,130.36,66.32,Product 006,Office,Office Group 3,Brand 07,65.18,Customer 1666,South,Consumer,City 35,Store 01,North,Manager 02,2024-12-27,2024,12,Dec,4,Friday
+25,20250215,64,3375,5,2,0.0,513.85,278.24,235.61,Product 064,Personal Care,Personal Care Group 1,Brand 05,139.12,Customer 3375,East,Consumer,City 16,Store 05,North,Manager 06,2025-02-15,2025,2,Feb,1,Saturday
+26,20240415,74,3322,14,1,0.1,178.88,128.15,50.73,Product 074,Snacks,Snacks Group 3,Brand 15,128.15,Customer 3322,South,Consumer,City 11,Store 14,South,Manager 07,2024-04-15,2024,4,Apr,2,Monday
+27,20250103,100,2148,7,1,0.0,315.9,153.71,162.19,Product 100,Personal Care,Personal Care Group 1,Brand 11,153.71,Customer 2148,West,Consumer,City 37,Store 07,East,Manager 08,2025-01-03,2025,1,Jan,1,Friday
+28,20250211,54,3876,3,2,0.0,661.53,322.38,339.15,Product 054,Office,Office Group 3,Brand 10,161.19,Customer 3876,West,Consumer,City 37,Store 03,East,Manager 04,2025-02-11,2025,2,Feb,1,Tuesday
+29,20250220,12,521,23,1,0.0,175.85,112.31,63.54,Product 012,Office,Office Group 1,Brand 13,112.31,Customer 0521,North,Consumer,City 42,Store 23,East,Manager 08,2025-02-20,2025,2,Feb,1,Thursday
+30,20251213,22,349,14,2,0.05,17.08,8.38,8.7,Product 022,Personal Care,Personal Care Group 3,Brand 08,4.19,Customer 0349,North,SMB,City 14,Store 14,South,Manager 07,2025-12-13,2025,12,Dec,4,Saturday
+31,20250616,14,3567,16,2,0.0,53.7,25.42,28.28,Product 014,Snacks,Snacks Group 3,Brand 15,12.71,Customer 3567,East,SMB,City 16,Store 16,West,Manager 01,2025-06-16,2025,6,Jun,2,Monday
+32,20240119,44,3971,15,2,0.1,82.75,59.24,23.51,Product 044,Snacks,Snacks Group 1,Brand 15,29.62,Customer 3971,East,SMB,City 36,Store 15,East,Manager 08,2024-01-19,2024,1,Jan,1,Friday
+33,20240619,13,968,10,3,0.0,810.82,407.61,403.21,Product 013,Beverages,Beverages Group 2,Brand 14,135.87,Customer 0968,West,Consumer,City 09,Store 10,South,Manager 03,2024-06-19,2024,6,Jun,2,Wednesday
+34,20250926,10,689,12,1,0.0,257.58,142.99,114.59,Product 010,Personal Care,Personal Care Group 3,Brand 11,142.99,Customer 0689,North,Corporate,City 18,Store 12,West,Manager 05,2025-09-26,2025,9,Sep,3,Friday
+35,20250118,16,2698,2,2,0.1,418.14,274.28,143.86,Product 016,Personal Care,Personal Care Group 1,Brand 02,137.14,Customer 2698,South,Consumer,City 11,Store 02,South,Manager 03,2025-01-18,2025,1,Jan,1,Saturday
+36,20250207,82,1718,19,1,0.05,71.72,42.92,28.8,Product 082,Personal Care,Personal Care Group 3,Brand 08,42.92,Customer 1718,South,SMB,City 39,Store 19,East,Manager 04,2025-02-07,2025,2,Feb,1,Friday
+37,20240528,51,1696,14,2,0.05,451.17,277.32,173.85,Product 051,Household,Household Group 4,Brand 07,138.66,Customer 1696,West,Corporate,City 17,Store 14,South,Manager 07,2024-05-28,2024,5,May,2,Tuesday
+38,20251204,102,2952,10,1,0.0,327.52,150.84,176.68,Product 102,Office,Office Group 3,Brand 13,150.84,Customer 2952,West,Consumer,City 25,Store 10,South,Manager 03,2025-12-04,2025,12,Dec,4,Thursday
+39,20251206,11,214,12,1,0.0,28.27,16.52,11.75,Product 011,Electronics,Electronics Group 4,Brand 12,16.52,Customer 0214,South,Consumer,City 23,Store 12,West,Manager 05,2025-12-06,2025,12,Dec,4,Saturday
+40,20250910,103,1064,4,1,0.05,310.61,173.55,137.06,Product 103,Beverages,Beverages Group 4,Brand 14,173.55,Customer 1064,West,Consumer,City 09,Store 04,West,Manager 05,2025-09-10,2025,9,Sep,3,Wednesday
+41,20250405,57,2404,4,2,0.15,210.41,156.08,54.33,Product 057,Household,Household Group 2,Brand 13,78.04,Customer 2404,West,Consumer,City 05,Store 04,West,Manager 05,2025-04-05,2025,4,Apr,2,Saturday
+42,20250314,61,1716,16,1,0.1,64.4,35.55,28.85,Product 061,Beverages,Beverages Group 2,Brand 02,35.55,Customer 1716,West,Consumer,City 37,Store 16,West,Manager 01,2025-03-14,2025,3,Mar,1,Friday
+43,20240119,31,1954,21,2,0.0,248.44,164.52,83.92,Product 031,Beverages,Beverages Group 4,Brand 02,82.26,Customer 1954,South,Consumer,City 35,Store 21,North,Manager 06,2024-01-19,2024,1,Jan,1,Friday
+44,20240424,85,74,22,1,0.1,213.34,157.46,55.88,Product 085,Beverages,Beverages Group 2,Brand 11,157.46,Customer 0074,South,Consumer,City 27,Store 22,South,Manager 07,2024-04-24,2024,4,Apr,2,Wednesday
+45,20240414,21,3090,21,2,0.0,129.3,63.6,65.7,Product 021,Household,Household Group 2,Brand 07,31.8,Customer 3090,South,SMB,City 19,Store 21,North,Manager 06,2024-04-14,2024,4,Apr,2,Sunday
+46,20250910,46,1593,12,2,0.05,527.84,331.12,196.72,Product 046,Personal Care,Personal Care Group 3,Brand 02,165.56,Customer 1593,North,Corporate,City 10,Store 12,West,Manager 05,2025-09-10,2025,9,Sep,3,Wednesday
+47,20251107,108,1613,14,1,0.0,110.65,72.31,38.34,Product 108,Office,Office Group 1,Brand 04,72.31,Customer 1613,North,Consumer,City 30,Store 14,South,Manager 07,2025-11-07,2025,11,Nov,4,Friday
+48,20250820,103,3252,9,1,0.0,305.64,173.55,132.09,Product 103,Beverages,Beverages Group 4,Brand 14,173.55,Customer 3252,West,Consumer,City 37,Store 09,North,Manager 02,2025-08-20,2025,8,Aug,3,Wednesday
+49,20241028,18,2654,6,2,0.05,718.72,338.44,380.28,Product 018,Office,Office Group 3,Brand 04,169.22,Customer 2654,South,Consumer,City 15,Store 06,South,Manager 07,2024-10-28,2024,10,Oct,4,Monday
+50,20250730,27,581,8,4,0.0,601.55,333.88,267.67,Product 027,Household,Household Group 4,Brand 13,83.47,Customer 0581,North,Consumer,City 06,Store 08,West,Manager 01,2025-07-30,2025,7,Jul,3,Wednesday
+51,20240820,103,868,4,1,0.0,370.25,173.55,196.7,Product 103,Beverages,Beverages Group 4,Brand 14,173.55,Customer 0868,West,SMB,City 05,Store 04,West,Manager 05,2024-08-20,2024,8,Aug,3,Tuesday
+52,20250513,75,1789,14,1,0.0,316.13,159.03,157.1,Product 075,Household,Household Group 4,Brand 01,159.03,Customer 1789,North,Consumer,City 14,Store 14,South,Manager 07,2025-05-13,2025,5,May,2,Tuesday
+53,20251206,11,355,21,3,0.0,96.13,49.56,46.57,Product 011,Electronics,Electronics Group 4,Brand 12,16.52,Customer 0355,East,Consumer,City 20,Store 21,North,Manager 06,2025-12-06,2025,12,Dec,4,Saturday
+54,20250102,97,1967,22,2,0.0,142.81,94.5,48.31,Product 097,Beverages,Beverages Group 2,Brand 08,47.25,Customer 1967,East,SMB,City 48,Store 22,South,Manager 07,2025-01-02,2025,1,Jan,1,Thursday
+55,20240514,43,1379,22,1,0.0,183.94,107.49,76.45,Product 043,Beverages,Beverages Group 4,Brand 14,107.49,Customer 1379,East,Consumer,City 36,Store 22,South,Manager 07,2024-05-14,2024,5,May,2,Tuesday
+56,20251027,81,3265,16,2,0.0,44.88,23.38,21.5,Product 081,Household,Household Group 2,Brand 07,11.69,Customer 3265,North,SMB,City 02,Store 16,West,Manager 01,2025-10-27,2025,10,Oct,4,Monday
+57,20240313,76,2196,4,1,0.2,138.04,106.44,31.6,Product 076,Personal Care,Personal Care Group 1,Brand 02,106.44,Customer 2196,West,SMB,City 37,Store 04,West,Manager 05,2024-03-13,2024,3,Mar,1,Wednesday
+58,20240904,90,2109,19,1,0.0,33.49,21.33,12.16,Product 090,Office,Office Group 3,Brand 01,21.33,Customer 2109,North,Consumer,City 46,Store 19,East,Manager 04,2024-09-04,2024,9,Sep,3,Wednesday
+59,20240620,114,3878,14,2,0.0,439.22,203.24,235.98,Product 114,Office,Office Group 3,Brand 10,101.62,Customer 3878,South,SMB,City 39,Store 14,South,Manager 07,2024-06-20,2024,6,Jun,2,Thursday
+60,20250805,93,1997,15,1,0.0,326.63,176.84,149.79,Product 093,Household,Household Group 2,Brand 04,176.84,Customer 1997,North,SMB,City 30,Store 15,East,Manager 08,2025-08-05,2025,8,Aug,3,Tuesday
+61,20250802,52,3613,15,1,0.05,227.76,135.69,92.07,Product 052,Personal Care,Personal Care Group 1,Brand 08,135.69,Customer 3613,North,SMB,City 14,Store 15,East,Manager 08,2025-08-02,2025,8,Aug,3,Saturday
+62,20250913,13,554,23,1,0.1,199.75,135.87,63.88,Product 013,Beverages,Beverages Group 2,Brand 14,135.87,Customer 0554,South,SMB,City 27,Store 23,East,Manager 08,2025-09-13,2025,9,Sep,3,Saturday
+63,20240105,104,3390,15,4,0.15,695.04,489.92,205.12,Product 104,Snacks,Snacks Group 1,Brand 15,122.48,Customer 3390,South,SMB,City 31,Store 15,East,Manager 08,2024-01-05,2024,1,Jan,1,Friday
+64,20240926,57,3445,16,3,0.0,483.23,234.12,249.11,Product 057,Household,Household Group 2,Brand 13,78.04,Customer 3445,North,SMB,City 38,Store 16,West,Manager 01,2024-09-26,2024,9,Sep,3,Thursday
+65,20250726,59,3632,6,3,0.1,483.89,257.55,226.34,Product 059,Electronics,Electronics Group 4,Brand 15,85.85,Customer 3632,West,Consumer,City 33,Store 06,South,Manager 07,2025-07-26,2025,7,Jul,3,Saturday
+66,20250205,115,3796,24,5,0.0,1506.06,741.2,764.86,Product 115,Beverages,Beverages Group 4,Brand 11,148.24,Customer 3796,West,SMB,City 05,Store 24,West,Manager 01,2025-02-05,2025,2,Feb,1,Wednesday
+67,20250304,5,2531,7,1,0.15,110.87,82.65,28.22,Product 005,Electronics,Electronics Group 2,Brand 06,82.65,Customer 2531,East,Consumer,City 36,Store 07,East,Manager 08,2025-03-04,2025,3,Mar,1,Tuesday
+68,20250413,43,1152,5,3,0.0,648.53,322.47,326.06,Product 043,Beverages,Beverages Group 4,Brand 14,107.49,Customer 1152,West,SMB,City 01,Store 05,North,Manager 06,2025-04-13,2025,4,Apr,2,Sunday
+69,20251222,44,258,24,2,0.05,102.46,59.24,43.22,Product 044,Snacks,Snacks Group 1,Brand 15,29.62,Customer 0258,South,Consumer,City 19,Store 24,West,Manager 01,2025-12-22,2025,12,Dec,4,Monday
+70,20250720,35,2717,22,1,0.05,297.82,154.37,143.45,Product 035,Electronics,Electronics Group 4,Brand 06,154.37,Customer 2717,North,Consumer,City 30,Store 22,South,Manager 07,2025-07-20,2025,7,Jul,3,Sunday
+71,20241006,36,835,7,3,0.15,252.43,151.32,101.11,Product 036,Office,Office Group 1,Brand 07,50.44,Customer 0835,East,Consumer,City 20,Store 07,East,Manager 08,2024-10-06,2024,10,Oct,4,Sunday
+72,20240510,113,1531,22,2,0.15,95.37,57.34,38.03,Product 113,Electronics,Electronics Group 2,Brand 09,28.67,Customer 1531,East,Consumer,City 44,Store 22,South,Manager 07,2024-05-10,2024,5,May,2,Friday
+73,20250630,85,1895,24,2,0.0,601.87,314.92,286.95,Product 085,Beverages,Beverages Group 2,Brand 11,157.46,Customer 1895,East,Consumer,City 24,Store 24,West,Manager 01,2025-06-30,2025,6,Jun,2,Monday
+74,20251101,64,2739,14,3,0.0,630.34,417.36,212.98,Product 064,Personal Care,Personal Care Group 1,Brand 05,139.12,Customer 2739,East,Consumer,City 04,Store 14,South,Manager 07,2025-11-01,2025,11,Nov,4,Saturday
+75,20251030,113,1842,11,1,0.0,64.41,28.67,35.74,Product 113,Electronics,Electronics Group 2,Brand 09,28.67,Customer 1842,South,Consumer,City 19,Store 11,East,Manager 04,2025-10-30,2025,10,Oct,4,Thursday
+76,20240908,15,931,22,2,0.0,742.9,349.2,393.7,Product 015,Household,Household Group 4,Brand 01,174.6,Customer 0931,East,Corporate,City 20,Store 22,South,Manager 07,2024-09-08,2024,9,Sep,3,Sunday
+77,20250613,19,2660,9,1,0.15,40.54,30.62,9.92,Product 019,Beverages,Beverages Group 4,Brand 05,30.62,Customer 2660,West,SMB,City 21,Store 09,North,Manager 02,2025-06-13,2025,6,Jun,2,Friday
+78,20251006,45,3843,12,2,0.0,628.0,288.36,339.64,Product 045,Household,Household Group 2,Brand 01,144.18,Customer 3843,East,Corporate,City 04,Store 12,West,Manager 05,2025-10-06,2025,10,Oct,4,Monday
+79,20250505,66,405,23,2,0.0,72.02,41.1,30.92,Product 066,Office,Office Group 3,Brand 07,20.55,Customer 0405,North,Consumer,City 22,Store 23,East,Manager 08,2025-05-05,2025,5,May,2,Monday
+80,20240518,87,2213,10,2,0.0,289.87,130.42,159.45,Product 087,Household,Household Group 4,Brand 13,65.21,Customer 2213,North,Consumer,City 06,Store 10,South,Manager 03,2024-05-18,2024,5,May,2,Saturday
+81,20250118,53,27,16,1,0.0,124.62,71.73,52.89,Product 053,Electronics,Electronics Group 2,Brand 09,71.73,Customer 0027,East,Consumer,City 28,Store 16,West,Manager 01,2025-01-18,2025,1,Jan,1,Saturday
+82,20250526,84,1567,13,1,0.0,293.4,154.18,139.22,Product 084,Office,Office Group 1,Brand 10,154.18,Customer 1567,East,Corporate,City 32,Store 13,North,Manager 06,2025-05-26,2025,5,May,2,Monday
+83,20250227,66,1663,2,1,0.0,40.9,20.55,20.35,Product 066,Office,Office Group 3,Brand 07,20.55,Customer 1663,East,Consumer,City 32,Store 02,South,Manager 03,2025-02-27,2025,2,Feb,1,Thursday
+84,20240316,18,2872,20,3,0.1,964.56,507.66,456.9,Product 018,Office,Office Group 3,Brand 04,169.22,Customer 2872,West,Corporate,City 41,Store 20,West,Manager 05,2024-03-16,2024,3,Mar,1,Saturday
+85,20250523,120,2750,24,1,0.0,17.8,8.98,8.82,Product 120,Office,Office Group 1,Brand 01,8.98,Customer 2750,South,SMB,City 15,Store 24,West,Manager 01,2025-05-23,2025,5,May,2,Friday
+86,20240930,62,1264,18,4,0.1,827.34,631.48,195.86,Product 062,Snacks,Snacks Group 3,Brand 03,157.87,Customer 1264,West,Corporate,City 17,Store 18,South,Manager 03,2024-09-30,2024,9,Sep,3,Monday
+87,20251230,16,3171,4,1,0.0,221.93,137.14,84.79,Product 016,Personal Care,Personal Care Group 1,Brand 02,137.14,Customer 3171,East,Consumer,City 04,Store 04,West,Manager 05,2025-12-30,2025,12,Dec,4,Tuesday
+88,20240307,89,100,4,2,0.0,302.27,138.48,163.79,Product 089,Electronics,Electronics Group 2,Brand 15,69.24,Customer 0100,West,SMB,City 05,Store 04,West,Manager 05,2024-03-07,2024,3,Mar,1,Thursday
+89,20251112,19,1261,13,2,0.0,100.32,61.24,39.08,Product 019,Beverages,Beverages Group 4,Brand 05,30.62,Customer 1261,North,Corporate,City 14,Store 13,North,Manager 06,2025-11-12,2025,11,Nov,4,Wednesday
+90,20250309,47,3988,9,1,0.0,25.08,11.74,13.34,Product 047,Electronics,Electronics Group 4,Brand 03,11.74,Customer 3988,West,Consumer,City 05,Store 09,North,Manager 02,2025-03-09,2025,3,Mar,1,Sunday
+91,20250624,17,530,14,1,0.05,88.1,44.35,43.75,Product 017,Electronics,Electronics Group 2,Brand 03,44.35,Customer 0530,South,Consumer,City 03,Store 14,South,Manager 07,2025-06-24,2025,6,Jun,2,Tuesday
+92,20240513,40,1674,9,2,0.0,296.96,180.32,116.64,Product 040,Personal Care,Personal Care Group 1,Brand 11,90.16,Customer 1674,South,SMB,City 43,Store 09,North,Manager 02,2024-05-13,2024,5,May,2,Monday
+93,20241208,101,3725,10,1,0.0,253.77,119.36,134.41,Product 101,Electronics,Electronics Group 2,Brand 12,119.36,Customer 3725,North,Consumer,City 30,Store 10,South,Manager 03,2024-12-08,2024,12,Dec,4,Sunday
+94,20240916,37,3547,20,3,0.05,469.1,253.17,215.93,Product 037,Beverages,Beverages Group 2,Brand 08,84.39,Customer 3547,East,Consumer,City 44,Store 20,West,Manager 05,2024-09-16,2024,9,Sep,3,Monday
+95,20250817,98,2295,19,1,0.0,242.6,143.41,99.19,Product 098,Snacks,Snacks Group 3,Brand 09,143.41,Customer 2295,East,Corporate,City 40,Store 19,East,Manager 04,2025-08-17,2025,8,Aug,3,Sunday
+96,20250507,102,2749,20,1,0.05,223.45,150.84,72.61,Product 102,Office,Office Group 3,Brand 13,150.84,Customer 2749,North,Consumer,City 14,Store 20,West,Manager 05,2025-05-07,2025,5,May,2,Wednesday
+97,20250818,91,1135,3,1,0.0,76.92,41.28,35.64,Product 091,Beverages,Beverages Group 4,Brand 02,41.28,Customer 1135,East,Consumer,City 32,Store 03,East,Manager 04,2025-08-18,2025,8,Aug,3,Monday
+98,20241007,40,1307,3,1,0.1,160.31,90.16,70.15,Product 040,Personal Care,Personal Care Group 1,Brand 11,90.16,Customer 1307,East,Consumer,City 12,Store 03,East,Manager 04,2024-10-07,2024,10,Oct,4,Monday
+99,20240912,12,950,16,1,0.0,245.33,112.31,133.02,Product 012,Office,Office Group 1,Brand 13,112.31,Customer 0950,South,SMB,City 39,Store 16,West,Manager 01,2024-09-12,2024,9,Sep,3,Thursday
+100,20250301,77,2668,13,1,0.0,166.67,87.62,79.05,Product 077,Electronics,Electronics Group 2,Brand 03,87.62,Customer 2668,West,Consumer,City 29,Store 13,North,Manager 06,2025-03-01,2025,3,Mar,1,Saturday
+101,20250620,22,1554,11,1,0.1,6.36,4.19,2.17,Product 022,Personal Care,Personal Care Group 3,Brand 08,4.19,Customer 1554,South,Consumer,City 19,Store 11,East,Manager 04,2025-06-20,2025,6,Jun,2,Friday
+102,20250512,20,654,19,1,0.05,54.76,39.58,15.18,Product 020,Snacks,Snacks Group 1,Brand 06,39.58,Customer 0654,South,Consumer,City 31,Store 19,East,Manager 04,2025-05-12,2025,5,May,2,Monday
+103,20250503,18,2591,23,4,0.0,1188.39,676.88,511.51,Product 018,Office,Office Group 3,Brand 04,169.22,Customer 2591,East,Consumer,City 48,Store 23,East,Manager 08,2025-05-03,2025,5,May,2,Saturday
+104,20240702,45,2906,19,1,0.0,304.84,144.18,160.66,Product 045,Household,Household Group 2,Brand 01,144.18,Customer 2906,South,Consumer,City 27,Store 19,East,Manager 04,2024-07-02,2024,7,Jul,3,Tuesday
+105,20240215,55,98,11,3,0.1,504.12,321.21,182.91,Product 055,Beverages,Beverages Group 4,Brand 11,107.07,Customer 0098,South,Consumer,City 03,Store 11,East,Manager 04,2024-02-15,2024,2,Feb,1,Thursday
+106,20250711,91,3706,14,1,0.0,78.65,41.28,37.37,Product 091,Beverages,Beverages Group 4,Brand 02,41.28,Customer 3706,South,Consumer,City 11,Store 14,South,Manager 07,2025-07-11,2025,7,Jul,3,Friday
+107,20250708,9,301,12,2,0.0,574.52,267.9,306.62,Product 009,Household,Household Group 2,Brand 10,133.95,Customer 0301,North,Corporate,City 14,Store 12,West,Manager 05,2025-07-08,2025,7,Jul,3,Tuesday
+108,20250427,28,613,7,1,0.0,185.86,96.3,89.56,Product 028,Personal Care,Personal Care Group 1,Brand 14,96.3,Customer 0613,North,SMB,City 38,Store 07,East,Manager 08,2025-04-27,2025,4,Apr,2,Sunday
+109,20251010,2,1580,4,2,0.0,573.74,270.52,303.22,Product 002,Snacks,Snacks Group 3,Brand 03,135.26,Customer 1580,West,Consumer,City 45,Store 04,West,Manager 05,2025-10-10,2025,10,Oct,4,Friday
+110,20240525,96,675,12,1,0.05,25.76,15.98,9.78,Product 096,Office,Office Group 1,Brand 07,15.98,Customer 0675,East,Corporate,City 04,Store 12,West,Manager 05,2024-05-25,2024,5,May,2,Saturday
+111,20240419,99,3953,14,2,0.1,638.38,357.64,280.74,Product 099,Household,Household Group 4,Brand 10,178.82,Customer 3953,North,Consumer,City 18,Store 14,South,Manager 07,2024-04-19,2024,4,Apr,2,Friday
+112,20240815,104,3047,7,1,0.05,187.45,122.48,64.97,Product 104,Snacks,Snacks Group 1,Brand 15,122.48,Customer 3047,East,Consumer,City 24,Store 07,East,Manager 08,2024-08-15,2024,8,Aug,3,Thursday
+113,20240525,11,2687,14,1,0.0,32.34,16.52,15.82,Product 011,Electronics,Electronics Group 4,Brand 12,16.52,Customer 2687,East,Consumer,City 48,Store 14,South,Manager 07,2024-05-25,2024,5,May,2,Saturday
+114,20250518,28,962,5,1,0.0,183.2,96.3,86.9,Product 028,Personal Care,Personal Care Group 1,Brand 14,96.3,Customer 0962,South,Corporate,City 03,Store 05,North,Manager 06,2025-05-18,2025,5,May,2,Sunday
+115,20240701,49,3385,10,1,0.0,80.71,47.56,33.15,Product 049,Beverages,Beverages Group 2,Brand 05,47.56,Customer 3385,North,SMB,City 26,Store 10,South,Manager 03,2024-07-01,2024,7,Jul,3,Monday
+116,20240113,67,1811,14,2,0.15,464.38,285.88,178.5,Product 067,Beverages,Beverages Group 4,Brand 08,142.94,Customer 1811,East,SMB,City 36,Store 14,South,Manager 07,2024-01-13,2024,1,Jan,1,Saturday
+117,20250831,9,957,24,1,0.0,241.67,133.95,107.72,Product 009,Household,Household Group 2,Brand 10,133.95,Customer 0957,North,Consumer,City 46,Store 24,West,Manager 01,2025-08-31,2025,8,Aug,3,Sunday
+118,20241104,39,2096,22,1,0.0,44.29,21.15,23.14,Product 039,Household,Household Group 4,Brand 10,21.15,Customer 2096,West,Consumer,City 33,Store 22,South,Manager 07,2024-11-04,2024,11,Nov,4,Monday
+119,20250119,82,1454,22,2,0.1,139.2,85.84,53.36,Product 082,Personal Care,Personal Care Group 3,Brand 08,42.92,Customer 1454,South,Consumer,City 15,Store 22,South,Manager 07,2025-01-19,2025,1,Jan,1,Sunday
+120,20250512,65,1057,3,2,0.1,229.37,137.88,91.49,Product 065,Electronics,Electronics Group 2,Brand 06,68.94,Customer 1057,North,Consumer,City 02,Store 03,East,Manager 04,2025-05-12,2025,5,May,2,Monday
+121,20251116,72,88,11,1,0.0,208.19,134.33,73.86,Product 072,Office,Office Group 1,Brand 13,134.33,Customer 0088,West,Consumer,City 41,Store 11,East,Manager 04,2025-11-16,2025,11,Nov,4,Sunday
+122,20240427,118,999,17,3,0.0,1125.75,514.74,611.01,Product 118,Personal Care,Personal Care Group 3,Brand 14,171.58,Customer 0999,East,Consumer,City 40,Store 17,North,Manager 02,2024-04-27,2024,4,Apr,2,Saturday
+123,20250416,102,1420,3,1,0.1,252.33,150.84,101.49,Product 102,Office,Office Group 3,Brand 13,150.84,Customer 1420,West,SMB,City 29,Store 03,East,Manager 04,2025-04-16,2025,4,Apr,2,Wednesday
+124,20250709,36,2623,5,1,0.0,94.18,50.44,43.74,Product 036,Office,Office Group 1,Brand 07,50.44,Customer 2623,East,Consumer,City 32,Store 05,North,Manager 06,2025-07-09,2025,7,Jul,3,Wednesday
+125,20241011,116,1018,9,2,0.0,52.13,29.7,22.43,Product 116,Snacks,Snacks Group 1,Brand 12,14.85,Customer 1018,South,SMB,City 11,Store 09,North,Manager 02,2024-10-11,2024,10,Oct,4,Friday
+126,20250814,117,390,5,2,0.05,286.58,203.74,82.84,Product 117,Household,Household Group 2,Brand 13,101.87,Customer 0390,South,Consumer,City 07,Store 05,North,Manager 06,2025-08-14,2025,8,Aug,3,Thursday
+127,20250103,62,2248,14,1,0.0,299.63,157.87,141.76,Product 062,Snacks,Snacks Group 3,Brand 03,157.87,Customer 2248,West,Corporate,City 41,Store 14,South,Manager 07,2025-01-03,2025,1,Jan,1,Friday
+128,20240109,32,2280,3,1,0.0,358.41,166.48,191.93,Product 032,Snacks,Snacks Group 1,Brand 03,166.48,Customer 2280,West,Consumer,City 25,Store 03,East,Manager 04,2024-01-09,2024,1,Jan,1,Tuesday
+129,20251023,44,3471,9,5,0.0,331.68,148.1,183.58,Product 044,Snacks,Snacks Group 1,Brand 15,29.62,Customer 3471,East,Corporate,City 16,Store 09,North,Manager 02,2025-10-23,2025,10,Oct,4,Thursday
+130,20251223,25,2226,17,1,0.1,172.47,128.02,44.45,Product 025,Beverages,Beverages Group 2,Brand 11,128.02,Customer 2226,South,Consumer,City 19,Store 17,North,Manager 02,2025-12-23,2025,12,Dec,4,Tuesday
+131,20251201,77,516,6,3,0.15,389.87,262.86,127.01,Product 077,Electronics,Electronics Group 2,Brand 03,87.62,Customer 0516,West,Corporate,City 37,Store 06,South,Manager 07,2025-12-01,2025,12,Dec,4,Monday
+132,20240903,103,3772,12,1,0.0,324.61,173.55,151.06,Product 103,Beverages,Beverages Group 4,Brand 14,173.55,Customer 3772,West,SMB,City 29,Store 12,West,Manager 05,2024-09-03,2024,9,Sep,3,Tuesday
+133,20241101,106,435,2,5,0.05,581.97,388.7,193.27,Product 106,Personal Care,Personal Care Group 3,Brand 02,77.74,Customer 0435,East,Consumer,City 04,Store 02,South,Manager 03,2024-11-01,2024,11,Nov,4,Friday
+134,20251230,17,1664,24,2,0.0,135.98,88.7,47.28,Product 017,Electronics,Electronics Group 2,Brand 03,44.35,Customer 1664,West,Consumer,City 33,Store 24,West,Manager 01,2025-12-30,2025,12,Dec,4,Tuesday
+135,20240901,37,3665,22,1,0.0,137.69,84.39,53.3,Product 037,Beverages,Beverages Group 2,Brand 08,84.39,Customer 3665,North,Consumer,City 18,Store 22,South,Manager 07,2024-09-01,2024,9,Sep,3,Sunday
+136,20241024,42,1583,12,2,0.0,92.3,62.18,30.12,Product 042,Office,Office Group 3,Brand 13,31.09,Customer 1583,East,Consumer,City 48,Store 12,West,Manager 05,2024-10-24,2024,10,Oct,4,Thursday
+137,20250508,78,1154,19,1,0.1,95.39,65.31,30.08,Product 078,Office,Office Group 3,Brand 04,65.31,Customer 1154,South,Corporate,City 03,Store 19,East,Manager 04,2025-05-08,2025,5,May,2,Thursday
+138,20241220,7,217,3,3,0.0,688.28,440.37,247.91,Product 007,Beverages,Beverages Group 4,Brand 08,146.79,Customer 0217,North,SMB,City 26,Store 03,East,Manager 04,2024-12-20,2024,12,Dec,4,Friday
+139,20250201,90,2352,13,2,0.15,69.23,42.66,26.57,Product 090,Office,Office Group 3,Brand 01,21.33,Customer 2352,West,SMB,City 01,Store 13,North,Manager 06,2025-02-01,2025,2,Feb,1,Saturday
+140,20241201,71,3699,5,1,0.15,281.69,154.26,127.43,Product 071,Electronics,Electronics Group 4,Brand 12,154.26,Customer 3699,East,Consumer,City 04,Store 05,North,Manager 06,2024-12-01,2024,12,Dec,4,Sunday
+141,20251204,95,3389,9,1,0.15,73.58,53.49,20.09,Product 095,Electronics,Electronics Group 4,Brand 06,53.49,Customer 3389,North,Consumer,City 30,Store 09,North,Manager 02,2025-12-04,2025,12,Dec,4,Thursday
+142,20240925,45,3922,17,2,0.0,473.72,288.36,185.36,Product 045,Household,Household Group 2,Brand 01,144.18,Customer 3922,South,SMB,City 35,Store 17,North,Manager 02,2024-09-25,2024,9,Sep,3,Wednesday
+143,20240722,94,1790,11,1,0.0,115.31,61.93,53.38,Product 094,Personal Care,Personal Care Group 3,Brand 05,61.93,Customer 1790,South,Corporate,City 15,Store 11,East,Manager 04,2024-07-22,2024,7,Jul,3,Monday
+144,20241121,63,3766,8,2,0.05,117.75,61.48,56.27,Product 063,Household,Household Group 4,Brand 04,30.74,Customer 3766,South,Consumer,City 23,Store 08,West,Manager 01,2024-11-21,2024,11,Nov,4,Thursday
+145,20240609,50,2099,22,2,0.0,455.69,243.88,211.81,Product 050,Snacks,Snacks Group 3,Brand 06,121.94,Customer 2099,East,SMB,City 36,Store 22,South,Manager 07,2024-06-09,2024,6,Jun,2,Sunday
+146,20250609,54,2137,18,1,0.0,274.71,161.19,113.52,Product 054,Office,Office Group 3,Brand 10,161.19,Customer 2137,North,Consumer,City 26,Store 18,South,Manager 03,2025-06-09,2025,6,Jun,2,Monday
+147,20250520,95,1946,1,4,0.15,366.19,213.96,152.23,Product 095,Electronics,Electronics Group 4,Brand 06,53.49,Customer 1946,South,Consumer,City 27,Store 01,North,Manager 02,2025-05-20,2025,5,May,2,Tuesday
+148,20250217,66,2869,9,5,0.2,176.33,102.75,73.58,Product 066,Office,Office Group 3,Brand 07,20.55,Customer 2869,North,Consumer,City 38,Store 09,North,Manager 02,2025-02-17,2025,2,Feb,1,Monday
+149,20250418,109,663,17,3,0.05,107.31,53.82,53.49,Product 109,Beverages,Beverages Group 2,Brand 05,17.94,Customer 0663,East,Consumer,City 40,Store 17,North,Manager 02,2025-04-18,2025,4,Apr,2,Friday
+150,20251125,41,2965,1,1,0.0,214.19,98.85,115.34,Product 041,Electronics,Electronics Group 2,Brand 12,98.85,Customer 2965,North,Consumer,City 38,Store 01,North,Manager 02,2025-11-25,2025,11,Nov,4,Tuesday
+151,20240707,19,1979,6,1,0.0,67.39,30.62,36.77,Product 019,Beverages,Beverages Group 4,Brand 05,30.62,Customer 1979,East,Corporate,City 12,Store 06,South,Manager 07,2024-07-07,2024,7,Jul,3,Sunday
+152,20251118,4,2171,18,1,0.0,178.93,106.79,72.14,Product 004,Personal Care,Personal Care Group 1,Brand 05,106.79,Customer 2171,East,SMB,City 12,Store 18,South,Manager 03,2025-11-18,2025,11,Nov,4,Tuesday
+153,20250806,44,2444,2,2,0.0,111.99,59.24,52.75,Product 044,Snacks,Snacks Group 1,Brand 15,29.62,Customer 2444,West,Consumer,City 45,Store 02,South,Manager 03,2025-08-06,2025,8,Aug,3,Wednesday
+154,20241214,60,1267,13,1,0.15,33.98,19.48,14.5,Product 060,Office,Office Group 1,Brand 01,19.48,Customer 1267,East,SMB,City 20,Store 13,North,Manager 06,2024-12-14,2024,12,Dec,4,Saturday
+155,20240606,64,1733,19,5,0.0,1010.93,695.6,315.33,Product 064,Personal Care,Personal Care Group 1,Brand 05,139.12,Customer 1733,North,Consumer,City 06,Store 19,East,Manager 04,2024-06-06,2024,6,Jun,2,Thursday
+156,20250205,36,2705,22,2,0.0,205.05,100.88,104.17,Product 036,Office,Office Group 1,Brand 07,50.44,Customer 2705,North,Corporate,City 18,Store 22,South,Manager 07,2025-02-05,2025,2,Feb,1,Wednesday
+157,20240429,67,1947,19,1,0.0,300.92,142.94,157.98,Product 067,Beverages,Beverages Group 4,Brand 08,142.94,Customer 1947,East,SMB,City 28,Store 19,East,Manager 04,2024-04-29,2024,4,Apr,2,Monday
+158,20250915,64,2274,9,1,0.1,247.96,139.12,108.84,Product 064,Personal Care,Personal Care Group 1,Brand 05,139.12,Customer 2274,South,Consumer,City 19,Store 09,North,Manager 02,2025-09-15,2025,9,Sep,3,Monday
+159,20250616,68,3447,2,3,0.0,550.31,311.7,238.61,Product 068,Snacks,Snacks Group 1,Brand 09,103.9,Customer 3447,East,Consumer,City 40,Store 02,South,Manager 03,2025-06-16,2025,6,Jun,2,Monday
+160,20241008,1,488,6,1,0.05,10.5,5.41,5.09,Product 001,Beverages,Beverages Group 2,Brand 02,5.41,Customer 0488,West,Consumer,City 09,Store 06,South,Manager 07,2024-10-08,2024,10,Oct,4,Tuesday
+161,20250725,38,3151,17,1,0.1,246.32,161.56,84.76,Product 038,Snacks,Snacks Group 3,Brand 09,161.56,Customer 3151,East,Consumer,City 32,Store 17,North,Manager 02,2025-07-25,2025,7,Jul,3,Friday
+162,20240415,99,3273,4,5,0.1,1574.97,894.1,680.87,Product 099,Household,Household Group 4,Brand 10,178.82,Customer 3273,North,Consumer,City 10,Store 04,West,Manager 05,2024-04-15,2024,4,Apr,2,Monday
+163,20240503,31,1835,9,1,0.0,142.11,82.26,59.85,Product 031,Beverages,Beverages Group 4,Brand 02,82.26,Customer 1835,East,SMB,City 12,Store 09,North,Manager 02,2024-05-03,2024,5,May,2,Friday
+164,20241126,16,3860,4,1,0.0,276.74,137.14,139.6,Product 016,Personal Care,Personal Care Group 1,Brand 02,137.14,Customer 3860,West,Corporate,City 21,Store 04,West,Manager 05,2024-11-26,2024,11,Nov,4,Tuesday
+165,20250919,97,2632,12,1,0.0,77.15,47.25,29.9,Product 097,Beverages,Beverages Group 2,Brand 08,47.25,Customer 2632,West,Consumer,City 41,Store 12,West,Manager 05,2025-09-19,2025,9,Sep,3,Friday
+166,20240103,88,1392,19,2,0.0,47.61,23.94,23.67,Product 088,Personal Care,Personal Care Group 1,Brand 14,11.97,Customer 1392,West,Consumer,City 01,Store 19,East,Manager 04,2024-01-03,2024,1,Jan,1,Wednesday
+167,20251015,55,477,9,2,0.1,392.84,214.14,178.7,Product 055,Beverages,Beverages Group 4,Brand 11,107.07,Customer 0477,North,Consumer,City 46,Store 09,North,Manager 02,2025-10-15,2025,10,Oct,4,Wednesday
+168,20240618,60,3937,6,3,0.0,126.72,58.44,68.28,Product 060,Office,Office Group 1,Brand 01,19.48,Customer 3937,North,Consumer,City 02,Store 06,South,Manager 07,2024-06-18,2024,6,Jun,2,Tuesday
+169,20240726,45,1594,6,2,0.0,445.14,288.36,156.78,Product 045,Household,Household Group 2,Brand 01,144.18,Customer 1594,South,Consumer,City 11,Store 06,South,Manager 07,2024-07-26,2024,7,Jul,3,Friday
+170,20250702,116,1489,17,1,0.2,22.14,14.85,7.29,Product 116,Snacks,Snacks Group 1,Brand 12,14.85,Customer 1489,North,SMB,City 02,Store 17,North,Manager 02,2025-07-02,2025,7,Jul,3,Wednesday
+171,20250130,10,2039,21,1,0.15,240.71,142.99,97.72,Product 010,Personal Care,Personal Care Group 3,Brand 11,142.99,Customer 2039,East,SMB,City 24,Store 21,North,Manager 06,2025-01-30,2025,1,Jan,1,Thursday
+172,20240617,75,3265,6,4,0.05,1079.09,636.12,442.97,Product 075,Household,Household Group 4,Brand 01,159.03,Customer 3265,North,SMB,City 02,Store 06,South,Manager 07,2024-06-17,2024,6,Jun,2,Monday
+173,20240711,110,491,9,1,0.05,210.78,105.9,104.88,Product 110,Snacks,Snacks Group 3,Brand 06,105.9,Customer 0491,East,Consumer,City 12,Store 09,North,Manager 02,2024-07-11,2024,7,Jul,3,Thursday
+174,20250405,59,216,10,1,0.0,170.21,85.85,84.36,Product 059,Electronics,Electronics Group 4,Brand 15,85.85,Customer 0216,West,SMB,City 25,Store 10,South,Manager 03,2025-04-05,2025,4,Apr,2,Saturday
+175,20240803,111,1101,3,1,0.0,71.64,41.7,29.94,Product 111,Household,Household Group 4,Brand 07,41.7,Customer 1101,North,Consumer,City 46,Store 03,East,Manager 04,2024-08-03,2024,8,Aug,3,Saturday
+176,20240518,12,67,11,1,0.05,211.47,112.31,99.16,Product 012,Office,Office Group 1,Brand 13,112.31,Customer 0067,East,Consumer,City 20,Store 11,East,Manager 04,2024-05-18,2024,5,May,2,Saturday
+177,20250219,75,1446,18,1,0.0,242.0,159.03,82.97,Product 075,Household,Household Group 4,Brand 01,159.03,Customer 1446,South,Consumer,City 07,Store 18,South,Manager 03,2025-02-19,2025,2,Feb,1,Wednesday
+178,20240120,50,2889,15,1,0.0,219.5,121.94,97.56,Product 050,Snacks,Snacks Group 3,Brand 06,121.94,Customer 2889,North,SMB,City 10,Store 15,East,Manager 08,2024-01-20,2024,1,Jan,1,Saturday
+179,20250126,6,1599,16,1,0.05,110.95,65.18,45.77,Product 006,Office,Office Group 3,Brand 07,65.18,Customer 1599,East,Consumer,City 16,Store 16,West,Manager 01,2025-01-26,2025,1,Jan,1,Sunday
+180,20240229,57,1581,8,2,0.05,329.0,156.08,172.92,Product 057,Household,Household Group 2,Brand 13,78.04,Customer 1581,North,SMB,City 46,Store 08,West,Manager 01,2024-02-29,2024,2,Feb,1,Thursday
+181,20250227,107,1833,9,1,0.0,46.15,27.29,18.86,Product 107,Electronics,Electronics Group 4,Brand 03,27.29,Customer 1833,North,SMB,City 10,Store 09,North,Manager 02,2025-02-27,2025,2,Feb,1,Thursday
+182,20241104,68,23,15,1,0.15,138.0,103.9,34.1,Product 068,Snacks,Snacks Group 1,Brand 09,103.9,Customer 0023,East,Consumer,City 24,Store 15,East,Manager 08,2024-11-04,2024,11,Nov,4,Monday
+183,20250619,88,3995,12,2,0.1,36.98,23.94,13.04,Product 088,Personal Care,Personal Care Group 1,Brand 14,11.97,Customer 3995,East,SMB,City 12,Store 12,West,Manager 05,2025-06-19,2025,6,Jun,2,Thursday
+184,20251101,33,2168,23,1,0.1,84.24,59.54,24.7,Product 033,Household,Household Group 2,Brand 04,59.54,Customer 2168,West,Consumer,City 09,Store 23,East,Manager 08,2025-11-01,2025,11,Nov,4,Saturday
+185,20250607,53,1959,7,1,0.05,114.13,71.73,42.4,Product 053,Electronics,Electronics Group 2,Brand 09,71.73,Customer 1959,East,Corporate,City 40,Store 07,East,Manager 08,2025-06-07,2025,6,Jun,2,Saturday
+186,20241010,108,2302,19,2,0.0,234.67,144.62,90.05,Product 108,Office,Office Group 1,Brand 04,72.31,Customer 2302,South,SMB,City 47,Store 19,East,Manager 04,2024-10-10,2024,10,Oct,4,Thursday
+187,20240327,60,3168,12,1,0.15,27.92,19.48,8.44,Product 060,Office,Office Group 1,Brand 01,19.48,Customer 3168,West,Consumer,City 01,Store 12,West,Manager 05,2024-03-27,2024,3,Mar,1,Wednesday
+188,20241218,61,1791,2,3,0.0,169.15,106.65,62.5,Product 061,Beverages,Beverages Group 2,Brand 02,35.55,Customer 1791,East,Consumer,City 16,Store 02,South,Manager 03,2024-12-18,2024,12,Dec,4,Wednesday
+189,20251223,104,254,19,1,0.0,214.41,122.48,91.93,Product 104,Snacks,Snacks Group 1,Brand 15,122.48,Customer 0254,South,SMB,City 15,Store 19,East,Manager 04,2025-12-23,2025,12,Dec,4,Tuesday
+190,20250723,33,83,8,3,0.1,293.41,178.62,114.79,Product 033,Household,Household Group 2,Brand 04,59.54,Customer 0083,East,Consumer,City 36,Store 08,West,Manager 01,2025-07-23,2025,7,Jul,3,Wednesday
+191,20251202,37,2061,3,2,0.0,320.08,168.78,151.3,Product 037,Beverages,Beverages Group 2,Brand 08,84.39,Customer 2061,North,Consumer,City 46,Store 03,East,Manager 04,2025-12-02,2025,12,Dec,4,Tuesday
+192,20251130,95,2683,19,4,0.0,472.47,213.96,258.51,Product 095,Electronics,Electronics Group 4,Brand 06,53.49,Customer 2683,East,Corporate,City 44,Store 19,East,Manager 04,2025-11-30,2025,11,Nov,4,Sunday
+193,20251219,93,2096,5,1,0.1,241.29,176.84,64.45,Product 093,Household,Household Group 2,Brand 04,176.84,Customer 2096,West,Consumer,City 33,Store 05,North,Manager 06,2025-12-19,2025,12,Dec,4,Friday
+194,20250209,2,161,17,1,0.1,180.18,135.26,44.92,Product 002,Snacks,Snacks Group 3,Brand 03,135.26,Customer 0161,North,Consumer,City 18,Store 17,North,Manager 02,2025-02-09,2025,2,Feb,1,Sunday
+195,20250829,65,3881,17,1,0.0,102.56,68.94,33.62,Product 065,Electronics,Electronics Group 2,Brand 06,68.94,Customer 3881,North,Corporate,City 42,Store 17,North,Manager 02,2025-08-29,2025,8,Aug,3,Friday
+196,20251231,111,1897,20,2,0.0,128.33,83.4,44.93,Product 111,Household,Household Group 4,Brand 07,41.7,Customer 1897,North,Consumer,City 26,Store 20,West,Manager 05,2025-12-31,2025,12,Dec,4,Wednesday
+197,20240513,41,3399,8,1,0.0,210.58,98.85,111.73,Product 041,Electronics,Electronics Group 2,Brand 12,98.85,Customer 3399,East,SMB,City 40,Store 08,West,Manager 01,2024-05-13,2024,5,May,2,Monday
+198,20240323,41,2375,8,1,0.0,160.17,98.85,61.32,Product 041,Electronics,Electronics Group 2,Brand 12,98.85,Customer 2375,East,SMB,City 24,Store 08,West,Manager 01,2024-03-23,2024,3,Mar,1,Saturday
+199,20251026,110,1937,21,2,0.15,279.36,211.8,67.56,Product 110,Snacks,Snacks Group 3,Brand 06,105.9,Customer 1937,North,SMB,City 18,Store 21,North,Manager 06,2025-10-26,2025,10,Oct,4,Sunday
+200,20240602,22,3099,24,1,0.15,6.89,4.19,2.7,Product 022,Personal Care,Personal Care Group 3,Brand 08,4.19,Customer 3099,East,Consumer,City 28,Store 24,West,Manager 01,2024-06-02,2024,6,Jun,2,Sunday
+201,20251125,105,3113,5,2,0.0,529.51,310.34,219.17,Product 105,Household,Household Group 2,Brand 01,155.17,Customer 3113,North,Consumer,City 42,Store 05,North,Manager 06,2025-11-25,2025,11,Nov,4,Tuesday
+202,20250910,86,2103,10,2,0.0,106.64,52.66,53.98,Product 086,Snacks,Snacks Group 3,Brand 12,26.33,Customer 2103,East,Consumer,City 40,Store 10,South,Manager 03,2025-09-10,2025,9,Sep,3,Wednesday
+203,20250519,25,318,3,4,0.1,842.28,512.08,330.2,Product 025,Beverages,Beverages Group 2,Brand 11,128.02,Customer 0318,South,Consumer,City 31,Store 03,East,Manager 04,2025-05-19,2025,5,May,2,Monday
+204,20250524,118,712,6,1,0.15,267.55,171.58,95.97,Product 118,Personal Care,Personal Care Group 3,Brand 14,171.58,Customer 0712,West,SMB,City 41,Store 06,South,Manager 07,2025-05-24,2025,5,May,2,Saturday
+205,20240617,75,407,3,1,0.05,222.68,159.03,63.65,Product 075,Household,Household Group 4,Brand 01,159.03,Customer 0407,East,SMB,City 24,Store 03,East,Manager 04,2024-06-17,2024,6,Jun,2,Monday
+206,20250215,11,1314,8,1,0.1,32.83,16.52,16.31,Product 011,Electronics,Electronics Group 4,Brand 12,16.52,Customer 1314,South,Consumer,City 19,Store 08,West,Manager 01,2025-02-15,2025,2,Feb,1,Saturday
+207,20240123,68,3392,6,2,0.1,340.57,207.8,132.77,Product 068,Snacks,Snacks Group 1,Brand 09,103.9,Customer 3392,West,Consumer,City 33,Store 06,South,Manager 07,2024-01-23,2024,1,Jan,1,Tuesday
+208,20240304,113,2735,12,2,0.0,100.21,57.34,42.87,Product 113,Electronics,Electronics Group 2,Brand 09,28.67,Customer 2735,East,SMB,City 48,Store 12,West,Manager 05,2024-03-04,2024,3,Mar,1,Monday
+209,20240727,28,396,23,2,0.0,331.68,192.6,139.08,Product 028,Personal Care,Personal Care Group 1,Brand 14,96.3,Customer 0396,West,SMB,City 13,Store 23,East,Manager 08,2024-07-27,2024,7,Jul,3,Saturday
+210,20250506,49,674,8,2,0.1,135.8,95.12,40.68,Product 049,Beverages,Beverages Group 2,Brand 05,47.56,Customer 0674,South,Consumer,City 03,Store 08,West,Manager 01,2025-05-06,2025,5,May,2,Tuesday
+211,20240617,79,1860,9,3,0.0,944.99,499.68,445.31,Product 079,Beverages,Beverages Group 4,Brand 05,166.56,Customer 1860,West,SMB,City 37,Store 09,North,Manager 02,2024-06-17,2024,6,Jun,2,Monday
+212,20250326,21,1208,19,3,0.05,145.22,95.4,49.82,Product 021,Household,Household Group 2,Brand 07,31.8,Customer 1208,West,SMB,City 09,Store 19,East,Manager 04,2025-03-26,2025,3,Mar,1,Wednesday
+213,20251219,84,1291,3,2,0.0,528.03,308.36,219.67,Product 084,Office,Office Group 1,Brand 10,154.18,Customer 1291,East,SMB,City 44,Store 03,East,Manager 04,2025-12-19,2025,12,Dec,4,Friday
+214,20240310,36,2610,20,1,0.05,91.52,50.44,41.08,Product 036,Office,Office Group 1,Brand 07,50.44,Customer 2610,South,Consumer,City 19,Store 20,West,Manager 05,2024-03-10,2024,3,Mar,1,Sunday
+215,20250602,19,2692,16,1,0.1,41.0,30.62,10.38,Product 019,Beverages,Beverages Group 4,Brand 05,30.62,Customer 2692,West,Corporate,City 05,Store 16,West,Manager 01,2025-06-02,2025,6,Jun,2,Monday
+216,20240502,65,931,10,1,0.0,137.04,68.94,68.1,Product 065,Electronics,Electronics Group 2,Brand 06,68.94,Customer 0931,East,Corporate,City 20,Store 10,South,Manager 03,2024-05-02,2024,5,May,2,Thursday
+217,20250322,98,2552,10,1,0.05,251.51,143.41,108.1,Product 098,Snacks,Snacks Group 3,Brand 09,143.41,Customer 2552,West,Consumer,City 09,Store 10,South,Manager 03,2025-03-22,2025,3,Mar,1,Saturday
+218,20251022,84,2052,7,1,0.0,337.38,154.18,183.2,Product 084,Office,Office Group 1,Brand 10,154.18,Customer 2052,West,SMB,City 37,Store 07,East,Manager 08,2025-10-22,2025,10,Oct,4,Wednesday
+219,20240402,114,989,2,2,0.1,285.19,203.24,81.95,Product 114,Office,Office Group 3,Brand 10,101.62,Customer 0989,North,Consumer,City 30,Store 02,South,Manager 03,2024-04-02,2024,4,Apr,2,Tuesday
+220,20250407,108,521,16,4,0.0,534.51,289.24,245.27,Product 108,Office,Office Group 1,Brand 04,72.31,Customer 0521,North,Consumer,City 42,Store 16,West,Manager 01,2025-04-07,2025,4,Apr,2,Monday
+221,20251209,47,3135,6,3,0.15,63.99,35.22,28.77,Product 047,Electronics,Electronics Group 4,Brand 03,11.74,Customer 3135,East,Consumer,City 16,Store 06,South,Manager 07,2025-12-09,2025,12,Dec,4,Tuesday
+222,20240809,72,2698,9,2,0.1,375.09,268.66,106.43,Product 072,Office,Office Group 1,Brand 13,134.33,Customer 2698,South,Consumer,City 11,Store 09,North,Manager 02,2024-08-09,2024,8,Aug,3,Friday
+223,20240311,51,1060,3,1,0.0,270.62,138.66,131.96,Product 051,Household,Household Group 4,Brand 07,138.66,Customer 1060,West,Corporate,City 05,Store 03,East,Manager 04,2024-03-11,2024,3,Mar,1,Monday
+224,20240108,38,3474,1,3,0.0,787.27,484.68,302.59,Product 038,Snacks,Snacks Group 3,Brand 09,161.56,Customer 3474,South,Consumer,City 19,Store 01,North,Manager 02,2024-01-08,2024,1,Jan,1,Monday
+225,20240515,55,1200,19,2,0.0,374.87,214.14,160.73,Product 055,Beverages,Beverages Group 4,Brand 11,107.07,Customer 1200,West,SMB,City 01,Store 19,East,Manager 04,2024-05-15,2024,5,May,2,Wednesday
+226,20250322,97,3650,19,2,0.0,180.1,94.5,85.6,Product 097,Beverages,Beverages Group 2,Brand 08,47.25,Customer 3650,South,Consumer,City 03,Store 19,East,Manager 04,2025-03-22,2025,3,Mar,1,Saturday
+227,20240902,117,643,10,2,0.05,424.39,203.74,220.65,Product 117,Household,Household Group 2,Brand 13,101.87,Customer 0643,East,Consumer,City 20,Store 10,South,Manager 03,2024-09-02,2024,9,Sep,3,Monday
+228,20241109,88,1031,16,3,0.05,57.85,35.91,21.94,Product 088,Personal Care,Personal Care Group 1,Brand 14,11.97,Customer 1031,East,Consumer,City 24,Store 16,West,Manager 01,2024-11-09,2024,11,Nov,4,Saturday
+229,20240401,94,2531,12,1,0.0,138.18,61.93,76.25,Product 094,Personal Care,Personal Care Group 3,Brand 05,61.93,Customer 2531,East,Consumer,City 36,Store 12,West,Manager 05,2024-04-01,2024,4,Apr,2,Monday
+230,20240226,63,1431,22,2,0.0,123.73,61.48,62.25,Product 063,Household,Household Group 4,Brand 04,30.74,Customer 1431,East,SMB,City 40,Store 22,South,Manager 07,2024-02-26,2024,2,Feb,1,Monday
+231,20250729,117,910,13,2,0.0,416.56,203.74,212.82,Product 117,Household,Household Group 2,Brand 13,101.87,Customer 0910,South,Consumer,City 47,Store 13,North,Manager 06,2025-07-29,2025,7,Jul,3,Tuesday
+232,20240928,74,2816,14,3,0.0,765.82,384.45,381.37,Product 074,Snacks,Snacks Group 3,Brand 15,128.15,Customer 2816,West,Consumer,City 33,Store 14,South,Manager 07,2024-09-28,2024,9,Sep,3,Saturday
+233,20240920,41,3034,6,1,0.0,154.82,98.85,55.97,Product 041,Electronics,Electronics Group 2,Brand 12,98.85,Customer 3034,South,Corporate,City 11,Store 06,South,Manager 07,2024-09-20,2024,9,Sep,3,Friday
+234,20250924,39,1393,11,3,0.0,102.25,63.45,38.8,Product 039,Household,Household Group 4,Brand 10,21.15,Customer 1393,North,SMB,City 02,Store 11,East,Manager 04,2025-09-24,2025,9,Sep,3,Wednesday
+235,20251209,107,1354,4,3,0.05,172.84,81.87,90.97,Product 107,Electronics,Electronics Group 4,Brand 03,27.29,Customer 1354,South,Consumer,City 11,Store 04,West,Manager 05,2025-12-09,2025,12,Dec,4,Tuesday
+236,20240424,39,2323,15,1,0.0,38.68,21.15,17.53,Product 039,Household,Household Group 4,Brand 10,21.15,Customer 2323,East,Consumer,City 20,Store 15,East,Manager 08,2024-04-24,2024,4,Apr,2,Wednesday
+237,20240527,20,1145,23,3,0.0,242.64,118.74,123.9,Product 020,Snacks,Snacks Group 1,Brand 06,39.58,Customer 1145,North,SMB,City 42,Store 23,East,Manager 08,2024-05-27,2024,5,May,2,Monday
+238,20250227,7,566,7,1,0.0,231.21,146.79,84.42,Product 007,Beverages,Beverages Group 4,Brand 08,146.79,Customer 0566,South,Corporate,City 39,Store 07,East,Manager 08,2025-02-27,2025,2,Feb,1,Thursday
+239,20241206,92,957,22,2,0.0,597.96,270.46,327.5,Product 092,Snacks,Snacks Group 1,Brand 03,135.23,Customer 0957,North,Consumer,City 46,Store 22,South,Manager 07,2024-12-06,2024,12,Dec,4,Friday
+240,20250811,24,2818,14,1,0.0,247.19,166.84,80.35,Product 024,Office,Office Group 1,Brand 10,166.84,Customer 2818,South,SMB,City 35,Store 14,South,Manager 07,2025-08-11,2025,8,Aug,3,Monday
+241,20250225,87,2077,23,3,0.0,376.0,195.63,180.37,Product 087,Household,Household Group 4,Brand 13,65.21,Customer 2077,North,Consumer,City 14,Store 23,East,Manager 08,2025-02-25,2025,2,Feb,1,Tuesday
+242,20240308,12,3852,21,4,0.15,668.8,449.24,219.56,Product 012,Office,Office Group 1,Brand 13,112.31,Customer 3852,West,SMB,City 13,Store 21,North,Manager 06,2024-03-08,2024,3,Mar,1,Friday
+243,20251107,75,2108,17,3,0.0,834.23,477.09,357.14,Product 075,Household,Household Group 4,Brand 01,159.03,Customer 2108,West,SMB,City 45,Store 17,North,Manager 02,2025-11-07,2025,11,Nov,4,Friday
+244,20240229,79,2520,5,5,0.0,1851.43,832.8,1018.63,Product 079,Beverages,Beverages Group 4,Brand 05,166.56,Customer 2520,West,Consumer,City 25,Store 05,North,Manager 06,2024-02-29,2024,2,Feb,1,Thursday
+245,20241201,81,2285,16,3,0.0,53.73,35.07,18.66,Product 081,Household,Household Group 2,Brand 07,11.69,Customer 2285,North,Corporate,City 30,Store 16,West,Manager 01,2024-12-01,2024,12,Dec,4,Sunday
+246,20251119,46,2770,2,2,0.1,585.9,331.12,254.78,Product 046,Personal Care,Personal Care Group 3,Brand 02,165.56,Customer 2770,South,SMB,City 35,Store 02,South,Manager 03,2025-11-19,2025,11,Nov,4,Wednesday
+247,20240222,77,379,4,3,0.05,392.53,262.86,129.67,Product 077,Electronics,Electronics Group 2,Brand 03,87.62,Customer 0379,East,Consumer,City 44,Store 04,West,Manager 05,2024-02-22,2024,2,Feb,1,Thursday
+248,20250425,9,848,21,3,0.1,780.54,401.85,378.69,Product 009,Household,Household Group 2,Brand 10,133.95,Customer 0848,West,Consumer,City 33,Store 21,North,Manager 06,2025-04-25,2025,4,Apr,2,Friday
+249,20240620,14,870,13,2,0.0,41.82,25.42,16.4,Product 014,Snacks,Snacks Group 3,Brand 15,12.71,Customer 0870,South,SMB,City 07,Store 13,North,Manager 06,2024-06-20,2024,6,Jun,2,Thursday
+250,20241031,45,847,2,1,0.0,309.35,144.18,165.17,Product 045,Household,Household Group 2,Brand 01,144.18,Customer 0847,East,Corporate,City 32,Store 02,South,Manager 03,2024-10-31,2024,10,Oct,4,Thursday
+251,20250103,2,2351,8,3,0.0,650.14,405.78,244.36,Product 002,Snacks,Snacks Group 3,Brand 03,135.26,Customer 2351,East,SMB,City 48,Store 08,West,Manager 01,2025-01-03,2025,1,Jan,1,Friday
+252,20240531,27,1540,15,1,0.0,179.54,83.47,96.07,Product 027,Household,Household Group 4,Brand 13,83.47,Customer 1540,West,Corporate,City 05,Store 15,East,Manager 08,2024-05-31,2024,5,May,2,Friday
+253,20240810,72,441,6,1,0.0,251.96,134.33,117.63,Product 072,Office,Office Group 1,Brand 13,134.33,Customer 0441,North,Consumer,City 10,Store 06,South,Manager 07,2024-08-10,2024,8,Aug,3,Saturday
+254,20240616,7,1634,19,1,0.0,313.19,146.79,166.4,Product 007,Beverages,Beverages Group 4,Brand 08,146.79,Customer 1634,South,Consumer,City 03,Store 19,East,Manager 04,2024-06-16,2024,6,Jun,2,Sunday
+255,20240614,31,3345,7,1,0.1,113.45,82.26,31.19,Product 031,Beverages,Beverages Group 4,Brand 02,82.26,Customer 3345,North,SMB,City 34,Store 07,East,Manager 08,2024-06-14,2024,6,Jun,2,Friday
+256,20250320,61,693,22,3,0.0,164.04,106.65,57.39,Product 061,Beverages,Beverages Group 2,Brand 02,35.55,Customer 0693,North,SMB,City 22,Store 22,South,Manager 07,2025-03-20,2025,3,Mar,1,Thursday
+257,20241206,45,2946,8,1,0.05,261.04,144.18,116.86,Product 045,Household,Household Group 2,Brand 01,144.18,Customer 2946,South,Consumer,City 19,Store 08,West,Manager 01,2024-12-06,2024,12,Dec,4,Friday
+258,20241104,116,1438,10,2,0.0,66.49,29.7,36.79,Product 116,Snacks,Snacks Group 1,Brand 12,14.85,Customer 1438,South,SMB,City 47,Store 10,South,Manager 03,2024-11-04,2024,11,Nov,4,Monday
+259,20251006,32,3051,15,3,0.1,975.95,499.44,476.51,Product 032,Snacks,Snacks Group 1,Brand 03,166.48,Customer 3051,East,SMB,City 28,Store 15,East,Manager 08,2025-10-06,2025,10,Oct,4,Monday
+260,20250709,10,2403,18,3,0.2,731.5,428.97,302.53,Product 010,Personal Care,Personal Care Group 3,Brand 11,142.99,Customer 2403,East,SMB,City 04,Store 18,South,Manager 03,2025-07-09,2025,7,Jul,3,Wednesday
+261,20250417,113,2984,4,2,0.0,121.98,57.34,64.64,Product 113,Electronics,Electronics Group 2,Brand 09,28.67,Customer 2984,West,Consumer,City 09,Store 04,West,Manager 05,2025-04-17,2025,4,Apr,2,Thursday
+262,20250112,105,3194,12,1,0.0,346.76,155.17,191.59,Product 105,Household,Household Group 2,Brand 01,155.17,Customer 3194,South,Consumer,City 27,Store 12,West,Manager 05,2025-01-12,2025,1,Jan,1,Sunday
+263,20251021,99,266,20,1,0.0,312.75,178.82,133.93,Product 099,Household,Household Group 4,Brand 10,178.82,Customer 0266,South,Corporate,City 27,Store 20,West,Manager 05,2025-10-21,2025,10,Oct,4,Tuesday
+264,20250108,25,328,24,4,0.1,823.65,512.08,311.57,Product 025,Beverages,Beverages Group 2,Brand 11,128.02,Customer 0328,West,SMB,City 41,Store 24,West,Manager 01,2025-01-08,2025,1,Jan,1,Wednesday
+265,20240615,48,1863,11,2,0.0,518.91,233.58,285.33,Product 048,Office,Office Group 1,Brand 04,116.79,Customer 1863,East,SMB,City 40,Store 11,East,Manager 04,2024-06-15,2024,6,Jun,2,Saturday
+266,20251007,80,507,6,1,0.0,236.58,118.39,118.19,Product 080,Snacks,Snacks Group 1,Brand 06,118.39,Customer 0507,East,Consumer,City 28,Store 06,South,Manager 07,2025-10-07,2025,10,Oct,4,Tuesday
+267,20240402,7,385,9,1,0.0,232.8,146.79,86.01,Product 007,Beverages,Beverages Group 4,Brand 08,146.79,Customer 0385,North,Consumer,City 02,Store 09,North,Manager 02,2024-04-02,2024,4,Apr,2,Tuesday
+268,20240820,29,2672,1,1,0.0,290.3,167.26,123.04,Product 029,Electronics,Electronics Group 2,Brand 15,167.26,Customer 2672,West,SMB,City 33,Store 01,North,Manager 02,2024-08-20,2024,8,Aug,3,Tuesday
+269,20240320,119,1802,19,4,0.05,37.65,19.52,18.13,Product 119,Electronics,Electronics Group 4,Brand 15,4.88,Customer 1802,South,Consumer,City 27,Store 19,East,Manager 04,2024-03-20,2024,3,Mar,1,Wednesday
+270,20251211,22,3090,9,2,0.0,13.86,8.38,5.48,Product 022,Personal Care,Personal Care Group 3,Brand 08,4.19,Customer 3090,South,SMB,City 19,Store 09,North,Manager 02,2025-12-11,2025,12,Dec,4,Thursday
+271,20240330,46,36,14,2,0.0,714.02,331.12,382.9,Product 046,Personal Care,Personal Care Group 3,Brand 02,165.56,Customer 0036,West,Consumer,City 37,Store 14,South,Manager 07,2024-03-30,2024,3,Mar,1,Saturday
+272,20240129,19,708,11,1,0.0,60.03,30.62,29.41,Product 019,Beverages,Beverages Group 4,Brand 05,30.62,Customer 0708,West,Corporate,City 37,Store 11,East,Manager 04,2024-01-29,2024,1,Jan,1,Monday
+273,20251029,86,1582,20,2,0.05,87.86,52.66,35.2,Product 086,Snacks,Snacks Group 3,Brand 12,26.33,Customer 1582,South,Consumer,City 47,Store 20,West,Manager 05,2025-10-29,2025,10,Oct,4,Wednesday
+274,20250913,38,195,17,1,0.0,362.63,161.56,201.07,Product 038,Snacks,Snacks Group 3,Brand 09,161.56,Customer 0195,East,SMB,City 04,Store 17,North,Manager 02,2025-09-13,2025,9,Sep,3,Saturday
+275,20240523,26,3039,6,3,0.0,705.35,378.81,326.54,Product 026,Snacks,Snacks Group 3,Brand 12,126.27,Customer 3039,East,Consumer,City 16,Store 06,South,Manager 07,2024-05-23,2024,5,May,2,Thursday
+276,20240122,83,846,8,2,0.1,198.62,104.72,93.9,Product 083,Electronics,Electronics Group 4,Brand 09,52.36,Customer 0846,South,Corporate,City 31,Store 08,West,Manager 01,2024-01-22,2024,1,Jan,1,Monday
+277,20251117,2,917,22,1,0.1,244.98,135.26,109.72,Product 002,Snacks,Snacks Group 3,Brand 03,135.26,Customer 0917,North,Consumer,City 06,Store 22,South,Manager 07,2025-11-17,2025,11,Nov,4,Monday
+278,20240722,72,3234,22,5,0.2,906.78,671.65,235.13,Product 072,Office,Office Group 1,Brand 13,134.33,Customer 3234,South,Consumer,City 19,Store 22,South,Manager 07,2024-07-22,2024,7,Jul,3,Monday
+279,20250309,13,1261,24,2,0.0,516.55,271.74,244.81,Product 013,Beverages,Beverages Group 2,Brand 14,135.87,Customer 1261,North,Corporate,City 14,Store 24,West,Manager 01,2025-03-09,2025,3,Mar,1,Sunday
+280,20240120,109,1437,8,1,0.15,23.97,17.94,6.03,Product 109,Beverages,Beverages Group 2,Brand 05,17.94,Customer 1437,North,Consumer,City 46,Store 08,West,Manager 01,2024-01-20,2024,1,Jan,1,Saturday
+281,20250110,31,97,4,1,0.0,162.28,82.26,80.02,Product 031,Beverages,Beverages Group 4,Brand 02,82.26,Customer 0097,North,Corporate,City 02,Store 04,West,Manager 05,2025-01-10,2025,1,Jan,1,Friday
+282,20250328,51,1,19,2,0.0,408.45,277.32,131.13,Product 051,Household,Household Group 4,Brand 07,138.66,Customer 0001,North,Consumer,City 02,Store 19,East,Manager 04,2025-03-28,2025,3,Mar,1,Friday
+283,20240901,108,1181,21,1,0.0,126.31,72.31,54.0,Product 108,Office,Office Group 1,Brand 04,72.31,Customer 1181,North,Corporate,City 30,Store 21,North,Manager 06,2024-09-01,2024,9,Sep,3,Sunday
+284,20241101,98,3438,6,2,0.05,505.79,286.82,218.97,Product 098,Snacks,Snacks Group 3,Brand 09,143.41,Customer 3438,South,Consumer,City 31,Store 06,South,Manager 07,2024-11-01,2024,11,Nov,4,Friday
+285,20240929,16,3891,17,2,0.0,399.25,274.28,124.97,Product 016,Personal Care,Personal Care Group 1,Brand 02,137.14,Customer 3891,East,Corporate,City 04,Store 17,North,Manager 02,2024-09-29,2024,9,Sep,3,Sunday
+286,20250509,62,3248,24,1,0.0,247.29,157.87,89.42,Product 062,Snacks,Snacks Group 3,Brand 03,157.87,Customer 3248,West,Consumer,City 33,Store 24,West,Manager 01,2025-05-09,2025,5,May,2,Friday
+287,20250521,53,3345,13,3,0.05,307.94,215.19,92.75,Product 053,Electronics,Electronics Group 2,Brand 09,71.73,Customer 3345,North,SMB,City 34,Store 13,North,Manager 06,2025-05-21,2025,5,May,2,Wednesday
+288,20250215,46,1086,8,2,0.0,610.83,331.12,279.71,Product 046,Personal Care,Personal Care Group 3,Brand 02,165.56,Customer 1086,South,SMB,City 31,Store 08,West,Manager 01,2025-02-15,2025,2,Feb,1,Saturday
+289,20240327,17,2075,1,5,0.0,373.69,221.75,151.94,Product 017,Electronics,Electronics Group 2,Brand 03,44.35,Customer 2075,East,Corporate,City 12,Store 01,North,Manager 02,2024-03-27,2024,3,Mar,1,Wednesday
+290,20251006,38,3005,4,2,0.15,521.08,323.12,197.96,Product 038,Snacks,Snacks Group 3,Brand 09,161.56,Customer 3005,North,Consumer,City 30,Store 04,West,Manager 05,2025-10-06,2025,10,Oct,4,Monday
+291,20250508,23,1937,16,4,0.0,61.14,30.64,30.5,Product 023,Electronics,Electronics Group 4,Brand 09,7.66,Customer 1937,North,SMB,City 18,Store 16,West,Manager 01,2025-05-08,2025,5,May,2,Thursday
+292,20240709,69,1054,12,1,0.0,237.06,151.7,85.36,Product 069,Household,Household Group 2,Brand 10,151.7,Customer 1054,South,Consumer,City 47,Store 12,West,Manager 05,2024-07-09,2024,7,Jul,3,Tuesday
+293,20251126,63,1256,5,2,0.1,88.75,61.48,27.27,Product 063,Household,Household Group 4,Brand 04,30.74,Customer 1256,West,Consumer,City 09,Store 05,North,Manager 06,2025-11-26,2025,11,Nov,4,Wednesday
+294,20250815,16,685,4,2,0.05,481.56,274.28,207.28,Product 016,Personal Care,Personal Care Group 1,Brand 02,137.14,Customer 0685,North,Consumer,City 14,Store 04,West,Manager 05,2025-08-15,2025,8,Aug,3,Friday
+295,20250607,3,3610,7,1,0.0,43.48,26.55,16.93,Product 003,Household,Household Group 4,Brand 04,26.55,Customer 3610,South,Consumer,City 11,Store 07,East,Manager 08,2025-06-07,2025,6,Jun,2,Saturday
+296,20241114,112,423,11,5,0.0,250.95,167.9,83.05,Product 112,Personal Care,Personal Care Group 1,Brand 08,33.58,Customer 0423,East,Consumer,City 40,Store 11,East,Manager 04,2024-11-14,2024,11,Nov,4,Thursday
+297,20240921,36,858,9,3,0.1,235.65,151.32,84.33,Product 036,Office,Office Group 1,Brand 07,50.44,Customer 0858,South,Consumer,City 43,Store 09,North,Manager 02,2024-09-21,2024,9,Sep,3,Saturday
+298,20250415,1,1671,21,1,0.0,10.33,5.41,4.92,Product 001,Beverages,Beverages Group 2,Brand 02,5.41,Customer 1671,East,Corporate,City 40,Store 21,North,Manager 06,2025-04-15,2025,4,Apr,2,Tuesday
+299,20250603,3,2504,1,2,0.0,81.34,53.1,28.24,Product 003,Household,Household Group 4,Brand 04,26.55,Customer 2504,West,Consumer,City 09,Store 01,North,Manager 02,2025-06-03,2025,6,Jun,2,Tuesday
+300,20250601,75,2643,8,1,0.1,253.83,159.03,94.8,Product 075,Household,Household Group 4,Brand 01,159.03,Customer 2643,East,Consumer,City 04,Store 08,West,Manager 01,2025-06-01,2025,6,Jun,2,Sunday
+301,20250429,96,137,14,1,0.0,29.63,15.98,13.65,Product 096,Office,Office Group 1,Brand 07,15.98,Customer 0137,North,Corporate,City 42,Store 14,South,Manager 07,2025-04-29,2025,4,Apr,2,Tuesday
+302,20251107,37,1171,13,1,0.15,129.89,84.39,45.5,Product 037,Beverages,Beverages Group 2,Brand 08,84.39,Customer 1171,East,SMB,City 20,Store 13,North,Manager 06,2025-11-07,2025,11,Nov,4,Friday
+303,20240407,35,3711,12,5,0.05,1524.31,771.85,752.46,Product 035,Electronics,Electronics Group 4,Brand 06,154.37,Customer 3711,East,SMB,City 16,Store 12,West,Manager 05,2024-04-07,2024,4,Apr,2,Sunday
+304,20250216,66,2556,2,1,0.0,43.06,20.55,22.51,Product 066,Office,Office Group 3,Brand 07,20.55,Customer 2556,West,Consumer,City 13,Store 02,South,Manager 03,2025-02-16,2025,2,Feb,1,Sunday
+305,20240305,63,275,17,1,0.0,67.22,30.74,36.48,Product 063,Household,Household Group 4,Brand 04,30.74,Customer 0275,East,Corporate,City 36,Store 17,North,Manager 02,2024-03-05,2024,3,Mar,1,Tuesday
+306,20250303,110,1093,16,3,0.0,656.39,317.7,338.69,Product 110,Snacks,Snacks Group 3,Brand 06,105.9,Customer 1093,North,SMB,City 38,Store 16,West,Manager 01,2025-03-03,2025,3,Mar,1,Monday
+307,20241004,68,3466,23,1,0.0,209.1,103.9,105.2,Product 068,Snacks,Snacks Group 1,Brand 09,103.9,Customer 3466,South,Consumer,City 11,Store 23,East,Manager 08,2024-10-04,2024,10,Oct,4,Friday
+308,20250818,77,383,22,1,0.0,175.33,87.62,87.71,Product 077,Electronics,Electronics Group 2,Brand 03,87.62,Customer 0383,East,Consumer,City 48,Store 22,South,Manager 07,2025-08-18,2025,8,Aug,3,Monday
+309,20250630,4,366,7,5,0.0,1083.36,533.95,549.41,Product 004,Personal Care,Personal Care Group 1,Brand 05,106.79,Customer 0366,South,Consumer,City 31,Store 07,East,Manager 08,2025-06-30,2025,6,Jun,2,Monday
+310,20251106,51,1200,12,1,0.15,263.65,138.66,124.99,Product 051,Household,Household Group 4,Brand 07,138.66,Customer 1200,West,SMB,City 01,Store 12,West,Manager 05,2025-11-06,2025,11,Nov,4,Thursday
+311,20250226,109,216,24,2,0.0,62.7,35.88,26.82,Product 109,Beverages,Beverages Group 2,Brand 05,17.94,Customer 0216,West,SMB,City 25,Store 24,West,Manager 01,2025-02-26,2025,2,Feb,1,Wednesday
+312,20250709,64,2271,19,1,0.0,210.53,139.12,71.41,Product 064,Personal Care,Personal Care Group 1,Brand 05,139.12,Customer 2271,East,Consumer,City 16,Store 19,East,Manager 04,2025-07-09,2025,7,Jul,3,Wednesday
+313,20240702,69,1371,14,1,0.0,242.43,151.7,90.73,Product 069,Household,Household Group 2,Brand 10,151.7,Customer 1371,East,Corporate,City 28,Store 14,South,Manager 07,2024-07-02,2024,7,Jul,3,Tuesday
+314,20240506,48,2067,1,1,0.0,193.65,116.79,76.86,Product 048,Office,Office Group 1,Brand 04,116.79,Customer 2067,East,Consumer,City 04,Store 01,North,Manager 02,2024-05-06,2024,5,May,2,Monday
+315,20250921,71,198,2,4,0.1,1089.0,617.04,471.96,Product 071,Electronics,Electronics Group 4,Brand 12,154.26,Customer 0198,South,Consumer,City 07,Store 02,South,Manager 03,2025-09-21,2025,9,Sep,3,Sunday
+316,20240611,54,2910,17,3,0.0,928.55,483.57,444.98,Product 054,Office,Office Group 3,Brand 10,161.19,Customer 2910,South,Consumer,City 31,Store 17,North,Manager 02,2024-06-11,2024,6,Jun,2,Tuesday
+317,20240619,72,3808,22,1,0.05,211.46,134.33,77.13,Product 072,Office,Office Group 1,Brand 13,134.33,Customer 3808,West,Corporate,City 17,Store 22,South,Manager 07,2024-06-19,2024,6,Jun,2,Wednesday
+318,20240224,27,687,17,2,0.0,353.35,166.94,186.41,Product 027,Household,Household Group 4,Brand 13,83.47,Customer 0687,East,SMB,City 16,Store 17,North,Manager 02,2024-02-24,2024,2,Feb,1,Saturday
+319,20250223,91,563,14,1,0.1,81.34,41.28,40.06,Product 091,Beverages,Beverages Group 4,Brand 02,41.28,Customer 0563,East,SMB,City 36,Store 14,South,Manager 07,2025-02-23,2025,2,Feb,1,Sunday
+320,20251004,70,2982,15,1,0.05,299.47,174.05,125.42,Product 070,Personal Care,Personal Care Group 3,Brand 11,174.05,Customer 2982,South,Consumer,City 07,Store 15,East,Manager 08,2025-10-04,2025,10,Oct,4,Saturday
+321,20250208,37,1212,4,3,0.05,453.54,253.17,200.37,Product 037,Beverages,Beverages Group 2,Brand 08,84.39,Customer 1212,West,Consumer,City 13,Store 04,West,Manager 05,2025-02-08,2025,2,Feb,1,Saturday
+322,20250730,87,1649,13,2,0.0,246.27,130.42,115.85,Product 087,Household,Household Group 4,Brand 13,65.21,Customer 1649,North,Consumer,City 18,Store 13,North,Manager 06,2025-07-30,2025,7,Jul,3,Wednesday
+323,20251130,1,2347,10,4,0.0,34.28,21.64,12.64,Product 001,Beverages,Beverages Group 2,Brand 02,5.41,Customer 2347,East,Consumer,City 44,Store 10,South,Manager 03,2025-11-30,2025,11,Nov,4,Sunday
+324,20250509,108,3748,11,1,0.0,160.42,72.31,88.11,Product 108,Office,Office Group 1,Brand 04,72.31,Customer 3748,West,Corporate,City 05,Store 11,East,Manager 04,2025-05-09,2025,5,May,2,Friday
+325,20251022,98,3138,10,2,0.0,555.25,286.82,268.43,Product 098,Snacks,Snacks Group 3,Brand 09,143.41,Customer 3138,South,Consumer,City 19,Store 10,South,Manager 03,2025-10-22,2025,10,Oct,4,Wednesday
+326,20240225,76,1171,20,1,0.0,166.82,106.44,60.38,Product 076,Personal Care,Personal Care Group 1,Brand 02,106.44,Customer 1171,East,SMB,City 20,Store 20,West,Manager 05,2024-02-25,2024,2,Feb,1,Sunday
+327,20250811,118,3765,22,1,0.1,229.58,171.58,58.0,Product 118,Personal Care,Personal Care Group 3,Brand 14,171.58,Customer 3765,North,Consumer,City 22,Store 22,South,Manager 07,2025-08-11,2025,8,Aug,3,Monday
+328,20251015,116,1763,3,1,0.0,23.62,14.85,8.77,Product 116,Snacks,Snacks Group 1,Brand 12,14.85,Customer 1763,East,SMB,City 36,Store 03,East,Manager 04,2025-10-15,2025,10,Oct,4,Wednesday
+329,20240323,5,859,2,1,0.15,140.93,82.65,58.28,Product 005,Electronics,Electronics Group 2,Brand 06,82.65,Customer 0859,East,Consumer,City 44,Store 02,South,Manager 03,2024-03-23,2024,3,Mar,1,Saturday
+330,20241213,19,884,17,2,0.1,108.85,61.24,47.61,Product 019,Beverages,Beverages Group 4,Brand 05,30.62,Customer 0884,West,Consumer,City 21,Store 17,North,Manager 02,2024-12-13,2024,12,Dec,4,Friday
+331,20240703,83,3179,6,1,0.1,88.87,52.36,36.51,Product 083,Electronics,Electronics Group 4,Brand 09,52.36,Customer 3179,East,Consumer,City 12,Store 06,South,Manager 07,2024-07-03,2024,7,Jul,3,Wednesday
+332,20241123,82,3837,9,1,0.0,91.91,42.92,48.99,Product 082,Personal Care,Personal Care Group 3,Brand 08,42.92,Customer 3837,North,Consumer,City 46,Store 09,North,Manager 02,2024-11-23,2024,11,Nov,4,Saturday
+333,20240426,76,2619,17,2,0.15,290.07,212.88,77.19,Product 076,Personal Care,Personal Care Group 1,Brand 02,106.44,Customer 2619,East,SMB,City 28,Store 17,North,Manager 02,2024-04-26,2024,4,Apr,2,Friday
+334,20251231,43,2641,15,2,0.1,318.27,214.98,103.29,Product 043,Beverages,Beverages Group 4,Brand 14,107.49,Customer 2641,North,Consumer,City 02,Store 15,East,Manager 08,2025-12-31,2025,12,Dec,4,Wednesday
+335,20240604,24,2617,16,3,0.05,959.24,500.52,458.72,Product 024,Office,Office Group 1,Brand 10,166.84,Customer 2617,North,Consumer,City 26,Store 16,West,Manager 01,2024-06-04,2024,6,Jun,2,Tuesday
+336,20240128,101,97,22,3,0.0,609.06,358.08,250.98,Product 101,Electronics,Electronics Group 2,Brand 12,119.36,Customer 0097,North,Corporate,City 02,Store 22,South,Manager 07,2024-01-28,2024,1,Jan,1,Sunday
+337,20240531,94,2620,14,3,0.0,334.09,185.79,148.3,Product 094,Personal Care,Personal Care Group 3,Brand 05,61.93,Customer 2620,West,Consumer,City 29,Store 14,South,Manager 07,2024-05-31,2024,5,May,2,Friday
+338,20240311,109,3622,3,2,0.0,79.88,35.88,44.0,Product 109,Beverages,Beverages Group 2,Brand 05,17.94,Customer 3622,South,Consumer,City 23,Store 03,East,Manager 04,2024-03-11,2024,3,Mar,1,Monday
+339,20240304,30,1360,8,2,0.15,150.48,80.0,70.48,Product 030,Office,Office Group 3,Brand 01,40.0,Customer 1360,West,Consumer,City 17,Store 08,West,Manager 01,2024-03-04,2024,3,Mar,1,Monday
+340,20250627,96,1455,10,4,0.05,113.19,63.92,49.27,Product 096,Office,Office Group 1,Brand 07,15.98,Customer 1455,East,SMB,City 16,Store 10,South,Manager 03,2025-06-27,2025,6,Jun,2,Friday
+341,20240418,82,652,9,1,0.0,70.86,42.92,27.94,Product 082,Personal Care,Personal Care Group 3,Brand 08,42.92,Customer 0652,West,Consumer,City 29,Store 09,North,Manager 02,2024-04-18,2024,4,Apr,2,Thursday
+342,20250227,37,1076,2,2,0.0,359.48,168.78,190.7,Product 037,Beverages,Beverages Group 2,Brand 08,84.39,Customer 1076,West,Consumer,City 21,Store 02,South,Manager 03,2025-02-27,2025,2,Feb,1,Thursday
+343,20250802,3,25,1,1,0.0,56.33,26.55,29.78,Product 003,Household,Household Group 4,Brand 04,26.55,Customer 0025,North,SMB,City 26,Store 01,North,Manager 02,2025-08-02,2025,8,Aug,3,Saturday
+344,20251116,94,1277,18,2,0.0,203.97,123.86,80.11,Product 094,Personal Care,Personal Care Group 3,Brand 05,61.93,Customer 1277,North,Corporate,City 30,Store 18,South,Manager 03,2025-11-16,2025,11,Nov,4,Sunday
+345,20240728,62,2025,15,1,0.0,236.04,157.87,78.17,Product 062,Snacks,Snacks Group 3,Brand 03,157.87,Customer 2025,North,Consumer,City 10,Store 15,East,Manager 08,2024-07-28,2024,7,Jul,3,Sunday
+346,20251229,56,55,19,3,0.0,463.18,251.94,211.24,Product 056,Snacks,Snacks Group 1,Brand 12,83.98,Customer 0055,East,Consumer,City 08,Store 19,East,Manager 04,2025-12-29,2025,12,Dec,4,Monday
+347,20251030,39,3554,10,1,0.0,41.04,21.15,19.89,Product 039,Household,Household Group 4,Brand 10,21.15,Customer 3554,South,Consumer,City 03,Store 10,South,Manager 03,2025-10-30,2025,10,Oct,4,Thursday
+348,20241110,64,2586,15,2,0.0,459.39,278.24,181.15,Product 064,Personal Care,Personal Care Group 1,Brand 05,139.12,Customer 2586,South,Consumer,City 43,Store 15,East,Manager 08,2024-11-10,2024,11,Nov,4,Sunday
+349,20241112,100,1742,8,2,0.0,530.93,307.42,223.51,Product 100,Personal Care,Personal Care Group 1,Brand 11,153.71,Customer 1742,South,SMB,City 15,Store 08,West,Manager 01,2024-11-12,2024,11,Nov,4,Tuesday
+350,20250321,5,3719,7,1,0.0,156.97,82.65,74.32,Product 005,Electronics,Electronics Group 2,Brand 06,82.65,Customer 3719,East,Consumer,City 24,Store 07,East,Manager 08,2025-03-21,2025,3,Mar,1,Friday
+351,20240817,111,1996,15,3,0.0,251.01,125.1,125.91,Product 111,Household,Household Group 4,Brand 07,41.7,Customer 1996,West,Consumer,City 29,Store 15,East,Manager 08,2024-08-17,2024,8,Aug,3,Saturday
+352,20250724,92,262,19,4,0.05,774.97,540.92,234.05,Product 092,Snacks,Snacks Group 1,Brand 03,135.23,Customer 0262,South,Corporate,City 23,Store 19,East,Manager 04,2025-07-24,2025,7,Jul,3,Thursday
+353,20250830,48,2507,20,1,0.0,220.76,116.79,103.97,Product 048,Office,Office Group 1,Brand 04,116.79,Customer 2507,East,Corporate,City 12,Store 20,West,Manager 05,2025-08-30,2025,8,Aug,3,Saturday
+354,20250823,82,2318,12,1,0.15,75.53,42.92,32.61,Product 082,Personal Care,Personal Care Group 3,Brand 08,42.92,Customer 2318,South,SMB,City 15,Store 12,West,Manager 05,2025-08-23,2025,8,Aug,3,Saturday
+355,20240427,56,561,4,2,0.0,325.49,167.96,157.53,Product 056,Snacks,Snacks Group 1,Brand 12,83.98,Customer 0561,North,Corporate,City 34,Store 04,West,Manager 05,2024-04-27,2024,4,Apr,2,Saturday
+356,20250719,89,1079,13,2,0.0,263.09,138.48,124.61,Product 089,Electronics,Electronics Group 2,Brand 15,69.24,Customer 1079,East,Consumer,City 24,Store 13,North,Manager 06,2025-07-19,2025,7,Jul,3,Saturday
+357,20241208,89,3142,24,1,0.0,122.06,69.24,52.82,Product 089,Electronics,Electronics Group 2,Brand 15,69.24,Customer 3142,South,SMB,City 23,Store 24,West,Manager 01,2024-12-08,2024,12,Dec,4,Sunday
+358,20250217,80,3081,1,1,0.15,160.25,118.39,41.86,Product 080,Snacks,Snacks Group 1,Brand 06,118.39,Customer 3081,North,Consumer,City 10,Store 01,North,Manager 02,2025-02-17,2025,2,Feb,1,Monday
+359,20250926,52,2253,20,1,0.05,257.82,135.69,122.13,Product 052,Personal Care,Personal Care Group 1,Brand 08,135.69,Customer 2253,North,SMB,City 46,Store 20,West,Manager 05,2025-09-26,2025,9,Sep,3,Friday
+360,20241001,8,1857,16,2,0.15,286.92,151.86,135.06,Product 008,Snacks,Snacks Group 1,Brand 09,75.93,Customer 1857,North,Consumer,City 34,Store 16,West,Manager 01,2024-10-01,2024,10,Oct,4,Tuesday
+361,20250415,88,2497,7,2,0.05,45.2,23.94,21.26,Product 088,Personal Care,Personal Care Group 1,Brand 14,11.97,Customer 2497,North,SMB,City 02,Store 07,East,Manager 08,2025-04-15,2025,4,Apr,2,Tuesday
+362,20250209,101,1716,12,1,0.0,240.24,119.36,120.88,Product 101,Electronics,Electronics Group 2,Brand 12,119.36,Customer 1716,West,Consumer,City 37,Store 12,West,Manager 05,2025-02-09,2025,2,Feb,1,Sunday
+363,20251029,12,3034,23,1,0.0,234.24,112.31,121.93,Product 012,Office,Office Group 1,Brand 13,112.31,Customer 3034,South,Corporate,City 11,Store 23,East,Manager 08,2025-10-29,2025,10,Oct,4,Wednesday
+364,20251006,108,3522,11,1,0.0,131.86,72.31,59.55,Product 108,Office,Office Group 1,Brand 04,72.31,Customer 3522,South,Consumer,City 19,Store 11,East,Manager 04,2025-10-06,2025,10,Oct,4,Monday
+365,20241024,96,702,24,2,0.0,52.59,31.96,20.63,Product 096,Office,Office Group 1,Brand 07,15.98,Customer 0702,South,SMB,City 31,Store 24,West,Manager 01,2024-10-24,2024,10,Oct,4,Thursday
+366,20240620,42,1858,3,1,0.0,56.94,31.09,25.85,Product 042,Office,Office Group 3,Brand 13,31.09,Customer 1858,South,Corporate,City 35,Store 03,East,Manager 04,2024-06-20,2024,6,Jun,2,Thursday
+367,20250517,57,2422,4,1,0.1,127.32,78.04,49.28,Product 057,Household,Household Group 2,Brand 13,78.04,Customer 2422,South,Consumer,City 23,Store 04,West,Manager 05,2025-05-17,2025,5,May,2,Saturday
+368,20240810,90,2694,13,4,0.0,178.92,85.32,93.6,Product 090,Office,Office Group 3,Brand 01,21.33,Customer 2694,South,Corporate,City 07,Store 13,North,Manager 06,2024-08-10,2024,8,Aug,3,Saturday
+369,20241005,48,831,24,1,0.0,184.98,116.79,68.19,Product 048,Office,Office Group 1,Brand 04,116.79,Customer 0831,East,SMB,City 16,Store 24,West,Manager 01,2024-10-05,2024,10,Oct,4,Saturday
+370,20240727,94,3894,18,1,0.15,108.39,61.93,46.46,Product 094,Personal Care,Personal Care Group 3,Brand 05,61.93,Customer 3894,South,Consumer,City 07,Store 18,South,Manager 03,2024-07-27,2024,7,Jul,3,Saturday
+371,20240718,99,3120,10,2,0.0,687.32,357.64,329.68,Product 099,Household,Household Group 4,Brand 10,178.82,Customer 3120,West,Corporate,City 01,Store 10,South,Manager 03,2024-07-18,2024,7,Jul,3,Thursday
+372,20240717,56,480,2,2,0.0,244.48,167.96,76.52,Product 056,Snacks,Snacks Group 1,Brand 12,83.98,Customer 0480,West,Consumer,City 01,Store 02,South,Manager 03,2024-07-17,2024,7,Jul,3,Wednesday
+373,20250519,15,2751,24,4,0.0,1162.38,698.4,463.98,Product 015,Household,Household Group 4,Brand 01,174.6,Customer 2751,East,SMB,City 16,Store 24,West,Manager 01,2025-05-19,2025,5,May,2,Monday
+374,20250731,37,17,13,2,0.0,311.59,168.78,142.81,Product 037,Beverages,Beverages Group 2,Brand 08,84.39,Customer 0017,North,Consumer,City 18,Store 13,North,Manager 06,2025-07-31,2025,7,Jul,3,Thursday
+375,20250314,85,2452,13,1,0.05,259.55,157.46,102.09,Product 085,Beverages,Beverages Group 2,Brand 11,157.46,Customer 2452,West,SMB,City 05,Store 13,North,Manager 06,2025-03-14,2025,3,Mar,1,Friday
+376,20250920,26,2356,6,1,0.0,218.09,126.27,91.82,Product 026,Snacks,Snacks Group 3,Brand 12,126.27,Customer 2356,West,SMB,City 05,Store 06,South,Manager 07,2025-09-20,2025,9,Sep,3,Saturday
+377,20240916,67,3757,13,2,0.05,479.81,285.88,193.93,Product 067,Beverages,Beverages Group 4,Brand 08,142.94,Customer 3757,North,Consumer,City 14,Store 13,North,Manager 06,2024-09-16,2024,9,Sep,3,Monday
+378,20250923,3,3440,21,3,0.0,162.66,79.65,83.01,Product 003,Household,Household Group 4,Brand 04,26.55,Customer 3440,West,Consumer,City 33,Store 21,North,Manager 06,2025-09-23,2025,9,Sep,3,Tuesday
+379,20251208,97,529,15,1,0.0,100.41,47.25,53.16,Product 097,Beverages,Beverages Group 2,Brand 08,47.25,Customer 0529,North,Consumer,City 02,Store 15,East,Manager 08,2025-12-08,2025,12,Dec,4,Monday
+380,20250117,88,1639,19,1,0.0,25.11,11.97,13.14,Product 088,Personal Care,Personal Care Group 1,Brand 14,11.97,Customer 1639,East,Consumer,City 08,Store 19,East,Manager 04,2025-01-17,2025,1,Jan,1,Friday
+381,20241210,37,2179,3,1,0.05,135.78,84.39,51.39,Product 037,Beverages,Beverages Group 2,Brand 08,84.39,Customer 2179,East,Consumer,City 20,Store 03,East,Manager 04,2024-12-10,2024,12,Dec,4,Tuesday
+382,20240807,60,1433,1,5,0.0,211.53,97.4,114.13,Product 060,Office,Office Group 1,Brand 01,19.48,Customer 1433,North,Corporate,City 42,Store 01,North,Manager 02,2024-08-07,2024,8,Aug,3,Wednesday
+383,20251027,17,334,7,4,0.0,313.33,177.4,135.93,Product 017,Electronics,Electronics Group 2,Brand 03,44.35,Customer 0334,South,SMB,City 47,Store 07,East,Manager 08,2025-10-27,2025,10,Oct,4,Monday
+384,20241125,106,1379,13,1,0.0,129.09,77.74,51.35,Product 106,Personal Care,Personal Care Group 3,Brand 02,77.74,Customer 1379,East,Consumer,City 36,Store 13,North,Manager 06,2024-11-25,2024,11,Nov,4,Monday
+385,20250611,7,1052,2,5,0.1,1255.27,733.95,521.32,Product 007,Beverages,Beverages Group 4,Brand 08,146.79,Customer 1052,West,Consumer,City 45,Store 02,South,Manager 03,2025-06-11,2025,6,Jun,2,Wednesday
+386,20250117,13,254,9,1,0.0,249.41,135.87,113.54,Product 013,Beverages,Beverages Group 2,Brand 14,135.87,Customer 0254,South,SMB,City 15,Store 09,North,Manager 02,2025-01-17,2025,1,Jan,1,Friday
+387,20240820,43,269,5,3,0.0,663.16,322.47,340.69,Product 043,Beverages,Beverages Group 4,Brand 14,107.49,Customer 0269,North,Consumer,City 30,Store 05,North,Manager 06,2024-08-20,2024,8,Aug,3,Tuesday
+388,20240815,115,804,5,1,0.1,279.24,148.24,131.0,Product 115,Beverages,Beverages Group 4,Brand 11,148.24,Customer 0804,West,Corporate,City 37,Store 05,North,Manager 06,2024-08-15,2024,8,Aug,3,Thursday
+389,20240702,21,863,7,2,0.0,110.86,63.6,47.26,Product 021,Household,Household Group 2,Brand 07,31.8,Customer 0863,East,SMB,City 48,Store 07,East,Manager 08,2024-07-02,2024,7,Jul,3,Tuesday
+390,20240215,26,3681,15,3,0.0,688.7,378.81,309.89,Product 026,Snacks,Snacks Group 3,Brand 12,126.27,Customer 3681,North,Corporate,City 34,Store 15,East,Manager 08,2024-02-15,2024,2,Feb,1,Thursday
+391,20250905,94,1404,19,1,0.0,122.14,61.93,60.21,Product 094,Personal Care,Personal Care Group 3,Brand 05,61.93,Customer 1404,West,SMB,City 13,Store 19,East,Manager 04,2025-09-05,2025,9,Sep,3,Friday
+392,20240128,62,2390,6,1,0.0,235.21,157.87,77.34,Product 062,Snacks,Snacks Group 3,Brand 03,157.87,Customer 2390,South,Consumer,City 39,Store 06,South,Manager 07,2024-01-28,2024,1,Jan,1,Sunday
+393,20240730,17,241,22,1,0.05,80.11,44.35,35.76,Product 017,Electronics,Electronics Group 2,Brand 03,44.35,Customer 0241,North,Corporate,City 02,Store 22,South,Manager 07,2024-07-30,2024,7,Jul,3,Tuesday
+394,20240312,81,702,22,2,0.0,37.63,23.38,14.25,Product 081,Household,Household Group 2,Brand 07,11.69,Customer 0702,South,SMB,City 31,Store 22,South,Manager 07,2024-03-12,2024,3,Mar,1,Tuesday
+395,20240418,64,1930,15,3,0.0,701.34,417.36,283.98,Product 064,Personal Care,Personal Care Group 1,Brand 05,139.12,Customer 1930,South,Consumer,City 11,Store 15,East,Manager 08,2024-04-18,2024,4,Apr,2,Thursday
+396,20250721,33,2841,1,1,0.15,98.69,59.54,39.15,Product 033,Household,Household Group 2,Brand 04,59.54,Customer 2841,North,SMB,City 10,Store 01,North,Manager 02,2025-07-21,2025,7,Jul,3,Monday
+397,20250928,87,2481,20,1,0.05,118.04,65.21,52.83,Product 087,Household,Household Group 4,Brand 13,65.21,Customer 2481,North,Consumer,City 34,Store 20,West,Manager 05,2025-09-28,2025,9,Sep,3,Sunday
+398,20251218,53,2496,10,1,0.0,135.62,71.73,63.89,Product 053,Electronics,Electronics Group 2,Brand 09,71.73,Customer 2496,West,Consumer,City 01,Store 10,South,Manager 03,2025-12-18,2025,12,Dec,4,Thursday
+399,20240420,106,2868,23,2,0.15,253.87,155.48,98.39,Product 106,Personal Care,Personal Care Group 3,Brand 02,77.74,Customer 2868,West,Consumer,City 37,Store 23,East,Manager 08,2024-04-20,2024,4,Apr,2,Saturday
+400,20240724,66,1428,8,4,0.05,125.86,82.2,43.66,Product 066,Office,Office Group 3,Brand 07,20.55,Customer 1428,West,Consumer,City 37,Store 08,West,Manager 01,2024-07-24,2024,7,Jul,3,Wednesday
+401,20250620,79,2694,8,2,0.0,698.87,333.12,365.75,Product 079,Beverages,Beverages Group 4,Brand 05,166.56,Customer 2694,South,Corporate,City 07,Store 08,West,Manager 01,2025-06-20,2025,6,Jun,2,Friday
+402,20251016,98,2643,6,3,0.0,821.47,430.23,391.24,Product 098,Snacks,Snacks Group 3,Brand 09,143.41,Customer 2643,East,Consumer,City 04,Store 06,South,Manager 07,2025-10-16,2025,10,Oct,4,Thursday
+403,20251215,71,3529,10,2,0.0,575.68,308.52,267.16,Product 071,Electronics,Electronics Group 4,Brand 12,154.26,Customer 3529,North,Consumer,City 26,Store 10,South,Manager 03,2025-12-15,2025,12,Dec,4,Monday
+404,20251108,87,3453,8,2,0.0,271.47,130.42,141.05,Product 087,Household,Household Group 4,Brand 13,65.21,Customer 3453,North,Corporate,City 46,Store 08,West,Manager 01,2025-11-08,2025,11,Nov,4,Saturday
+405,20250316,79,3341,16,2,0.0,643.4,333.12,310.28,Product 079,Beverages,Beverages Group 4,Brand 05,166.56,Customer 3341,North,Consumer,City 30,Store 16,West,Manager 01,2025-03-16,2025,3,Mar,1,Sunday
+406,20250815,63,1462,5,1,0.1,58.17,30.74,27.43,Product 063,Household,Household Group 4,Brand 04,30.74,Customer 1462,South,Consumer,City 23,Store 05,North,Manager 06,2025-08-15,2025,8,Aug,3,Friday
+407,20251007,19,1463,9,1,0.1,42.01,30.62,11.39,Product 019,Beverages,Beverages Group 4,Brand 05,30.62,Customer 1463,East,Consumer,City 24,Store 09,North,Manager 02,2025-10-07,2025,10,Oct,4,Tuesday
+408,20240520,79,2416,22,2,0.1,470.24,333.12,137.12,Product 079,Beverages,Beverages Group 4,Brand 05,166.56,Customer 2416,West,Consumer,City 17,Store 22,South,Manager 07,2024-05-20,2024,5,May,2,Monday
+409,20240723,21,181,9,2,0.0,96.77,63.6,33.17,Product 021,Household,Household Group 2,Brand 07,31.8,Customer 0181,North,SMB,City 38,Store 09,North,Manager 02,2024-07-23,2024,7,Jul,3,Tuesday
+410,20240602,87,3112,15,5,0.2,405.37,326.05,79.32,Product 087,Household,Household Group 4,Brand 13,65.21,Customer 3112,West,Consumer,City 41,Store 15,East,Manager 08,2024-06-02,2024,6,Jun,2,Sunday
+411,20240217,40,2513,8,1,0.0,178.96,90.16,88.8,Product 040,Personal Care,Personal Care Group 1,Brand 11,90.16,Customer 2513,North,Consumer,City 18,Store 08,West,Manager 01,2024-02-17,2024,2,Feb,1,Saturday
+412,20250709,106,3383,17,3,0.05,341.31,233.22,108.09,Product 106,Personal Care,Personal Care Group 3,Brand 02,77.74,Customer 3383,East,SMB,City 24,Store 17,North,Manager 02,2025-07-09,2025,7,Jul,3,Wednesday
+413,20240205,74,3032,17,1,0.0,207.4,128.15,79.25,Product 074,Snacks,Snacks Group 3,Brand 15,128.15,Customer 3032,West,Consumer,City 09,Store 17,North,Manager 02,2024-02-05,2024,2,Feb,1,Monday
+414,20240428,21,19,6,2,0.15,97.39,63.6,33.79,Product 021,Household,Household Group 2,Brand 07,31.8,Customer 0019,East,SMB,City 20,Store 06,South,Manager 07,2024-04-28,2024,4,Apr,2,Sunday
+415,20240129,82,3882,1,2,0.0,168.17,85.84,82.33,Product 082,Personal Care,Personal Care Group 3,Brand 08,42.92,Customer 3882,South,SMB,City 43,Store 01,North,Manager 02,2024-01-29,2024,1,Jan,1,Monday
+416,20240328,16,3592,15,1,0.0,277.28,137.14,140.14,Product 016,Personal Care,Personal Care Group 1,Brand 02,137.14,Customer 3592,West,SMB,City 41,Store 15,East,Manager 08,2024-03-28,2024,3,Mar,1,Thursday
+417,20240416,85,3826,23,1,0.0,258.83,157.46,101.37,Product 085,Beverages,Beverages Group 2,Brand 11,157.46,Customer 3826,South,Consumer,City 35,Store 23,East,Manager 08,2024-04-16,2024,4,Apr,2,Tuesday
+418,20241122,81,3864,3,1,0.05,22.05,11.69,10.36,Product 081,Household,Household Group 2,Brand 07,11.69,Customer 3864,West,Corporate,City 25,Store 03,East,Manager 04,2024-11-22,2024,11,Nov,4,Friday
+419,20240620,74,782,22,1,0.0,215.9,128.15,87.75,Product 074,Snacks,Snacks Group 3,Brand 15,128.15,Customer 0782,South,SMB,City 15,Store 22,South,Manager 07,2024-06-20,2024,6,Jun,2,Thursday
+420,20240619,88,3893,4,2,0.0,45.95,23.94,22.01,Product 088,Personal Care,Personal Care Group 1,Brand 14,11.97,Customer 3893,North,Corporate,City 06,Store 04,West,Manager 05,2024-06-19,2024,6,Jun,2,Wednesday
+421,20241225,70,3616,3,2,0.0,703.17,348.1,355.07,Product 070,Personal Care,Personal Care Group 3,Brand 11,174.05,Customer 3616,West,SMB,City 17,Store 03,East,Manager 04,2024-12-25,2024,12,Dec,4,Wednesday
+422,20251104,72,1253,13,1,0.15,203.52,134.33,69.19,Product 072,Office,Office Group 1,Brand 13,134.33,Customer 1253,North,Consumer,City 06,Store 13,North,Manager 06,2025-11-04,2025,11,Nov,4,Tuesday
+423,20250306,63,3506,4,2,0.0,115.26,61.48,53.78,Product 063,Household,Household Group 4,Brand 04,30.74,Customer 3506,South,Consumer,City 03,Store 04,West,Manager 05,2025-03-06,2025,3,Mar,1,Thursday
+424,20240725,96,120,1,2,0.1,52.88,31.96,20.92,Product 096,Office,Office Group 1,Brand 07,15.98,Customer 0120,West,Consumer,City 25,Store 01,North,Manager 02,2024-07-25,2024,7,Jul,3,Thursday
+425,20240615,108,1089,11,1,0.1,143.5,72.31,71.19,Product 108,Office,Office Group 1,Brand 04,72.31,Customer 1089,North,Consumer,City 34,Store 11,East,Manager 04,2024-06-15,2024,6,Jun,2,Saturday
+426,20250602,31,1534,16,3,0.05,443.27,246.78,196.49,Product 031,Beverages,Beverages Group 4,Brand 02,82.26,Customer 1534,South,Consumer,City 47,Store 16,West,Manager 01,2025-06-02,2025,6,Jun,2,Monday
+427,20250805,5,272,21,1,0.15,143.24,82.65,60.59,Product 005,Electronics,Electronics Group 2,Brand 06,82.65,Customer 0272,West,Consumer,City 33,Store 21,North,Manager 06,2025-08-05,2025,8,Aug,3,Tuesday
+428,20250615,55,1809,4,2,0.1,303.1,214.14,88.96,Product 055,Beverages,Beverages Group 4,Brand 11,107.07,Customer 1809,North,Corporate,City 34,Store 04,West,Manager 05,2025-06-15,2025,6,Jun,2,Sunday
+429,20250123,78,3810,22,1,0.0,97.37,65.31,32.06,Product 078,Office,Office Group 3,Brand 04,65.31,Customer 3810,South,Consumer,City 19,Store 22,South,Manager 07,2025-01-23,2025,1,Jan,1,Thursday
+430,20241120,58,74,21,3,0.0,174.93,108.24,66.69,Product 058,Personal Care,Personal Care Group 3,Brand 14,36.08,Customer 0074,South,Consumer,City 27,Store 21,North,Manager 06,2024-11-20,2024,11,Nov,4,Wednesday
+431,20250713,111,763,3,2,0.0,141.02,83.4,57.62,Product 111,Household,Household Group 4,Brand 07,41.7,Customer 0763,East,SMB,City 44,Store 03,East,Manager 04,2025-07-13,2025,7,Jul,3,Sunday
+432,20240223,112,2360,16,3,0.0,217.12,100.74,116.38,Product 112,Personal Care,Personal Care Group 1,Brand 08,33.58,Customer 2360,West,Consumer,City 09,Store 16,West,Manager 01,2024-02-23,2024,2,Feb,1,Friday
+433,20240418,55,2790,11,1,0.05,201.14,107.07,94.07,Product 055,Beverages,Beverages Group 4,Brand 11,107.07,Customer 2790,South,Consumer,City 07,Store 11,East,Manager 04,2024-04-18,2024,4,Apr,2,Thursday
+434,20250222,96,241,17,1,0.0,34.73,15.98,18.75,Product 096,Office,Office Group 1,Brand 07,15.98,Customer 0241,North,Corporate,City 02,Store 17,North,Manager 02,2025-02-22,2025,2,Feb,1,Saturday
+435,20241013,34,3858,21,2,0.1,638.97,352.54,286.43,Product 034,Personal Care,Personal Care Group 3,Brand 05,176.27,Customer 3858,South,Consumer,City 19,Store 21,North,Manager 06,2024-10-13,2024,10,Oct,4,Sunday
+436,20241128,87,2035,8,3,0.1,258.97,195.63,63.34,Product 087,Household,Household Group 4,Brand 13,65.21,Customer 2035,East,Consumer,City 20,Store 08,West,Manager 01,2024-11-28,2024,11,Nov,4,Thursday
+437,20250102,61,1884,24,1,0.1,66.53,35.55,30.98,Product 061,Beverages,Beverages Group 2,Brand 02,35.55,Customer 1884,West,Corporate,City 13,Store 24,West,Manager 01,2025-01-02,2025,1,Jan,1,Thursday
+438,20250313,75,2564,4,1,0.0,319.11,159.03,160.08,Product 075,Household,Household Group 4,Brand 01,159.03,Customer 2564,West,SMB,City 21,Store 04,West,Manager 05,2025-03-13,2025,3,Mar,1,Thursday
+439,20240827,105,1781,12,4,0.0,1219.69,620.68,599.01,Product 105,Household,Household Group 2,Brand 01,155.17,Customer 1781,North,Consumer,City 06,Store 12,West,Manager 05,2024-08-27,2024,8,Aug,3,Tuesday
+440,20250901,4,3716,3,4,0.05,737.1,427.16,309.94,Product 004,Personal Care,Personal Care Group 1,Brand 05,106.79,Customer 3716,West,Corporate,City 21,Store 03,East,Manager 04,2025-09-01,2025,9,Sep,3,Monday
+441,20250418,98,1614,5,1,0.0,246.66,143.41,103.25,Product 098,Snacks,Snacks Group 3,Brand 09,143.41,Customer 1614,South,Consumer,City 31,Store 05,North,Manager 06,2025-04-18,2025,4,Apr,2,Friday
+442,20240112,47,2260,18,2,0.05,47.54,23.48,24.06,Product 047,Electronics,Electronics Group 4,Brand 03,11.74,Customer 2260,West,Consumer,City 05,Store 18,South,Manager 03,2024-01-12,2024,1,Jan,1,Friday
+443,20251105,117,1183,11,4,0.0,863.91,407.48,456.43,Product 117,Household,Household Group 2,Brand 13,101.87,Customer 1183,East,Consumer,City 32,Store 11,East,Manager 04,2025-11-05,2025,11,Nov,4,Wednesday
+444,20250107,104,239,16,2,0.0,368.57,244.96,123.61,Product 104,Snacks,Snacks Group 1,Brand 15,122.48,Customer 0239,East,Consumer,City 48,Store 16,West,Manager 01,2025-01-07,2025,1,Jan,1,Tuesday
+445,20240913,38,5,8,2,0.1,469.54,323.12,146.42,Product 038,Snacks,Snacks Group 3,Brand 09,161.56,Customer 0005,North,Corporate,City 06,Store 08,West,Manager 01,2024-09-13,2024,9,Sep,3,Friday
+446,20241215,102,3171,23,2,0.05,510.93,301.68,209.25,Product 102,Office,Office Group 3,Brand 13,150.84,Customer 3171,East,Consumer,City 04,Store 23,East,Manager 08,2024-12-15,2024,12,Dec,4,Sunday
+447,20241128,100,3390,6,1,0.15,222.66,153.71,68.95,Product 100,Personal Care,Personal Care Group 1,Brand 11,153.71,Customer 3390,South,SMB,City 31,Store 06,South,Manager 07,2024-11-28,2024,11,Nov,4,Thursday
+448,20240917,87,3513,2,2,0.0,203.43,130.42,73.01,Product 087,Household,Household Group 4,Brand 13,65.21,Customer 3513,North,Consumer,City 10,Store 02,South,Manager 03,2024-09-17,2024,9,Sep,3,Tuesday
+449,20250718,87,2503,9,4,0.0,530.07,260.84,269.23,Product 087,Household,Household Group 4,Brand 13,65.21,Customer 2503,East,Consumer,City 08,Store 09,North,Manager 02,2025-07-18,2025,7,Jul,3,Friday
+450,20241002,90,3802,16,1,0.0,37.62,21.33,16.29,Product 090,Office,Office Group 3,Brand 01,21.33,Customer 3802,South,Consumer,City 11,Store 16,West,Manager 01,2024-10-02,2024,10,Oct,4,Wednesday
+451,20241002,72,1944,2,3,0.0,773.35,402.99,370.36,Product 072,Office,Office Group 1,Brand 13,134.33,Customer 1944,West,SMB,City 25,Store 02,South,Manager 03,2024-10-02,2024,10,Oct,4,Wednesday
+452,20250924,27,735,16,2,0.05,351.6,166.94,184.66,Product 027,Household,Household Group 4,Brand 13,83.47,Customer 0735,East,SMB,City 16,Store 16,West,Manager 01,2025-09-24,2025,9,Sep,3,Wednesday
+453,20250608,61,3272,5,2,0.0,150.84,71.1,79.74,Product 061,Beverages,Beverages Group 2,Brand 02,35.55,Customer 3272,West,Consumer,City 09,Store 05,North,Manager 06,2025-06-08,2025,6,Jun,2,Sunday
+454,20240121,72,1194,20,2,0.0,434.63,268.66,165.97,Product 072,Office,Office Group 1,Brand 13,134.33,Customer 1194,South,Corporate,City 43,Store 20,West,Manager 05,2024-01-21,2024,1,Jan,1,Sunday
+455,20251027,5,1640,23,2,0.0,307.56,165.3,142.26,Product 005,Electronics,Electronics Group 2,Brand 06,82.65,Customer 1640,West,Consumer,City 09,Store 23,East,Manager 08,2025-10-27,2025,10,Oct,4,Monday
+456,20250205,20,2703,2,1,0.0,87.42,39.58,47.84,Product 020,Snacks,Snacks Group 1,Brand 06,39.58,Customer 2703,East,Consumer,City 16,Store 02,South,Manager 03,2025-02-05,2025,2,Feb,1,Wednesday
+457,20240527,72,1799,3,3,0.0,597.87,402.99,194.88,Product 072,Office,Office Group 1,Brand 13,134.33,Customer 1799,East,SMB,City 24,Store 03,East,Manager 04,2024-05-27,2024,5,May,2,Monday
+458,20250131,94,37,9,1,0.05,92.9,61.93,30.97,Product 094,Personal Care,Personal Care Group 3,Brand 05,61.93,Customer 0037,North,SMB,City 38,Store 09,North,Manager 02,2025-01-31,2025,1,Jan,1,Friday
+459,20250902,86,3245,14,2,0.0,109.75,52.66,57.09,Product 086,Snacks,Snacks Group 3,Brand 12,26.33,Customer 3245,North,Consumer,City 30,Store 14,South,Manager 07,2025-09-02,2025,9,Sep,3,Tuesday
+460,20241015,15,850,19,4,0.1,954.17,698.4,255.77,Product 015,Household,Household Group 4,Brand 01,174.6,Customer 0850,South,SMB,City 35,Store 19,East,Manager 04,2024-10-15,2024,10,Oct,4,Tuesday
+461,20250725,28,3002,13,1,0.0,164.31,96.3,68.01,Product 028,Personal Care,Personal Care Group 1,Brand 14,96.3,Customer 3002,South,Consumer,City 27,Store 13,North,Manager 06,2025-07-25,2025,7,Jul,3,Friday
+462,20241221,28,2154,21,2,0.15,255.39,192.6,62.79,Product 028,Personal Care,Personal Care Group 1,Brand 14,96.3,Customer 2154,South,SMB,City 43,Store 21,North,Manager 06,2024-12-21,2024,12,Dec,4,Saturday
+463,20250428,8,3498,20,2,0.15,193.04,151.86,41.18,Product 008,Snacks,Snacks Group 1,Brand 09,75.93,Customer 3498,South,SMB,City 43,Store 20,West,Manager 05,2025-04-28,2025,4,Apr,2,Monday
+464,20250412,29,572,15,3,0.0,773.24,501.78,271.46,Product 029,Electronics,Electronics Group 2,Brand 15,167.26,Customer 0572,West,Consumer,City 45,Store 15,East,Manager 08,2025-04-12,2025,4,Apr,2,Saturday
+465,20250605,25,3270,20,3,0.0,596.11,384.06,212.05,Product 025,Beverages,Beverages Group 2,Brand 11,128.02,Customer 3270,South,Consumer,City 07,Store 20,West,Manager 05,2025-06-05,2025,6,Jun,2,Thursday
+466,20250222,59,272,16,1,0.1,128.68,85.85,42.83,Product 059,Electronics,Electronics Group 4,Brand 15,85.85,Customer 0272,West,Consumer,City 33,Store 16,West,Manager 01,2025-02-22,2025,2,Feb,1,Saturday
+467,20240529,11,2783,21,3,0.15,71.56,49.56,22.0,Product 011,Electronics,Electronics Group 4,Brand 12,16.52,Customer 2783,East,Consumer,City 48,Store 21,North,Manager 06,2024-05-29,2024,5,May,2,Wednesday
+468,20250605,106,2092,16,1,0.1,128.03,77.74,50.29,Product 106,Personal Care,Personal Care Group 3,Brand 02,77.74,Customer 2092,West,Consumer,City 29,Store 16,West,Manager 01,2025-06-05,2025,6,Jun,2,Thursday
+469,20250805,110,1610,19,1,0.0,186.72,105.9,80.82,Product 110,Snacks,Snacks Group 3,Brand 06,105.9,Customer 1610,South,SMB,City 27,Store 19,East,Manager 04,2025-08-05,2025,8,Aug,3,Tuesday
+470,20250518,72,3355,13,1,0.0,267.74,134.33,133.41,Product 072,Office,Office Group 1,Brand 13,134.33,Customer 3355,East,SMB,City 44,Store 13,North,Manager 06,2025-05-18,2025,5,May,2,Sunday
+471,20240219,52,2995,17,3,0.0,689.23,407.07,282.16,Product 052,Personal Care,Personal Care Group 1,Brand 08,135.69,Customer 2995,East,SMB,City 20,Store 17,North,Manager 02,2024-02-19,2024,2,Feb,1,Monday
+472,20250507,40,754,3,3,0.0,557.74,270.48,287.26,Product 040,Personal Care,Personal Care Group 1,Brand 11,90.16,Customer 0754,South,Consumer,City 35,Store 03,East,Manager 04,2025-05-07,2025,5,May,2,Wednesday
+473,20240127,45,3992,16,1,0.0,236.86,144.18,92.68,Product 045,Household,Household Group 2,Brand 01,144.18,Customer 3992,West,SMB,City 09,Store 16,West,Manager 01,2024-01-27,2024,1,Jan,1,Saturday
+474,20250520,26,1075,21,3,0.0,663.93,378.81,285.12,Product 026,Snacks,Snacks Group 3,Brand 12,126.27,Customer 1075,East,Consumer,City 20,Store 21,North,Manager 06,2025-05-20,2025,5,May,2,Tuesday
+475,20250621,49,1463,23,2,0.0,205.75,95.12,110.63,Product 049,Beverages,Beverages Group 2,Brand 05,47.56,Customer 1463,East,Consumer,City 24,Store 23,East,Manager 08,2025-06-21,2025,6,Jun,2,Saturday
+476,20241228,89,3964,11,3,0.0,320.91,207.72,113.19,Product 089,Electronics,Electronics Group 2,Brand 15,69.24,Customer 3964,West,Corporate,City 29,Store 11,East,Manager 04,2024-12-28,2024,12,Dec,4,Saturday
+477,20250927,111,1950,12,1,0.0,92.79,41.7,51.09,Product 111,Household,Household Group 4,Brand 07,41.7,Customer 1950,South,Consumer,City 31,Store 12,West,Manager 05,2025-09-27,2025,9,Sep,3,Saturday
+478,20240504,103,2487,16,1,0.0,376.42,173.55,202.87,Product 103,Beverages,Beverages Group 4,Brand 14,173.55,Customer 2487,East,Corporate,City 40,Store 16,West,Manager 01,2024-05-04,2024,5,May,2,Saturday
+479,20240908,115,1621,5,3,0.0,654.63,444.72,209.91,Product 115,Beverages,Beverages Group 4,Brand 11,148.24,Customer 1621,North,SMB,City 38,Store 05,North,Manager 06,2024-09-08,2024,9,Sep,3,Sunday
+480,20250617,66,2103,15,1,0.1,40.3,20.55,19.75,Product 066,Office,Office Group 3,Brand 07,20.55,Customer 2103,East,Consumer,City 40,Store 15,East,Manager 08,2025-06-17,2025,6,Jun,2,Tuesday
+481,20240120,85,1295,4,2,0.0,574.24,314.92,259.32,Product 085,Beverages,Beverages Group 2,Brand 11,157.46,Customer 1295,East,Consumer,City 48,Store 04,West,Manager 05,2024-01-20,2024,1,Jan,1,Saturday
+482,20241218,17,1807,9,2,0.0,176.84,88.7,88.14,Product 017,Electronics,Electronics Group 2,Brand 03,44.35,Customer 1807,East,SMB,City 32,Store 09,North,Manager 02,2024-12-18,2024,12,Dec,4,Wednesday
+483,20250718,31,2703,9,2,0.15,215.45,164.52,50.93,Product 031,Beverages,Beverages Group 4,Brand 02,82.26,Customer 2703,East,Consumer,City 16,Store 09,North,Manager 02,2025-07-18,2025,7,Jul,3,Friday
+484,20241125,97,973,4,1,0.0,78.1,47.25,30.85,Product 097,Beverages,Beverages Group 2,Brand 08,47.25,Customer 0973,North,Consumer,City 14,Store 04,West,Manager 05,2024-11-25,2024,11,Nov,4,Monday
+485,20240904,44,296,22,3,0.0,189.48,88.86,100.62,Product 044,Snacks,Snacks Group 1,Brand 15,29.62,Customer 0296,West,Consumer,City 09,Store 22,South,Manager 07,2024-09-04,2024,9,Sep,3,Wednesday
+486,20240705,56,24,8,1,0.0,177.4,83.98,93.42,Product 056,Snacks,Snacks Group 1,Brand 12,83.98,Customer 0024,West,Consumer,City 25,Store 08,West,Manager 01,2024-07-05,2024,7,Jul,3,Friday
+487,20240509,70,1105,9,1,0.0,279.41,174.05,105.36,Product 070,Personal Care,Personal Care Group 3,Brand 11,174.05,Customer 1105,North,Consumer,City 02,Store 09,North,Manager 02,2024-05-09,2024,5,May,2,Thursday
+488,20240402,77,3340,10,2,0.0,287.84,175.24,112.6,Product 077,Electronics,Electronics Group 2,Brand 03,87.62,Customer 3340,West,Consumer,City 29,Store 10,South,Manager 03,2024-04-02,2024,4,Apr,2,Tuesday
+489,20241112,45,1978,15,3,0.0,752.38,432.54,319.84,Product 045,Household,Household Group 2,Brand 01,144.18,Customer 1978,South,Consumer,City 11,Store 15,East,Manager 08,2024-11-12,2024,11,Nov,4,Tuesday
+490,20240131,108,2359,4,2,0.0,265.12,144.62,120.5,Product 108,Office,Office Group 1,Brand 04,72.31,Customer 2359,East,Consumer,City 08,Store 04,West,Manager 05,2024-01-31,2024,1,Jan,1,Wednesday
+491,20240110,17,1324,16,1,0.1,60.16,44.35,15.81,Product 017,Electronics,Electronics Group 2,Brand 03,44.35,Customer 1324,West,SMB,City 29,Store 16,West,Manager 01,2024-01-10,2024,1,Jan,1,Wednesday
+492,20240226,56,1414,9,4,0.0,642.44,335.92,306.52,Product 056,Snacks,Snacks Group 1,Brand 12,83.98,Customer 1414,South,Consumer,City 23,Store 09,North,Manager 02,2024-02-26,2024,2,Feb,1,Monday
+493,20250131,115,972,15,1,0.1,259.18,148.24,110.94,Product 115,Beverages,Beverages Group 4,Brand 11,148.24,Customer 0972,West,Consumer,City 13,Store 15,East,Manager 08,2025-01-31,2025,1,Jan,1,Friday
+494,20250730,92,2199,15,1,0.0,242.7,135.23,107.47,Product 092,Snacks,Snacks Group 1,Brand 03,135.23,Customer 2199,East,Corporate,City 40,Store 15,East,Manager 08,2025-07-30,2025,7,Jul,3,Wednesday
+495,20240729,90,1900,11,1,0.0,37.14,21.33,15.81,Product 090,Office,Office Group 3,Brand 01,21.33,Customer 1900,West,Consumer,City 29,Store 11,East,Manager 04,2024-07-29,2024,7,Jul,3,Monday
+496,20250915,102,275,13,3,0.0,764.94,452.52,312.42,Product 102,Office,Office Group 3,Brand 13,150.84,Customer 0275,East,Corporate,City 36,Store 13,North,Manager 06,2025-09-15,2025,9,Sep,3,Monday
+497,20250108,107,48,17,1,0.05,46.89,27.29,19.6,Product 107,Electronics,Electronics Group 4,Brand 03,27.29,Customer 0048,West,Consumer,City 01,Store 17,North,Manager 02,2025-01-08,2025,1,Jan,1,Wednesday
+498,20240804,79,2245,24,3,0.0,1112.65,499.68,612.97,Product 079,Beverages,Beverages Group 4,Brand 05,166.56,Customer 2245,North,Consumer,City 38,Store 24,West,Manager 01,2024-08-04,2024,8,Aug,3,Sunday
+499,20250804,90,2561,14,1,0.1,33.78,21.33,12.45,Product 090,Office,Office Group 3,Brand 01,21.33,Customer 2561,North,Consumer,City 18,Store 14,South,Manager 07,2025-08-04,2025,8,Aug,3,Monday
+500,20241219,84,2297,22,2,0.1,492.64,308.36,184.28,Product 084,Office,Office Group 1,Brand 10,154.18,Customer 2297,North,Corporate,City 42,Store 22,South,Manager 07,2024-12-19,2024,12,Dec,4,Thursday
+501,20241119,114,510,6,2,0.0,329.76,203.24,126.52,Product 114,Office,Office Group 3,Brand 10,101.62,Customer 0510,South,Corporate,City 31,Store 06,South,Manager 07,2024-11-19,2024,11,Nov,4,Tuesday
+502,20251228,114,3409,15,2,0.0,364.06,203.24,160.82,Product 114,Office,Office Group 3,Brand 10,101.62,Customer 3409,North,Consumer,City 02,Store 15,East,Manager 08,2025-12-28,2025,12,Dec,4,Sunday
+503,20251002,109,1161,7,4,0.0,117.99,71.76,46.23,Product 109,Beverages,Beverages Group 2,Brand 05,17.94,Customer 1161,North,SMB,City 10,Store 07,East,Manager 08,2025-10-02,2025,10,Oct,4,Thursday
+504,20241014,96,668,7,3,0.0,98.69,47.94,50.75,Product 096,Office,Office Group 1,Brand 07,15.98,Customer 0668,West,Consumer,City 45,Store 07,East,Manager 08,2024-10-14,2024,10,Oct,4,Monday
+505,20241212,19,3734,15,1,0.15,37.82,30.62,7.2,Product 019,Beverages,Beverages Group 4,Brand 05,30.62,Customer 3734,South,Consumer,City 39,Store 15,East,Manager 08,2024-12-12,2024,12,Dec,4,Thursday
+506,20250822,68,3799,8,3,0.1,616.96,311.7,305.26,Product 068,Snacks,Snacks Group 1,Brand 09,103.9,Customer 3799,East,Consumer,City 08,Store 08,West,Manager 01,2025-08-22,2025,8,Aug,3,Friday
+507,20240217,26,2996,5,2,0.1,446.84,252.54,194.3,Product 026,Snacks,Snacks Group 3,Brand 12,126.27,Customer 2996,West,Consumer,City 21,Store 05,North,Manager 06,2024-02-17,2024,2,Feb,1,Saturday
+508,20240512,66,867,23,1,0.0,39.5,20.55,18.95,Product 066,Office,Office Group 3,Brand 07,20.55,Customer 0867,East,SMB,City 04,Store 23,East,Manager 08,2024-05-12,2024,5,May,2,Sunday
+509,20240827,22,3437,5,1,0.0,6.69,4.19,2.5,Product 022,Personal Care,Personal Care Group 3,Brand 08,4.19,Customer 3437,North,Consumer,City 30,Store 05,North,Manager 06,2024-08-27,2024,8,Aug,3,Tuesday
+510,20240703,66,3441,7,1,0.0,45.02,20.55,24.47,Product 066,Office,Office Group 3,Brand 07,20.55,Customer 3441,North,SMB,City 34,Store 07,East,Manager 08,2024-07-03,2024,7,Jul,3,Wednesday
+511,20250320,56,1990,7,1,0.0,166.66,83.98,82.68,Product 056,Snacks,Snacks Group 1,Brand 12,83.98,Customer 1990,South,Consumer,City 23,Store 07,East,Manager 08,2025-03-20,2025,3,Mar,1,Thursday
+512,20240828,71,3747,17,2,0.05,573.74,308.52,265.22,Product 071,Electronics,Electronics Group 4,Brand 12,154.26,Customer 3747,East,Consumer,City 04,Store 17,North,Manager 02,2024-08-28,2024,8,Aug,3,Wednesday
+513,20240703,27,7,19,1,0.0,157.53,83.47,74.06,Product 027,Household,Household Group 4,Brand 13,83.47,Customer 0007,East,Consumer,City 08,Store 19,East,Manager 04,2024-07-03,2024,7,Jul,3,Wednesday
+514,20250107,74,3649,20,2,0.0,561.65,256.3,305.35,Product 074,Snacks,Snacks Group 3,Brand 15,128.15,Customer 3649,North,Consumer,City 02,Store 20,West,Manager 05,2025-01-07,2025,1,Jan,1,Tuesday
+515,20251012,3,75,15,2,0.05,84.97,53.1,31.87,Product 003,Household,Household Group 4,Brand 04,26.55,Customer 0075,East,SMB,City 28,Store 15,East,Manager 08,2025-10-12,2025,10,Oct,4,Sunday
+516,20240425,40,1836,21,2,0.0,301.55,180.32,121.23,Product 040,Personal Care,Personal Care Group 1,Brand 11,90.16,Customer 1836,West,SMB,City 13,Store 21,North,Manager 06,2024-04-25,2024,4,Apr,2,Thursday
+517,20240905,77,3211,2,4,0.1,642.78,350.48,292.3,Product 077,Electronics,Electronics Group 2,Brand 03,87.62,Customer 3211,East,Consumer,City 44,Store 02,South,Manager 03,2024-09-05,2024,9,Sep,3,Thursday
+518,20240829,57,186,15,2,0.05,284.09,156.08,128.01,Product 057,Household,Household Group 2,Brand 13,78.04,Customer 0186,South,Consumer,City 43,Store 15,East,Manager 08,2024-08-29,2024,8,Aug,3,Thursday
+519,20250519,120,549,20,1,0.0,15.56,8.98,6.58,Product 120,Office,Office Group 1,Brand 01,8.98,Customer 0549,North,SMB,City 22,Store 20,West,Manager 05,2025-05-19,2025,5,May,2,Monday
+520,20250726,108,801,6,2,0.0,209.91,144.62,65.29,Product 108,Office,Office Group 1,Brand 04,72.31,Customer 0801,North,Consumer,City 34,Store 06,South,Manager 07,2025-07-26,2025,7,Jul,3,Saturday
+521,20250130,64,2853,2,1,0.0,280.64,139.12,141.52,Product 064,Personal Care,Personal Care Group 1,Brand 05,139.12,Customer 2853,North,Consumer,City 22,Store 02,South,Manager 03,2025-01-30,2025,1,Jan,1,Thursday
+522,20250531,55,756,21,2,0.0,328.88,214.14,114.74,Product 055,Beverages,Beverages Group 4,Brand 11,107.07,Customer 0756,West,Consumer,City 37,Store 21,North,Manager 06,2025-05-31,2025,5,May,2,Saturday
+523,20250420,93,2571,3,3,0.0,782.11,530.52,251.59,Product 093,Household,Household Group 2,Brand 04,176.84,Customer 2571,East,Consumer,City 28,Store 03,East,Manager 04,2025-04-20,2025,4,Apr,2,Sunday
+524,20250130,80,843,9,1,0.0,244.06,118.39,125.67,Product 080,Snacks,Snacks Group 1,Brand 06,118.39,Customer 0843,East,Consumer,City 28,Store 09,North,Manager 02,2025-01-30,2025,1,Jan,1,Thursday
+525,20240114,118,2405,22,1,0.15,303.05,171.58,131.47,Product 118,Personal Care,Personal Care Group 3,Brand 14,171.58,Customer 2405,North,Consumer,City 06,Store 22,South,Manager 07,2024-01-14,2024,1,Jan,1,Sunday
+526,20241220,20,3822,19,1,0.15,65.92,39.58,26.34,Product 020,Snacks,Snacks Group 1,Brand 06,39.58,Customer 3822,South,SMB,City 31,Store 19,East,Manager 04,2024-12-20,2024,12,Dec,4,Friday
+527,20251105,30,408,20,1,0.1,69.52,40.0,29.52,Product 030,Office,Office Group 3,Brand 01,40.0,Customer 0408,West,Consumer,City 25,Store 20,West,Manager 05,2025-11-05,2025,11,Nov,4,Wednesday
+528,20250423,118,1541,23,4,0.1,1220.0,686.32,533.68,Product 118,Personal Care,Personal Care Group 3,Brand 14,171.58,Customer 1541,North,Consumer,City 06,Store 23,East,Manager 08,2025-04-23,2025,4,Apr,2,Wednesday
+529,20250414,111,1127,19,2,0.0,130.0,83.4,46.6,Product 111,Household,Household Group 4,Brand 07,41.7,Customer 1127,East,Consumer,City 24,Store 19,East,Manager 04,2025-04-14,2025,4,Apr,2,Monday
+530,20251106,120,1661,21,3,0.1,43.71,26.94,16.77,Product 120,Office,Office Group 1,Brand 01,8.98,Customer 1661,North,SMB,City 30,Store 21,North,Manager 06,2025-11-06,2025,11,Nov,4,Thursday
+531,20240122,54,2247,4,2,0.0,569.9,322.38,247.52,Product 054,Office,Office Group 3,Brand 10,161.19,Customer 2247,East,Corporate,City 40,Store 04,West,Manager 05,2024-01-22,2024,1,Jan,1,Monday
+532,20250904,17,2953,3,3,0.0,254.42,133.05,121.37,Product 017,Electronics,Electronics Group 2,Brand 03,44.35,Customer 2953,North,Consumer,City 26,Store 03,East,Manager 04,2025-09-04,2025,9,Sep,3,Thursday
+533,20250119,13,950,12,1,0.1,216.52,135.87,80.65,Product 013,Beverages,Beverages Group 2,Brand 14,135.87,Customer 0950,South,SMB,City 39,Store 12,West,Manager 05,2025-01-19,2025,1,Jan,1,Sunday
+534,20240916,6,2297,13,1,0.1,126.06,65.18,60.88,Product 006,Office,Office Group 3,Brand 07,65.18,Customer 2297,North,Corporate,City 42,Store 13,North,Manager 06,2024-09-16,2024,9,Sep,3,Monday
+535,20250309,39,3682,11,5,0.0,193.99,105.75,88.24,Product 039,Household,Household Group 4,Brand 10,21.15,Customer 3682,South,Consumer,City 35,Store 11,East,Manager 04,2025-03-09,2025,3,Mar,1,Sunday
+536,20240305,118,2164,2,2,0.0,572.2,343.16,229.04,Product 118,Personal Care,Personal Care Group 3,Brand 14,171.58,Customer 2164,West,SMB,City 05,Store 02,South,Manager 03,2024-03-05,2024,3,Mar,1,Tuesday
+537,20250404,45,2890,22,3,0.0,651.95,432.54,219.41,Product 045,Household,Household Group 2,Brand 01,144.18,Customer 2890,South,Consumer,City 11,Store 22,South,Manager 07,2025-04-04,2025,4,Apr,2,Friday
+538,20250527,33,2200,18,1,0.0,99.02,59.54,39.48,Product 033,Household,Household Group 2,Brand 04,59.54,Customer 2200,West,Consumer,City 41,Store 18,South,Manager 03,2025-05-27,2025,5,May,2,Tuesday
+539,20240417,113,2932,9,2,0.0,102.02,57.34,44.68,Product 113,Electronics,Electronics Group 2,Brand 09,28.67,Customer 2932,West,SMB,City 05,Store 09,North,Manager 02,2024-04-17,2024,4,Apr,2,Wednesday
+540,20251125,97,2279,1,1,0.0,101.33,47.25,54.08,Product 097,Beverages,Beverages Group 2,Brand 08,47.25,Customer 2279,East,Consumer,City 24,Store 01,North,Manager 02,2025-11-25,2025,11,Nov,4,Tuesday
+541,20250225,45,2666,24,1,0.0,263.47,144.18,119.29,Product 045,Household,Household Group 2,Brand 01,144.18,Customer 2666,South,Consumer,City 27,Store 24,West,Manager 01,2025-02-25,2025,2,Feb,1,Tuesday
+542,20250104,70,1490,20,1,0.0,380.73,174.05,206.68,Product 070,Personal Care,Personal Care Group 3,Brand 11,174.05,Customer 1490,South,Consumer,City 03,Store 20,West,Manager 05,2025-01-04,2025,1,Jan,1,Saturday
+543,20250902,11,1355,2,2,0.1,53.5,33.04,20.46,Product 011,Electronics,Electronics Group 4,Brand 12,16.52,Customer 1355,East,Corporate,City 12,Store 02,South,Manager 03,2025-09-02,2025,9,Sep,3,Tuesday
+544,20251020,64,3297,2,1,0.0,237.99,139.12,98.87,Product 064,Personal Care,Personal Care Group 1,Brand 05,139.12,Customer 3297,North,Consumer,City 34,Store 02,South,Manager 03,2025-10-20,2025,10,Oct,4,Monday
+545,20241128,75,212,5,3,0.05,926.45,477.09,449.36,Product 075,Household,Household Group 4,Brand 01,159.03,Customer 0212,West,Consumer,City 21,Store 05,North,Manager 06,2024-11-28,2024,11,Nov,4,Thursday
+546,20251116,23,2365,19,2,0.0,28.4,15.32,13.08,Product 023,Electronics,Electronics Group 4,Brand 09,7.66,Customer 2365,North,Corporate,City 14,Store 19,East,Manager 04,2025-11-16,2025,11,Nov,4,Sunday
+547,20240913,14,3212,16,2,0.0,39.37,25.42,13.95,Product 014,Snacks,Snacks Group 3,Brand 15,12.71,Customer 3212,West,Consumer,City 45,Store 16,West,Manager 01,2024-09-13,2024,9,Sep,3,Friday
+548,20250530,112,2475,18,1,0.05,56.43,33.58,22.85,Product 112,Personal Care,Personal Care Group 1,Brand 08,33.58,Customer 2475,East,Consumer,City 28,Store 18,South,Manager 03,2025-05-30,2025,5,May,2,Friday
+549,20250417,27,3976,12,2,0.0,358.05,166.94,191.11,Product 027,Household,Household Group 4,Brand 13,83.47,Customer 3976,West,Consumer,City 41,Store 12,West,Manager 05,2025-04-17,2025,4,Apr,2,Thursday
+550,20240522,60,3898,8,1,0.0,31.57,19.48,12.09,Product 060,Office,Office Group 1,Brand 01,19.48,Customer 3898,South,Consumer,City 11,Store 08,West,Manager 01,2024-05-22,2024,5,May,2,Wednesday
+551,20250110,37,230,18,1,0.0,141.43,84.39,57.04,Product 037,Beverages,Beverages Group 2,Brand 08,84.39,Customer 0230,South,Consumer,City 39,Store 18,South,Manager 03,2025-01-10,2025,1,Jan,1,Friday
+552,20250810,101,1916,14,1,0.15,207.9,119.36,88.54,Product 101,Electronics,Electronics Group 2,Brand 12,119.36,Customer 1916,West,Consumer,City 45,Store 14,South,Manager 07,2025-08-10,2025,8,Aug,3,Sunday
+553,20240520,83,3331,5,3,0.0,345.53,157.08,188.45,Product 083,Electronics,Electronics Group 4,Brand 09,52.36,Customer 3331,East,SMB,City 20,Store 05,North,Manager 06,2024-05-20,2024,5,May,2,Monday
+554,20240328,87,692,4,3,0.0,425.51,195.63,229.88,Product 087,Household,Household Group 4,Brand 13,65.21,Customer 0692,West,Consumer,City 21,Store 04,West,Manager 05,2024-03-28,2024,3,Mar,1,Thursday
+555,20250124,7,3700,9,5,0.05,1215.01,733.95,481.06,Product 007,Beverages,Beverages Group 4,Brand 08,146.79,Customer 3700,West,Consumer,City 05,Store 09,North,Manager 02,2025-01-24,2025,1,Jan,1,Friday
+556,20240119,59,1245,17,2,0.1,289.6,171.7,117.9,Product 059,Electronics,Electronics Group 4,Brand 15,85.85,Customer 1245,North,Corporate,City 46,Store 17,North,Manager 02,2024-01-19,2024,1,Jan,1,Friday
+557,20251016,12,291,14,1,0.05,222.42,112.31,110.11,Product 012,Office,Office Group 1,Brand 13,112.31,Customer 0291,East,SMB,City 04,Store 14,South,Manager 07,2025-10-16,2025,10,Oct,4,Thursday
+558,20240707,53,2922,14,2,0.0,317.92,143.46,174.46,Product 053,Electronics,Electronics Group 2,Brand 09,71.73,Customer 2922,South,Consumer,City 43,Store 14,South,Manager 07,2024-07-07,2024,7,Jul,3,Sunday
+559,20241227,17,2581,21,1,0.05,93.87,44.35,49.52,Product 017,Electronics,Electronics Group 2,Brand 03,44.35,Customer 2581,North,Consumer,City 38,Store 21,North,Manager 06,2024-12-27,2024,12,Dec,4,Friday
+560,20240820,41,3728,2,1,0.0,204.62,98.85,105.77,Product 041,Electronics,Electronics Group 2,Brand 12,98.85,Customer 3728,West,SMB,City 33,Store 02,South,Manager 03,2024-08-20,2024,8,Aug,3,Tuesday
+561,20250914,118,3366,13,2,0.0,622.97,343.16,279.81,Product 118,Personal Care,Personal Care Group 3,Brand 14,171.58,Customer 3366,South,Consumer,City 07,Store 13,North,Manager 06,2025-09-14,2025,9,Sep,3,Sunday
+562,20251227,77,1012,21,1,0.05,139.44,87.62,51.82,Product 077,Electronics,Electronics Group 2,Brand 03,87.62,Customer 1012,West,Consumer,City 05,Store 21,North,Manager 06,2025-12-27,2025,12,Dec,4,Saturday
+563,20250823,11,951,3,2,0.0,49.84,33.04,16.8,Product 011,Electronics,Electronics Group 4,Brand 12,16.52,Customer 0951,East,Consumer,City 40,Store 03,East,Manager 04,2025-08-23,2025,8,Aug,3,Saturday
+564,20251215,31,686,12,1,0.0,184.83,82.26,102.57,Product 031,Beverages,Beverages Group 4,Brand 02,82.26,Customer 0686,South,Consumer,City 15,Store 12,West,Manager 05,2025-12-15,2025,12,Dec,4,Monday
+565,20240114,81,3045,16,5,0.0,87.79,58.45,29.34,Product 081,Household,Household Group 2,Brand 07,11.69,Customer 3045,North,Corporate,City 22,Store 16,West,Manager 01,2024-01-14,2024,1,Jan,1,Sunday
+566,20240412,3,1014,18,3,0.0,124.94,79.65,45.29,Product 003,Household,Household Group 4,Brand 04,26.55,Customer 1014,South,SMB,City 07,Store 18,South,Manager 03,2024-04-12,2024,4,Apr,2,Friday
+567,20241208,20,3380,1,2,0.0,121.71,79.16,42.55,Product 020,Snacks,Snacks Group 1,Brand 06,39.58,Customer 3380,West,Consumer,City 21,Store 01,North,Manager 02,2024-12-08,2024,12,Dec,4,Sunday
+568,20240222,8,2726,18,2,0.0,298.52,151.86,146.66,Product 008,Snacks,Snacks Group 1,Brand 09,75.93,Customer 2726,South,Consumer,City 39,Store 18,South,Manager 03,2024-02-22,2024,2,Feb,1,Thursday
+569,20250114,88,1409,4,1,0.0,26.91,11.97,14.94,Product 088,Personal Care,Personal Care Group 1,Brand 14,11.97,Customer 1409,North,Consumer,City 18,Store 04,West,Manager 05,2025-01-14,2025,1,Jan,1,Tuesday
+570,20251223,7,658,12,1,0.15,249.57,146.79,102.78,Product 007,Beverages,Beverages Group 4,Brand 08,146.79,Customer 0658,South,Consumer,City 35,Store 12,West,Manager 05,2025-12-23,2025,12,Dec,4,Tuesday
+571,20240611,12,3624,3,3,0.0,721.28,336.93,384.35,Product 012,Office,Office Group 1,Brand 13,112.31,Customer 3624,West,Corporate,City 25,Store 03,East,Manager 04,2024-06-11,2024,6,Jun,2,Tuesday
+572,20240714,60,1783,17,1,0.0,31.3,19.48,11.82,Product 060,Office,Office Group 1,Brand 01,19.48,Customer 1783,East,Consumer,City 08,Store 17,North,Manager 02,2024-07-14,2024,7,Jul,3,Sunday
+573,20240720,16,2826,8,2,0.0,613.84,274.28,339.56,Product 016,Personal Care,Personal Care Group 1,Brand 02,137.14,Customer 2826,South,Consumer,City 43,Store 08,West,Manager 01,2024-07-20,2024,7,Jul,3,Saturday
+574,20241001,91,2496,17,1,0.0,68.79,41.28,27.51,Product 091,Beverages,Beverages Group 4,Brand 02,41.28,Customer 2496,West,Consumer,City 01,Store 17,North,Manager 02,2024-10-01,2024,10,Oct,4,Tuesday
+575,20240218,35,153,10,2,0.1,533.17,308.74,224.43,Product 035,Electronics,Electronics Group 4,Brand 06,154.37,Customer 0153,North,Consumer,City 10,Store 10,South,Manager 03,2024-02-18,2024,2,Feb,1,Sunday
+576,20250101,73,3872,3,5,0.05,107.89,56.9,50.99,Product 073,Beverages,Beverages Group 2,Brand 14,11.38,Customer 3872,West,SMB,City 33,Store 03,East,Manager 04,2025-01-01,2025,1,Jan,1,Wednesday
+577,20240923,51,546,15,1,0.1,217.42,138.66,78.76,Product 051,Household,Household Group 4,Brand 07,138.66,Customer 0546,South,Consumer,City 19,Store 15,East,Manager 08,2024-09-23,2024,9,Sep,3,Monday
+578,20250217,66,2734,19,2,0.1,57.51,41.1,16.41,Product 066,Office,Office Group 3,Brand 07,20.55,Customer 2734,South,SMB,City 47,Store 19,East,Manager 04,2025-02-17,2025,2,Feb,1,Monday
+579,20240529,80,1484,5,1,0.1,239.48,118.39,121.09,Product 080,Snacks,Snacks Group 1,Brand 06,118.39,Customer 1484,West,Corporate,City 45,Store 05,North,Manager 06,2024-05-29,2024,5,May,2,Wednesday
+580,20240621,9,3995,22,1,0.0,261.48,133.95,127.53,Product 009,Household,Household Group 2,Brand 10,133.95,Customer 3995,East,SMB,City 12,Store 22,South,Manager 07,2024-06-21,2024,6,Jun,2,Friday
+581,20241026,107,2914,9,5,0.0,252.32,136.45,115.87,Product 107,Electronics,Electronics Group 4,Brand 03,27.29,Customer 2914,South,Consumer,City 35,Store 09,North,Manager 02,2024-10-26,2024,10,Oct,4,Saturday
+582,20240209,6,1057,15,2,0.05,208.45,130.36,78.09,Product 006,Office,Office Group 3,Brand 07,65.18,Customer 1057,North,Consumer,City 02,Store 15,East,Manager 08,2024-02-09,2024,2,Feb,1,Friday
+583,20251115,24,2082,23,1,0.0,247.04,166.84,80.2,Product 024,Office,Office Group 1,Brand 10,166.84,Customer 2082,South,SMB,City 19,Store 23,East,Manager 08,2025-11-15,2025,11,Nov,4,Saturday
+584,20250523,91,2168,11,1,0.2,60.66,41.28,19.38,Product 091,Beverages,Beverages Group 4,Brand 02,41.28,Customer 2168,West,Consumer,City 09,Store 11,East,Manager 04,2025-05-23,2025,5,May,2,Friday
+585,20240313,50,1786,22,1,0.15,192.24,121.94,70.3,Product 050,Snacks,Snacks Group 3,Brand 06,121.94,Customer 1786,South,Consumer,City 11,Store 22,South,Manager 07,2024-03-13,2024,3,Mar,1,Wednesday
+586,20241015,62,2001,5,1,0.0,335.98,157.87,178.11,Product 062,Snacks,Snacks Group 3,Brand 03,157.87,Customer 2001,North,SMB,City 34,Store 05,North,Manager 06,2024-10-15,2024,10,Oct,4,Tuesday
+587,20241031,9,1928,22,1,0.0,265.53,133.95,131.58,Product 009,Household,Household Group 2,Brand 10,133.95,Customer 1928,West,SMB,City 09,Store 22,South,Manager 07,2024-10-31,2024,10,Oct,4,Thursday
+588,20250331,66,2204,6,1,0.0,38.74,20.55,18.19,Product 066,Office,Office Group 3,Brand 07,20.55,Customer 2204,West,Consumer,City 45,Store 06,South,Manager 07,2025-03-31,2025,3,Mar,1,Monday
+589,20250117,67,3220,4,3,0.05,897.54,428.82,468.72,Product 067,Beverages,Beverages Group 4,Brand 08,142.94,Customer 3220,West,SMB,City 05,Store 04,West,Manager 05,2025-01-17,2025,1,Jan,1,Friday
+590,20250214,100,1247,24,1,0.0,277.14,153.71,123.43,Product 100,Personal Care,Personal Care Group 1,Brand 11,153.71,Customer 1247,East,Consumer,City 48,Store 24,West,Manager 01,2025-02-14,2025,2,Feb,1,Friday
+591,20240317,22,144,23,2,0.0,15.41,8.38,7.03,Product 022,Personal Care,Personal Care Group 3,Brand 08,4.19,Customer 0144,West,Corporate,City 01,Store 23,East,Manager 08,2024-03-17,2024,3,Mar,1,Sunday
+592,20250720,37,2448,23,3,0.05,418.32,253.17,165.15,Product 037,Beverages,Beverages Group 2,Brand 08,84.39,Customer 2448,West,Consumer,City 01,Store 23,East,Manager 08,2025-07-20,2025,7,Jul,3,Sunday
+593,20250330,37,685,7,2,0.0,273.31,168.78,104.53,Product 037,Beverages,Beverages Group 2,Brand 08,84.39,Customer 0685,North,Consumer,City 14,Store 07,East,Manager 08,2025-03-30,2025,3,Mar,1,Sunday
+594,20251207,102,2179,13,2,0.0,575.47,301.68,273.79,Product 102,Office,Office Group 3,Brand 13,150.84,Customer 2179,East,Consumer,City 20,Store 13,North,Manager 06,2025-12-07,2025,12,Dec,4,Sunday
+595,20240214,43,3413,2,2,0.15,293.48,214.98,78.5,Product 043,Beverages,Beverages Group 4,Brand 14,107.49,Customer 3413,North,Consumer,City 06,Store 02,South,Manager 03,2024-02-14,2024,2,Feb,1,Wednesday
+596,20250130,56,2813,24,3,0.05,493.8,251.94,241.86,Product 056,Snacks,Snacks Group 1,Brand 12,83.98,Customer 2813,North,Corporate,City 30,Store 24,West,Manager 01,2025-01-30,2025,1,Jan,1,Thursday
+597,20250214,48,1684,9,2,0.0,507.97,233.58,274.39,Product 048,Office,Office Group 1,Brand 04,116.79,Customer 1684,West,Corporate,City 05,Store 09,North,Manager 02,2025-02-14,2025,2,Feb,1,Friday
+598,20240902,66,2642,8,1,0.05,43.78,20.55,23.23,Product 066,Office,Office Group 3,Brand 07,20.55,Customer 2642,South,Corporate,City 03,Store 08,West,Manager 01,2024-09-02,2024,9,Sep,3,Monday
+599,20250123,94,3948,1,1,0.05,122.97,61.93,61.04,Product 094,Personal Care,Personal Care Group 3,Brand 05,61.93,Customer 3948,West,Consumer,City 13,Store 01,North,Manager 02,2025-01-23,2025,1,Jan,1,Thursday
+600,20240802,92,2281,20,4,0.0,1130.73,540.92,589.81,Product 092,Snacks,Snacks Group 1,Brand 03,135.23,Customer 2281,North,SMB,City 26,Store 20,West,Manager 05,2024-08-02,2024,8,Aug,3,Friday
+601,20251222,43,2496,15,2,0.0,460.31,214.98,245.33,Product 043,Beverages,Beverages Group 4,Brand 14,107.49,Customer 2496,West,Consumer,City 01,Store 15,East,Manager 08,2025-12-22,2025,12,Dec,4,Monday
+602,20250628,46,3050,15,3,0.15,820.18,496.68,323.5,Product 046,Personal Care,Personal Care Group 3,Brand 02,165.56,Customer 3050,South,SMB,City 27,Store 15,East,Manager 08,2025-06-28,2025,6,Jun,2,Saturday
+603,20250327,116,1268,17,3,0.0,89.88,44.55,45.33,Product 116,Snacks,Snacks Group 1,Brand 12,14.85,Customer 1268,West,Corporate,City 21,Store 17,North,Manager 02,2025-03-27,2025,3,Mar,1,Thursday
+604,20240316,57,337,6,2,0.0,331.65,156.08,175.57,Product 057,Household,Household Group 2,Brand 13,78.04,Customer 0337,North,Consumer,City 02,Store 06,South,Manager 07,2024-03-16,2024,3,Mar,1,Saturday
+605,20251119,36,1096,12,1,0.0,83.87,50.44,33.43,Product 036,Office,Office Group 1,Brand 07,50.44,Customer 1096,West,Consumer,City 41,Store 12,West,Manager 05,2025-11-19,2025,11,Nov,4,Wednesday
+606,20250419,25,889,14,1,0.15,232.42,128.02,104.4,Product 025,Beverages,Beverages Group 2,Brand 11,128.02,Customer 0889,North,SMB,City 26,Store 14,South,Manager 07,2025-04-19,2025,4,Apr,2,Saturday
+607,20251005,61,1745,5,1,0.0,61.64,35.55,26.09,Product 061,Beverages,Beverages Group 2,Brand 02,35.55,Customer 1745,North,Consumer,City 18,Store 05,North,Manager 06,2025-10-05,2025,10,Oct,4,Sunday
+608,20240803,79,1896,14,1,0.2,265.41,166.56,98.85,Product 079,Beverages,Beverages Group 4,Brand 05,166.56,Customer 1896,West,Consumer,City 25,Store 14,South,Manager 07,2024-08-03,2024,8,Aug,3,Saturday
+609,20240305,46,586,14,3,0.0,988.52,496.68,491.84,Product 046,Personal Care,Personal Care Group 3,Brand 02,165.56,Customer 0586,South,Consumer,City 11,Store 14,South,Manager 07,2024-03-05,2024,3,Mar,1,Tuesday
+610,20250322,88,3035,22,1,0.0,22.49,11.97,10.52,Product 088,Personal Care,Personal Care Group 1,Brand 14,11.97,Customer 3035,East,Consumer,City 12,Store 22,South,Manager 07,2025-03-22,2025,3,Mar,1,Saturday
+611,20250809,109,2088,17,1,0.1,33.67,17.94,15.73,Product 109,Beverages,Beverages Group 2,Brand 05,17.94,Customer 2088,West,Consumer,City 25,Store 17,North,Manager 02,2025-08-09,2025,8,Aug,3,Saturday
+612,20250325,39,374,1,3,0.05,93.24,63.45,29.79,Product 039,Household,Household Group 4,Brand 10,21.15,Customer 0374,South,Corporate,City 39,Store 01,North,Manager 02,2025-03-25,2025,3,Mar,1,Tuesday
+613,20250411,86,2772,15,1,0.0,38.59,26.33,12.26,Product 086,Snacks,Snacks Group 3,Brand 12,26.33,Customer 2772,West,SMB,City 37,Store 15,East,Manager 08,2025-04-11,2025,4,Apr,2,Friday
+614,20241128,39,1319,22,2,0.1,74.1,42.3,31.8,Product 039,Household,Household Group 4,Brand 10,21.15,Customer 1319,East,Consumer,City 24,Store 22,South,Manager 07,2024-11-28,2024,11,Nov,4,Thursday
+615,20240815,19,1147,14,2,0.0,110.86,61.24,49.62,Product 019,Beverages,Beverages Group 4,Brand 05,30.62,Customer 1147,East,Corporate,City 44,Store 14,South,Manager 07,2024-08-15,2024,8,Aug,3,Thursday
+616,20250521,4,2868,7,4,0.0,658.23,427.16,231.07,Product 004,Personal Care,Personal Care Group 1,Brand 05,106.79,Customer 2868,West,Consumer,City 37,Store 07,East,Manager 08,2025-05-21,2025,5,May,2,Wednesday
+617,20240824,70,3905,8,1,0.15,325.78,174.05,151.73,Product 070,Personal Care,Personal Care Group 3,Brand 11,174.05,Customer 3905,North,SMB,City 18,Store 08,West,Manager 01,2024-08-24,2024,8,Aug,3,Saturday
+618,20250214,47,667,2,1,0.05,19.77,11.74,8.03,Product 047,Electronics,Electronics Group 4,Brand 03,11.74,Customer 0667,East,Consumer,City 44,Store 02,South,Manager 03,2025-02-14,2025,2,Feb,1,Friday
+619,20240120,71,2723,20,5,0.0,1555.01,771.3,783.71,Product 071,Electronics,Electronics Group 4,Brand 12,154.26,Customer 2723,East,Consumer,City 36,Store 20,West,Manager 05,2024-01-20,2024,1,Jan,1,Saturday
+620,20251104,30,1029,6,5,0.0,390.73,200.0,190.73,Product 030,Office,Office Group 3,Brand 01,40.0,Customer 1029,North,Consumer,City 22,Store 06,South,Manager 07,2025-11-04,2025,11,Nov,4,Tuesday
+621,20250317,52,1809,7,4,0.0,1120.89,542.76,578.13,Product 052,Personal Care,Personal Care Group 1,Brand 08,135.69,Customer 1809,North,Corporate,City 34,Store 07,East,Manager 08,2025-03-17,2025,3,Mar,1,Monday
+622,20240417,20,1234,21,1,0.1,55.55,39.58,15.97,Product 020,Snacks,Snacks Group 1,Brand 06,39.58,Customer 1234,South,Corporate,City 35,Store 21,North,Manager 06,2024-04-17,2024,4,Apr,2,Wednesday
+623,20240711,10,1861,7,2,0.0,607.84,285.98,321.86,Product 010,Personal Care,Personal Care Group 3,Brand 11,142.99,Customer 1861,North,Consumer,City 38,Store 07,East,Manager 08,2024-07-11,2024,7,Jul,3,Thursday
+624,20240524,18,2484,8,2,0.0,670.32,338.44,331.88,Product 018,Office,Office Group 3,Brand 04,169.22,Customer 2484,West,Consumer,City 37,Store 08,West,Manager 01,2024-05-24,2024,5,May,2,Friday
+625,20240508,75,2196,1,2,0.0,592.17,318.06,274.11,Product 075,Household,Household Group 4,Brand 01,159.03,Customer 2196,West,SMB,City 37,Store 01,North,Manager 02,2024-05-08,2024,5,May,2,Wednesday
+626,20251114,24,925,14,2,0.05,587.76,333.68,254.08,Product 024,Office,Office Group 1,Brand 10,166.84,Customer 0925,North,Consumer,City 14,Store 14,South,Manager 07,2025-11-14,2025,11,Nov,4,Friday
+627,20250410,20,1461,16,2,0.1,151.06,79.16,71.9,Product 020,Snacks,Snacks Group 1,Brand 06,39.58,Customer 1461,North,Consumer,City 22,Store 16,West,Manager 01,2025-04-10,2025,4,Apr,2,Thursday
+628,20240707,10,3467,20,1,0.05,267.71,142.99,124.72,Product 010,Personal Care,Personal Care Group 3,Brand 11,142.99,Customer 3467,East,Consumer,City 12,Store 20,West,Manager 05,2024-07-07,2024,7,Jul,3,Sunday
+629,20241116,93,3482,14,1,0.05,288.26,176.84,111.42,Product 093,Household,Household Group 2,Brand 04,176.84,Customer 3482,South,Corporate,City 27,Store 14,South,Manager 07,2024-11-16,2024,11,Nov,4,Saturday
+630,20240928,20,2557,10,1,0.2,66.21,39.58,26.63,Product 020,Snacks,Snacks Group 1,Brand 06,39.58,Customer 2557,North,SMB,City 14,Store 10,South,Manager 03,2024-09-28,2024,9,Sep,3,Saturday
+631,20250727,30,2208,3,1,0.0,66.33,40.0,26.33,Product 030,Office,Office Group 3,Brand 01,40.0,Customer 2208,West,Corporate,City 01,Store 03,East,Manager 04,2025-07-27,2025,7,Jul,3,Sunday
+632,20241020,53,1930,12,1,0.0,137.8,71.73,66.07,Product 053,Electronics,Electronics Group 2,Brand 09,71.73,Customer 1930,South,Consumer,City 11,Store 12,West,Manager 05,2024-10-20,2024,10,Oct,4,Sunday
+633,20250712,81,1910,4,1,0.0,23.59,11.69,11.9,Product 081,Household,Household Group 2,Brand 07,11.69,Customer 1910,South,Corporate,City 39,Store 04,West,Manager 05,2025-07-12,2025,7,Jul,3,Saturday
+634,20240111,15,2452,21,3,0.0,922.02,523.8,398.22,Product 015,Household,Household Group 4,Brand 01,174.6,Customer 2452,West,SMB,City 05,Store 21,North,Manager 06,2024-01-11,2024,1,Jan,1,Thursday
+635,20251103,12,448,23,1,0.0,233.9,112.31,121.59,Product 012,Office,Office Group 1,Brand 13,112.31,Customer 0448,West,Consumer,City 17,Store 23,East,Manager 08,2025-11-03,2025,11,Nov,4,Monday
+636,20250728,70,2110,4,2,0.05,537.23,348.1,189.13,Product 070,Personal Care,Personal Care Group 3,Brand 11,174.05,Customer 2110,South,SMB,City 47,Store 04,West,Manager 05,2025-07-28,2025,7,Jul,3,Monday
+637,20241129,2,2911,17,2,0.05,564.39,270.52,293.87,Product 002,Snacks,Snacks Group 3,Brand 03,135.26,Customer 2911,East,SMB,City 32,Store 17,North,Manager 02,2024-11-29,2024,11,Nov,4,Friday
+638,20250222,29,57,9,1,0.0,323.83,167.26,156.57,Product 029,Electronics,Electronics Group 2,Brand 15,167.26,Customer 0057,North,Consumer,City 10,Store 09,North,Manager 02,2025-02-22,2025,2,Feb,1,Saturday
+639,20250119,59,3026,17,4,0.05,577.41,343.4,234.01,Product 059,Electronics,Electronics Group 4,Brand 15,85.85,Customer 3026,South,SMB,City 03,Store 17,North,Manager 02,2025-01-19,2025,1,Jan,1,Sunday
+640,20240903,3,1873,15,1,0.05,53.26,26.55,26.71,Product 003,Household,Household Group 4,Brand 04,26.55,Customer 1873,North,Consumer,City 02,Store 15,East,Manager 08,2024-09-03,2024,9,Sep,3,Tuesday
+641,20240706,64,2172,21,2,0.0,623.57,278.24,345.33,Product 064,Personal Care,Personal Care Group 1,Brand 05,139.12,Customer 2172,West,SMB,City 13,Store 21,North,Manager 06,2024-07-06,2024,7,Jul,3,Saturday
+642,20240504,77,2494,24,2,0.0,319.9,175.24,144.66,Product 077,Electronics,Electronics Group 2,Brand 03,87.62,Customer 2494,South,Corporate,City 47,Store 24,West,Manager 01,2024-05-04,2024,5,May,2,Saturday
+643,20241013,63,2600,18,1,0.0,55.96,30.74,25.22,Product 063,Household,Household Group 4,Brand 04,30.74,Customer 2600,West,Corporate,City 09,Store 18,South,Manager 03,2024-10-13,2024,10,Oct,4,Sunday
+644,20240922,28,2794,13,1,0.05,163.53,96.3,67.23,Product 028,Personal Care,Personal Care Group 1,Brand 14,96.3,Customer 2794,South,Consumer,City 11,Store 13,North,Manager 06,2024-09-22,2024,9,Sep,3,Sunday
+645,20240521,108,1327,8,2,0.05,227.29,144.62,82.67,Product 108,Office,Office Group 1,Brand 04,72.31,Customer 1327,East,Corporate,City 32,Store 08,West,Manager 01,2024-05-21,2024,5,May,2,Tuesday
+646,20250902,104,3693,22,3,0.0,745.83,367.44,378.39,Product 104,Snacks,Snacks Group 1,Brand 15,122.48,Customer 3693,North,Consumer,City 46,Store 22,South,Manager 07,2025-09-02,2025,9,Sep,3,Tuesday
+647,20240612,113,1875,7,1,0.0,49.82,28.67,21.15,Product 113,Electronics,Electronics Group 2,Brand 09,28.67,Customer 1875,East,Consumer,City 04,Store 07,East,Manager 08,2024-06-12,2024,6,Jun,2,Wednesday
+648,20250922,81,465,12,2,0.0,42.78,23.38,19.4,Product 081,Household,Household Group 2,Brand 07,11.69,Customer 0465,North,Consumer,City 34,Store 12,West,Manager 05,2025-09-22,2025,9,Sep,3,Monday
+649,20240708,91,3064,10,1,0.1,69.07,41.28,27.79,Product 091,Beverages,Beverages Group 4,Brand 02,41.28,Customer 3064,West,SMB,City 41,Store 10,South,Manager 03,2024-07-08,2024,7,Jul,3,Monday
+650,20240724,69,3087,18,1,0.0,247.26,151.7,95.56,Product 069,Household,Household Group 2,Brand 10,151.7,Customer 3087,East,SMB,City 16,Store 18,South,Manager 03,2024-07-24,2024,7,Jul,3,Wednesday
+651,20241012,35,2093,12,2,0.0,463.81,308.74,155.07,Product 035,Electronics,Electronics Group 4,Brand 06,154.37,Customer 2093,North,Corporate,City 30,Store 12,West,Manager 05,2024-10-12,2024,10,Oct,4,Saturday
+652,20240127,28,3438,4,2,0.0,311.28,192.6,118.68,Product 028,Personal Care,Personal Care Group 1,Brand 14,96.3,Customer 3438,South,Consumer,City 31,Store 04,West,Manager 05,2024-01-27,2024,1,Jan,1,Saturday
+653,20240710,7,217,3,2,0.05,490.0,293.58,196.42,Product 007,Beverages,Beverages Group 4,Brand 08,146.79,Customer 0217,North,SMB,City 26,Store 03,East,Manager 04,2024-07-10,2024,7,Jul,3,Wednesday
+654,20240510,40,3734,1,3,0.0,581.68,270.48,311.2,Product 040,Personal Care,Personal Care Group 1,Brand 11,90.16,Customer 3734,South,Consumer,City 39,Store 01,North,Manager 02,2024-05-10,2024,5,May,2,Friday
+655,20250209,83,2249,17,2,0.0,204.93,104.72,100.21,Product 083,Electronics,Electronics Group 4,Brand 09,52.36,Customer 2249,North,Consumer,City 42,Store 17,North,Manager 02,2025-02-09,2025,2,Feb,1,Sunday
+656,20250605,85,1062,5,3,0.0,847.79,472.38,375.41,Product 085,Beverages,Beverages Group 2,Brand 11,157.46,Customer 1062,South,Consumer,City 07,Store 05,North,Manager 06,2025-06-05,2025,6,Jun,2,Thursday
+657,20240412,111,433,17,4,0.0,256.3,166.8,89.5,Product 111,Household,Household Group 4,Brand 07,41.7,Customer 0433,North,Consumer,City 02,Store 17,North,Manager 02,2024-04-12,2024,4,Apr,2,Friday
+658,20251123,92,2489,6,1,0.0,203.34,135.23,68.11,Product 092,Snacks,Snacks Group 1,Brand 03,135.23,Customer 2489,North,Consumer,City 42,Store 06,South,Manager 07,2025-11-23,2025,11,Nov,4,Sunday
+659,20250309,58,1676,5,4,0.15,189.58,144.32,45.26,Product 058,Personal Care,Personal Care Group 3,Brand 14,36.08,Customer 1676,West,Consumer,City 45,Store 05,North,Manager 06,2025-03-09,2025,3,Mar,1,Sunday
+660,20240311,87,2396,23,1,0.0,144.23,65.21,79.02,Product 087,Household,Household Group 4,Brand 13,65.21,Customer 2396,West,Corporate,City 45,Store 23,East,Manager 08,2024-03-11,2024,3,Mar,1,Monday
+661,20241210,106,1323,13,1,0.0,156.95,77.74,79.21,Product 106,Personal Care,Personal Care Group 3,Brand 02,77.74,Customer 1323,East,Consumer,City 28,Store 13,North,Manager 06,2024-12-10,2024,12,Dec,4,Tuesday
+662,20250304,55,2527,8,2,0.0,392.45,214.14,178.31,Product 055,Beverages,Beverages Group 4,Brand 11,107.07,Customer 2527,East,Corporate,City 32,Store 08,West,Manager 01,2025-03-04,2025,3,Mar,1,Tuesday
+663,20240219,54,56,12,1,0.0,302.15,161.19,140.96,Product 054,Office,Office Group 3,Brand 10,161.19,Customer 0056,West,SMB,City 09,Store 12,West,Manager 05,2024-02-19,2024,2,Feb,1,Monday
+664,20250610,54,1522,13,2,0.0,721.83,322.38,399.45,Product 054,Office,Office Group 3,Brand 10,161.19,Customer 1522,South,Consumer,City 35,Store 13,North,Manager 06,2025-06-10,2025,6,Jun,2,Tuesday
+665,20241208,92,97,16,2,0.15,467.35,270.46,196.89,Product 092,Snacks,Snacks Group 1,Brand 03,135.23,Customer 0097,North,Corporate,City 02,Store 16,West,Manager 01,2024-12-08,2024,12,Dec,4,Sunday
+666,20250918,115,1970,11,5,0.2,1023.74,741.2,282.54,Product 115,Beverages,Beverages Group 4,Brand 11,148.24,Customer 1970,South,SMB,City 03,Store 11,East,Manager 04,2025-09-18,2025,9,Sep,3,Thursday
+667,20250428,110,1115,17,2,0.1,369.67,211.8,157.87,Product 110,Snacks,Snacks Group 3,Brand 06,105.9,Customer 1115,East,Consumer,City 12,Store 17,North,Manager 02,2025-04-28,2025,4,Apr,2,Monday
+668,20240429,56,3219,14,1,0.0,163.53,83.98,79.55,Product 056,Snacks,Snacks Group 1,Brand 12,83.98,Customer 3219,East,SMB,City 04,Store 14,South,Manager 07,2024-04-29,2024,4,Apr,2,Monday
+669,20241105,77,2389,20,1,0.0,184.54,87.62,96.92,Product 077,Electronics,Electronics Group 2,Brand 03,87.62,Customer 2389,North,Consumer,City 38,Store 20,West,Manager 05,2024-11-05,2024,11,Nov,4,Tuesday
+670,20250213,7,1054,12,1,0.0,296.18,146.79,149.39,Product 007,Beverages,Beverages Group 4,Brand 08,146.79,Customer 1054,South,Consumer,City 47,Store 12,West,Manager 05,2025-02-13,2025,2,Feb,1,Thursday
+671,20250113,20,3974,17,3,0.15,170.31,118.74,51.57,Product 020,Snacks,Snacks Group 1,Brand 06,39.58,Customer 3974,South,SMB,City 39,Store 17,North,Manager 02,2025-01-13,2025,1,Jan,1,Monday
+672,20241020,100,949,17,2,0.05,556.67,307.42,249.25,Product 100,Personal Care,Personal Care Group 1,Brand 11,153.71,Customer 0949,North,SMB,City 38,Store 17,North,Manager 02,2024-10-20,2024,10,Oct,4,Sunday
+673,20241001,67,2293,5,1,0.1,218.42,142.94,75.48,Product 067,Beverages,Beverages Group 4,Brand 08,142.94,Customer 2293,North,Corporate,City 38,Store 05,North,Manager 06,2024-10-01,2024,10,Oct,4,Tuesday
+674,20240109,23,3832,9,2,0.0,23.07,15.32,7.75,Product 023,Electronics,Electronics Group 4,Brand 09,7.66,Customer 3832,West,Consumer,City 41,Store 09,North,Manager 02,2024-01-09,2024,1,Jan,1,Tuesday
+675,20240712,111,1718,24,3,0.1,219.99,125.1,94.89,Product 111,Household,Household Group 4,Brand 07,41.7,Customer 1718,South,SMB,City 39,Store 24,West,Manager 01,2024-07-12,2024,7,Jul,3,Friday
+676,20240301,18,676,2,1,0.0,283.71,169.22,114.49,Product 018,Office,Office Group 3,Brand 04,169.22,Customer 0676,West,SMB,City 05,Store 02,South,Manager 03,2024-03-01,2024,3,Mar,1,Friday
+677,20251118,59,1730,13,1,0.0,170.01,85.85,84.16,Product 059,Electronics,Electronics Group 4,Brand 15,85.85,Customer 1730,South,Consumer,City 03,Store 13,North,Manager 06,2025-11-18,2025,11,Nov,4,Tuesday
+678,20240506,53,860,24,1,0.0,121.74,71.73,50.01,Product 053,Electronics,Electronics Group 2,Brand 09,71.73,Customer 0860,West,SMB,City 45,Store 24,West,Manager 01,2024-05-06,2024,5,May,2,Monday
+679,20241014,111,2883,15,2,0.1,154.15,83.4,70.75,Product 111,Household,Household Group 4,Brand 07,41.7,Customer 2883,East,Consumer,City 04,Store 15,East,Manager 08,2024-10-14,2024,10,Oct,4,Monday
+680,20241013,63,369,15,1,0.0,51.0,30.74,20.26,Product 063,Household,Household Group 4,Brand 04,30.74,Customer 0369,North,Consumer,City 34,Store 15,East,Manager 08,2024-10-13,2024,10,Oct,4,Sunday
+681,20240426,85,2672,7,1,0.0,316.65,157.46,159.19,Product 085,Beverages,Beverages Group 2,Brand 11,157.46,Customer 2672,West,SMB,City 33,Store 07,East,Manager 08,2024-04-26,2024,4,Apr,2,Friday
+682,20250217,30,2198,3,3,0.1,222.38,120.0,102.38,Product 030,Office,Office Group 3,Brand 01,40.0,Customer 2198,South,Consumer,City 39,Store 03,East,Manager 04,2025-02-17,2025,2,Feb,1,Monday
+683,20240307,96,3781,1,1,0.1,23.35,15.98,7.37,Product 096,Office,Office Group 1,Brand 07,15.98,Customer 3781,North,Consumer,City 38,Store 01,North,Manager 02,2024-03-07,2024,3,Mar,1,Thursday
+684,20240720,10,2541,7,2,0.0,498.76,285.98,212.78,Product 010,Personal Care,Personal Care Group 3,Brand 11,142.99,Customer 2541,North,Consumer,City 46,Store 07,East,Manager 08,2024-07-20,2024,7,Jul,3,Saturday
+685,20240510,91,2147,7,1,0.05,66.69,41.28,25.41,Product 091,Beverages,Beverages Group 4,Brand 02,41.28,Customer 2147,East,Consumer,City 36,Store 07,East,Manager 08,2024-05-10,2024,5,May,2,Friday
+686,20240419,59,2492,14,2,0.0,341.0,171.7,169.3,Product 059,Electronics,Electronics Group 4,Brand 15,85.85,Customer 2492,West,Consumer,City 45,Store 14,South,Manager 07,2024-04-19,2024,4,Apr,2,Friday
+687,20250209,21,2294,21,2,0.05,127.47,63.6,63.87,Product 021,Household,Household Group 2,Brand 07,31.8,Customer 2294,South,Consumer,City 39,Store 21,North,Manager 06,2025-02-09,2025,2,Feb,1,Sunday
+688,20240715,112,857,8,1,0.05,71.15,33.58,37.57,Product 112,Personal Care,Personal Care Group 1,Brand 08,33.58,Customer 0857,North,Consumer,City 42,Store 08,West,Manager 01,2024-07-15,2024,7,Jul,3,Monday
+689,20241028,94,962,1,2,0.1,182.36,123.86,58.5,Product 094,Personal Care,Personal Care Group 3,Brand 05,61.93,Customer 0962,South,Corporate,City 03,Store 01,North,Manager 02,2024-10-28,2024,10,Oct,4,Monday
+690,20250218,25,632,23,1,0.15,196.85,128.02,68.83,Product 025,Beverages,Beverages Group 2,Brand 11,128.02,Customer 0632,West,Consumer,City 09,Store 23,East,Manager 08,2025-02-18,2025,2,Feb,1,Tuesday
+691,20251018,33,3377,17,1,0.0,104.29,59.54,44.75,Product 033,Household,Household Group 2,Brand 04,59.54,Customer 3377,North,SMB,City 18,Store 17,North,Manager 02,2025-10-18,2025,10,Oct,4,Saturday
+692,20250211,95,654,15,1,0.0,112.87,53.49,59.38,Product 095,Electronics,Electronics Group 4,Brand 06,53.49,Customer 0654,South,Consumer,City 31,Store 15,East,Manager 08,2025-02-11,2025,2,Feb,1,Tuesday
+693,20240111,102,2728,23,2,0.05,525.1,301.68,223.42,Product 102,Office,Office Group 3,Brand 13,150.84,Customer 2728,West,Consumer,City 41,Store 23,East,Manager 08,2024-01-11,2024,1,Jan,1,Thursday
+694,20240204,4,3201,20,1,0.0,174.98,106.79,68.19,Product 004,Personal Care,Personal Care Group 1,Brand 05,106.79,Customer 3201,North,Consumer,City 34,Store 20,West,Manager 05,2024-02-04,2024,2,Feb,1,Sunday
+695,20240912,51,3912,12,5,0.0,1081.01,693.3,387.71,Product 051,Household,Household Group 4,Brand 07,138.66,Customer 3912,West,Consumer,City 25,Store 12,West,Manager 05,2024-09-12,2024,9,Sep,3,Thursday
+696,20250403,119,679,10,3,0.05,28.82,14.64,14.18,Product 119,Electronics,Electronics Group 4,Brand 15,4.88,Customer 0679,East,Consumer,City 08,Store 10,South,Manager 03,2025-04-03,2025,4,Apr,2,Thursday
+697,20240220,112,2006,1,1,0.0,58.21,33.58,24.63,Product 112,Personal Care,Personal Care Group 1,Brand 08,33.58,Customer 2006,South,SMB,City 39,Store 01,North,Manager 02,2024-02-20,2024,2,Feb,1,Tuesday
+698,20250217,93,2814,15,1,0.1,236.55,176.84,59.71,Product 093,Household,Household Group 2,Brand 04,176.84,Customer 2814,South,Consumer,City 31,Store 15,East,Manager 08,2025-02-17,2025,2,Feb,1,Monday
+699,20241025,119,3552,3,1,0.0,8.87,4.88,3.99,Product 119,Electronics,Electronics Group 4,Brand 15,4.88,Customer 3552,West,Consumer,City 01,Store 03,East,Manager 04,2024-10-25,2024,10,Oct,4,Friday
+700,20250417,26,2206,5,3,0.15,719.03,378.81,340.22,Product 026,Snacks,Snacks Group 3,Brand 12,126.27,Customer 2206,South,Corporate,City 47,Store 05,North,Manager 06,2025-04-17,2025,4,Apr,2,Thursday
+701,20240811,44,2229,1,3,0.0,163.53,88.86,74.67,Product 044,Snacks,Snacks Group 1,Brand 15,29.62,Customer 2229,North,Corporate,City 22,Store 01,North,Manager 02,2024-08-11,2024,8,Aug,3,Sunday
+702,20241217,100,2354,20,2,0.0,632.78,307.42,325.36,Product 100,Personal Care,Personal Care Group 1,Brand 11,153.71,Customer 2354,South,Consumer,City 03,Store 20,West,Manager 05,2024-12-17,2024,12,Dec,4,Tuesday
+703,20250610,117,1211,17,2,0.0,445.36,203.74,241.62,Product 117,Household,Household Group 2,Brand 13,101.87,Customer 1211,East,Consumer,City 12,Store 17,North,Manager 02,2025-06-10,2025,6,Jun,2,Tuesday
+704,20241013,56,3851,20,1,0.0,180.03,83.98,96.05,Product 056,Snacks,Snacks Group 1,Brand 12,83.98,Customer 3851,East,Consumer,City 12,Store 20,West,Manager 05,2024-10-13,2024,10,Oct,4,Sunday
+705,20241220,11,169,2,4,0.0,134.26,66.08,68.18,Product 011,Electronics,Electronics Group 4,Brand 12,16.52,Customer 0169,North,SMB,City 26,Store 02,South,Manager 03,2024-12-20,2024,12,Dec,4,Friday
+706,20240326,110,3439,9,1,0.1,205.52,105.9,99.62,Product 110,Snacks,Snacks Group 3,Brand 06,105.9,Customer 3439,East,Consumer,City 32,Store 09,North,Manager 02,2024-03-26,2024,3,Mar,1,Tuesday
+707,20241120,99,1495,8,1,0.2,260.23,178.82,81.41,Product 099,Household,Household Group 4,Brand 10,178.82,Customer 1495,East,Corporate,City 08,Store 08,West,Manager 01,2024-11-20,2024,11,Nov,4,Wednesday
+708,20251125,111,2926,1,1,0.0,90.49,41.7,48.79,Product 111,Household,Household Group 4,Brand 07,41.7,Customer 2926,South,Consumer,City 47,Store 01,North,Manager 02,2025-11-25,2025,11,Nov,4,Tuesday
+709,20240805,28,2762,7,3,0.05,569.99,288.9,281.09,Product 028,Personal Care,Personal Care Group 1,Brand 14,96.3,Customer 2762,South,Consumer,City 27,Store 07,East,Manager 08,2024-08-05,2024,8,Aug,3,Monday
+710,20240529,5,1432,15,2,0.0,295.38,165.3,130.08,Product 005,Electronics,Electronics Group 2,Brand 06,82.65,Customer 1432,West,SMB,City 41,Store 15,East,Manager 08,2024-05-29,2024,5,May,2,Wednesday
+711,20250807,8,1324,9,1,0.0,118.76,75.93,42.83,Product 008,Snacks,Snacks Group 1,Brand 09,75.93,Customer 1324,West,SMB,City 29,Store 09,North,Manager 02,2025-08-07,2025,8,Aug,3,Thursday
+712,20251214,111,1258,14,1,0.0,84.77,41.7,43.07,Product 111,Household,Household Group 4,Brand 07,41.7,Customer 1258,South,SMB,City 11,Store 14,South,Manager 07,2025-12-14,2025,12,Dec,4,Sunday
+713,20241030,49,3755,12,2,0.0,191.95,95.12,96.83,Product 049,Beverages,Beverages Group 2,Brand 05,47.56,Customer 3755,East,SMB,City 12,Store 12,West,Manager 05,2024-10-30,2024,10,Oct,4,Wednesday
+714,20240908,36,1434,1,1,0.2,85.1,50.44,34.66,Product 036,Office,Office Group 1,Brand 07,50.44,Customer 1434,South,Corporate,City 43,Store 01,North,Manager 02,2024-09-08,2024,9,Sep,3,Sunday
+715,20240707,29,1778,15,1,0.0,349.71,167.26,182.45,Product 029,Electronics,Electronics Group 2,Brand 15,167.26,Customer 1778,South,Consumer,City 03,Store 15,East,Manager 08,2024-07-07,2024,7,Jul,3,Sunday
+716,20250630,35,3531,20,1,0.05,231.64,154.37,77.27,Product 035,Electronics,Electronics Group 4,Brand 06,154.37,Customer 3531,East,Consumer,City 28,Store 20,West,Manager 05,2025-06-30,2025,6,Jun,2,Monday
+717,20240113,70,1345,4,2,0.1,506.75,348.1,158.65,Product 070,Personal Care,Personal Care Group 3,Brand 11,174.05,Customer 1345,North,Consumer,City 02,Store 04,West,Manager 05,2024-01-13,2024,1,Jan,1,Saturday
+718,20241128,34,3822,21,1,0.0,276.52,176.27,100.25,Product 034,Personal Care,Personal Care Group 3,Brand 05,176.27,Customer 3822,South,SMB,City 31,Store 21,North,Manager 06,2024-11-28,2024,11,Nov,4,Thursday
+719,20240428,70,2611,6,2,0.0,562.96,348.1,214.86,Product 070,Personal Care,Personal Care Group 3,Brand 11,174.05,Customer 2611,East,Consumer,City 20,Store 06,South,Manager 07,2024-04-28,2024,4,Apr,2,Sunday
+720,20240114,25,118,11,1,0.0,189.76,128.02,61.74,Product 025,Beverages,Beverages Group 2,Brand 11,128.02,Customer 0118,South,Corporate,City 23,Store 11,East,Manager 04,2024-01-14,2024,1,Jan,1,Sunday
+721,20240827,45,377,8,1,0.0,268.61,144.18,124.43,Product 045,Household,Household Group 2,Brand 01,144.18,Customer 0377,North,SMB,City 42,Store 08,West,Manager 01,2024-08-27,2024,8,Aug,3,Tuesday
+722,20250502,48,7,13,1,0.0,183.39,116.79,66.6,Product 048,Office,Office Group 1,Brand 04,116.79,Customer 0007,East,Consumer,City 08,Store 13,North,Manager 06,2025-05-02,2025,5,May,2,Friday
+723,20251223,55,1164,18,1,0.0,231.26,107.07,124.19,Product 055,Beverages,Beverages Group 4,Brand 11,107.07,Customer 1164,West,Consumer,City 13,Store 18,South,Manager 03,2025-12-23,2025,12,Dec,4,Tuesday
+724,20240621,15,3644,5,1,0.0,322.09,174.6,147.49,Product 015,Household,Household Group 4,Brand 01,174.6,Customer 3644,West,SMB,City 45,Store 05,North,Manager 06,2024-06-21,2024,6,Jun,2,Friday
+725,20241012,82,2120,19,2,0.15,147.12,85.84,61.28,Product 082,Personal Care,Personal Care Group 3,Brand 08,42.92,Customer 2120,West,Consumer,City 09,Store 19,East,Manager 04,2024-10-12,2024,10,Oct,4,Saturday
+726,20240805,6,926,19,3,0.0,374.23,195.54,178.69,Product 006,Office,Office Group 3,Brand 07,65.18,Customer 0926,South,Consumer,City 15,Store 19,East,Manager 04,2024-08-05,2024,8,Aug,3,Monday
+727,20240713,94,2587,3,1,0.05,99.64,61.93,37.71,Product 094,Personal Care,Personal Care Group 3,Brand 05,61.93,Customer 2587,East,Consumer,City 44,Store 03,East,Manager 04,2024-07-13,2024,7,Jul,3,Saturday
+728,20240515,34,2080,8,2,0.0,537.21,352.54,184.67,Product 034,Personal Care,Personal Care Group 3,Brand 05,176.27,Customer 2080,West,Corporate,City 17,Store 08,West,Manager 01,2024-05-15,2024,5,May,2,Wednesday
+729,20251110,94,1554,12,2,0.0,199.75,123.86,75.89,Product 094,Personal Care,Personal Care Group 3,Brand 05,61.93,Customer 1554,South,Consumer,City 19,Store 12,West,Manager 05,2025-11-10,2025,11,Nov,4,Monday
+730,20250823,118,2712,11,1,0.15,262.4,171.58,90.82,Product 118,Personal Care,Personal Care Group 3,Brand 14,171.58,Customer 2712,West,Consumer,City 25,Store 11,East,Manager 04,2025-08-23,2025,8,Aug,3,Saturday
+731,20250305,78,1860,3,3,0.0,308.62,195.93,112.69,Product 078,Office,Office Group 3,Brand 04,65.31,Customer 1860,West,SMB,City 37,Store 03,East,Manager 04,2025-03-05,2025,3,Mar,1,Wednesday
+732,20250316,88,3220,4,5,0.1,84.63,59.85,24.78,Product 088,Personal Care,Personal Care Group 1,Brand 14,11.97,Customer 3220,West,SMB,City 05,Store 04,West,Manager 05,2025-03-16,2025,3,Mar,1,Sunday
+733,20240719,15,2271,5,2,0.2,407.39,349.2,58.19,Product 015,Household,Household Group 4,Brand 01,174.6,Customer 2271,East,Consumer,City 16,Store 05,North,Manager 06,2024-07-19,2024,7,Jul,3,Friday
+734,20240524,116,1608,16,3,0.1,63.94,44.55,19.39,Product 116,Snacks,Snacks Group 1,Brand 12,14.85,Customer 1608,West,Consumer,City 25,Store 16,West,Manager 01,2024-05-24,2024,5,May,2,Friday
+735,20240728,45,1347,24,2,0.05,614.7,288.36,326.34,Product 045,Household,Household Group 2,Brand 01,144.18,Customer 1347,East,SMB,City 04,Store 24,West,Manager 01,2024-07-28,2024,7,Jul,3,Sunday
+736,20250215,96,3335,23,4,0.0,124.95,63.92,61.03,Product 096,Office,Office Group 1,Brand 07,15.98,Customer 3335,East,Consumer,City 24,Store 23,East,Manager 08,2025-02-15,2025,2,Feb,1,Saturday
+737,20240417,31,1097,5,1,0.1,134.18,82.26,51.92,Product 031,Beverages,Beverages Group 4,Brand 02,82.26,Customer 1097,North,Consumer,City 42,Store 05,North,Manager 06,2024-04-17,2024,4,Apr,2,Wednesday
+738,20241211,98,559,5,1,0.15,206.16,143.41,62.75,Product 098,Snacks,Snacks Group 3,Brand 09,143.41,Customer 0559,East,Corporate,City 32,Store 05,North,Manager 06,2024-12-11,2024,12,Dec,4,Wednesday
+739,20240505,70,3103,24,1,0.0,380.92,174.05,206.87,Product 070,Personal Care,Personal Care Group 3,Brand 11,174.05,Customer 3103,East,SMB,City 32,Store 24,West,Manager 01,2024-05-05,2024,5,May,2,Sunday
+740,20240902,26,2202,18,1,0.1,191.22,126.27,64.95,Product 026,Snacks,Snacks Group 3,Brand 12,126.27,Customer 2202,South,SMB,City 43,Store 18,South,Manager 03,2024-09-02,2024,9,Sep,3,Monday
+741,20250713,37,3391,15,3,0.05,370.36,253.17,117.19,Product 037,Beverages,Beverages Group 2,Brand 08,84.39,Customer 3391,East,Consumer,City 32,Store 15,East,Manager 08,2025-07-13,2025,7,Jul,3,Sunday
+742,20251027,83,1232,3,2,0.05,190.85,104.72,86.13,Product 083,Electronics,Electronics Group 4,Brand 09,52.36,Customer 1232,West,Consumer,City 33,Store 03,East,Manager 04,2025-10-27,2025,10,Oct,4,Monday
+743,20250409,80,3060,3,2,0.0,509.0,236.78,272.22,Product 080,Snacks,Snacks Group 1,Brand 06,118.39,Customer 3060,West,SMB,City 37,Store 03,East,Manager 04,2025-04-09,2025,4,Apr,2,Wednesday
+744,20251118,60,812,4,2,0.05,73.24,38.96,34.28,Product 060,Office,Office Group 1,Brand 01,19.48,Customer 0812,West,Consumer,City 45,Store 04,West,Manager 05,2025-11-18,2025,11,Nov,4,Tuesday
+745,20240416,115,3077,24,3,0.1,731.56,444.72,286.84,Product 115,Beverages,Beverages Group 4,Brand 11,148.24,Customer 3077,North,Consumer,City 06,Store 24,West,Manager 01,2024-04-16,2024,4,Apr,2,Tuesday
+746,20250121,2,1270,18,1,0.1,196.6,135.26,61.34,Product 002,Snacks,Snacks Group 3,Brand 03,135.26,Customer 1270,South,Consumer,City 23,Store 18,South,Manager 03,2025-01-21,2025,1,Jan,1,Tuesday
+747,20240407,46,3116,2,2,0.1,655.66,331.12,324.54,Product 046,Personal Care,Personal Care Group 3,Brand 02,165.56,Customer 3116,West,SMB,City 45,Store 02,South,Manager 03,2024-04-07,2024,4,Apr,2,Sunday
+748,20250916,58,2013,4,2,0.05,130.67,72.16,58.51,Product 058,Personal Care,Personal Care Group 3,Brand 14,36.08,Customer 2013,North,Consumer,City 46,Store 04,West,Manager 05,2025-09-16,2025,9,Sep,3,Tuesday
+749,20240626,47,1479,9,1,0.1,22.17,11.74,10.43,Product 047,Electronics,Electronics Group 4,Brand 03,11.74,Customer 1479,East,SMB,City 40,Store 09,North,Manager 02,2024-06-26,2024,6,Jun,2,Wednesday
+750,20241111,10,2301,11,2,0.0,496.88,285.98,210.9,Product 010,Personal Care,Personal Care Group 3,Brand 11,142.99,Customer 2301,North,SMB,City 46,Store 11,East,Manager 04,2024-11-11,2024,11,Nov,4,Monday
+751,20250223,102,2823,3,1,0.05,308.67,150.84,157.83,Product 102,Office,Office Group 3,Brand 13,150.84,Customer 2823,East,Consumer,City 40,Store 03,East,Manager 04,2025-02-23,2025,2,Feb,1,Sunday
+752,20241020,107,1188,23,1,0.05,50.88,27.29,23.59,Product 107,Electronics,Electronics Group 4,Brand 03,27.29,Customer 1188,West,Consumer,City 37,Store 23,East,Manager 08,2024-10-20,2024,10,Oct,4,Sunday
+753,20240509,82,3924,18,1,0.1,78.6,42.92,35.68,Product 082,Personal Care,Personal Care Group 3,Brand 08,42.92,Customer 3924,West,SMB,City 37,Store 18,South,Manager 03,2024-05-09,2024,5,May,2,Thursday
+754,20240909,73,2289,22,1,0.0,17.88,11.38,6.5,Product 073,Beverages,Beverages Group 2,Brand 14,11.38,Customer 2289,North,Consumer,City 34,Store 22,South,Manager 07,2024-09-09,2024,9,Sep,3,Monday
+755,20241213,15,1671,7,1,0.0,321.4,174.6,146.8,Product 015,Household,Household Group 4,Brand 01,174.6,Customer 1671,East,Corporate,City 40,Store 07,East,Manager 08,2024-12-13,2024,12,Dec,4,Friday
+756,20240414,48,2857,7,2,0.15,298.21,233.58,64.63,Product 048,Office,Office Group 1,Brand 04,116.79,Customer 2857,North,SMB,City 26,Store 07,East,Manager 08,2024-04-14,2024,4,Apr,2,Sunday
+757,20240614,116,163,3,2,0.0,59.44,29.7,29.74,Product 116,Snacks,Snacks Group 1,Brand 12,14.85,Customer 0163,East,Corporate,City 20,Store 03,East,Manager 04,2024-06-14,2024,6,Jun,2,Friday
+758,20250129,47,3928,5,4,0.0,76.22,46.96,29.26,Product 047,Electronics,Electronics Group 4,Brand 03,11.74,Customer 3928,West,Corporate,City 41,Store 05,North,Manager 06,2025-01-29,2025,1,Jan,1,Wednesday
+759,20240729,58,3745,17,1,0.1,67.02,36.08,30.94,Product 058,Personal Care,Personal Care Group 3,Brand 14,36.08,Customer 3745,North,SMB,City 02,Store 17,North,Manager 02,2024-07-29,2024,7,Jul,3,Monday
+760,20240509,36,2613,9,1,0.0,76.83,50.44,26.39,Product 036,Office,Office Group 1,Brand 07,50.44,Customer 2613,North,Consumer,City 22,Store 09,North,Manager 02,2024-05-09,2024,5,May,2,Thursday
+761,20240327,66,3243,19,1,0.1,32.51,20.55,11.96,Product 066,Office,Office Group 3,Brand 07,20.55,Customer 3243,East,Consumer,City 28,Store 19,East,Manager 04,2024-03-27,2024,3,Mar,1,Wednesday
+762,20250713,54,3029,1,2,0.1,538.78,322.38,216.4,Product 054,Office,Office Group 3,Brand 10,161.19,Customer 3029,North,Consumer,City 06,Store 01,North,Manager 02,2025-07-13,2025,7,Jul,3,Sunday
+763,20250519,54,2046,2,1,0.05,305.01,161.19,143.82,Product 054,Office,Office Group 3,Brand 10,161.19,Customer 2046,South,Corporate,City 31,Store 02,South,Manager 03,2025-05-19,2025,5,May,2,Monday
+764,20250312,81,2930,14,1,0.0,20.45,11.69,8.76,Product 081,Household,Household Group 2,Brand 07,11.69,Customer 2930,South,Corporate,City 03,Store 14,South,Manager 07,2025-03-12,2025,3,Mar,1,Wednesday
+765,20250131,98,2955,23,1,0.1,200.78,143.41,57.37,Product 098,Snacks,Snacks Group 3,Brand 09,143.41,Customer 2955,East,Consumer,City 28,Store 23,East,Manager 08,2025-01-31,2025,1,Jan,1,Friday
+766,20250415,44,1707,6,1,0.0,53.68,29.62,24.06,Product 044,Snacks,Snacks Group 1,Brand 15,29.62,Customer 1707,East,SMB,City 28,Store 06,South,Manager 07,2025-04-15,2025,4,Apr,2,Tuesday
+767,20240807,85,1362,10,1,0.0,351.71,157.46,194.25,Product 085,Beverages,Beverages Group 2,Brand 11,157.46,Customer 1362,South,Consumer,City 19,Store 10,South,Manager 03,2024-08-07,2024,8,Aug,3,Wednesday
+768,20250218,53,353,16,3,0.0,398.59,215.19,183.4,Product 053,Electronics,Electronics Group 2,Brand 09,71.73,Customer 0353,North,SMB,City 18,Store 16,West,Manager 01,2025-02-18,2025,2,Feb,1,Tuesday
+769,20250601,99,486,14,1,0.1,333.5,178.82,154.68,Product 099,Household,Household Group 4,Brand 10,178.82,Customer 0486,South,Consumer,City 07,Store 14,South,Manager 07,2025-06-01,2025,6,Jun,2,Sunday
+770,20240104,119,3913,3,3,0.1,23.87,14.64,9.23,Product 119,Electronics,Electronics Group 4,Brand 15,4.88,Customer 3913,North,SMB,City 26,Store 03,East,Manager 04,2024-01-04,2024,1,Jan,1,Thursday
+771,20250527,66,1251,5,1,0.0,45.58,20.55,25.03,Product 066,Office,Office Group 3,Brand 07,20.55,Customer 1251,East,SMB,City 04,Store 05,North,Manager 06,2025-05-27,2025,5,May,2,Tuesday
+772,20250823,80,772,17,2,0.05,343.51,236.78,106.73,Product 080,Snacks,Snacks Group 1,Brand 06,118.39,Customer 0772,West,Consumer,City 05,Store 17,North,Manager 02,2025-08-23,2025,8,Aug,3,Saturday
+773,20250321,112,1210,20,1,0.05,70.14,33.58,36.56,Product 112,Personal Care,Personal Care Group 1,Brand 08,33.58,Customer 1210,South,Corporate,City 11,Store 20,West,Manager 05,2025-03-21,2025,3,Mar,1,Friday
+774,20250831,81,2218,8,1,0.0,25.52,11.69,13.83,Product 081,Household,Household Group 2,Brand 07,11.69,Customer 2218,South,Consumer,City 11,Store 08,West,Manager 01,2025-08-31,2025,8,Aug,3,Sunday
+775,20250506,44,2686,4,2,0.0,108.86,59.24,49.62,Product 044,Snacks,Snacks Group 1,Brand 15,29.62,Customer 2686,South,SMB,City 47,Store 04,West,Manager 05,2025-05-06,2025,5,May,2,Tuesday
+776,20250702,22,68,14,1,0.1,6.54,4.19,2.35,Product 022,Personal Care,Personal Care Group 3,Brand 08,4.19,Customer 0068,West,Consumer,City 21,Store 14,South,Manager 07,2025-07-02,2025,7,Jul,3,Wednesday
+777,20250227,83,783,18,1,0.05,101.89,52.36,49.53,Product 083,Electronics,Electronics Group 4,Brand 09,52.36,Customer 0783,East,Corporate,City 16,Store 18,South,Manager 03,2025-02-27,2025,2,Feb,1,Thursday
+778,20250127,23,1432,1,3,0.15,42.84,22.98,19.86,Product 023,Electronics,Electronics Group 4,Brand 09,7.66,Customer 1432,West,SMB,City 41,Store 01,North,Manager 02,2025-01-27,2025,1,Jan,1,Monday
+779,20240818,34,2101,8,2,0.0,564.73,352.54,212.19,Product 034,Personal Care,Personal Care Group 3,Brand 05,176.27,Customer 2101,North,Consumer,City 38,Store 08,West,Manager 01,2024-08-18,2024,8,Aug,3,Sunday
+780,20240617,38,1743,21,1,0.0,260.27,161.56,98.71,Product 038,Snacks,Snacks Group 3,Brand 09,161.56,Customer 1743,East,Corporate,City 16,Store 21,North,Manager 06,2024-06-17,2024,6,Jun,2,Monday
+781,20250503,108,2359,16,4,0.0,644.23,289.24,354.99,Product 108,Office,Office Group 1,Brand 04,72.31,Customer 2359,East,Consumer,City 08,Store 16,West,Manager 01,2025-05-03,2025,5,May,2,Saturday
+782,20241104,89,2253,24,2,0.0,286.7,138.48,148.22,Product 089,Electronics,Electronics Group 2,Brand 15,69.24,Customer 2253,North,SMB,City 46,Store 24,West,Manager 01,2024-11-04,2024,11,Nov,4,Monday
+783,20250204,40,1231,17,2,0.15,255.36,180.32,75.04,Product 040,Personal Care,Personal Care Group 1,Brand 11,90.16,Customer 1231,East,SMB,City 32,Store 17,North,Manager 02,2025-02-04,2025,2,Feb,1,Tuesday
+784,20250228,80,578,11,3,0.0,765.34,355.17,410.17,Product 080,Snacks,Snacks Group 1,Brand 06,118.39,Customer 0578,South,SMB,City 03,Store 11,East,Manager 04,2025-02-28,2025,2,Feb,1,Friday
+785,20250210,109,1010,5,1,0.0,39.36,17.94,21.42,Product 109,Beverages,Beverages Group 2,Brand 05,17.94,Customer 1010,South,Consumer,City 03,Store 05,North,Manager 06,2025-02-10,2025,2,Feb,1,Monday
+786,20250424,4,3039,4,1,0.0,221.48,106.79,114.69,Product 004,Personal Care,Personal Care Group 1,Brand 05,106.79,Customer 3039,East,Consumer,City 16,Store 04,West,Manager 05,2025-04-24,2025,4,Apr,2,Thursday
+787,20240413,20,1957,21,1,0.05,56.68,39.58,17.1,Product 020,Snacks,Snacks Group 1,Brand 06,39.58,Customer 1957,North,Consumer,City 38,Store 21,North,Manager 06,2024-04-13,2024,4,Apr,2,Saturday
+788,20240225,17,2724,14,1,0.2,67.71,44.35,23.36,Product 017,Electronics,Electronics Group 2,Brand 03,44.35,Customer 2724,West,Consumer,City 37,Store 14,South,Manager 07,2024-02-25,2024,2,Feb,1,Sunday
+789,20240505,18,1275,20,4,0.0,1141.15,676.88,464.27,Product 018,Office,Office Group 3,Brand 04,169.22,Customer 1275,East,Consumer,City 28,Store 20,West,Manager 05,2024-05-05,2024,5,May,2,Sunday
+790,20250619,64,1591,13,2,0.0,597.07,278.24,318.83,Product 064,Personal Care,Personal Care Group 1,Brand 05,139.12,Customer 1591,East,Consumer,City 08,Store 13,North,Manager 06,2025-06-19,2025,6,Jun,2,Thursday
+791,20251211,108,3573,23,1,0.0,114.36,72.31,42.05,Product 108,Office,Office Group 1,Brand 04,72.31,Customer 3573,North,Consumer,City 22,Store 23,East,Manager 08,2025-12-11,2025,12,Dec,4,Thursday
+792,20250727,76,3644,10,1,0.15,177.9,106.44,71.46,Product 076,Personal Care,Personal Care Group 1,Brand 02,106.44,Customer 3644,West,SMB,City 45,Store 10,South,Manager 03,2025-07-27,2025,7,Jul,3,Sunday
+793,20240128,119,1475,3,1,0.0,9.14,4.88,4.26,Product 119,Electronics,Electronics Group 4,Brand 15,4.88,Customer 1475,East,Consumer,City 36,Store 03,East,Manager 04,2024-01-28,2024,1,Jan,1,Sunday
+794,20240122,58,3240,19,2,0.0,157.07,72.16,84.91,Product 058,Personal Care,Personal Care Group 3,Brand 14,36.08,Customer 3240,West,SMB,City 25,Store 19,East,Manager 04,2024-01-22,2024,1,Jan,1,Monday
+795,20240314,104,1402,7,3,0.05,677.01,367.44,309.57,Product 104,Snacks,Snacks Group 1,Brand 15,122.48,Customer 1402,South,Consumer,City 11,Store 07,East,Manager 08,2024-03-14,2024,3,Mar,1,Thursday
+796,20250915,49,2970,12,2,0.15,121.47,95.12,26.35,Product 049,Beverages,Beverages Group 2,Brand 05,47.56,Customer 2970,South,SMB,City 43,Store 12,West,Manager 05,2025-09-15,2025,9,Sep,3,Monday
+797,20240618,90,599,16,1,0.0,40.91,21.33,19.58,Product 090,Office,Office Group 3,Brand 01,21.33,Customer 0599,East,Consumer,City 24,Store 16,West,Manager 01,2024-06-18,2024,6,Jun,2,Tuesday
+798,20240801,110,3223,8,1,0.0,214.45,105.9,108.55,Product 110,Snacks,Snacks Group 3,Brand 06,105.9,Customer 3223,East,Consumer,City 08,Store 08,West,Manager 01,2024-08-01,2024,8,Aug,3,Thursday
+799,20240320,87,1348,11,4,0.0,485.41,260.84,224.57,Product 087,Household,Household Group 4,Brand 13,65.21,Customer 1348,West,Corporate,City 05,Store 11,East,Manager 04,2024-03-20,2024,3,Mar,1,Wednesday
+800,20250724,91,277,18,1,0.0,60.43,41.28,19.15,Product 091,Beverages,Beverages Group 4,Brand 02,41.28,Customer 0277,North,Consumer,City 38,Store 18,South,Manager 03,2025-07-24,2025,7,Jul,3,Thursday
+801,20240618,100,1165,5,1,0.0,246.05,153.71,92.34,Product 100,Personal Care,Personal Care Group 1,Brand 11,153.71,Customer 1165,North,Consumer,City 14,Store 05,North,Manager 06,2024-06-18,2024,6,Jun,2,Tuesday
+802,20240515,15,1628,2,1,0.0,337.22,174.6,162.62,Product 015,Household,Household Group 4,Brand 01,174.6,Customer 1628,West,SMB,City 45,Store 02,South,Manager 03,2024-05-15,2024,5,May,2,Wednesday
+803,20250721,63,2580,9,2,0.0,125.67,61.48,64.19,Product 063,Household,Household Group 4,Brand 04,30.74,Customer 2580,West,Consumer,City 37,Store 09,North,Manager 02,2025-07-21,2025,7,Jul,3,Monday
+804,20250402,38,3029,4,1,0.0,293.13,161.56,131.57,Product 038,Snacks,Snacks Group 3,Brand 09,161.56,Customer 3029,North,Consumer,City 06,Store 04,West,Manager 05,2025-04-02,2025,4,Apr,2,Wednesday
+805,20250627,21,3293,4,4,0.05,229.32,127.2,102.12,Product 021,Household,Household Group 2,Brand 07,31.8,Customer 3293,North,SMB,City 30,Store 04,West,Manager 05,2025-06-27,2025,6,Jun,2,Friday
+806,20240215,86,245,12,1,0.1,35.33,26.33,9.0,Product 086,Snacks,Snacks Group 3,Brand 12,26.33,Customer 0245,North,Consumer,City 06,Store 12,West,Manager 05,2024-02-15,2024,2,Feb,1,Thursday
+807,20250920,20,2871,2,4,0.0,274.13,158.32,115.81,Product 020,Snacks,Snacks Group 1,Brand 06,39.58,Customer 2871,East,Corporate,City 40,Store 02,South,Manager 03,2025-09-20,2025,9,Sep,3,Saturday
+808,20250207,20,2888,17,1,0.1,62.94,39.58,23.36,Product 020,Snacks,Snacks Group 1,Brand 06,39.58,Customer 2888,West,Consumer,City 09,Store 17,North,Manager 02,2025-02-07,2025,2,Feb,1,Friday
+809,20251217,34,3210,22,2,0.0,767.35,352.54,414.81,Product 034,Personal Care,Personal Care Group 3,Brand 05,176.27,Customer 3210,South,SMB,City 43,Store 22,South,Manager 07,2025-12-17,2025,12,Dec,4,Wednesday
+810,20250116,108,3218,9,1,0.0,118.27,72.31,45.96,Product 108,Office,Office Group 1,Brand 04,72.31,Customer 3218,South,Consumer,City 03,Store 09,North,Manager 02,2025-01-16,2025,1,Jan,1,Thursday
+811,20240908,118,2740,8,1,0.0,384.26,171.58,212.68,Product 118,Personal Care,Personal Care Group 3,Brand 14,171.58,Customer 2740,West,Consumer,City 05,Store 08,West,Manager 01,2024-09-08,2024,9,Sep,3,Sunday
+812,20250724,51,2140,2,1,0.1,193.59,138.66,54.93,Product 051,Household,Household Group 4,Brand 07,138.66,Customer 2140,West,Consumer,City 29,Store 02,South,Manager 03,2025-07-24,2025,7,Jul,3,Thursday
+813,20250902,32,1939,10,1,0.05,316.15,166.48,149.67,Product 032,Snacks,Snacks Group 1,Brand 03,166.48,Customer 1939,East,Consumer,City 20,Store 10,South,Manager 03,2025-09-02,2025,9,Sep,3,Tuesday
+814,20250625,113,837,16,1,0.1,48.55,28.67,19.88,Product 113,Electronics,Electronics Group 2,Brand 09,28.67,Customer 0837,North,Consumer,City 22,Store 16,West,Manager 01,2025-06-25,2025,6,Jun,2,Wednesday
+815,20240105,100,1032,3,3,0.0,809.56,461.13,348.43,Product 100,Personal Care,Personal Care Group 1,Brand 11,153.71,Customer 1032,West,Consumer,City 25,Store 03,East,Manager 04,2024-01-05,2024,1,Jan,1,Friday
+816,20240302,39,379,20,1,0.15,26.54,21.15,5.39,Product 039,Household,Household Group 4,Brand 10,21.15,Customer 0379,East,Consumer,City 44,Store 20,West,Manager 05,2024-03-02,2024,3,Mar,1,Saturday
+817,20240216,69,682,11,2,0.0,507.75,303.4,204.35,Product 069,Household,Household Group 2,Brand 10,151.7,Customer 0682,South,Consumer,City 11,Store 11,East,Manager 04,2024-02-16,2024,2,Feb,1,Friday
+818,20240628,90,158,21,1,0.05,33.99,21.33,12.66,Product 090,Office,Office Group 3,Brand 01,21.33,Customer 0158,South,Consumer,City 15,Store 21,North,Manager 06,2024-06-28,2024,6,Jun,2,Friday
+819,20240210,94,1337,2,2,0.0,182.73,123.86,58.87,Product 094,Personal Care,Personal Care Group 3,Brand 05,61.93,Customer 1337,North,Consumer,City 42,Store 02,South,Manager 03,2024-02-10,2024,2,Feb,1,Saturday
+820,20240522,47,2077,14,1,0.0,22.23,11.74,10.49,Product 047,Electronics,Electronics Group 4,Brand 03,11.74,Customer 2077,North,Consumer,City 14,Store 14,South,Manager 07,2024-05-22,2024,5,May,2,Wednesday
+821,20250220,15,2695,14,1,0.0,297.61,174.6,123.01,Product 015,Household,Household Group 4,Brand 01,174.6,Customer 2695,East,Consumer,City 08,Store 14,South,Manager 07,2025-02-20,2025,2,Feb,1,Thursday
+822,20240324,7,2599,5,3,0.0,909.72,440.37,469.35,Product 007,Beverages,Beverages Group 4,Brand 08,146.79,Customer 2599,East,Consumer,City 08,Store 05,North,Manager 06,2024-03-24,2024,3,Mar,1,Sunday
+823,20240620,77,2859,12,1,0.0,146.27,87.62,58.65,Product 077,Electronics,Electronics Group 2,Brand 03,87.62,Customer 2859,East,Consumer,City 28,Store 12,West,Manager 05,2024-06-20,2024,6,Jun,2,Thursday
+824,20251204,103,3456,15,1,0.0,359.07,173.55,185.52,Product 103,Beverages,Beverages Group 4,Brand 14,173.55,Customer 3456,West,Consumer,City 01,Store 15,East,Manager 08,2025-12-04,2025,12,Dec,4,Thursday
+825,20241228,90,3353,15,2,0.0,84.31,42.66,41.65,Product 090,Office,Office Group 3,Brand 01,21.33,Customer 3353,North,Corporate,City 42,Store 15,East,Manager 08,2024-12-28,2024,12,Dec,4,Saturday
+826,20250906,19,3742,9,1,0.0,55.28,30.62,24.66,Product 019,Beverages,Beverages Group 4,Brand 05,30.62,Customer 3742,South,Corporate,City 47,Store 09,North,Manager 02,2025-09-06,2025,9,Sep,3,Saturday
+827,20240328,36,3860,21,2,0.05,204.94,100.88,104.06,Product 036,Office,Office Group 1,Brand 07,50.44,Customer 3860,West,Corporate,City 21,Store 21,North,Manager 06,2024-03-28,2024,3,Mar,1,Thursday
+828,20240518,99,2732,5,3,0.2,719.81,536.46,183.35,Product 099,Household,Household Group 4,Brand 10,178.82,Customer 2732,West,Corporate,City 45,Store 05,North,Manager 06,2024-05-18,2024,5,May,2,Saturday
+829,20250508,76,2639,2,1,0.0,216.58,106.44,110.14,Product 076,Personal Care,Personal Care Group 1,Brand 02,106.44,Customer 2639,East,Consumer,City 48,Store 02,South,Manager 03,2025-05-08,2025,5,May,2,Thursday
+830,20240610,1,339,22,1,0.05,9.66,5.41,4.25,Product 001,Beverages,Beverages Group 2,Brand 02,5.41,Customer 0339,East,Consumer,City 04,Store 22,South,Manager 07,2024-06-10,2024,6,Jun,2,Monday
+831,20250412,72,233,17,1,0.0,249.09,134.33,114.76,Product 072,Office,Office Group 1,Brand 13,134.33,Customer 0233,North,SMB,City 42,Store 17,North,Manager 02,2025-04-12,2025,4,Apr,2,Saturday
+832,20250701,75,1416,17,1,0.0,322.98,159.03,163.95,Product 075,Household,Household Group 4,Brand 01,159.03,Customer 1416,West,Consumer,City 25,Store 17,North,Manager 02,2025-07-01,2025,7,Jul,3,Tuesday
+833,20251113,115,2181,2,2,0.1,577.06,296.48,280.58,Product 115,Beverages,Beverages Group 4,Brand 11,148.24,Customer 2181,North,SMB,City 22,Store 02,South,Manager 03,2025-11-13,2025,11,Nov,4,Thursday
+834,20250322,33,3319,20,3,0.0,264.29,178.62,85.67,Product 033,Household,Household Group 2,Brand 04,59.54,Customer 3319,East,SMB,City 08,Store 20,West,Manager 05,2025-03-22,2025,3,Mar,1,Saturday
+835,20240722,41,2295,19,2,0.0,287.96,197.7,90.26,Product 041,Electronics,Electronics Group 2,Brand 12,98.85,Customer 2295,East,Corporate,City 40,Store 19,East,Manager 04,2024-07-22,2024,7,Jul,3,Monday
+836,20240728,81,3598,14,1,0.0,17.16,11.69,5.47,Product 081,Household,Household Group 2,Brand 07,11.69,Customer 3598,South,Consumer,City 47,Store 14,South,Manager 07,2024-07-28,2024,7,Jul,3,Sunday
+837,20251007,99,1906,3,3,0.0,1151.72,536.46,615.26,Product 099,Household,Household Group 4,Brand 10,178.82,Customer 1906,South,Consumer,City 35,Store 03,East,Manager 04,2025-10-07,2025,10,Oct,4,Tuesday
+838,20251127,42,116,17,3,0.0,170.78,93.27,77.51,Product 042,Office,Office Group 3,Brand 13,31.09,Customer 0116,West,Consumer,City 21,Store 17,North,Manager 02,2025-11-27,2025,11,Nov,4,Thursday
+839,20251120,13,3509,11,2,0.0,488.94,271.74,217.2,Product 013,Beverages,Beverages Group 2,Brand 14,135.87,Customer 3509,North,Consumer,City 06,Store 11,East,Manager 04,2025-11-20,2025,11,Nov,4,Thursday
+840,20240707,65,3755,9,1,0.1,107.46,68.94,38.52,Product 065,Electronics,Electronics Group 2,Brand 06,68.94,Customer 3755,East,SMB,City 12,Store 09,North,Manager 02,2024-07-07,2024,7,Jul,3,Sunday
+841,20250301,9,2781,20,2,0.0,505.13,267.9,237.23,Product 009,Household,Household Group 2,Brand 10,133.95,Customer 2781,North,SMB,City 46,Store 20,West,Manager 05,2025-03-01,2025,3,Mar,1,Saturday
+842,20250208,21,1174,16,2,0.0,107.67,63.6,44.07,Product 021,Household,Household Group 2,Brand 07,31.8,Customer 1174,South,Consumer,City 23,Store 16,West,Manager 01,2025-02-08,2025,2,Feb,1,Saturday
+843,20251207,47,427,4,1,0.15,20.08,11.74,8.34,Product 047,Electronics,Electronics Group 4,Brand 03,11.74,Customer 0427,East,Consumer,City 44,Store 04,West,Manager 05,2025-12-07,2025,12,Dec,4,Sunday
+844,20251106,13,1553,2,2,0.1,502.3,271.74,230.56,Product 013,Beverages,Beverages Group 2,Brand 14,135.87,Customer 1553,North,Consumer,City 18,Store 02,South,Manager 03,2025-11-06,2025,11,Nov,4,Thursday
+845,20241116,33,3422,9,2,0.1,178.18,119.08,59.1,Product 033,Household,Household Group 2,Brand 04,59.54,Customer 3422,South,SMB,City 15,Store 09,North,Manager 02,2024-11-16,2024,11,Nov,4,Saturday
+846,20250426,39,473,17,2,0.0,70.55,42.3,28.25,Product 039,Household,Household Group 4,Brand 10,21.15,Customer 0473,North,Corporate,City 42,Store 17,North,Manager 02,2025-04-26,2025,4,Apr,2,Saturday
+847,20240501,81,2543,1,1,0.05,19.02,11.69,7.33,Product 081,Household,Household Group 2,Brand 07,11.69,Customer 2543,East,SMB,City 48,Store 01,North,Manager 02,2024-05-01,2024,5,May,2,Wednesday
+848,20250418,37,3024,18,4,0.0,640.46,337.56,302.9,Product 037,Beverages,Beverages Group 2,Brand 08,84.39,Customer 3024,West,Consumer,City 01,Store 18,South,Manager 03,2025-04-18,2025,4,Apr,2,Friday
+849,20250428,3,547,5,3,0.0,159.31,79.65,79.66,Product 003,Household,Household Group 4,Brand 04,26.55,Customer 0547,East,Corporate,City 20,Store 05,North,Manager 06,2025-04-28,2025,4,Apr,2,Monday
+850,20241209,58,3694,2,1,0.2,56.87,36.08,20.79,Product 058,Personal Care,Personal Care Group 3,Brand 14,36.08,Customer 3694,South,Consumer,City 47,Store 02,South,Manager 03,2024-12-09,2024,12,Dec,4,Monday
+851,20240118,12,2837,19,4,0.05,821.83,449.24,372.59,Product 012,Office,Office Group 1,Brand 13,112.31,Customer 2837,North,Consumer,City 06,Store 19,East,Manager 04,2024-01-18,2024,1,Jan,1,Thursday
+852,20250729,53,845,12,2,0.0,294.07,143.46,150.61,Product 053,Electronics,Electronics Group 2,Brand 09,71.73,Customer 0845,North,SMB,City 30,Store 12,West,Manager 05,2025-07-29,2025,7,Jul,3,Tuesday
+853,20251028,28,3543,16,3,0.15,539.73,288.9,250.83,Product 028,Personal Care,Personal Care Group 1,Brand 14,96.3,Customer 3543,East,Consumer,City 40,Store 16,West,Manager 01,2025-10-28,2025,10,Oct,4,Tuesday
+854,20251016,66,357,1,2,0.0,81.73,41.1,40.63,Product 066,Office,Office Group 3,Brand 07,20.55,Customer 0357,North,Corporate,City 22,Store 01,North,Manager 02,2025-10-16,2025,10,Oct,4,Thursday
+855,20240106,29,1188,8,3,0.0,830.54,501.78,328.76,Product 029,Electronics,Electronics Group 2,Brand 15,167.26,Customer 1188,West,Consumer,City 37,Store 08,West,Manager 01,2024-01-06,2024,1,Jan,1,Saturday
+856,20250209,25,3009,3,2,0.0,523.15,256.04,267.11,Product 025,Beverages,Beverages Group 2,Brand 11,128.02,Customer 3009,North,Consumer,City 34,Store 03,East,Manager 04,2025-02-09,2025,2,Feb,1,Sunday
+857,20251029,36,417,23,2,0.2,127.14,100.88,26.26,Product 036,Office,Office Group 1,Brand 07,50.44,Customer 0417,North,Consumer,City 34,Store 23,East,Manager 08,2025-10-29,2025,10,Oct,4,Wednesday
+858,20250705,84,1082,1,1,0.15,196.87,154.18,42.69,Product 084,Office,Office Group 1,Brand 10,154.18,Customer 1082,South,Consumer,City 27,Store 01,North,Manager 02,2025-07-05,2025,7,Jul,3,Saturday
+859,20250126,53,1234,21,1,0.05,150.25,71.73,78.52,Product 053,Electronics,Electronics Group 2,Brand 09,71.73,Customer 1234,South,Corporate,City 35,Store 21,North,Manager 06,2025-01-26,2025,1,Jan,1,Sunday
+860,20241011,107,2397,11,1,0.05,56.22,27.29,28.93,Product 107,Electronics,Electronics Group 4,Brand 03,27.29,Customer 2397,North,SMB,City 46,Store 11,East,Manager 04,2024-10-11,2024,10,Oct,4,Friday
+861,20250820,59,364,6,1,0.0,138.16,85.85,52.31,Product 059,Electronics,Electronics Group 4,Brand 15,85.85,Customer 0364,West,Consumer,City 29,Store 06,South,Manager 07,2025-08-20,2025,8,Aug,3,Wednesday
+862,20240211,104,488,14,1,0.15,222.98,122.48,100.5,Product 104,Snacks,Snacks Group 1,Brand 15,122.48,Customer 0488,West,Consumer,City 09,Store 14,South,Manager 07,2024-02-11,2024,2,Feb,1,Sunday
+863,20251019,36,172,10,2,0.0,196.43,100.88,95.55,Product 036,Office,Office Group 1,Brand 07,50.44,Customer 0172,West,Consumer,City 29,Store 10,South,Manager 03,2025-10-19,2025,10,Oct,4,Sunday
+864,20250106,93,125,10,3,0.05,903.06,530.52,372.54,Product 093,Household,Household Group 2,Brand 04,176.84,Customer 0125,North,Consumer,City 30,Store 10,South,Manager 03,2025-01-06,2025,1,Jan,1,Monday
+865,20251125,113,2730,9,5,0.0,265.35,143.35,122.0,Product 113,Electronics,Electronics Group 2,Brand 09,28.67,Customer 2730,South,Consumer,City 43,Store 09,North,Manager 02,2025-11-25,2025,11,Nov,4,Tuesday
+866,20251127,91,3398,7,1,0.0,76.49,41.28,35.21,Product 091,Beverages,Beverages Group 4,Brand 02,41.28,Customer 3398,South,Corporate,City 39,Store 07,East,Manager 08,2025-11-27,2025,11,Nov,4,Thursday
+867,20241223,120,2790,8,1,0.0,15.9,8.98,6.92,Product 120,Office,Office Group 1,Brand 01,8.98,Customer 2790,South,Consumer,City 07,Store 08,West,Manager 01,2024-12-23,2024,12,Dec,4,Monday
+868,20251006,12,482,14,1,0.05,210.68,112.31,98.37,Product 012,Office,Office Group 1,Brand 13,112.31,Customer 0482,South,Consumer,City 03,Store 14,South,Manager 07,2025-10-06,2025,10,Oct,4,Monday
+869,20241228,51,75,11,3,0.15,683.11,415.98,267.13,Product 051,Household,Household Group 4,Brand 07,138.66,Customer 0075,East,SMB,City 28,Store 11,East,Manager 04,2024-12-28,2024,12,Dec,4,Saturday
+870,20240801,95,3581,8,1,0.15,87.37,53.49,33.88,Product 095,Electronics,Electronics Group 4,Brand 06,53.49,Customer 3581,North,Consumer,City 30,Store 08,West,Manager 01,2024-08-01,2024,8,Aug,3,Thursday
+871,20240617,21,1741,2,1,0.0,64.42,31.8,32.62,Product 021,Household,Household Group 2,Brand 07,31.8,Customer 1741,North,Consumer,City 14,Store 02,South,Manager 03,2024-06-17,2024,6,Jun,2,Monday
+872,20250929,1,1181,16,1,0.0,8.95,5.41,3.54,Product 001,Beverages,Beverages Group 2,Brand 02,5.41,Customer 1181,North,Corporate,City 30,Store 16,West,Manager 01,2025-09-29,2025,9,Sep,3,Monday
+873,20240717,73,3437,12,2,0.15,37.79,22.76,15.03,Product 073,Beverages,Beverages Group 2,Brand 14,11.38,Customer 3437,North,Consumer,City 30,Store 12,West,Manager 05,2024-07-17,2024,7,Jul,3,Wednesday
+874,20251206,92,64,3,2,0.0,392.54,270.46,122.08,Product 092,Snacks,Snacks Group 1,Brand 03,135.23,Customer 0064,West,Consumer,City 17,Store 03,East,Manager 04,2025-12-06,2025,12,Dec,4,Saturday
+875,20250425,85,1057,24,2,0.0,691.78,314.92,376.86,Product 085,Beverages,Beverages Group 2,Brand 11,157.46,Customer 1057,North,Consumer,City 02,Store 24,West,Manager 01,2025-04-25,2025,4,Apr,2,Friday
+876,20250917,63,2454,23,1,0.0,48.48,30.74,17.74,Product 063,Household,Household Group 4,Brand 04,30.74,Customer 2454,South,Consumer,City 07,Store 23,East,Manager 08,2025-09-17,2025,9,Sep,3,Wednesday
+877,20240407,65,3879,11,1,0.0,136.25,68.94,67.31,Product 065,Electronics,Electronics Group 2,Brand 06,68.94,Customer 3879,East,Corporate,City 40,Store 11,East,Manager 04,2024-04-07,2024,4,Apr,2,Sunday
+878,20241103,62,2658,23,3,0.05,1005.25,473.61,531.64,Product 062,Snacks,Snacks Group 3,Brand 03,157.87,Customer 2658,South,Consumer,City 19,Store 23,East,Manager 08,2024-11-03,2024,11,Nov,4,Sunday
+879,20251103,29,2157,2,2,0.05,500.01,334.52,165.49,Product 029,Electronics,Electronics Group 2,Brand 15,167.26,Customer 2157,North,SMB,City 46,Store 02,South,Manager 03,2025-11-03,2025,11,Nov,4,Monday
+880,20240322,21,2673,4,2,0.0,132.34,63.6,68.74,Product 021,Household,Household Group 2,Brand 07,31.8,Customer 2673,North,Consumer,City 34,Store 04,West,Manager 05,2024-03-22,2024,3,Mar,1,Friday
+881,20251210,20,864,19,3,0.1,188.86,118.74,70.12,Product 020,Snacks,Snacks Group 1,Brand 06,39.58,Customer 0864,West,Consumer,City 01,Store 19,East,Manager 04,2025-12-10,2025,12,Dec,4,Wednesday
+882,20240708,105,517,5,1,0.0,346.5,155.17,191.33,Product 105,Household,Household Group 2,Brand 01,155.17,Customer 0517,North,Consumer,City 38,Store 05,North,Manager 06,2024-07-08,2024,7,Jul,3,Monday
+883,20251205,42,435,19,1,0.0,55.81,31.09,24.72,Product 042,Office,Office Group 3,Brand 13,31.09,Customer 0435,East,Consumer,City 04,Store 19,East,Manager 04,2025-12-05,2025,12,Dec,4,Friday
+884,20250706,66,3129,23,1,0.0,45.6,20.55,25.05,Product 066,Office,Office Group 3,Brand 07,20.55,Customer 3129,North,Corporate,City 10,Store 23,East,Manager 08,2025-07-06,2025,7,Jul,3,Sunday
+885,20241206,40,28,1,2,0.0,386.17,180.32,205.85,Product 040,Personal Care,Personal Care Group 1,Brand 11,90.16,Customer 0028,West,Consumer,City 29,Store 01,North,Manager 02,2024-12-06,2024,12,Dec,4,Friday
+886,20240522,26,1638,3,1,0.0,264.81,126.27,138.54,Product 026,Snacks,Snacks Group 3,Brand 12,126.27,Customer 1638,South,SMB,City 07,Store 03,East,Manager 04,2024-05-22,2024,5,May,2,Wednesday
+887,20250430,13,667,11,1,0.0,214.29,135.87,78.42,Product 013,Beverages,Beverages Group 2,Brand 14,135.87,Customer 0667,East,Consumer,City 44,Store 11,East,Manager 04,2025-04-30,2025,4,Apr,2,Wednesday
+888,20240416,86,306,9,1,0.05,44.2,26.33,17.87,Product 086,Snacks,Snacks Group 3,Brand 12,26.33,Customer 0306,South,Consumer,City 19,Store 09,North,Manager 02,2024-04-16,2024,4,Apr,2,Tuesday
+889,20250327,79,2294,18,3,0.0,749.41,499.68,249.73,Product 079,Beverages,Beverages Group 4,Brand 05,166.56,Customer 2294,South,Consumer,City 39,Store 18,South,Manager 03,2025-03-27,2025,3,Mar,1,Thursday
+890,20251210,6,1917,22,1,0.0,117.69,65.18,52.51,Product 006,Office,Office Group 3,Brand 07,65.18,Customer 1917,North,Consumer,City 46,Store 22,South,Manager 07,2025-12-10,2025,12,Dec,4,Wednesday
+891,20250117,14,2097,23,1,0.0,27.93,12.71,15.22,Product 014,Snacks,Snacks Group 3,Brand 15,12.71,Customer 2097,North,Consumer,City 34,Store 23,East,Manager 08,2025-01-17,2025,1,Jan,1,Friday
+892,20240531,36,1255,10,4,0.05,367.14,201.76,165.38,Product 036,Office,Office Group 1,Brand 07,50.44,Customer 1255,East,Consumer,City 08,Store 10,South,Manager 03,2024-05-31,2024,5,May,2,Friday
+893,20250525,73,2636,13,1,0.2,17.13,11.38,5.75,Product 073,Beverages,Beverages Group 2,Brand 14,11.38,Customer 2636,West,SMB,City 45,Store 13,North,Manager 06,2025-05-25,2025,5,May,2,Sunday
+894,20240416,75,2122,11,1,0.0,280.62,159.03,121.59,Product 075,Household,Household Group 4,Brand 01,159.03,Customer 2122,South,SMB,City 11,Store 11,East,Manager 04,2024-04-16,2024,4,Apr,2,Tuesday
+895,20250427,21,2650,6,1,0.05,46.65,31.8,14.85,Product 021,Household,Household Group 2,Brand 07,31.8,Customer 2650,South,Corporate,City 11,Store 06,South,Manager 07,2025-04-27,2025,4,Apr,2,Sunday
+896,20240207,33,3151,19,3,0.05,348.09,178.62,169.47,Product 033,Household,Household Group 2,Brand 04,59.54,Customer 3151,East,Consumer,City 32,Store 19,East,Manager 04,2024-02-07,2024,2,Feb,1,Wednesday
+897,20250407,13,1215,22,2,0.0,440.86,271.74,169.12,Product 013,Beverages,Beverages Group 2,Brand 14,135.87,Customer 1215,East,Consumer,City 16,Store 22,South,Manager 07,2025-04-07,2025,4,Apr,2,Monday
+898,20250811,42,188,20,2,0.1,112.98,62.18,50.8,Product 042,Office,Office Group 3,Brand 13,31.09,Customer 0188,West,Consumer,City 45,Store 20,West,Manager 05,2025-08-11,2025,8,Aug,3,Monday
+899,20240501,41,981,5,1,0.0,187.44,98.85,88.59,Product 041,Electronics,Electronics Group 2,Brand 12,98.85,Customer 0981,North,Consumer,City 22,Store 05,North,Manager 06,2024-05-01,2024,5,May,2,Wednesday
+900,20240331,78,3843,16,2,0.0,228.5,130.62,97.88,Product 078,Office,Office Group 3,Brand 04,65.31,Customer 3843,East,Corporate,City 04,Store 16,West,Manager 01,2024-03-31,2024,3,Mar,1,Sunday
+901,20240622,103,914,5,2,0.0,729.66,347.1,382.56,Product 103,Beverages,Beverages Group 4,Brand 14,173.55,Customer 0914,South,Consumer,City 03,Store 05,North,Manager 06,2024-06-22,2024,6,Jun,2,Saturday
+902,20250114,109,3206,7,2,0.1,62.06,35.88,26.18,Product 109,Beverages,Beverages Group 2,Brand 05,17.94,Customer 3206,South,Consumer,City 39,Store 07,East,Manager 08,2025-01-14,2025,1,Jan,1,Tuesday
+903,20241021,22,2833,1,1,0.0,8.05,4.19,3.86,Product 022,Personal Care,Personal Care Group 3,Brand 08,4.19,Customer 2833,North,SMB,City 02,Store 01,North,Manager 02,2024-10-21,2024,10,Oct,4,Monday
+904,20250807,28,2896,4,3,0.1,439.28,288.9,150.38,Product 028,Personal Care,Personal Care Group 1,Brand 14,96.3,Customer 2896,West,SMB,City 17,Store 04,West,Manager 05,2025-08-07,2025,8,Aug,3,Thursday
+905,20250115,2,1706,13,1,0.0,271.01,135.26,135.75,Product 002,Snacks,Snacks Group 3,Brand 03,135.26,Customer 1706,South,Consumer,City 27,Store 13,North,Manager 06,2025-01-15,2025,1,Jan,1,Wednesday
+906,20250206,33,2174,18,2,0.0,184.32,119.08,65.24,Product 033,Household,Household Group 2,Brand 04,59.54,Customer 2174,South,Consumer,City 15,Store 18,South,Manager 03,2025-02-06,2025,2,Feb,1,Thursday
+907,20250704,17,1152,7,1,0.0,91.96,44.35,47.61,Product 017,Electronics,Electronics Group 2,Brand 03,44.35,Customer 1152,West,SMB,City 01,Store 07,East,Manager 08,2025-07-04,2025,7,Jul,3,Friday
+908,20251215,100,3850,24,4,0.2,1072.69,614.84,457.85,Product 100,Personal Care,Personal Care Group 1,Brand 11,153.71,Customer 3850,South,Consumer,City 11,Store 24,West,Manager 01,2025-12-15,2025,12,Dec,4,Monday
+909,20250520,65,1848,13,2,0.0,232.32,137.88,94.44,Product 065,Electronics,Electronics Group 2,Brand 06,68.94,Customer 1848,West,SMB,City 25,Store 13,North,Manager 06,2025-05-20,2025,5,May,2,Tuesday
+910,20250107,32,875,8,4,0.2,806.74,665.92,140.82,Product 032,Snacks,Snacks Group 1,Brand 03,166.48,Customer 0875,East,SMB,City 12,Store 08,West,Manager 01,2025-01-07,2025,1,Jan,1,Tuesday
+911,20250131,37,3510,20,2,0.0,352.56,168.78,183.78,Product 037,Beverages,Beverages Group 2,Brand 08,84.39,Customer 3510,South,SMB,City 07,Store 20,West,Manager 05,2025-01-31,2025,1,Jan,1,Friday
+912,20251204,45,1687,2,1,0.1,265.81,144.18,121.63,Product 045,Household,Household Group 2,Brand 01,144.18,Customer 1687,East,Consumer,City 08,Store 02,South,Manager 03,2025-12-04,2025,12,Dec,4,Thursday
+913,20241107,21,3255,1,2,0.0,115.45,63.6,51.85,Product 021,Household,Household Group 2,Brand 07,31.8,Customer 3255,East,Consumer,City 40,Store 01,North,Manager 02,2024-11-07,2024,11,Nov,4,Thursday
+914,20250831,73,3922,9,5,0.0,92.08,56.9,35.18,Product 073,Beverages,Beverages Group 2,Brand 14,11.38,Customer 3922,South,SMB,City 35,Store 09,North,Manager 02,2025-08-31,2025,8,Aug,3,Sunday
+915,20250604,114,3415,5,2,0.15,299.46,203.24,96.22,Product 114,Office,Office Group 3,Brand 10,101.62,Customer 3415,East,SMB,City 08,Store 05,North,Manager 06,2025-06-04,2025,6,Jun,2,Wednesday
+916,20250626,33,1920,10,1,0.0,93.07,59.54,33.53,Product 033,Household,Household Group 2,Brand 04,59.54,Customer 1920,West,Consumer,City 01,Store 10,South,Manager 03,2025-06-26,2025,6,Jun,2,Thursday
+917,20240418,69,2643,3,2,0.0,632.32,303.4,328.92,Product 069,Household,Household Group 2,Brand 10,151.7,Customer 2643,East,Consumer,City 04,Store 03,East,Manager 04,2024-04-18,2024,4,Apr,2,Thursday
+918,20250519,31,3063,11,1,0.0,184.03,82.26,101.77,Product 031,Beverages,Beverages Group 4,Brand 02,82.26,Customer 3063,East,Consumer,City 40,Store 11,East,Manager 04,2025-05-19,2025,5,May,2,Monday
+919,20250701,100,3823,18,2,0.05,532.54,307.42,225.12,Product 100,Personal Care,Personal Care Group 1,Brand 11,153.71,Customer 3823,East,Consumer,City 32,Store 18,South,Manager 03,2025-07-01,2025,7,Jul,3,Tuesday
+920,20250212,93,1108,2,3,0.0,899.96,530.52,369.44,Product 093,Household,Household Group 2,Brand 04,176.84,Customer 1108,West,Corporate,City 05,Store 02,South,Manager 03,2025-02-12,2025,2,Feb,1,Wednesday
+921,20250101,38,912,22,1,0.0,342.82,161.56,181.26,Product 038,Snacks,Snacks Group 3,Brand 09,161.56,Customer 0912,West,SMB,City 01,Store 22,South,Manager 07,2025-01-01,2025,1,Jan,1,Wednesday
+922,20250519,117,2615,20,1,0.1,186.68,101.87,84.81,Product 117,Household,Household Group 2,Brand 13,101.87,Customer 2615,East,Consumer,City 24,Store 20,West,Manager 05,2025-05-19,2025,5,May,2,Monday
+923,20250416,14,2284,5,2,0.0,55.37,25.42,29.95,Product 014,Snacks,Snacks Group 3,Brand 15,12.71,Customer 2284,West,Consumer,City 29,Store 05,North,Manager 06,2025-04-16,2025,4,Apr,2,Wednesday
+924,20250313,27,2794,20,1,0.15,156.75,83.47,73.28,Product 027,Household,Household Group 4,Brand 13,83.47,Customer 2794,South,Consumer,City 11,Store 20,West,Manager 05,2025-03-13,2025,3,Mar,1,Thursday
+925,20240804,9,450,14,1,0.0,235.4,133.95,101.45,Product 009,Household,Household Group 2,Brand 10,133.95,Customer 0450,South,Corporate,City 19,Store 14,South,Manager 07,2024-08-04,2024,8,Aug,3,Sunday
+926,20241119,118,293,9,3,0.0,875.96,514.74,361.22,Product 118,Personal Care,Personal Care Group 3,Brand 14,171.58,Customer 0293,North,Consumer,City 06,Store 09,North,Manager 02,2024-11-19,2024,11,Nov,4,Tuesday
+927,20241216,17,2959,9,1,0.0,92.85,44.35,48.5,Product 017,Electronics,Electronics Group 2,Brand 03,44.35,Customer 2959,East,Consumer,City 32,Store 09,North,Manager 02,2024-12-16,2024,12,Dec,4,Monday
+928,20251213,86,3489,14,1,0.0,53.05,26.33,26.72,Product 086,Snacks,Snacks Group 3,Brand 12,26.33,Customer 3489,North,Corporate,City 34,Store 14,South,Manager 07,2025-12-13,2025,12,Dec,4,Saturday
+929,20240614,118,1154,6,3,0.0,1142.68,514.74,627.94,Product 118,Personal Care,Personal Care Group 3,Brand 14,171.58,Customer 1154,South,Corporate,City 03,Store 06,South,Manager 07,2024-06-14,2024,6,Jun,2,Friday
+930,20240422,42,1753,13,5,0.1,262.26,155.45,106.81,Product 042,Office,Office Group 3,Brand 13,31.09,Customer 1753,North,SMB,City 26,Store 13,North,Manager 06,2024-04-22,2024,4,Apr,2,Monday
+931,20250114,47,1857,13,1,0.15,20.35,11.74,8.61,Product 047,Electronics,Electronics Group 4,Brand 03,11.74,Customer 1857,North,Consumer,City 34,Store 13,North,Manager 06,2025-01-14,2025,1,Jan,1,Tuesday
+932,20240704,107,109,5,1,0.0,42.88,27.29,15.59,Product 107,Electronics,Electronics Group 4,Brand 03,27.29,Customer 0109,North,SMB,City 14,Store 05,North,Manager 06,2024-07-04,2024,7,Jul,3,Thursday
+933,20241122,2,3958,13,1,0.15,179.46,135.26,44.2,Product 002,Snacks,Snacks Group 3,Brand 03,135.26,Customer 3958,South,Consumer,City 23,Store 13,North,Manager 06,2024-11-22,2024,11,Nov,4,Friday
+934,20240503,46,1589,2,1,0.2,231.51,165.56,65.95,Product 046,Personal Care,Personal Care Group 3,Brand 02,165.56,Customer 1589,North,SMB,City 06,Store 02,South,Manager 03,2024-05-03,2024,5,May,2,Friday
+935,20250809,19,2707,14,1,0.15,50.78,30.62,20.16,Product 019,Beverages,Beverages Group 4,Brand 05,30.62,Customer 2707,East,SMB,City 20,Store 14,South,Manager 07,2025-08-09,2025,8,Aug,3,Saturday
+936,20241014,11,230,6,1,0.1,21.88,16.52,5.36,Product 011,Electronics,Electronics Group 4,Brand 12,16.52,Customer 0230,South,Consumer,City 39,Store 06,South,Manager 07,2024-10-14,2024,10,Oct,4,Monday
+937,20240429,13,3705,2,2,0.0,479.46,271.74,207.72,Product 013,Beverages,Beverages Group 2,Brand 14,135.87,Customer 3705,North,Corporate,City 10,Store 02,South,Manager 03,2024-04-29,2024,4,Apr,2,Monday
+938,20240819,14,1831,7,2,0.0,54.94,25.42,29.52,Product 014,Snacks,Snacks Group 3,Brand 15,12.71,Customer 1831,East,Consumer,City 08,Store 07,East,Manager 08,2024-08-19,2024,8,Aug,3,Monday
+939,20250917,99,3597,6,1,0.2,243.82,178.82,65.0,Product 099,Household,Household Group 4,Brand 10,178.82,Customer 3597,North,SMB,City 46,Store 06,South,Manager 07,2025-09-17,2025,9,Sep,3,Wednesday
+940,20240228,13,2850,2,1,0.0,260.99,135.87,125.12,Product 013,Beverages,Beverages Group 2,Brand 14,135.87,Customer 2850,South,SMB,City 19,Store 02,South,Manager 03,2024-02-28,2024,2,Feb,1,Wednesday
+941,20240809,106,2798,24,3,0.1,433.46,233.22,200.24,Product 106,Personal Care,Personal Care Group 3,Brand 02,77.74,Customer 2798,South,Consumer,City 15,Store 24,West,Manager 01,2024-08-09,2024,8,Aug,3,Friday
+942,20240428,74,2181,5,2,0.1,391.69,256.3,135.39,Product 074,Snacks,Snacks Group 3,Brand 15,128.15,Customer 2181,North,SMB,City 22,Store 05,North,Manager 06,2024-04-28,2024,4,Apr,2,Sunday
+943,20250115,79,126,19,2,0.1,477.86,333.12,144.74,Product 079,Beverages,Beverages Group 4,Brand 05,166.56,Customer 0126,South,Consumer,City 31,Store 19,East,Manager 04,2025-01-15,2025,1,Jan,1,Wednesday
+944,20241230,58,2869,9,1,0.05,57.63,36.08,21.55,Product 058,Personal Care,Personal Care Group 3,Brand 14,36.08,Customer 2869,North,Consumer,City 38,Store 09,North,Manager 02,2024-12-30,2024,12,Dec,4,Monday
+945,20250122,28,1524,11,1,0.15,178.62,96.3,82.32,Product 028,Personal Care,Personal Care Group 1,Brand 14,96.3,Customer 1524,West,Corporate,City 37,Store 11,East,Manager 04,2025-01-22,2025,1,Jan,1,Wednesday
+946,20241213,68,2979,8,2,0.0,314.19,207.8,106.39,Product 068,Snacks,Snacks Group 1,Brand 09,103.9,Customer 2979,East,Consumer,City 04,Store 08,West,Manager 01,2024-12-13,2024,12,Dec,4,Friday
+947,20250612,31,2079,8,3,0.1,400.24,246.78,153.46,Product 031,Beverages,Beverages Group 4,Brand 02,82.26,Customer 2079,East,Consumer,City 16,Store 08,West,Manager 01,2025-06-12,2025,6,Jun,2,Thursday
+948,20240113,93,3725,12,1,0.15,234.6,176.84,57.76,Product 093,Household,Household Group 2,Brand 04,176.84,Customer 3725,North,Consumer,City 30,Store 12,West,Manager 05,2024-01-13,2024,1,Jan,1,Saturday
+949,20240309,98,191,20,2,0.0,452.51,286.82,165.69,Product 098,Snacks,Snacks Group 3,Brand 09,143.41,Customer 0191,East,SMB,City 48,Store 20,West,Manager 05,2024-03-09,2024,3,Mar,1,Saturday
+950,20241120,61,3366,20,2,0.0,121.97,71.1,50.87,Product 061,Beverages,Beverages Group 2,Brand 02,35.55,Customer 3366,South,Consumer,City 07,Store 20,West,Manager 05,2024-11-20,2024,11,Nov,4,Wednesday
+951,20241107,20,3817,24,2,0.0,176.67,79.16,97.51,Product 020,Snacks,Snacks Group 1,Brand 06,39.58,Customer 3817,North,Consumer,City 26,Store 24,West,Manager 01,2024-11-07,2024,11,Nov,4,Thursday
+952,20240409,93,564,6,3,0.0,1132.8,530.52,602.28,Product 093,Household,Household Group 2,Brand 04,176.84,Customer 0564,West,Consumer,City 37,Store 06,South,Manager 07,2024-04-09,2024,4,Apr,2,Tuesday
+953,20250425,28,2804,22,1,0.0,178.54,96.3,82.24,Product 028,Personal Care,Personal Care Group 1,Brand 14,96.3,Customer 2804,West,Corporate,City 21,Store 22,South,Manager 07,2025-04-25,2025,4,Apr,2,Friday
+954,20240606,101,199,19,1,0.0,208.44,119.36,89.08,Product 101,Electronics,Electronics Group 2,Brand 12,119.36,Customer 0199,East,Consumer,City 08,Store 19,East,Manager 04,2024-06-06,2024,6,Jun,2,Thursday
+955,20240507,94,1844,7,2,0.0,208.18,123.86,84.32,Product 094,Personal Care,Personal Care Group 3,Brand 05,61.93,Customer 1844,West,Consumer,City 21,Store 07,East,Manager 08,2024-05-07,2024,5,May,2,Tuesday
+956,20250215,104,925,22,1,0.0,237.55,122.48,115.07,Product 104,Snacks,Snacks Group 1,Brand 15,122.48,Customer 0925,North,Consumer,City 14,Store 22,South,Manager 07,2025-02-15,2025,2,Feb,1,Saturday
+957,20241123,32,3710,10,2,0.0,556.56,332.96,223.6,Product 032,Snacks,Snacks Group 1,Brand 03,166.48,Customer 3710,South,Consumer,City 15,Store 10,South,Manager 03,2024-11-23,2024,11,Nov,4,Saturday
+958,20240708,65,2013,8,2,0.0,234.68,137.88,96.8,Product 065,Electronics,Electronics Group 2,Brand 06,68.94,Customer 2013,North,Consumer,City 46,Store 08,West,Manager 01,2024-07-08,2024,7,Jul,3,Monday
+959,20251010,104,2482,3,1,0.1,187.1,122.48,64.62,Product 104,Snacks,Snacks Group 1,Brand 15,122.48,Customer 2482,South,SMB,City 35,Store 03,East,Manager 04,2025-10-10,2025,10,Oct,4,Friday
+960,20241004,114,794,7,4,0.0,811.91,406.48,405.43,Product 114,Office,Office Group 3,Brand 10,101.62,Customer 0794,South,Consumer,City 27,Store 07,East,Manager 08,2024-10-04,2024,10,Oct,4,Friday
+961,20241107,8,3158,3,1,0.0,158.52,75.93,82.59,Product 008,Snacks,Snacks Group 1,Brand 09,75.93,Customer 3158,South,Consumer,City 39,Store 03,East,Manager 04,2024-11-07,2024,11,Nov,4,Thursday
+962,20240902,99,3202,9,1,0.05,292.38,178.82,113.56,Product 099,Household,Household Group 4,Brand 10,178.82,Customer 3202,South,Consumer,City 35,Store 09,North,Manager 02,2024-09-02,2024,9,Sep,3,Monday
+963,20240722,46,68,8,2,0.15,471.28,331.12,140.16,Product 046,Personal Care,Personal Care Group 3,Brand 02,165.56,Customer 0068,West,Consumer,City 21,Store 08,West,Manager 01,2024-07-22,2024,7,Jul,3,Monday
+964,20240115,102,1689,9,1,0.1,208.26,150.84,57.42,Product 102,Office,Office Group 3,Brand 13,150.84,Customer 1689,North,Consumer,City 10,Store 09,North,Manager 02,2024-01-15,2024,1,Jan,1,Monday
+965,20240517,50,2389,5,4,0.0,751.1,487.76,263.34,Product 050,Snacks,Snacks Group 3,Brand 06,121.94,Customer 2389,North,Consumer,City 38,Store 05,North,Manager 06,2024-05-17,2024,5,May,2,Friday
+966,20241101,18,847,13,1,0.0,290.03,169.22,120.81,Product 018,Office,Office Group 3,Brand 04,169.22,Customer 0847,East,Corporate,City 32,Store 13,North,Manager 06,2024-11-01,2024,11,Nov,4,Friday
+967,20240906,48,177,11,1,0.0,230.38,116.79,113.59,Product 048,Office,Office Group 1,Brand 04,116.79,Customer 0177,North,Consumer,City 34,Store 11,East,Manager 04,2024-09-06,2024,9,Sep,3,Friday
+968,20250109,48,2087,23,4,0.0,691.43,467.16,224.27,Product 048,Office,Office Group 1,Brand 04,116.79,Customer 2087,East,Consumer,City 24,Store 23,East,Manager 08,2025-01-09,2025,1,Jan,1,Thursday
+969,20250406,2,1099,5,2,0.0,455.48,270.52,184.96,Product 002,Snacks,Snacks Group 3,Brand 03,135.26,Customer 1099,East,Consumer,City 44,Store 05,North,Manager 06,2025-04-06,2025,4,Apr,2,Sunday
+970,20250404,71,2794,22,5,0.0,1457.85,771.3,686.55,Product 071,Electronics,Electronics Group 4,Brand 12,154.26,Customer 2794,South,Consumer,City 11,Store 22,South,Manager 07,2025-04-04,2025,4,Apr,2,Friday
+971,20240524,68,1028,3,1,0.0,177.4,103.9,73.5,Product 068,Snacks,Snacks Group 1,Brand 09,103.9,Customer 1028,West,Consumer,City 21,Store 03,East,Manager 04,2024-05-24,2024,5,May,2,Friday
+972,20250707,67,1956,15,3,0.05,622.78,428.82,193.96,Product 067,Beverages,Beverages Group 4,Brand 08,142.94,Customer 1956,West,Consumer,City 37,Store 15,East,Manager 08,2025-07-07,2025,7,Jul,3,Monday
+973,20240901,42,896,15,1,0.0,49.44,31.09,18.35,Product 042,Office,Office Group 3,Brand 13,31.09,Customer 0896,West,SMB,City 33,Store 15,East,Manager 08,2024-09-01,2024,9,Sep,3,Sunday
+974,20250925,90,3954,16,4,0.0,168.91,85.32,83.59,Product 090,Office,Office Group 3,Brand 01,21.33,Customer 3954,South,Consumer,City 19,Store 16,West,Manager 01,2025-09-25,2025,9,Sep,3,Thursday
+975,20250208,8,2300,7,1,0.0,137.92,75.93,61.99,Product 008,Snacks,Snacks Group 1,Brand 09,75.93,Customer 2300,West,Consumer,City 45,Store 07,East,Manager 08,2025-02-08,2025,2,Feb,1,Saturday
+976,20240611,107,2056,23,4,0.0,165.55,109.16,56.39,Product 107,Electronics,Electronics Group 4,Brand 03,27.29,Customer 2056,West,SMB,City 41,Store 23,East,Manager 08,2024-06-11,2024,6,Jun,2,Tuesday
+977,20240617,46,2532,7,3,0.0,963.05,496.68,466.37,Product 046,Personal Care,Personal Care Group 3,Brand 02,165.56,Customer 2532,West,Consumer,City 37,Store 07,East,Manager 08,2024-06-17,2024,6,Jun,2,Monday
+978,20240110,27,1473,13,1,0.0,143.2,83.47,59.73,Product 027,Household,Household Group 4,Brand 13,83.47,Customer 1473,North,Consumer,City 34,Store 13,North,Manager 06,2024-01-10,2024,1,Jan,1,Wednesday
+979,20250825,76,2410,12,1,0.0,213.24,106.44,106.8,Product 076,Personal Care,Personal Care Group 1,Brand 02,106.44,Customer 2410,South,SMB,City 11,Store 12,West,Manager 05,2025-08-25,2025,8,Aug,3,Monday
+980,20250701,103,1730,19,3,0.0,904.28,520.65,383.63,Product 103,Beverages,Beverages Group 4,Brand 14,173.55,Customer 1730,South,Consumer,City 03,Store 19,East,Manager 04,2025-07-01,2025,7,Jul,3,Tuesday
+981,20240428,49,3743,17,1,0.05,88.84,47.56,41.28,Product 049,Beverages,Beverages Group 2,Brand 05,47.56,Customer 3743,East,SMB,City 48,Store 17,North,Manager 02,2024-04-28,2024,4,Apr,2,Sunday
+982,20240310,13,1375,1,1,0.05,288.25,135.87,152.38,Product 013,Beverages,Beverages Group 2,Brand 14,135.87,Customer 1375,East,SMB,City 32,Store 01,North,Manager 02,2024-03-10,2024,3,Mar,1,Sunday
+983,20250707,85,760,1,1,0.0,232.4,157.46,74.94,Product 085,Beverages,Beverages Group 2,Brand 11,157.46,Customer 0760,West,Corporate,City 41,Store 01,North,Manager 02,2025-07-07,2025,7,Jul,3,Monday
+984,20241113,12,1849,23,2,0.05,347.41,224.62,122.79,Product 012,Office,Office Group 1,Brand 13,112.31,Customer 1849,North,SMB,City 26,Store 23,East,Manager 08,2024-11-13,2024,11,Nov,4,Wednesday
+985,20250212,41,1548,2,2,0.0,433.95,197.7,236.25,Product 041,Electronics,Electronics Group 2,Brand 12,98.85,Customer 1548,West,Consumer,City 13,Store 02,South,Manager 03,2025-02-12,2025,2,Feb,1,Wednesday
+986,20251004,36,1004,4,3,0.0,278.65,151.32,127.33,Product 036,Office,Office Group 1,Brand 07,50.44,Customer 1004,West,SMB,City 45,Store 04,West,Manager 05,2025-10-04,2025,10,Oct,4,Saturday
+987,20240923,118,1198,19,1,0.0,380.57,171.58,208.99,Product 118,Personal Care,Personal Care Group 3,Brand 14,171.58,Customer 1198,South,Consumer,City 47,Store 19,East,Manager 04,2024-09-23,2024,9,Sep,3,Monday
+988,20251025,34,3388,22,1,0.0,270.18,176.27,93.91,Product 034,Personal Care,Personal Care Group 3,Brand 05,176.27,Customer 3388,West,Consumer,City 29,Store 22,South,Manager 07,2025-10-25,2025,10,Oct,4,Saturday
+989,20241010,27,1729,17,1,0.0,172.16,83.47,88.69,Product 027,Household,Household Group 4,Brand 13,83.47,Customer 1729,North,Corporate,City 02,Store 17,North,Manager 02,2024-10-10,2024,10,Oct,4,Thursday
+990,20240228,16,755,8,1,0.1,223.56,137.14,86.42,Product 016,Personal Care,Personal Care Group 1,Brand 02,137.14,Customer 0755,East,Corporate,City 36,Store 08,West,Manager 01,2024-02-28,2024,2,Feb,1,Wednesday
+991,20250708,12,3710,6,4,0.0,846.08,449.24,396.84,Product 012,Office,Office Group 1,Brand 13,112.31,Customer 3710,South,Consumer,City 15,Store 06,South,Manager 07,2025-07-08,2025,7,Jul,3,Tuesday
+992,20240117,108,2686,7,4,0.05,421.02,289.24,131.78,Product 108,Office,Office Group 1,Brand 04,72.31,Customer 2686,South,SMB,City 47,Store 07,East,Manager 08,2024-01-17,2024,1,Jan,1,Wednesday
+993,20250829,113,1120,24,1,0.0,59.39,28.67,30.72,Product 113,Electronics,Electronics Group 2,Brand 09,28.67,Customer 1120,West,SMB,City 17,Store 24,West,Manager 01,2025-08-29,2025,8,Aug,3,Friday
+994,20250123,4,2322,22,1,0.15,149.0,106.79,42.21,Product 004,Personal Care,Personal Care Group 1,Brand 05,106.79,Customer 2322,South,Consumer,City 19,Store 22,South,Manager 07,2025-01-23,2025,1,Jan,1,Thursday
+995,20250522,3,2940,18,3,0.1,112.24,79.65,32.59,Product 003,Household,Household Group 4,Brand 04,26.55,Customer 2940,West,SMB,City 13,Store 18,South,Manager 03,2025-05-22,2025,5,May,2,Thursday
+996,20251231,32,3312,22,2,0.0,685.77,332.96,352.81,Product 032,Snacks,Snacks Group 1,Brand 03,166.48,Customer 3312,West,Corporate,City 01,Store 22,South,Manager 07,2025-12-31,2025,12,Dec,4,Wednesday
+997,20241002,40,1376,21,2,0.15,282.43,180.32,102.11,Product 040,Personal Care,Personal Care Group 1,Brand 11,90.16,Customer 1376,West,Consumer,City 33,Store 21,North,Manager 06,2024-10-02,2024,10,Oct,4,Wednesday
+998,20250121,38,2886,5,2,0.0,568.52,323.12,245.4,Product 038,Snacks,Snacks Group 3,Brand 09,161.56,Customer 2886,South,Corporate,City 07,Store 05,North,Manager 06,2025-01-21,2025,1,Jan,1,Tuesday
+999,20250530,41,2683,22,1,0.05,201.86,98.85,103.01,Product 041,Electronics,Electronics Group 2,Brand 12,98.85,Customer 2683,East,Corporate,City 44,Store 22,South,Manager 07,2025-05-30,2025,5,May,2,Friday
+1000,20250823,79,1242,8,1,0.2,280.16,166.56,113.6,Product 079,Beverages,Beverages Group 4,Brand 05,166.56,Customer 1242,South,Consumer,City 43,Store 08,West,Manager 01,2025-08-23,2025,8,Aug,3,Saturday

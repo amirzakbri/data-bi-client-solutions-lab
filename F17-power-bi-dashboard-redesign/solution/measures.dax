@@ -1,0 +1,17 @@
+// Governed measures for the redesigned dashboard
+Total Revenue = SUM ( Sales[Revenue] )
+Revenue Target = SUM ( Sales[RevenueTarget] )
+Revenue Variance = [Total Revenue] - [Revenue Target]
+Target Attainment % = DIVIDE ( [Total Revenue], [Revenue Target] )
+Total Cost = SUM ( Sales[Cost] )
+Gross Profit = [Total Revenue] - [Total Cost]
+Gross Margin % = DIVIDE ( [Gross Profit], [Total Revenue] )
+Orders = DISTINCTCOUNT ( Sales[OrderID] )
+Units Sold = SUM ( Sales[Quantity] )
+Average Order Value = DIVIDE ( [Total Revenue], [Orders] )
+Revenue Previous Month = CALCULATE ( [Total Revenue], DATEADD ( DimDate[Date], -1, MONTH ) )
+Revenue MoM % = DIVIDE ( [Total Revenue] - [Revenue Previous Month], [Revenue Previous Month] )
+Product Status =
+VAR Margin = [Gross Margin %]
+VAR Attainment = [Target Attainment %]
+RETURN SWITCH ( TRUE (), Margin < 0.30 || Attainment < 0.90, "Critical", Margin < 0.36 || Attainment < 0.96, "Watch", "Healthy" )

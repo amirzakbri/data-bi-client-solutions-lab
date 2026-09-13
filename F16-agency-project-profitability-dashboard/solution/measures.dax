@@ -1,0 +1,20 @@
+Contract Revenue = SUM(Projects[Contract Revenue])
+Budget Cost = SUM(Projects[Budget Cost])
+Actual Hours = SUM('Time Entries'[Hours])
+Billable Hours = SUM('Time Entries'[Billable Hours])
+Labor Cost = SUM('Time Entries'[Labor Cost])
+Vendor Cost = SUM('Vendor Costs'[Amount])
+Actual Delivery Cost = [Labor Cost] + [Vendor Cost]
+Gross Profit = [Contract Revenue] - [Actual Delivery Cost]
+Gross Margin % = DIVIDE([Gross Profit], [Contract Revenue])
+Budget Hours = SUM(Projects[Budget Hours])
+Hours Variance = [Actual Hours] - [Budget Hours]
+Hours Variance % = DIVIDE([Hours Variance], [Budget Hours])
+Cost Variance = [Actual Delivery Cost] - [Budget Cost]
+Cost Variance % = DIVIDE([Cost Variance], [Budget Cost])
+Billable Utilization % = DIVIDE([Billable Hours], [Actual Hours])
+Project Count = DISTINCTCOUNT(Projects[Project ID])
+Critical Projects = COUNTROWS(FILTER(VALUES(Projects[Project ID]), [Gross Margin %] < 0.20 || [Actual Hours] > [Budget Hours] * 1.15))
+Watch Projects = COUNTROWS(FILTER(VALUES(Projects[Project ID]), NOT([Gross Margin %] < 0.20 || [Actual Hours] > [Budget Hours] * 1.15) && ([Gross Margin %] < 0.30 || [Actual Hours] > [Budget Hours] * 1.05)))
+At-Risk Projects = [Critical Projects] + [Watch Projects]
+

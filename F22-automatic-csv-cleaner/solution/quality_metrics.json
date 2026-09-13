@@ -1,0 +1,10 @@
+{
+  "input_rows": 550,
+  "clean_rows": 500,
+  "rejected_rows": 50,
+  "acceptance_rate_pct": 90.9,
+  "field_corrections": 2504,
+  "duplicate_ids_rejected": 22,
+  "clean_duplicate_ids": 0,
+  "clean_missing_required_values": 0
+}

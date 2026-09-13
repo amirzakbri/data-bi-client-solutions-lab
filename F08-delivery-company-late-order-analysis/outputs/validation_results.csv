@@ -1,0 +1,13 @@
+control,status
+Shipment primary keys unique,PASS
+Event primary keys unique,PASS
+Attempt primary keys unique,PASS
+All shipment dimension keys resolve,PASS
+All event and attempt shipment keys resolve,PASS
+Status population reconciles,PASS
+Delivered SLA population reconciles,PASS
+Monthly delivered count reconciles,PASS
+Hub shipment count reconciles,PASS
+Carrier shipment count reconciles,PASS
+Delay reason count reconciles,PASS
+Exception queue count reconciles,PASS

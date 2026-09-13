@@ -1,0 +1,108 @@
+{
+  "reporting_week": {
+    "start": "2026-07-27",
+    "end": "2026-08-02",
+    "timezone": "Europe/Istanbul"
+  },
+  "current": {
+    "revenue": 43857.99999999999,
+    "orders": 511,
+    "sessions": 16386,
+    "conversion": 0.03118515806176004,
+    "aov": 85.82778864970645,
+    "gross_margin": 0.4181551826348669,
+    "refund_rate": 0.05675146771037182,
+    "on_time_rate": 0.9119373776908023
+  },
+  "previous": {
+    "revenue": 49626.17,
+    "orders": 600,
+    "sessions": 18523,
+    "conversion": 0.032392161097014524,
+    "aov": 82.71028333333334,
+    "gross_margin": 0.42708071164871264,
+    "refund_rate": 0.045,
+    "on_time_rate": 0.945
+  },
+  "targets": {
+    "revenue": 48000,
+    "orders": 560,
+    "conversion": 0.033,
+    "aov": 84,
+    "gross_margin": 0.42,
+    "refund_rate": 0.045,
+    "on_time_rate": 0.94
+  },
+  "summary": [
+    {
+      "metric": "revenue",
+      "name": "Revenue",
+      "current": 43857.99999999999,
+      "previous": 49626.17,
+      "wow": -0.11623242333631642,
+      "target": 48000,
+      "variance": -4142.000000000007,
+      "status": "Action"
+    },
+    {
+      "metric": "orders",
+      "name": "Orders",
+      "current": 511,
+      "previous": 600,
+      "wow": -0.14833333333333334,
+      "target": 560,
+      "variance": -49,
+      "status": "Action"
+    },
+    {
+      "metric": "conversion",
+      "name": "Conversion Rate",
+      "current": 0.03118515806176004,
+      "previous": 0.032392161097014524,
+      "wow": -0.03726219537003137,
+      "target": 0.033,
+      "variance": -0.0018148419382399625,
+      "status": "Action"
+    },
+    {
+      "metric": "aov",
+      "name": "Average Order Value",
+      "current": 85.82778864970645,
+      "previous": 82.71028333333334,
+      "wow": 0.03769187083798462,
+      "target": 84,
+      "variance": 1.8277886497064486,
+      "status": "On Track"
+    },
+    {
+      "metric": "gross_margin",
+      "name": "Gross Margin",
+      "current": 0.4181551826348669,
+      "previous": 0.42708071164871264,
+      "wow": -0.020898927931887672,
+      "target": 0.42,
+      "variance": -0.001844817365133089,
+      "status": "Watch"
+    },
+    {
+      "metric": "refund_rate",
+      "name": "Refund Rate",
+      "current": 0.05675146771037182,
+      "previous": 0.045,
+      "wow": 0.26114372689715154,
+      "target": 0.045,
+      "variance": 0.011751467710371818,
+      "status": "Action"
+    },
+    {
+      "metric": "on_time_rate",
+      "name": "On-Time Fulfilment",
+      "current": 0.9119373776908023,
+      "previous": 0.945,
+      "wow": -0.034986901914494876,
+      "target": 0.94,
+      "variance": -0.02806262230919765,
+      "status": "Watch"
+    }
+  ]
+}

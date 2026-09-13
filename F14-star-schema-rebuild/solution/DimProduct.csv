@@ -1,0 +1,13 @@
+ProductKey,ProductID,ProductName,Category,Brand
+1,P001,Wireless Mouse,Accessories,TechGear
+2,P002,Mechanical Keyboard,Accessories,KeyPro
+3,P003,USB-C Hub,Accessories,Connectix
+4,P004,27-inch Monitor,Displays,ViewMax
+5,P005,Laptop Stand,Office,ErgoWorks
+6,P006,Noise-Cancel Headphones,Audio,SonicWave
+7,P007,Webcam Pro,Video,VisionLab
+8,P008,Desk Lamp,Office,BrightCo
+9,P009,Portable SSD 1TB,Storage,DataGo
+10,P010,Bluetooth Speaker,Audio,SonicWave
+11,P011,Gaming Chair,Office,ErgoWorks
+12,P012,4K Monitor,Displays,ViewMax

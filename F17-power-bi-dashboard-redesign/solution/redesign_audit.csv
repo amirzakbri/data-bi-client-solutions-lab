@@ -1,0 +1,11 @@
+DesignArea,BeforeIssue,RedesignDecision,Severity
+Priority,Too many equal-weight KPI cards,Five decision KPIs with comparison context,High
+Time context,Mixed full-year and latest-month values,One 12-month window; latest month clearly labelled,High
+Trend,Revenue and margin on unexplained dual axes,Revenue vs target; margin moved to KPI/context,High
+Composition,3D/rainbow pie with 12 slices,Sorted horizontal category bars,High
+Color,Decorative rainbow palette,"Blue focal, teal validated, amber exceptions",Medium
+Labels,Truncated product and region names,Horizontal layouts and direct labels,Medium
+Actionability,No underperformance view,Ranked product action queue,High
+Navigation,Dense slicer wall,Four governed slicers from dimensions,Medium
+Accessibility,Color-only status encoding,Status text plus tone and ordering,High
+Trust,No freshness or metric definitions,"Coverage note, definitions, QA baseline",High

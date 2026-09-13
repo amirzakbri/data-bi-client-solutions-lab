@@ -1,0 +1,14 @@
+// BEFORE: iterator over a wide fact table
+Revenue Slow := SUMX ( FlatSales, FlatSales[Quantity] * FlatSales[UnitPrice] * ( 1 - FlatSales[DiscountPct] ) )
+// AFTER: materialize governed revenue upstream and aggregate it
+Revenue := SUM ( FactSales[Revenue] )
+
+// BEFORE: repeated FILTER over ALL fact rows
+Corporate Revenue Slow := CALCULATE ( [Revenue Slow], FILTER ( ALL ( FlatSales ), FlatSales[Segment] = "Corporate" ) )
+// AFTER: filter the dimension through a single-direction relationship
+Corporate Revenue := CALCULATE ( [Revenue], DimCustomer[Segment] = "Corporate" )
+
+// BEFORE: FORMAT converts numeric values to text inside the measure
+Revenue Label Slow := FORMAT ( [Revenue Slow], "$#,0.0,,M" )
+// AFTER: keep the measure numeric and use a dynamic format string
+Revenue Label := [Revenue]

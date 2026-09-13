@@ -1,0 +1,13 @@
+control,expected,actual,status,purpose
+Source row count,320,320,PASS,All source records loaded
+Unique post IDs,320,320,PASS,No duplicate grain
+July post count,170,170,PASS,Monthly scope
+July impressions,1476928,1476928,PASS,Source-to-summary reconciliation
+July reach,1053266,1053266,PASS,Source-to-summary reconciliation
+July clicks,23631,23631,PASS,Source-to-summary reconciliation
+July conversions,1742,1742,PASS,Source-to-summary reconciliation
+July spend,42115.3,42115.3,PASS,Paid denominator
+July revenue,230678.48,230678.48,PASS,Attributed revenue
+Platform reach ties total,1053266,1053266,PASS,Segment completeness
+No negative measures,0,0,PASS,Validity
+Conversions do not exceed clicks,0,0,PASS,Funnel logic

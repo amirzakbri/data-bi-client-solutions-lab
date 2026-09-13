@@ -1,0 +1,5 @@
+plan_id,plan_name,commitment_months,monthly_fee
+1,Monthly Flex,1,64.0
+2,Quarterly,3,56.0
+3,Annual,12,45.0
+4,Student,1,39.0

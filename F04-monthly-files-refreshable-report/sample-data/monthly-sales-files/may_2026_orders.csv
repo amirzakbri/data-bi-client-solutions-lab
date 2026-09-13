@@ -1,0 +1,49 @@
+Order ID,Order Date,Product,Category,Channel,Region,Quantity,Unit Price,Discount,Revenue,Cost,Profit
+ORD-1193,2026-05-13,Ceramic Mug,Accessories,Online,Istanbul,5,12.38,0.15,52.62,22,30.62
+ORD-1194,2026-05-20,Paper Filters 100pk,Accessories,Wholesale,Izmir,2,8.26,0,16.52,5.2,11.32
+ORD-1195,2026-05-27,Ceramic Mug,Accessories,Retail Store,Istanbul,7,12.38,0,86.66,30.8,55.86
+ORD-1196,2026-05-06,Paper Filters 100pk,Accessories,Online,Izmir,4,8.26,0,33.04,10.4,22.64
+ORD-1197,2026-05-13,Ceramic Mug,Accessories,Wholesale,Istanbul,1,12.38,0,12.38,4.4,7.98
+ORD-1198,2026-05-20,Paper Filters 100pk,Accessories,Retail Store,Izmir,6,8.26,0,49.56,15.6,33.96
+ORD-1199,2026-05-27,Ceramic Mug,Accessories,Online,Istanbul,3,12.38,0,37.14,13.2,23.94
+ORD-1200,2026-05-06,Paper Filters 100pk,Accessories,Wholesale,Izmir,8,8.26,0.1,59.47,20.8,38.67
+ORD-1201,2026-05-13,Ceramic Mug,Accessories,Retail Store,Istanbul,5,12.38,0,61.9,22,39.9
+ORD-1202,2026-05-20,Paper Filters 100pk,Accessories,Online,Izmir,2,8.26,0,16.52,5.2,11.32
+ORD-1203,2026-05-27,Ceramic Mug,Accessories,Wholesale,Istanbul,7,12.38,0,86.66,30.8,55.86
+ORD-1204,2026-05-06,Paper Filters 100pk,Accessories,Retail Store,Izmir,4,8.26,0.15,28.08,10.4,17.68
+ORD-1205,2026-05-13,Ceramic Mug,Accessories,Online,Istanbul,1,12.38,0,12.38,4.4,7.98
+ORD-1206,2026-05-20,Paper Filters 100pk,Accessories,Wholesale,Izmir,6,8.26,0,49.56,15.6,33.96
+ORD-1207,2026-05-27,Ceramic Mug,Accessories,Retail Store,Istanbul,3,12.38,0.1,33.43,13.2,20.23
+ORD-1208,2026-05-06,Paper Filters 100pk,Accessories,Online,Izmir,8,8.26,0,66.08,20.8,45.28
+ORD-1209,2026-05-13,Ceramic Mug,Accessories,Wholesale,Istanbul,5,12.38,0,61.9,22,39.9
+ORD-1210,2026-05-20,Paper Filters 100pk,Accessories,Retail Store,Izmir,2,8.26,0,16.52,5.2,11.32
+ORD-1211,2026-05-27,Ceramic Mug,Accessories,Online,Istanbul,7,12.38,0,86.66,30.8,55.86
+ORD-1212,2026-05-06,Paper Filters 100pk,Accessories,Wholesale,Izmir,4,8.26,0,33.04,10.4,22.64
+ORD-1213,2026-05-13,Ceramic Mug,Accessories,Retail Store,Istanbul,1,12.38,0,12.38,4.4,7.98
+ORD-1214,2026-05-20,Paper Filters 100pk,Accessories,Online,Izmir,6,8.26,0.1,44.6,15.6,29
+ORD-1215,2026-05-27,Ceramic Mug,Accessories,Wholesale,Istanbul,3,12.38,0.15,31.57,13.2,18.37
+ORD-1216,2026-05-06,Paper Filters 100pk,Accessories,Retail Store,Izmir,8,8.26,0,66.08,20.8,45.28
+ORD-1217,2026-05-13,Ceramic Mug,Accessories,Online,Istanbul,5,12.38,0,61.9,22,39.9
+ORD-1218,2026-05-20,Paper Filters 100pk,Accessories,Wholesale,Izmir,2,8.26,0,16.52,5.2,11.32
+ORD-1219,2026-05-27,Ceramic Mug,Accessories,Retail Store,Istanbul,7,12.38,0,86.66,30.8,55.86
+ORD-1220,2026-05-06,Paper Filters 100pk,Accessories,Online,Izmir,4,8.26,0,33.04,10.4,22.64
+ORD-1221,2026-05-13,Ceramic Mug,Accessories,Wholesale,Istanbul,1,12.38,0.1,11.14,4.4,6.74
+ORD-1222,2026-05-20,Paper Filters 100pk,Accessories,Retail Store,Izmir,6,8.26,0,49.56,15.6,33.96
+ORD-1223,2026-05-27,Ceramic Mug,Accessories,Online,Istanbul,3,12.38,0,37.14,13.2,23.94
+ORD-1224,2026-05-06,Paper Filters 100pk,Accessories,Wholesale,Izmir,8,8.26,0,66.08,20.8,45.28
+ORD-1225,2026-05-13,Ceramic Mug,Accessories,Retail Store,Istanbul,5,12.38,0,61.9,22,39.9
+ORD-1226,2026-05-20,Paper Filters 100pk,Accessories,Online,Izmir,2,8.26,0.15,14.04,5.2,8.84
+ORD-1227,2026-05-27,Ceramic Mug,Accessories,Wholesale,Istanbul,7,12.38,0,86.66,30.8,55.86
+ORD-1228,2026-05-06,Paper Filters 100pk,Accessories,Retail Store,Izmir,4,8.26,0.1,29.74,10.4,19.34
+ORD-1229,2026-05-13,Ceramic Mug,Accessories,Online,Istanbul,1,12.38,0,12.38,4.4,7.98
+ORD-1230,2026-05-20,Paper Filters 100pk,Accessories,Wholesale,Izmir,6,8.26,0,49.56,15.6,33.96
+ORD-1231,2026-05-27,Ceramic Mug,Accessories,Retail Store,Istanbul,3,12.38,0,37.14,13.2,23.94
+ORD-1232,2026-05-06,Paper Filters 100pk,Accessories,Online,Izmir,8,8.26,0,66.08,20.8,45.28
+ORD-1233,2026-05-13,Ceramic Mug,Accessories,Wholesale,Istanbul,5,12.38,0,61.9,22,39.9
+ORD-1234,2026-05-20,Paper Filters 100pk,Accessories,Retail Store,Izmir,2,8.26,0,16.52,5.2,11.32
+ORD-1235,2026-05-27,Ceramic Mug,Accessories,Online,Istanbul,7,12.38,0.1,77.99,30.8,47.19
+ORD-1236,2026-05-06,Paper Filters 100pk,Accessories,Wholesale,Izmir,4,8.26,0,33.04,10.4,22.64
+ORD-1237,2026-05-13,Ceramic Mug,Accessories,Retail Store,Istanbul,1,12.38,0.15,10.52,4.4,6.12
+ORD-1238,2026-05-20,Paper Filters 100pk,Accessories,Online,Izmir,6,8.26,0,49.56,15.6,33.96
+ORD-1239,2026-05-27,Ceramic Mug,Accessories,Wholesale,Istanbul,3,12.38,0,37.14,13.2,23.94
+ORD-1240,2026-05-06,Paper Filters 100pk,Accessories,Retail Store,Izmir,8,8.26,0,66.08,20.8,45.28

@@ -1,0 +1,121 @@
+ProductKey,ProductName,Category,Subcategory,Brand,UnitCost
+1,Product 001,Beverages,Beverages Group 2,Brand 02,5.41
+2,Product 002,Snacks,Snacks Group 3,Brand 03,135.26
+3,Product 003,Household,Household Group 4,Brand 04,26.55
+4,Product 004,Personal Care,Personal Care Group 1,Brand 05,106.79
+5,Product 005,Electronics,Electronics Group 2,Brand 06,82.65
+6,Product 006,Office,Office Group 3,Brand 07,65.18
+7,Product 007,Beverages,Beverages Group 4,Brand 08,146.79
+8,Product 008,Snacks,Snacks Group 1,Brand 09,75.93
+9,Product 009,Household,Household Group 2,Brand 10,133.95
+10,Product 010,Personal Care,Personal Care Group 3,Brand 11,142.99
+11,Product 011,Electronics,Electronics Group 4,Brand 12,16.52
+12,Product 012,Office,Office Group 1,Brand 13,112.31
+13,Product 013,Beverages,Beverages Group 2,Brand 14,135.87
+14,Product 014,Snacks,Snacks Group 3,Brand 15,12.71
+15,Product 015,Household,Household Group 4,Brand 01,174.6
+16,Product 016,Personal Care,Personal Care Group 1,Brand 02,137.14
+17,Product 017,Electronics,Electronics Group 2,Brand 03,44.35
+18,Product 018,Office,Office Group 3,Brand 04,169.22
+19,Product 019,Beverages,Beverages Group 4,Brand 05,30.62
+20,Product 020,Snacks,Snacks Group 1,Brand 06,39.58
+21,Product 021,Household,Household Group 2,Brand 07,31.8
+22,Product 022,Personal Care,Personal Care Group 3,Brand 08,4.19
+23,Product 023,Electronics,Electronics Group 4,Brand 09,7.66
+24,Product 024,Office,Office Group 1,Brand 10,166.84
+25,Product 025,Beverages,Beverages Group 2,Brand 11,128.02
+26,Product 026,Snacks,Snacks Group 3,Brand 12,126.27
+27,Product 027,Household,Household Group 4,Brand 13,83.47
+28,Product 028,Personal Care,Personal Care Group 1,Brand 14,96.3
+29,Product 029,Electronics,Electronics Group 2,Brand 15,167.26
+30,Product 030,Office,Office Group 3,Brand 01,40.0
+31,Product 031,Beverages,Beverages Group 4,Brand 02,82.26
+32,Product 032,Snacks,Snacks Group 1,Brand 03,166.48
+33,Product 033,Household,Household Group 2,Brand 04,59.54
+34,Product 034,Personal Care,Personal Care Group 3,Brand 05,176.27
+35,Product 035,Electronics,Electronics Group 4,Brand 06,154.37
+36,Product 036,Office,Office Group 1,Brand 07,50.44
+37,Product 037,Beverages,Beverages Group 2,Brand 08,84.39
+38,Product 038,Snacks,Snacks Group 3,Brand 09,161.56
+39,Product 039,Household,Household Group 4,Brand 10,21.15
+40,Product 040,Personal Care,Personal Care Group 1,Brand 11,90.16
+41,Product 041,Electronics,Electronics Group 2,Brand 12,98.85
+42,Product 042,Office,Office Group 3,Brand 13,31.09
+43,Product 043,Beverages,Beverages Group 4,Brand 14,107.49
+44,Product 044,Snacks,Snacks Group 1,Brand 15,29.62
+45,Product 045,Household,Household Group 2,Brand 01,144.18
+46,Product 046,Personal Care,Personal Care Group 3,Brand 02,165.56
+47,Product 047,Electronics,Electronics Group 4,Brand 03,11.74
+48,Product 048,Office,Office Group 1,Brand 04,116.79
+49,Product 049,Beverages,Beverages Group 2,Brand 05,47.56
+50,Product 050,Snacks,Snacks Group 3,Brand 06,121.94
+51,Product 051,Household,Household Group 4,Brand 07,138.66
+52,Product 052,Personal Care,Personal Care Group 1,Brand 08,135.69
+53,Product 053,Electronics,Electronics Group 2,Brand 09,71.73
+54,Product 054,Office,Office Group 3,Brand 10,161.19
+55,Product 055,Beverages,Beverages Group 4,Brand 11,107.07
+56,Product 056,Snacks,Snacks Group 1,Brand 12,83.98
+57,Product 057,Household,Household Group 2,Brand 13,78.04
+58,Product 058,Personal Care,Personal Care Group 3,Brand 14,36.08
+59,Product 059,Electronics,Electronics Group 4,Brand 15,85.85
+60,Product 060,Office,Office Group 1,Brand 01,19.48
+61,Product 061,Beverages,Beverages Group 2,Brand 02,35.55
+62,Product 062,Snacks,Snacks Group 3,Brand 03,157.87
+63,Product 063,Household,Household Group 4,Brand 04,30.74
+64,Product 064,Personal Care,Personal Care Group 1,Brand 05,139.12
+65,Product 065,Electronics,Electronics Group 2,Brand 06,68.94
+66,Product 066,Office,Office Group 3,Brand 07,20.55
+67,Product 067,Beverages,Beverages Group 4,Brand 08,142.94
+68,Product 068,Snacks,Snacks Group 1,Brand 09,103.9
+69,Product 069,Household,Household Group 2,Brand 10,151.7
+70,Product 070,Personal Care,Personal Care Group 3,Brand 11,174.05
+71,Product 071,Electronics,Electronics Group 4,Brand 12,154.26
+72,Product 072,Office,Office Group 1,Brand 13,134.33
+73,Product 073,Beverages,Beverages Group 2,Brand 14,11.38
+74,Product 074,Snacks,Snacks Group 3,Brand 15,128.15
+75,Product 075,Household,Household Group 4,Brand 01,159.03
+76,Product 076,Personal Care,Personal Care Group 1,Brand 02,106.44
+77,Product 077,Electronics,Electronics Group 2,Brand 03,87.62
+78,Product 078,Office,Office Group 3,Brand 04,65.31
+79,Product 079,Beverages,Beverages Group 4,Brand 05,166.56
+80,Product 080,Snacks,Snacks Group 1,Brand 06,118.39
+81,Product 081,Household,Household Group 2,Brand 07,11.69
+82,Product 082,Personal Care,Personal Care Group 3,Brand 08,42.92
+83,Product 083,Electronics,Electronics Group 4,Brand 09,52.36
+84,Product 084,Office,Office Group 1,Brand 10,154.18
+85,Product 085,Beverages,Beverages Group 2,Brand 11,157.46
+86,Product 086,Snacks,Snacks Group 3,Brand 12,26.33
+87,Product 087,Household,Household Group 4,Brand 13,65.21
+88,Product 088,Personal Care,Personal Care Group 1,Brand 14,11.97
+89,Product 089,Electronics,Electronics Group 2,Brand 15,69.24
+90,Product 090,Office,Office Group 3,Brand 01,21.33
+91,Product 091,Beverages,Beverages Group 4,Brand 02,41.28
+92,Product 092,Snacks,Snacks Group 1,Brand 03,135.23
+93,Product 093,Household,Household Group 2,Brand 04,176.84
+94,Product 094,Personal Care,Personal Care Group 3,Brand 05,61.93
+95,Product 095,Electronics,Electronics Group 4,Brand 06,53.49
+96,Product 096,Office,Office Group 1,Brand 07,15.98
+97,Product 097,Beverages,Beverages Group 2,Brand 08,47.25
+98,Product 098,Snacks,Snacks Group 3,Brand 09,143.41
+99,Product 099,Household,Household Group 4,Brand 10,178.82
+100,Product 100,Personal Care,Personal Care Group 1,Brand 11,153.71
+101,Product 101,Electronics,Electronics Group 2,Brand 12,119.36
+102,Product 102,Office,Office Group 3,Brand 13,150.84
+103,Product 103,Beverages,Beverages Group 4,Brand 14,173.55
+104,Product 104,Snacks,Snacks Group 1,Brand 15,122.48
+105,Product 105,Household,Household Group 2,Brand 01,155.17
+106,Product 106,Personal Care,Personal Care Group 3,Brand 02,77.74
+107,Product 107,Electronics,Electronics Group 4,Brand 03,27.29
+108,Product 108,Office,Office Group 1,Brand 04,72.31
+109,Product 109,Beverages,Beverages Group 2,Brand 05,17.94
+110,Product 110,Snacks,Snacks Group 3,Brand 06,105.9
+111,Product 111,Household,Household Group 4,Brand 07,41.7
+112,Product 112,Personal Care,Personal Care Group 1,Brand 08,33.58
+113,Product 113,Electronics,Electronics Group 2,Brand 09,28.67
+114,Product 114,Office,Office Group 3,Brand 10,101.62
+115,Product 115,Beverages,Beverages Group 4,Brand 11,148.24
+116,Product 116,Snacks,Snacks Group 1,Brand 12,14.85
+117,Product 117,Household,Household Group 2,Brand 13,101.87
+118,Product 118,Personal Care,Personal Care Group 3,Brand 14,171.58
+119,Product 119,Electronics,Electronics Group 4,Brand 15,4.88
+120,Product 120,Office,Office Group 1,Brand 01,8.98

@@ -1,0 +1,11 @@
+Control,Result
+Source rows equal unique LeadID,PASS
+Funnel sequence is valid,PASS
+Revenue belongs only to customers,PASS
+Source lead rollup reconciles,PASS
+Source customer rollup reconciles,PASS
+Source revenue rollup reconciles,PASS
+Landing-page rollup reconciles,PASS
+Response bands reconcile,PASS
+Funnel counts are monotonic,PASS
+No invalid rates,PASS

@@ -1,0 +1,25 @@
+StoreKey,StoreName,Region,Manager
+1,Store 01,North,Manager 02
+2,Store 02,South,Manager 03
+3,Store 03,East,Manager 04
+4,Store 04,West,Manager 05
+5,Store 05,North,Manager 06
+6,Store 06,South,Manager 07
+7,Store 07,East,Manager 08
+8,Store 08,West,Manager 01
+9,Store 09,North,Manager 02
+10,Store 10,South,Manager 03
+11,Store 11,East,Manager 04
+12,Store 12,West,Manager 05
+13,Store 13,North,Manager 06
+14,Store 14,South,Manager 07
+15,Store 15,East,Manager 08
+16,Store 16,West,Manager 01
+17,Store 17,North,Manager 02
+18,Store 18,South,Manager 03
+19,Store 19,East,Manager 04
+20,Store 20,West,Manager 05
+21,Store 21,North,Manager 06
+22,Store 22,South,Manager 07
+23,Store 23,East,Manager 08
+24,Store 24,West,Manager 01

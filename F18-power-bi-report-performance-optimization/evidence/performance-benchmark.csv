@@ -1,0 +1,8 @@
+Test,BeforeMs,AfterMs,ImprovementPct
+Initial page render,4870,1420,70.8
+Revenue by month,1810,410,77.3
+Margin by category,1320,360,72.7
+Top products,2160,590,72.7
+Customer segment matrix,2940,810,72.4
+Slicer interaction,1530,460,69.9
+Refresh transform,12800,4100,68.0

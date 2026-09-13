@@ -1,0 +1,245 @@
+member_id,member_code,member_name,location_name,plan_name,acquisition_channel,visits_last_61d,failed_payment,monthly_fee,risk_tier,recommended_action
+291,M00291,Ayse Kurt,Sisli,Monthly Flex,Corporate Partner,0,1,64.0,Critical,Resolve payment and contact member
+1097,M01097,Ceren Ozdemir,Atasehir,Annual,Paid Search,1,1,45.0,Critical,Resolve payment and contact member
+413,M00413,Derya Aydin,Atasehir,Monthly Flex,Paid Search,2,1,64.0,Critical,Resolve payment and contact member
+720,M00720,Mert Kaya,Besiktas,Monthly Flex,Paid Search,2,1,64.0,Critical,Resolve payment and contact member
+322,M00322,Selin Sahin,Kadikoy,Annual,Paid Search,0,0,45.0,High,Launch re-engagement outreach
+329,M00329,Deniz Kaya,Besiktas,Annual,Organic Search,1,0,45.0,High,Launch re-engagement outreach
+392,M00392,Elif Koc,Besiktas,Annual,Instagram,1,0,45.0,High,Launch re-engagement outreach
+441,M00441,Deniz Demir,Kadikoy,Quarterly,Referral,1,0,56.0,High,Launch re-engagement outreach
+741,M00741,Ece Yilmaz,Besiktas,Monthly Flex,Paid Search,1,0,64.0,High,Launch re-engagement outreach
+759,M00759,Can Arslan,Besiktas,Student,Walk-in,1,0,39.0,High,Launch re-engagement outreach
+1006,M01006,Deniz Celik,Atasehir,Annual,Paid Search,1,0,45.0,High,Launch re-engagement outreach
+64,M00064,Ece Aydin,Kadikoy,Student,Paid Search,2,0,39.0,High,Launch re-engagement outreach
+71,M00071,Ayse Arslan,Atasehir,Quarterly,Corporate Partner,2,0,56.0,High,Launch re-engagement outreach
+106,M00106,Kerem Kurt,Besiktas,Annual,Paid Search,2,0,45.0,High,Launch re-engagement outreach
+209,M00209,Kerem Celik,Besiktas,Student,Referral,2,0,39.0,High,Launch re-engagement outreach
+269,M00269,Emre Yilmaz,Atasehir,Quarterly,Walk-in,2,0,56.0,High,Launch re-engagement outreach
+276,M00276,Kerem Arslan,Kadikoy,Annual,Referral,2,0,45.0,High,Launch re-engagement outreach
+421,M00421,Bora Aydin,Besiktas,Monthly Flex,Paid Search,2,0,64.0,High,Launch re-engagement outreach
+511,M00511,Ceren Aydin,Besiktas,Student,Organic Search,2,0,39.0,High,Launch re-engagement outreach
+552,M00552,Kerem Kurt,Kadikoy,Annual,Organic Search,2,0,45.0,High,Launch re-engagement outreach
+562,M00562,Kerem Yilmaz,Sisli,Student,Referral,2,0,39.0,High,Launch re-engagement outreach
+576,M00576,Bora Kurt,Kadikoy,Monthly Flex,Paid Search,2,0,64.0,High,Launch re-engagement outreach
+625,M00625,Ayse Yilmaz,Besiktas,Annual,Instagram,2,0,45.0,High,Launch re-engagement outreach
+819,M00819,Zeynep Arslan,Kadikoy,Annual,Instagram,2,0,45.0,High,Launch re-engagement outreach
+1029,M01029,Emre Kaya,Atasehir,Monthly Flex,Organic Search,2,0,64.0,High,Launch re-engagement outreach
+1158,M01158,Kerem Kurt,Atasehir,Student,Walk-in,2,0,39.0,High,Launch re-engagement outreach
+126,M00126,Can Ozdemir,Sisli,Monthly Flex,Instagram,3,1,64.0,High,Resolve payment and contact member
+182,M00182,Arda Kaya,Besiktas,Monthly Flex,Referral,3,1,64.0,High,Resolve payment and contact member
+449,M00449,Zeynep Koc,Kadikoy,Monthly Flex,Referral,3,1,64.0,High,Resolve payment and contact member
+502,M00502,Ceren Kurt,Sisli,Monthly Flex,Referral,3,1,64.0,High,Resolve payment and contact member
+686,M00686,Zeynep Kaya,Sisli,Annual,Instagram,3,1,45.0,High,Resolve payment and contact member
+798,M00798,Kerem Arslan,Kadikoy,Monthly Flex,Walk-in,3,1,64.0,High,Resolve payment and contact member
+88,M00088,Ayse Sahin,Atasehir,Annual,Organic Search,4,1,45.0,High,Resolve payment and contact member
+436,M00436,Derya Aydin,Kadikoy,Annual,Instagram,4,1,45.0,High,Resolve payment and contact member
+1049,M01049,Emre Kaya,Sisli,Annual,Organic Search,4,1,45.0,High,Resolve payment and contact member
+74,M00074,Elif Yilmaz,Besiktas,Quarterly,Referral,5,1,56.0,High,Resolve payment and contact member
+149,M00149,Elif Sahin,Kadikoy,Monthly Flex,Instagram,5,1,64.0,High,Resolve payment and contact member
+332,M00332,Bora Kaya,Sisli,Monthly Flex,Walk-in,5,1,64.0,High,Resolve payment and contact member
+1025,M01025,Arda Sahin,Besiktas,Monthly Flex,Referral,5,1,64.0,High,Resolve payment and contact member
+262,M00262,Derya Demir,Sisli,Student,Referral,6,1,39.0,High,Resolve payment and contact member
+412,M00412,Selin Kurt,Besiktas,Monthly Flex,Organic Search,6,1,64.0,High,Resolve payment and contact member
+799,M00799,Zeynep Demir,Besiktas,Monthly Flex,Instagram,6,1,64.0,High,Resolve payment and contact member
+912,M00912,Arda Demir,Kadikoy,Quarterly,Corporate Partner,6,1,56.0,High,Resolve payment and contact member
+1117,M01117,Mert Yilmaz,Sisli,Annual,Organic Search,6,1,45.0,High,Resolve payment and contact member
+39,M00039,Bora Koc,Kadikoy,Monthly Flex,Walk-in,7,1,64.0,High,Resolve payment and contact member
+119,M00119,Ayse Celik,Besiktas,Annual,Organic Search,7,1,45.0,High,Resolve payment and contact member
+323,M00323,Mert Sahin,Sisli,Monthly Flex,Organic Search,7,1,64.0,High,Resolve payment and contact member
+475,M00475,Ceren Demir,Besiktas,Monthly Flex,Instagram,7,1,64.0,High,Resolve payment and contact member
+528,M00528,Arda Yilmaz,Sisli,Quarterly,Organic Search,7,1,56.0,High,Resolve payment and contact member
+548,M00548,Ceren Ozdemir,Sisli,Annual,Organic Search,7,1,45.0,High,Resolve payment and contact member
+624,M00624,Elif Yilmaz,Kadikoy,Annual,Organic Search,7,1,45.0,High,Resolve payment and contact member
+692,M00692,Arda Yilmaz,Besiktas,Annual,Walk-in,7,1,45.0,High,Resolve payment and contact member
+778,M00778,Kerem Kaya,Atasehir,Quarterly,Referral,7,1,56.0,High,Resolve payment and contact member
+968,M00968,Derya Koc,Kadikoy,Monthly Flex,Instagram,7,1,64.0,High,Resolve payment and contact member
+1073,M01073,Elif Arslan,Sisli,Monthly Flex,Paid Search,7,1,64.0,High,Resolve payment and contact member
+1086,M01086,Ece Ozdemir,Besiktas,Monthly Flex,Organic Search,7,1,64.0,High,Resolve payment and contact member
+1088,M01088,Ayse Yilmaz,Besiktas,Monthly Flex,Referral,7,1,64.0,High,Resolve payment and contact member
+1100,M01100,Ece Kurt,Atasehir,Monthly Flex,Referral,7,1,64.0,High,Resolve payment and contact member
+5,M00005,Derya Yilmaz,Sisli,Monthly Flex,Instagram,8,1,64.0,High,Resolve payment and contact member
+178,M00178,Elif Yilmaz,Sisli,Student,Referral,8,1,39.0,High,Resolve payment and contact member
+399,M00399,Selin Ozdemir,Besiktas,Annual,Organic Search,8,1,45.0,High,Resolve payment and contact member
+787,M00787,Can Celik,Sisli,Student,Instagram,8,1,39.0,High,Resolve payment and contact member
+941,M00941,Can Aydin,Atasehir,Quarterly,Organic Search,8,1,56.0,High,Resolve payment and contact member
+947,M00947,Selin Kaya,Besiktas,Quarterly,Corporate Partner,8,1,56.0,High,Resolve payment and contact member
+1189,M01189,Ece Arslan,Sisli,Annual,Walk-in,8,1,45.0,High,Resolve payment and contact member
+221,M00221,Mert Yilmaz,Besiktas,Monthly Flex,Corporate Partner,9,1,64.0,High,Resolve payment and contact member
+327,M00327,Ece Yilmaz,Kadikoy,Monthly Flex,Referral,9,1,64.0,High,Resolve payment and contact member
+363,M00363,Selin Arslan,Atasehir,Monthly Flex,Referral,9,1,64.0,High,Resolve payment and contact member
+435,M00435,Zeynep Arslan,Kadikoy,Monthly Flex,Referral,9,1,64.0,High,Resolve payment and contact member
+451,M00451,Selin Aydin,Sisli,Annual,Referral,9,1,45.0,High,Resolve payment and contact member
+560,M00560,Mert Yilmaz,Kadikoy,Monthly Flex,Organic Search,9,1,64.0,High,Resolve payment and contact member
+646,M00646,Mert Sahin,Kadikoy,Student,Referral,9,1,39.0,High,Resolve payment and contact member
+723,M00723,Deniz Arslan,Besiktas,Monthly Flex,Paid Search,9,1,64.0,High,Resolve payment and contact member
+731,M00731,Bora Yilmaz,Sisli,Annual,Paid Search,9,1,45.0,High,Resolve payment and contact member
+765,M00765,Mert Sahin,Besiktas,Monthly Flex,Walk-in,9,1,64.0,High,Resolve payment and contact member
+890,M00890,Mert Demir,Sisli,Annual,Paid Search,9,1,45.0,High,Resolve payment and contact member
+928,M00928,Ceren Sahin,Kadikoy,Monthly Flex,Referral,9,1,64.0,High,Resolve payment and contact member
+993,M00993,Derya Arslan,Kadikoy,Monthly Flex,Instagram,9,1,64.0,High,Resolve payment and contact member
+1125,M01125,Selin Koc,Kadikoy,Monthly Flex,Referral,9,1,64.0,High,Resolve payment and contact member
+1179,M01179,Arda Demir,Besiktas,Student,Organic Search,9,1,39.0,High,Resolve payment and contact member
+54,M00054,Can Sahin,Besiktas,Monthly Flex,Referral,10,1,64.0,High,Resolve payment and contact member
+222,M00222,Emre Demir,Sisli,Quarterly,Paid Search,10,1,56.0,High,Resolve payment and contact member
+268,M00268,Can Demir,Besiktas,Monthly Flex,Paid Search,10,1,64.0,High,Resolve payment and contact member
+307,M00307,Ayse Aydin,Kadikoy,Quarterly,Paid Search,10,1,56.0,High,Resolve payment and contact member
+453,M00453,Arda Kurt,Besiktas,Quarterly,Organic Search,10,1,56.0,High,Resolve payment and contact member
+464,M00464,Arda Sahin,Kadikoy,Quarterly,Walk-in,10,1,56.0,High,Resolve payment and contact member
+580,M00580,Deniz Yilmaz,Besiktas,Annual,Instagram,10,1,45.0,High,Resolve payment and contact member
+754,M00754,Ceren Arslan,Sisli,Monthly Flex,Organic Search,10,1,64.0,High,Resolve payment and contact member
+868,M00868,Can Ozdemir,Sisli,Monthly Flex,Walk-in,10,1,64.0,High,Resolve payment and contact member
+990,M00990,Ayse Aydin,Kadikoy,Student,Organic Search,10,1,39.0,High,Resolve payment and contact member
+1114,M01114,Selin Koc,Kadikoy,Monthly Flex,Instagram,10,1,64.0,High,Resolve payment and contact member
+9,M00009,Deniz Ozdemir,Atasehir,Monthly Flex,Corporate Partner,11,1,64.0,High,Resolve payment and contact member
+260,M00260,Arda Demir,Sisli,Quarterly,Corporate Partner,11,1,56.0,High,Resolve payment and contact member
+597,M00597,Ceren Arslan,Sisli,Monthly Flex,Instagram,11,1,64.0,High,Resolve payment and contact member
+647,M00647,Bora Sahin,Kadikoy,Monthly Flex,Walk-in,11,1,64.0,High,Resolve payment and contact member
+655,M00655,Selin Koc,Besiktas,Monthly Flex,Organic Search,11,1,64.0,High,Resolve payment and contact member
+679,M00679,Ece Demir,Sisli,Monthly Flex,Walk-in,11,1,64.0,High,Resolve payment and contact member
+690,M00690,Selin Koc,Kadikoy,Monthly Flex,Referral,11,1,64.0,High,Resolve payment and contact member
+858,M00858,Emre Kaya,Besiktas,Monthly Flex,Walk-in,11,1,64.0,High,Resolve payment and contact member
+924,M00924,Ceren Sahin,Atasehir,Monthly Flex,Instagram,11,1,64.0,High,Resolve payment and contact member
+85,M00085,Ceren Sahin,Besiktas,Monthly Flex,Walk-in,12,1,64.0,High,Resolve payment and contact member
+114,M00114,Ayse Kurt,Kadikoy,Quarterly,Referral,12,1,56.0,High,Resolve payment and contact member
+220,M00220,Can Aydin,Sisli,Monthly Flex,Organic Search,12,1,64.0,High,Resolve payment and contact member
+228,M00228,Elif Kaya,Atasehir,Monthly Flex,Corporate Partner,12,1,64.0,High,Resolve payment and contact member
+281,M00281,Elif Kurt,Sisli,Student,Walk-in,12,1,39.0,High,Resolve payment and contact member
+558,M00558,Derya Koc,Atasehir,Monthly Flex,Organic Search,12,1,64.0,High,Resolve payment and contact member
+627,M00627,Can Demir,Kadikoy,Monthly Flex,Paid Search,12,1,64.0,High,Resolve payment and contact member
+780,M00780,Ayse Arslan,Sisli,Annual,Paid Search,12,1,45.0,High,Resolve payment and contact member
+800,M00800,Arda Celik,Kadikoy,Annual,Paid Search,12,1,45.0,High,Resolve payment and contact member
+806,M00806,Arda Arslan,Besiktas,Student,Referral,12,1,39.0,High,Resolve payment and contact member
+877,M00877,Zeynep Demir,Kadikoy,Monthly Flex,Referral,12,1,64.0,High,Resolve payment and contact member
+1005,M01005,Bora Sahin,Kadikoy,Monthly Flex,Organic Search,12,1,64.0,High,Resolve payment and contact member
+82,M00082,Deniz Celik,Atasehir,Student,Paid Search,13,1,39.0,High,Resolve payment and contact member
+94,M00094,Mert Arslan,Sisli,Monthly Flex,Referral,13,1,64.0,High,Resolve payment and contact member
+373,M00373,Kerem Kaya,Sisli,Annual,Instagram,13,1,45.0,High,Resolve payment and contact member
+486,M00486,Bora Demir,Sisli,Annual,Referral,13,1,45.0,High,Resolve payment and contact member
+519,M00519,Deniz Koc,Kadikoy,Monthly Flex,Organic Search,13,1,64.0,High,Resolve payment and contact member
+613,M00613,Deniz Koc,Besiktas,Monthly Flex,Paid Search,13,1,64.0,High,Resolve payment and contact member
+920,M00920,Mert Sahin,Sisli,Quarterly,Organic Search,13,1,56.0,High,Resolve payment and contact member
+949,M00949,Mert Yilmaz,Besiktas,Annual,Referral,13,1,45.0,High,Resolve payment and contact member
+962,M00962,Zeynep Yilmaz,Sisli,Monthly Flex,Walk-in,13,1,64.0,High,Resolve payment and contact member
+1014,M01014,Ayse Ozdemir,Besiktas,Monthly Flex,Referral,13,1,64.0,High,Resolve payment and contact member
+1195,M01195,Kerem Celik,Sisli,Monthly Flex,Corporate Partner,13,1,64.0,High,Resolve payment and contact member
+61,M00061,Ece Celik,Besiktas,Monthly Flex,Referral,14,1,64.0,High,Resolve payment and contact member
+144,M00144,Bora Kurt,Sisli,Quarterly,Instagram,14,1,56.0,High,Resolve payment and contact member
+301,M00301,Can Ozdemir,Besiktas,Monthly Flex,Walk-in,14,1,64.0,High,Resolve payment and contact member
+506,M00506,Ece Kaya,Besiktas,Student,Walk-in,14,1,39.0,High,Resolve payment and contact member
+639,M00639,Kerem Kaya,Sisli,Monthly Flex,Paid Search,14,1,64.0,High,Resolve payment and contact member
+790,M00790,Kerem Koc,Sisli,Student,Organic Search,14,1,39.0,High,Resolve payment and contact member
+830,M00830,Ece Kaya,Besiktas,Quarterly,Instagram,14,1,56.0,High,Resolve payment and contact member
+899,M00899,Can Aydin,Kadikoy,Monthly Flex,Walk-in,14,1,64.0,High,Resolve payment and contact member
+908,M00908,Ece Kurt,Besiktas,Monthly Flex,Corporate Partner,14,1,64.0,High,Resolve payment and contact member
+1028,M01028,Elif Sahin,Kadikoy,Quarterly,Corporate Partner,14,1,56.0,High,Resolve payment and contact member
+1085,M01085,Can Koc,Atasehir,Monthly Flex,Instagram,14,1,64.0,High,Resolve payment and contact member
+109,M00109,Derya Ozdemir,Sisli,Annual,Walk-in,15,1,45.0,High,Resolve payment and contact member
+155,M00155,Zeynep Ozdemir,Sisli,Monthly Flex,Referral,15,1,64.0,High,Resolve payment and contact member
+389,M00389,Selin Kaya,Kadikoy,Quarterly,Paid Search,15,1,56.0,High,Resolve payment and contact member
+431,M00431,Ece Arslan,Kadikoy,Monthly Flex,Instagram,15,1,64.0,High,Resolve payment and contact member
+834,M00834,Ece Demir,Sisli,Student,Referral,15,1,39.0,High,Resolve payment and contact member
+851,M00851,Deniz Koc,Kadikoy,Quarterly,Organic Search,15,1,56.0,High,Resolve payment and contact member
+1079,M01079,Deniz Ozdemir,Sisli,Quarterly,Referral,15,1,56.0,High,Resolve payment and contact member
+1167,M01167,Can Kurt,Kadikoy,Monthly Flex,Instagram,15,1,64.0,High,Resolve payment and contact member
+59,M00059,Elif Sahin,Sisli,Monthly Flex,Referral,16,1,64.0,High,Resolve payment and contact member
+237,M00237,Deniz Celik,Sisli,Quarterly,Paid Search,16,1,56.0,High,Resolve payment and contact member
+424,M00424,Mert Celik,Sisli,Monthly Flex,Paid Search,16,1,64.0,High,Resolve payment and contact member
+1163,M01163,Kerem Ozdemir,Kadikoy,Annual,Corporate Partner,16,1,45.0,High,Resolve payment and contact member
+1192,M01192,Kerem Kurt,Sisli,Annual,Instagram,16,1,45.0,High,Resolve payment and contact member
+158,M00158,Deniz Kurt,Besiktas,Student,Walk-in,17,1,39.0,High,Resolve payment and contact member
+410,M00410,Zeynep Koc,Besiktas,Monthly Flex,Paid Search,17,1,64.0,High,Resolve payment and contact member
+844,M00844,Kerem Arslan,Atasehir,Student,Corporate Partner,17,1,39.0,High,Resolve payment and contact member
+846,M00846,Elif Sahin,Besiktas,Monthly Flex,Corporate Partner,17,1,64.0,High,Resolve payment and contact member
+1129,M01129,Bora Sahin,Besiktas,Annual,Paid Search,18,1,45.0,High,Resolve payment and contact member
+1173,M01173,Ece Arslan,Sisli,Annual,Paid Search,18,1,45.0,High,Resolve payment and contact member
+123,M00123,Zeynep Sahin,Sisli,Monthly Flex,Referral,19,1,64.0,High,Resolve payment and contact member
+471,M00471,Emre Sahin,Besiktas,Monthly Flex,Walk-in,19,1,64.0,High,Resolve payment and contact member
+477,M00477,Emre Kurt,Besiktas,Monthly Flex,Referral,19,1,64.0,High,Resolve payment and contact member
+16,M00016,Kerem Kaya,Atasehir,Monthly Flex,Referral,20,1,64.0,High,Resolve payment and contact member
+914,M00914,Ayse Sahin,Besiktas,Annual,Paid Search,20,1,45.0,High,Resolve payment and contact member
+812,M00812,Deniz Sahin,Sisli,Monthly Flex,Instagram,21,1,64.0,High,Resolve payment and contact member
+388,M00388,Zeynep Celik,Sisli,Student,Instagram,22,1,39.0,High,Resolve payment and contact member
+681,M00681,Elif Kaya,Kadikoy,Annual,Walk-in,22,1,45.0,High,Resolve payment and contact member
+999,M00999,Zeynep Sahin,Atasehir,Monthly Flex,Referral,22,1,64.0,High,Resolve payment and contact member
+1057,M01057,Zeynep Yilmaz,Besiktas,Student,Organic Search,24,1,39.0,High,Resolve payment and contact member
+142,M00142,Bora Kaya,Sisli,Student,Corporate Partner,26,1,39.0,High,Resolve payment and contact member
+23,M00023,Ayse Sahin,Besiktas,Monthly Flex,Walk-in,3,0,64.0,Medium,Launch re-engagement outreach
+72,M00072,Mert Ozdemir,Atasehir,Student,Organic Search,3,0,39.0,Medium,Launch re-engagement outreach
+141,M00141,Arda Sahin,Sisli,Annual,Referral,3,0,45.0,Medium,Launch re-engagement outreach
+171,M00171,Zeynep Demir,Kadikoy,Annual,Paid Search,3,0,45.0,Medium,Launch re-engagement outreach
+211,M00211,Selin Yilmaz,Atasehir,Monthly Flex,Referral,3,0,64.0,Medium,Launch re-engagement outreach
+264,M00264,Elif Yilmaz,Sisli,Annual,Organic Search,3,0,45.0,Medium,Launch re-engagement outreach
+279,M00279,Bora Arslan,Besiktas,Monthly Flex,Referral,3,0,64.0,Medium,Launch re-engagement outreach
+377,M00377,Ayse Celik,Atasehir,Student,Organic Search,3,0,39.0,Medium,Launch re-engagement outreach
+521,M00521,Mert Koc,Besiktas,Quarterly,Paid Search,3,0,56.0,Medium,Launch re-engagement outreach
+525,M00525,Derya Demir,Besiktas,Monthly Flex,Organic Search,3,0,64.0,Medium,Launch re-engagement outreach
+550,M00550,Derya Demir,Besiktas,Student,Paid Search,3,0,39.0,Medium,Launch re-engagement outreach
+578,M00578,Bora Yilmaz,Sisli,Monthly Flex,Paid Search,3,0,64.0,Medium,Launch re-engagement outreach
+579,M00579,Arda Ozdemir,Atasehir,Annual,Referral,3,0,45.0,Medium,Launch re-engagement outreach
+638,M00638,Ceren Aydin,Besiktas,Student,Instagram,3,0,39.0,Medium,Launch re-engagement outreach
+688,M00688,Deniz Celik,Sisli,Monthly Flex,Corporate Partner,3,0,64.0,Medium,Launch re-engagement outreach
+827,M00827,Bora Demir,Besiktas,Annual,Organic Search,3,0,45.0,Medium,Launch re-engagement outreach
+841,M00841,Ceren Celik,Kadikoy,Annual,Paid Search,3,0,45.0,Medium,Launch re-engagement outreach
+848,M00848,Selin Kurt,Kadikoy,Monthly Flex,Paid Search,3,0,64.0,Medium,Launch re-engagement outreach
+872,M00872,Deniz Koc,Sisli,Monthly Flex,Walk-in,3,0,64.0,Medium,Launch re-engagement outreach
+1089,M01089,Can Kurt,Besiktas,Quarterly,Referral,3,0,56.0,Medium,Launch re-engagement outreach
+93,M00093,Mert Yilmaz,Sisli,Monthly Flex,Organic Search,4,0,64.0,Medium,Launch re-engagement outreach
+129,M00129,Deniz Aydin,Besiktas,Annual,Organic Search,4,0,45.0,Medium,Launch re-engagement outreach
+168,M00168,Bora Kaya,Kadikoy,Annual,Corporate Partner,4,0,45.0,Medium,Launch re-engagement outreach
+263,M00263,Deniz Koc,Sisli,Annual,Organic Search,4,0,45.0,Medium,Launch re-engagement outreach
+267,M00267,Derya Kurt,Atasehir,Annual,Referral,4,0,45.0,Medium,Launch re-engagement outreach
+304,M00304,Ece Celik,Sisli,Annual,Corporate Partner,4,0,45.0,Medium,Launch re-engagement outreach
+317,M00317,Kerem Yilmaz,Sisli,Quarterly,Instagram,4,0,56.0,Medium,Launch re-engagement outreach
+375,M00375,Ayse Yilmaz,Besiktas,Monthly Flex,Walk-in,4,0,64.0,Medium,Launch re-engagement outreach
+443,M00443,Ece Kaya,Sisli,Quarterly,Referral,4,0,56.0,Medium,Launch re-engagement outreach
+469,M00469,Zeynep Arslan,Atasehir,Monthly Flex,Referral,4,0,64.0,Medium,Launch re-engagement outreach
+512,M00512,Ayse Arslan,Besiktas,Quarterly,Referral,4,0,56.0,Medium,Launch re-engagement outreach
+601,M00601,Ceren Yilmaz,Sisli,Annual,Instagram,4,0,45.0,Medium,Launch re-engagement outreach
+616,M00616,Deniz Koc,Atasehir,Monthly Flex,Organic Search,4,0,64.0,Medium,Launch re-engagement outreach
+680,M00680,Arda Yilmaz,Kadikoy,Monthly Flex,Corporate Partner,4,0,64.0,Medium,Launch re-engagement outreach
+684,M00684,Ceren Kurt,Besiktas,Monthly Flex,Instagram,4,0,64.0,Medium,Launch re-engagement outreach
+729,M00729,Derya Aydin,Atasehir,Monthly Flex,Referral,4,0,64.0,Medium,Launch re-engagement outreach
+764,M00764,Ayse Kurt,Besiktas,Monthly Flex,Walk-in,4,0,64.0,Medium,Launch re-engagement outreach
+804,M00804,Ayse Celik,Sisli,Student,Referral,4,0,39.0,Medium,Launch re-engagement outreach
+939,M00939,Bora Koc,Sisli,Monthly Flex,Instagram,4,0,64.0,Medium,Launch re-engagement outreach
+964,M00964,Ayse Arslan,Kadikoy,Monthly Flex,Referral,4,0,64.0,Medium,Launch re-engagement outreach
+977,M00977,Arda Kaya,Besiktas,Annual,Instagram,4,0,45.0,Medium,Launch re-engagement outreach
+1034,M01034,Emre Ozdemir,Atasehir,Quarterly,Referral,4,0,56.0,Medium,Launch re-engagement outreach
+1069,M01069,Arda Arslan,Sisli,Monthly Flex,Instagram,4,0,64.0,Medium,Launch re-engagement outreach
+99,M00099,Zeynep Demir,Sisli,Student,Instagram,5,0,39.0,Medium,Launch re-engagement outreach
+118,M00118,Selin Yilmaz,Sisli,Annual,Referral,5,0,45.0,Medium,Launch re-engagement outreach
+122,M00122,Ceren Sahin,Kadikoy,Quarterly,Organic Search,5,0,56.0,Medium,Launch re-engagement outreach
+157,M00157,Zeynep Demir,Besiktas,Quarterly,Organic Search,5,0,56.0,Medium,Launch re-engagement outreach
+159,M00159,Emre Demir,Besiktas,Monthly Flex,Referral,5,0,64.0,Medium,Launch re-engagement outreach
+170,M00170,Can Yilmaz,Atasehir,Annual,Paid Search,5,0,45.0,Medium,Launch re-engagement outreach
+226,M00226,Ceren Koc,Sisli,Annual,Instagram,5,0,45.0,Medium,Launch re-engagement outreach
+265,M00265,Ayse Celik,Sisli,Student,Referral,5,0,39.0,Medium,Launch re-engagement outreach
+266,M00266,Selin Sahin,Kadikoy,Quarterly,Paid Search,5,0,56.0,Medium,Launch re-engagement outreach
+273,M00273,Ayse Demir,Besiktas,Monthly Flex,Organic Search,5,0,64.0,Medium,Launch re-engagement outreach
+274,M00274,Elif Yilmaz,Kadikoy,Monthly Flex,Instagram,5,0,64.0,Medium,Launch re-engagement outreach
+286,M00286,Zeynep Arslan,Sisli,Quarterly,Organic Search,5,0,56.0,Medium,Launch re-engagement outreach
+298,M00298,Deniz Arslan,Besiktas,Student,Referral,5,0,39.0,Medium,Launch re-engagement outreach
+328,M00328,Elif Ozdemir,Sisli,Annual,Organic Search,5,0,45.0,Medium,Launch re-engagement outreach
+340,M00340,Mert Koc,Atasehir,Quarterly,Paid Search,5,0,56.0,Medium,Launch re-engagement outreach
+463,M00463,Can Arslan,Kadikoy,Student,Organic Search,5,0,39.0,Medium,Launch re-engagement outreach
+543,M00543,Elif Aydin,Kadikoy,Student,Corporate Partner,5,0,39.0,Medium,Launch re-engagement outreach
+557,M00557,Emre Aydin,Kadikoy,Annual,Referral,5,0,45.0,Medium,Launch re-engagement outreach
+565,M00565,Can Yilmaz,Besiktas,Monthly Flex,Referral,5,0,64.0,Medium,Launch re-engagement outreach
+604,M00604,Derya Celik,Besiktas,Student,Organic Search,5,0,39.0,Medium,Launch re-engagement outreach
+645,M00645,Ece Ozdemir,Atasehir,Monthly Flex,Referral,5,0,64.0,Medium,Launch re-engagement outreach
+654,M00654,Emre Demir,Besiktas,Quarterly,Instagram,5,0,56.0,Medium,Launch re-engagement outreach
+662,M00662,Derya Celik,Besiktas,Student,Walk-in,5,0,39.0,Medium,Launch re-engagement outreach
+691,M00691,Selin Sahin,Sisli,Monthly Flex,Referral,5,0,64.0,Medium,Launch re-engagement outreach
+700,M00700,Ceren Sahin,Sisli,Monthly Flex,Organic Search,5,0,64.0,Medium,Launch re-engagement outreach
+773,M00773,Deniz Kurt,Besiktas,Monthly Flex,Corporate Partner,5,0,64.0,Medium,Launch re-engagement outreach
+781,M00781,Can Kaya,Besiktas,Monthly Flex,Referral,5,0,64.0,Medium,Launch re-engagement outreach
+876,M00876,Emre Demir,Besiktas,Monthly Flex,Walk-in,5,0,64.0,Medium,Launch re-engagement outreach
+892,M00892,Ceren Demir,Besiktas,Monthly Flex,Walk-in,5,0,64.0,Medium,Launch re-engagement outreach
+940,M00940,Ayse Demir,Besiktas,Student,Organic Search,5,0,39.0,Medium,Launch re-engagement outreach
+1015,M01015,Selin Kurt,Atasehir,Annual,Instagram,5,0,45.0,Medium,Launch re-engagement outreach
+1018,M01018,Selin Yilmaz,Kadikoy,Monthly Flex,Referral,5,0,64.0,Medium,Launch re-engagement outreach
+1040,M01040,Arda Ozdemir,Sisli,Annual,Referral,5,0,45.0,Medium,Launch re-engagement outreach
+1042,M01042,Ceren Koc,Besiktas,Quarterly,Corporate Partner,5,0,56.0,Medium,Launch re-engagement outreach
+1064,M01064,Deniz Celik,Besiktas,Annual,Paid Search,5,0,45.0,Medium,Launch re-engagement outreach
+1108,M01108,Ceren Aydin,Sisli,Student,Organic Search,5,0,39.0,Medium,Launch re-engagement outreach
+1193,M01193,Ayse Kaya,Besiktas,Annual,Organic Search,5,0,45.0,Medium,Launch re-engagement outreach

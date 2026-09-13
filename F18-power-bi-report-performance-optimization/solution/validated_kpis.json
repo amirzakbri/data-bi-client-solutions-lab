@@ -1,0 +1,11 @@
+{
+  "sales_lines": 120000,
+  "revenue": 37018396.44,
+  "gross_profit": 16190756.07,
+  "gross_margin": 0.437371,
+  "units": 228354,
+  "customers": 4000,
+  "products": 120,
+  "date_min": "2024-01-01",
+  "date_max": "2025-12-31"
+}

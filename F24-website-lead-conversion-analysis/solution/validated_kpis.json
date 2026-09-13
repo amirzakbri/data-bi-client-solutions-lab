@@ -1,0 +1,14 @@
+{
+  "input_rows": 1800,
+  "unique_leads": 1800,
+  "qualified_leads": 731,
+  "opportunities": 367,
+  "customers": 133,
+  "lead_to_customer_pct": 7.39,
+  "revenue": 1384385.03,
+  "revenue_per_lead": 769.1,
+  "median_response_hours": 5.1,
+  "open_follow_up_rows": 271,
+  "coverage_start": "2026-01-01",
+  "coverage_end": "2026-06-30"
+}

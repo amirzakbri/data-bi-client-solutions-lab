@@ -1,0 +1,10 @@
+// Core measures use storage-engine aggregations and reusable branches.
+Revenue := SUM ( FactSales[Revenue] )
+Gross Profit := SUM ( FactSales[GrossProfit] )
+Gross Margin % := DIVIDE ( [Gross Profit], [Revenue] )
+Units := SUM ( FactSales[Quantity] )
+Customers := DISTINCTCOUNT ( FactSales[CustomerKey] )
+Revenue PY := CALCULATE ( [Revenue], DATEADD ( DimDate[Date], -1, YEAR ) )
+Revenue YoY % := VAR Prior=[Revenue PY] RETURN DIVIDE ( [Revenue]-Prior, Prior )
+Revenue YTD := TOTALYTD ( [Revenue], DimDate[Date] )
+Top Product Rank := RANKX ( ALLSELECTED ( DimProduct[ProductName] ), [Revenue],, DESC, Dense )

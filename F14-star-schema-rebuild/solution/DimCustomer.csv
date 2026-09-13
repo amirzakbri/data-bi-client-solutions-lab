@@ -1,0 +1,181 @@
+CustomerKey,CustomerID,CustomerName,Segment,City,Country
+1,C001,Customer 001,Small Business,Bursa,Türkiye
+2,C002,Customer 002,Consumer,Istanbul,Türkiye
+3,C003,Customer 003,Corporate,Izmir,Türkiye
+4,C004,Customer 004,Small Business,Istanbul,Türkiye
+5,C005,Customer 005,Corporate,Antalya,Türkiye
+6,C006,Customer 006,Small Business,Ankara,Türkiye
+7,C007,Customer 007,Corporate,Ankara,Türkiye
+8,C008,Customer 008,Consumer,Ankara,Türkiye
+9,C009,Customer 009,Corporate,Izmir,Türkiye
+10,C010,Customer 010,Small Business,Istanbul,Türkiye
+11,C011,Customer 011,Small Business,Antalya,Türkiye
+12,C012,Customer 012,Small Business,Istanbul,Türkiye
+13,C013,Customer 013,Corporate,Antalya,Türkiye
+14,C014,Customer 014,Small Business,Istanbul,Türkiye
+15,C015,Customer 015,Consumer,Antalya,Türkiye
+16,C016,Customer 016,Consumer,Izmir,Türkiye
+17,C017,Customer 017,Corporate,Istanbul,Türkiye
+18,C018,Customer 018,Consumer,Bursa,Türkiye
+19,C019,Customer 019,Consumer,Antalya,Türkiye
+20,C020,Customer 020,Small Business,Antalya,Türkiye
+21,C021,Customer 021,Corporate,Ankara,Türkiye
+22,C022,Customer 022,Corporate,Bursa,Türkiye
+23,C023,Customer 023,Consumer,Izmir,Türkiye
+24,C024,Customer 024,Corporate,Izmir,Türkiye
+25,C025,Customer 025,Corporate,Izmir,Türkiye
+26,C026,Customer 026,Corporate,Bursa,Türkiye
+27,C027,Customer 027,Corporate,Izmir,Türkiye
+28,C028,Customer 028,Small Business,Istanbul,Türkiye
+29,C029,Customer 029,Consumer,Istanbul,Türkiye
+30,C030,Customer 030,Consumer,Bursa,Türkiye
+31,C031,Customer 031,Corporate,Bursa,Türkiye
+32,C032,Customer 032,Consumer,Antalya,Türkiye
+33,C033,Customer 033,Small Business,Ankara,Türkiye
+34,C034,Customer 034,Small Business,Bursa,Türkiye
+35,C035,Customer 035,Small Business,Ankara,Türkiye
+36,C036,Customer 036,Consumer,Antalya,Türkiye
+37,C037,Customer 037,Consumer,Izmir,Türkiye
+38,C038,Customer 038,Consumer,Antalya,Türkiye
+39,C039,Customer 039,Small Business,Ankara,Türkiye
+40,C040,Customer 040,Corporate,Izmir,Türkiye
+41,C041,Customer 041,Corporate,Bursa,Türkiye
+42,C042,Customer 042,Small Business,Istanbul,Türkiye
+43,C043,Customer 043,Corporate,Ankara,Türkiye
+44,C044,Customer 044,Corporate,Antalya,Türkiye
+45,C045,Customer 045,Consumer,Bursa,Türkiye
+46,C046,Customer 046,Small Business,Ankara,Türkiye
+47,C047,Customer 047,Small Business,Antalya,Türkiye
+48,C048,Customer 048,Consumer,Bursa,Türkiye
+49,C049,Customer 049,Consumer,Bursa,Türkiye
+50,C050,Customer 050,Small Business,Istanbul,Türkiye
+51,C051,Customer 051,Consumer,Antalya,Türkiye
+52,C052,Customer 052,Small Business,Izmir,Türkiye
+53,C053,Customer 053,Small Business,Istanbul,Türkiye
+54,C054,Customer 054,Consumer,Istanbul,Türkiye
+55,C055,Customer 055,Corporate,Ankara,Türkiye
+56,C056,Customer 056,Small Business,Izmir,Türkiye
+57,C057,Customer 057,Consumer,Istanbul,Türkiye
+58,C058,Customer 058,Consumer,Izmir,Türkiye
+59,C059,Customer 059,Corporate,Istanbul,Türkiye
+60,C060,Customer 060,Small Business,Izmir,Türkiye
+61,C061,Customer 061,Corporate,Bursa,Türkiye
+62,C062,Customer 062,Small Business,Istanbul,Türkiye
+63,C063,Customer 063,Small Business,Izmir,Türkiye
+64,C064,Customer 064,Corporate,Bursa,Türkiye
+65,C065,Customer 065,Small Business,Ankara,Türkiye
+66,C066,Customer 066,Small Business,Istanbul,Türkiye
+67,C067,Customer 067,Corporate,Bursa,Türkiye
+68,C068,Customer 068,Small Business,Ankara,Türkiye
+69,C069,Customer 069,Consumer,Izmir,Türkiye
+70,C070,Customer 070,Consumer,Istanbul,Türkiye
+71,C071,Customer 071,Corporate,Antalya,Türkiye
+72,C072,Customer 072,Corporate,Ankara,Türkiye
+73,C073,Customer 073,Consumer,Istanbul,Türkiye
+74,C074,Customer 074,Consumer,Istanbul,Türkiye
+75,C075,Customer 075,Corporate,Izmir,Türkiye
+76,C076,Customer 076,Corporate,Ankara,Türkiye
+77,C077,Customer 077,Consumer,Izmir,Türkiye
+78,C078,Customer 078,Consumer,Istanbul,Türkiye
+79,C079,Customer 079,Small Business,Antalya,Türkiye
+80,C080,Customer 080,Consumer,Izmir,Türkiye
+81,C081,Customer 081,Consumer,Izmir,Türkiye
+82,C082,Customer 082,Small Business,Istanbul,Türkiye
+83,C083,Customer 083,Consumer,Izmir,Türkiye
+84,C084,Customer 084,Consumer,Istanbul,Türkiye
+85,C085,Customer 085,Consumer,Ankara,Türkiye
+86,C086,Customer 086,Consumer,Antalya,Türkiye
+87,C087,Customer 087,Small Business,Izmir,Türkiye
+88,C088,Customer 088,Corporate,Istanbul,Türkiye
+89,C089,Customer 089,Small Business,Bursa,Türkiye
+90,C090,Customer 090,Corporate,Izmir,Türkiye
+91,C091,Customer 091,Small Business,Istanbul,Türkiye
+92,C092,Customer 092,Small Business,Antalya,Türkiye
+93,C093,Customer 093,Small Business,Izmir,Türkiye
+94,C094,Customer 094,Corporate,Istanbul,Türkiye
+95,C095,Customer 095,Consumer,Istanbul,Türkiye
+96,C096,Customer 096,Consumer,Istanbul,Türkiye
+97,C097,Customer 097,Small Business,Ankara,Türkiye
+98,C098,Customer 098,Consumer,Antalya,Türkiye
+99,C099,Customer 099,Consumer,Ankara,Türkiye
+100,C100,Customer 100,Corporate,Antalya,Türkiye
+101,C101,Customer 101,Small Business,Ankara,Türkiye
+102,C102,Customer 102,Corporate,Istanbul,Türkiye
+103,C103,Customer 103,Small Business,Bursa,Türkiye
+104,C104,Customer 104,Small Business,Istanbul,Türkiye
+105,C105,Customer 105,Corporate,Antalya,Türkiye
+106,C106,Customer 106,Consumer,Antalya,Türkiye
+107,C107,Customer 107,Small Business,Izmir,Türkiye
+108,C108,Customer 108,Small Business,Antalya,Türkiye
+109,C109,Customer 109,Consumer,Izmir,Türkiye
+110,C110,Customer 110,Small Business,Istanbul,Türkiye
+111,C111,Customer 111,Small Business,Izmir,Türkiye
+112,C112,Customer 112,Consumer,Ankara,Türkiye
+113,C113,Customer 113,Consumer,Ankara,Türkiye
+114,C114,Customer 114,Corporate,Antalya,Türkiye
+115,C115,Customer 115,Consumer,Bursa,Türkiye
+116,C116,Customer 116,Small Business,Istanbul,Türkiye
+117,C117,Customer 117,Consumer,Izmir,Türkiye
+118,C118,Customer 118,Small Business,Antalya,Türkiye
+119,C119,Customer 119,Consumer,Antalya,Türkiye
+120,C120,Customer 120,Consumer,Ankara,Türkiye
+121,C121,Customer 121,Corporate,Istanbul,Türkiye
+122,C122,Customer 122,Consumer,Antalya,Türkiye
+123,C123,Customer 123,Corporate,Bursa,Türkiye
+124,C124,Customer 124,Small Business,Izmir,Türkiye
+125,C125,Customer 125,Corporate,Bursa,Türkiye
+126,C126,Customer 126,Small Business,Istanbul,Türkiye
+127,C127,Customer 127,Corporate,Izmir,Türkiye
+128,C128,Customer 128,Consumer,Antalya,Türkiye
+129,C129,Customer 129,Corporate,Istanbul,Türkiye
+130,C130,Customer 130,Small Business,Izmir,Türkiye
+131,C131,Customer 131,Small Business,Istanbul,Türkiye
+132,C132,Customer 132,Small Business,Antalya,Türkiye
+133,C133,Customer 133,Consumer,Bursa,Türkiye
+134,C134,Customer 134,Consumer,Izmir,Türkiye
+135,C135,Customer 135,Small Business,Ankara,Türkiye
+136,C136,Customer 136,Consumer,Ankara,Türkiye
+137,C137,Customer 137,Corporate,Bursa,Türkiye
+138,C138,Customer 138,Small Business,Ankara,Türkiye
+139,C139,Customer 139,Consumer,Izmir,Türkiye
+140,C140,Customer 140,Small Business,Ankara,Türkiye
+141,C141,Customer 141,Consumer,Ankara,Türkiye
+142,C142,Customer 142,Consumer,Antalya,Türkiye
+143,C143,Customer 143,Small Business,Ankara,Türkiye
+144,C144,Customer 144,Small Business,Izmir,Türkiye
+145,C145,Customer 145,Consumer,Bursa,Türkiye
+146,C146,Customer 146,Consumer,Izmir,Türkiye
+147,C147,Customer 147,Small Business,Bursa,Türkiye
+148,C148,Customer 148,Corporate,Ankara,Türkiye
+149,C149,Customer 149,Small Business,Ankara,Türkiye
+150,C150,Customer 150,Small Business,Antalya,Türkiye
+151,C151,Customer 151,Corporate,Istanbul,Türkiye
+152,C152,Customer 152,Small Business,Istanbul,Türkiye
+153,C153,Customer 153,Consumer,Antalya,Türkiye
+154,C154,Customer 154,Consumer,Ankara,Türkiye
+155,C155,Customer 155,Small Business,Bursa,Türkiye
+156,C156,Customer 156,Small Business,Istanbul,Türkiye
+157,C157,Customer 157,Small Business,Bursa,Türkiye
+158,C158,Customer 158,Consumer,Bursa,Türkiye
+159,C159,Customer 159,Corporate,Izmir,Türkiye
+160,C160,Customer 160,Consumer,Ankara,Türkiye
+161,C161,Customer 161,Corporate,Izmir,Türkiye
+162,C162,Customer 162,Consumer,Ankara,Türkiye
+163,C163,Customer 163,Corporate,Izmir,Türkiye
+164,C164,Customer 164,Small Business,Bursa,Türkiye
+165,C165,Customer 165,Corporate,Ankara,Türkiye
+166,C166,Customer 166,Small Business,Bursa,Türkiye
+167,C167,Customer 167,Consumer,Ankara,Türkiye
+168,C168,Customer 168,Small Business,Istanbul,Türkiye
+169,C169,Customer 169,Small Business,Ankara,Türkiye
+170,C170,Customer 170,Corporate,Ankara,Türkiye
+171,C171,Customer 171,Small Business,Izmir,Türkiye
+172,C172,Customer 172,Corporate,Bursa,Türkiye
+173,C173,Customer 173,Corporate,Antalya,Türkiye
+174,C174,Customer 174,Consumer,Antalya,Türkiye
+175,C175,Customer 175,Consumer,Ankara,Türkiye
+176,C176,Customer 176,Corporate,Bursa,Türkiye
+177,C177,Customer 177,Small Business,Ankara,Türkiye
+178,C178,Customer 178,Small Business,Bursa,Türkiye
+179,C179,Customer 179,Corporate,Ankara,Türkiye
+180,C180,Customer 180,Corporate,Istanbul,Türkiye

@@ -1,0 +1,1038 @@
+LineID,OrderID,OrderDate,CustomerID,CustomerName,Segment,CustomerCity,CustomerCountry,ProductID,ProductName,Category,Brand,StoreID,StoreName,StoreCity,StoreCountry,Channel,Quantity,DiscountPct,SalesAmount,CostAmount,ProfitAmount
+1,ORD-0001,2026-05-30,C118,Customer 118,Small Business,Antalya,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S03,Izmir Coast,Izmir,Türkiye,Retail,4,0,316,168,148
+2,ORD-0002,2026-06-13,C047,Customer 047,Small Business,Antalya,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S02,Ankara Hub,Ankara,Türkiye,Retail,2,0,68,36,32
+3,ORD-0003,2026-04-06,C012,Customer 012,Small Business,Istanbul,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S02,Ankara Hub,Ankara,Türkiye,Retail,4,0.15,268.6,168,100.6
+4,ORD-0003,2026-04-06,C012,Customer 012,Small Business,Istanbul,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S02,Ankara Hub,Ankara,Türkiye,Retail,5,0.15,144.5,90,54.5
+5,ORD-0004,2026-02-04,C019,Customer 019,Consumer,Antalya,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S04,Online Türkiye,Türkiye,Türkiye,Online,4,0.1,428.4,252,176.4
+6,ORD-0005,2026-03-24,C123,Customer 123,Corporate,Bursa,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S02,Ankara Hub,Ankara,Türkiye,Retail,2,0,238,126,112
+7,ORD-0005,2026-03-24,C123,Customer 123,Corporate,Bursa,Türkiye,P012,4K Monitor,Displays,ViewMax,S02,Ankara Hub,Ankara,Türkiye,Retail,1,0.1,359.1,225,134.1
+8,ORD-0006,2026-07-19,C106,Customer 106,Consumer,Antalya,Türkiye,P008,Desk Lamp,Office,BrightCo,S03,Izmir Coast,Izmir,Türkiye,Retail,1,0,45,20,25
+9,ORD-0007,2026-02-04,C029,Customer 029,Consumer,Istanbul,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S04,Online Türkiye,Türkiye,Türkiye,Online,1,0.05,208.05,115,93.05
+10,ORD-0008,2026-06-28,C015,Customer 015,Consumer,Antalya,Türkiye,P003,USB-C Hub,Accessories,Connectix,S02,Ankara Hub,Ankara,Türkiye,Retail,3,0,165,84,81
+11,ORD-0008,2026-06-28,C015,Customer 015,Consumer,Antalya,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S02,Ankara Hub,Ankara,Türkiye,Retail,3,0,747,435,312
+12,ORD-0009,2026-06-21,C028,Customer 028,Small Business,Istanbul,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S03,Izmir Coast,Izmir,Türkiye,Retail,2,0,238,126,112
+13,ORD-0009,2026-06-21,C028,Customer 028,Small Business,Istanbul,Türkiye,P003,USB-C Hub,Accessories,Connectix,S03,Izmir Coast,Izmir,Türkiye,Retail,1,0.05,52.25,28,24.25
+14,ORD-0010,2026-02-27,C065,Customer 065,Small Business,Ankara,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S02,Ankara Hub,Ankara,Türkiye,Retail,5,0.1,220.5,110,110.5
+15,ORD-0011,2026-06-26,C085,Customer 085,Consumer,Ankara,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S03,Izmir Coast,Izmir,Türkiye,Retail,4,0,876,460,416
+16,ORD-0011,2026-06-26,C085,Customer 085,Consumer,Ankara,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S03,Izmir Coast,Izmir,Türkiye,Retail,1,0.15,41.65,22,19.65
+17,ORD-0012,2026-05-13,C106,Customer 106,Consumer,Antalya,Türkiye,P007,Webcam Pro,Video,VisionLab,S01,Istanbul Central,Istanbul,Türkiye,Retail,5,0.15,378.25,220,158.25
+18,ORD-0012,2026-05-13,C106,Customer 106,Consumer,Antalya,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S01,Istanbul Central,Istanbul,Türkiye,Retail,2,0.05,150.1,84,66.1
+19,ORD-0013,2026-01-31,C135,Customer 135,Small Business,Ankara,Türkiye,P008,Desk Lamp,Office,BrightCo,S02,Ankara Hub,Ankara,Türkiye,Retail,1,0,45,20,25
+20,ORD-0014,2026-04-04,C049,Customer 049,Consumer,Bursa,Türkiye,P003,USB-C Hub,Accessories,Connectix,S01,Istanbul Central,Istanbul,Türkiye,Retail,1,0.05,52.25,28,24.25
+21,ORD-0014,2026-04-04,C049,Customer 049,Consumer,Bursa,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S01,Istanbul Central,Istanbul,Türkiye,Retail,4,0,300,144,156
+22,ORD-0015,2026-02-13,C152,Customer 152,Small Business,Istanbul,Türkiye,P008,Desk Lamp,Office,BrightCo,S04,Online Türkiye,Türkiye,Türkiye,Online,2,0,90,40,50
+23,ORD-0015,2026-02-13,C152,Customer 152,Small Business,Istanbul,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S04,Online Türkiye,Türkiye,Türkiye,Online,1,0,49,22,27
+24,ORD-0016,2026-01-11,C124,Customer 124,Small Business,Izmir,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S02,Ankara Hub,Ankara,Türkiye,Retail,5,0.15,208.25,110,98.25
+25,ORD-0017,2026-06-09,C032,Customer 032,Consumer,Antalya,Türkiye,P012,4K Monitor,Displays,ViewMax,S03,Izmir Coast,Izmir,Türkiye,Retail,5,0.05,1895.25,1125,770.25
+26,ORD-0017,2026-06-09,C032,Customer 032,Consumer,Antalya,Türkiye,P012,4K Monitor,Displays,ViewMax,S03,Izmir Coast,Izmir,Türkiye,Retail,2,0,798,450,348
+27,ORD-0018,2026-06-28,C055,Customer 055,Corporate,Ankara,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S01,Istanbul Central,Istanbul,Türkiye,Retail,4,0,136,72,64
+28,ORD-0019,2026-03-15,C125,Customer 125,Corporate,Bursa,Türkiye,P003,USB-C Hub,Accessories,Connectix,S02,Ankara Hub,Ankara,Türkiye,Retail,2,0.1,99.0,56,43.0
+29,ORD-0019,2026-03-15,C125,Customer 125,Corporate,Bursa,Türkiye,P012,4K Monitor,Displays,ViewMax,S02,Ankara Hub,Ankara,Türkiye,Retail,3,0,1197,675,522
+30,ORD-0020,2026-06-19,C025,Customer 025,Corporate,Izmir,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S03,Izmir Coast,Izmir,Türkiye,Retail,5,0,170,90,80
+31,ORD-0020,2026-06-19,C025,Customer 025,Corporate,Izmir,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S03,Izmir Coast,Izmir,Türkiye,Retail,3,0,237,126,111
+32,ORD-0020,2026-06-19,C025,Customer 025,Corporate,Izmir,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S03,Izmir Coast,Izmir,Türkiye,Retail,5,0.15,590.75,390,200.75
+33,ORD-0021,2026-06-24,C120,Customer 120,Consumer,Ankara,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S04,Online Türkiye,Türkiye,Türkiye,Online,2,0.15,134.3,84,50.3
+34,ORD-0021,2026-06-24,C120,Customer 120,Consumer,Ankara,Türkiye,P012,4K Monitor,Displays,ViewMax,S04,Online Türkiye,Türkiye,Türkiye,Online,5,0,1995,1125,870
+35,ORD-0022,2026-05-17,C116,Customer 116,Small Business,Istanbul,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S03,Izmir Coast,Izmir,Türkiye,Retail,2,0.05,150.1,84,66.1
+36,ORD-0023,2026-07-10,C136,Customer 136,Consumer,Ankara,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S03,Izmir Coast,Izmir,Türkiye,Retail,2,0.1,88.2,44,44.2
+37,ORD-0023,2026-07-10,C136,Customer 136,Consumer,Ankara,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S03,Izmir Coast,Izmir,Türkiye,Retail,1,0,119,63,56
+38,ORD-0024,2026-02-15,C095,Customer 095,Consumer,Istanbul,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S03,Izmir Coast,Izmir,Türkiye,Retail,5,0.05,565.25,315,250.25
+39,ORD-0024,2026-02-15,C095,Customer 095,Consumer,Istanbul,Türkiye,P008,Desk Lamp,Office,BrightCo,S03,Izmir Coast,Izmir,Türkiye,Retail,5,0,225,100,125
+40,ORD-0025,2026-03-02,C027,Customer 027,Corporate,Izmir,Türkiye,P007,Webcam Pro,Video,VisionLab,S01,Istanbul Central,Istanbul,Türkiye,Retail,1,0.15,75.65,44,31.65
+41,ORD-0025,2026-03-02,C027,Customer 027,Corporate,Izmir,Türkiye,P008,Desk Lamp,Office,BrightCo,S01,Istanbul Central,Istanbul,Türkiye,Retail,2,0.15,76.5,40,36.5
+42,ORD-0026,2026-04-04,C083,Customer 083,Consumer,Izmir,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S01,Istanbul Central,Istanbul,Türkiye,Retail,1,0,119,63,56
+43,ORD-0027,2026-03-06,C090,Customer 090,Corporate,Izmir,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S03,Izmir Coast,Izmir,Türkiye,Retail,2,0.15,372.3,230,142.3
+44,ORD-0027,2026-03-06,C090,Customer 090,Corporate,Izmir,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S03,Izmir Coast,Izmir,Türkiye,Retail,3,0.1,321.3,189,132.3
+45,ORD-0028,2026-03-25,C136,Customer 136,Consumer,Ankara,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S01,Istanbul Central,Istanbul,Türkiye,Retail,1,0,75,36,39
+46,ORD-0029,2026-02-14,C168,Customer 168,Small Business,Istanbul,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S02,Ankara Hub,Ankara,Türkiye,Retail,1,0,49,22,27
+47,ORD-0029,2026-02-14,C168,Customer 168,Small Business,Istanbul,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S02,Ankara Hub,Ankara,Türkiye,Retail,5,0.05,232.75,110,122.75
+48,ORD-0029,2026-02-14,C168,Customer 168,Small Business,Istanbul,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S02,Ankara Hub,Ankara,Türkiye,Retail,1,0.05,208.05,115,93.05
+49,ORD-0030,2026-06-27,C147,Customer 147,Small Business,Bursa,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S02,Ankara Hub,Ankara,Türkiye,Retail,2,0.1,394.2,230,164.2
+50,ORD-0030,2026-06-27,C147,Customer 147,Small Business,Bursa,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S02,Ankara Hub,Ankara,Türkiye,Retail,5,0,245,110,135
+51,ORD-0030,2026-06-27,C147,Customer 147,Small Business,Bursa,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S02,Ankara Hub,Ankara,Türkiye,Retail,1,0.05,113.05,63,50.05
+52,ORD-0031,2026-07-06,C042,Customer 042,Small Business,Istanbul,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S02,Ankara Hub,Ankara,Türkiye,Retail,1,0,139,78,61
+53,ORD-0032,2026-07-22,C127,Customer 127,Corporate,Izmir,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S02,Ankara Hub,Ankara,Türkiye,Retail,3,0,417,234,183
+54,ORD-0033,2026-01-19,C159,Customer 159,Corporate,Izmir,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S02,Ankara Hub,Ankara,Türkiye,Retail,1,0.05,113.05,63,50.05
+55,ORD-0034,2026-07-23,C023,Customer 023,Consumer,Izmir,Türkiye,P012,4K Monitor,Displays,ViewMax,S01,Istanbul Central,Istanbul,Türkiye,Retail,5,0.05,1895.25,1125,770.25
+56,ORD-0035,2026-05-30,C123,Customer 123,Corporate,Bursa,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S01,Istanbul Central,Istanbul,Türkiye,Retail,1,0,34,18,16
+57,ORD-0036,2026-06-25,C136,Customer 136,Consumer,Ankara,Türkiye,P008,Desk Lamp,Office,BrightCo,S03,Izmir Coast,Izmir,Türkiye,Retail,4,0,180,80,100
+58,ORD-0037,2026-02-24,C078,Customer 078,Consumer,Istanbul,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S04,Online Türkiye,Türkiye,Türkiye,Online,4,0,996,580,416
+59,ORD-0038,2026-07-30,C017,Customer 017,Corporate,Istanbul,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S03,Izmir Coast,Izmir,Türkiye,Retail,1,0.1,224.1,145,79.1
+60,ORD-0039,2026-01-22,C176,Customer 176,Corporate,Bursa,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S02,Ankara Hub,Ankara,Türkiye,Retail,4,0.05,832.2,460,372.2
+61,ORD-0039,2026-01-22,C176,Customer 176,Corporate,Bursa,Türkiye,P007,Webcam Pro,Video,VisionLab,S02,Ankara Hub,Ankara,Türkiye,Retail,5,0,445,220,225
+62,ORD-0040,2026-07-07,C132,Customer 132,Small Business,Antalya,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S01,Istanbul Central,Istanbul,Türkiye,Retail,5,0.15,208.25,110,98.25
+63,ORD-0041,2026-07-23,C135,Customer 135,Small Business,Ankara,Türkiye,P003,USB-C Hub,Accessories,Connectix,S02,Ankara Hub,Ankara,Türkiye,Retail,4,0,220,112,108
+64,ORD-0042,2026-06-19,C087,Customer 087,Small Business,Izmir,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S02,Ankara Hub,Ankara,Türkiye,Retail,4,0.1,788.4,460,328.4
+65,ORD-0042,2026-06-19,C087,Customer 087,Small Business,Izmir,Türkiye,P008,Desk Lamp,Office,BrightCo,S02,Ankara Hub,Ankara,Türkiye,Retail,1,0.15,38.25,20,18.25
+66,ORD-0043,2026-01-16,C076,Customer 076,Corporate,Ankara,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S03,Izmir Coast,Izmir,Türkiye,Retail,1,0.1,30.6,18,12.6
+67,ORD-0044,2026-03-12,C065,Customer 065,Small Business,Ankara,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S01,Istanbul Central,Istanbul,Türkiye,Retail,1,0.05,46.55,22,24.55
+68,ORD-0044,2026-03-12,C065,Customer 065,Small Business,Ankara,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S01,Istanbul Central,Istanbul,Türkiye,Retail,3,0,225,108,117
+69,ORD-0044,2026-03-12,C065,Customer 065,Small Business,Ankara,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S01,Istanbul Central,Istanbul,Türkiye,Retail,1,0,49,22,27
+70,ORD-0045,2026-07-16,C058,Customer 058,Consumer,Izmir,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S01,Istanbul Central,Istanbul,Türkiye,Retail,4,0.15,846.6,580,266.6
+71,ORD-0045,2026-07-16,C058,Customer 058,Consumer,Izmir,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S01,Istanbul Central,Istanbul,Türkiye,Retail,4,0.05,186.2,88,98.2
+72,ORD-0046,2026-04-19,C168,Customer 168,Small Business,Istanbul,Türkiye,P003,USB-C Hub,Accessories,Connectix,S02,Ankara Hub,Ankara,Türkiye,Retail,2,0,110,56,54
+73,ORD-0047,2026-05-08,C176,Customer 176,Corporate,Bursa,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S03,Izmir Coast,Izmir,Türkiye,Retail,5,0,170,90,80
+74,ORD-0047,2026-05-08,C176,Customer 176,Corporate,Bursa,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S03,Izmir Coast,Izmir,Türkiye,Retail,3,0.15,86.7,54,32.7
+75,ORD-0047,2026-05-08,C176,Customer 176,Corporate,Bursa,Türkiye,P007,Webcam Pro,Video,VisionLab,S03,Izmir Coast,Izmir,Türkiye,Retail,5,0,445,220,225
+76,ORD-0048,2026-07-30,C044,Customer 044,Corporate,Antalya,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S04,Online Türkiye,Türkiye,Türkiye,Online,1,0,49,22,27
+77,ORD-0049,2026-06-17,C167,Customer 167,Consumer,Ankara,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S02,Ankara Hub,Ankara,Türkiye,Retail,3,0,225,108,117
+78,ORD-0049,2026-06-17,C167,Customer 167,Consumer,Ankara,Türkiye,P012,4K Monitor,Displays,ViewMax,S02,Ankara Hub,Ankara,Türkiye,Retail,1,0.05,379.05,225,154.05
+79,ORD-0050,2026-06-16,C024,Customer 024,Corporate,Izmir,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S01,Istanbul Central,Istanbul,Türkiye,Retail,4,0.05,186.2,88,98.2
+80,ORD-0051,2026-07-22,C073,Customer 073,Consumer,Istanbul,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S01,Istanbul Central,Istanbul,Türkiye,Retail,2,0,98,44,54
+81,ORD-0052,2026-04-26,C153,Customer 153,Consumer,Antalya,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S03,Izmir Coast,Izmir,Türkiye,Retail,1,0,249,145,104
+82,ORD-0052,2026-04-26,C153,Customer 153,Consumer,Antalya,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S03,Izmir Coast,Izmir,Türkiye,Retail,2,0,98,44,54
+83,ORD-0053,2026-03-29,C134,Customer 134,Consumer,Izmir,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S03,Izmir Coast,Izmir,Türkiye,Retail,2,0.15,372.3,230,142.3
+84,ORD-0054,2026-06-27,C056,Customer 056,Small Business,Izmir,Türkiye,P012,4K Monitor,Displays,ViewMax,S01,Istanbul Central,Istanbul,Türkiye,Retail,4,0.15,1356.6,900,456.6
+85,ORD-0055,2026-03-21,C157,Customer 157,Small Business,Bursa,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S02,Ankara Hub,Ankara,Türkiye,Retail,4,0,136,72,64
+86,ORD-0056,2026-03-19,C027,Customer 027,Corporate,Izmir,Türkiye,P003,USB-C Hub,Accessories,Connectix,S01,Istanbul Central,Istanbul,Türkiye,Retail,2,0,110,56,54
+87,ORD-0057,2026-02-05,C035,Customer 035,Small Business,Ankara,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S04,Online Türkiye,Türkiye,Türkiye,Online,1,0.15,67.15,42,25.15
+88,ORD-0057,2026-02-05,C035,Customer 035,Small Business,Ankara,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S04,Online Türkiye,Türkiye,Türkiye,Online,5,0,1245,725,520
+89,ORD-0058,2026-02-25,C017,Customer 017,Corporate,Istanbul,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S02,Ankara Hub,Ankara,Türkiye,Retail,2,0.15,57.8,36,21.8
+90,ORD-0059,2026-06-13,C169,Customer 169,Small Business,Ankara,Türkiye,P008,Desk Lamp,Office,BrightCo,S03,Izmir Coast,Izmir,Türkiye,Retail,4,0.05,171.0,80,91.0
+91,ORD-0059,2026-06-13,C169,Customer 169,Small Business,Ankara,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S03,Izmir Coast,Izmir,Türkiye,Retail,5,0,695,390,305
+92,ORD-0060,2026-03-03,C035,Customer 035,Small Business,Ankara,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S01,Istanbul Central,Istanbul,Türkiye,Retail,2,0.15,202.3,126,76.3
+93,ORD-0061,2026-06-02,C037,Customer 037,Consumer,Izmir,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S02,Ankara Hub,Ankara,Türkiye,Retail,1,0.15,211.65,145,66.65
+94,ORD-0062,2026-06-05,C111,Customer 111,Small Business,Izmir,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S01,Istanbul Central,Istanbul,Türkiye,Retail,1,0,79,42,37
+95,ORD-0063,2026-04-04,C153,Customer 153,Consumer,Antalya,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S03,Izmir Coast,Izmir,Türkiye,Retail,5,0,395,210,185
+96,ORD-0063,2026-04-04,C153,Customer 153,Consumer,Antalya,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S03,Izmir Coast,Izmir,Türkiye,Retail,5,0.05,232.75,110,122.75
+97,ORD-0064,2026-06-28,C090,Customer 090,Corporate,Izmir,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S01,Istanbul Central,Istanbul,Türkiye,Retail,3,0,747,435,312
+98,ORD-0065,2026-07-07,C149,Customer 149,Small Business,Ankara,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S02,Ankara Hub,Ankara,Türkiye,Retail,1,0.15,28.9,18,10.9
+99,ORD-0066,2026-04-30,C058,Customer 058,Consumer,Izmir,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S01,Istanbul Central,Istanbul,Türkiye,Retail,2,0.15,57.8,36,21.8
+100,ORD-0066,2026-04-30,C058,Customer 058,Consumer,Izmir,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S01,Istanbul Central,Istanbul,Türkiye,Retail,5,0.15,930.75,575,355.75
+101,ORD-0066,2026-04-30,C058,Customer 058,Consumer,Izmir,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S01,Istanbul Central,Istanbul,Türkiye,Retail,2,0.15,423.3,290,133.3
+102,ORD-0067,2026-05-13,C164,Customer 164,Small Business,Bursa,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S03,Izmir Coast,Izmir,Türkiye,Retail,4,0.15,166.6,88,78.6
+103,ORD-0068,2026-05-10,C044,Customer 044,Corporate,Antalya,Türkiye,P008,Desk Lamp,Office,BrightCo,S02,Ankara Hub,Ankara,Türkiye,Retail,5,0,225,100,125
+104,ORD-0069,2026-03-10,C086,Customer 086,Consumer,Antalya,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S04,Online Türkiye,Türkiye,Türkiye,Online,3,0.1,321.3,189,132.3
+105,ORD-0070,2026-03-31,C120,Customer 120,Consumer,Ankara,Türkiye,P008,Desk Lamp,Office,BrightCo,S04,Online Türkiye,Türkiye,Türkiye,Online,4,0,180,80,100
+106,ORD-0071,2026-05-31,C017,Customer 017,Corporate,Istanbul,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S04,Online Türkiye,Türkiye,Türkiye,Online,1,0.15,118.15,78,40.15
+107,ORD-0072,2026-02-19,C092,Customer 092,Small Business,Antalya,Türkiye,P008,Desk Lamp,Office,BrightCo,S03,Izmir Coast,Izmir,Türkiye,Retail,1,0.1,40.5,20,20.5
+108,ORD-0073,2026-06-01,C152,Customer 152,Small Business,Istanbul,Türkiye,P012,4K Monitor,Displays,ViewMax,S01,Istanbul Central,Istanbul,Türkiye,Retail,4,0.1,1436.4,900,536.4
+109,ORD-0073,2026-06-01,C152,Customer 152,Small Business,Istanbul,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S01,Istanbul Central,Istanbul,Türkiye,Retail,2,0.1,250.2,156,94.2
+110,ORD-0074,2026-06-08,C180,Customer 180,Corporate,Istanbul,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S02,Ankara Hub,Ankara,Türkiye,Retail,3,0.1,91.8,54,37.8
+111,ORD-0075,2026-05-08,C136,Customer 136,Consumer,Ankara,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S02,Ankara Hub,Ankara,Türkiye,Retail,2,0.05,150.1,84,66.1
+112,ORD-0075,2026-05-08,C136,Customer 136,Consumer,Ankara,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S02,Ankara Hub,Ankara,Türkiye,Retail,4,0.05,452.2,252,200.2
+113,ORD-0076,2026-05-29,C079,Customer 079,Small Business,Antalya,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S04,Online Türkiye,Türkiye,Türkiye,Online,2,0,278,156,122
+114,ORD-0077,2026-01-10,C054,Customer 054,Consumer,Istanbul,Türkiye,P012,4K Monitor,Displays,ViewMax,S02,Ankara Hub,Ankara,Türkiye,Retail,5,0.1,1795.5,1125,670.5
+115,ORD-0078,2026-07-09,C045,Customer 045,Consumer,Bursa,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S01,Istanbul Central,Istanbul,Türkiye,Retail,1,0.15,211.65,145,66.65
+116,ORD-0078,2026-07-09,C045,Customer 045,Consumer,Bursa,Türkiye,P007,Webcam Pro,Video,VisionLab,S01,Istanbul Central,Istanbul,Türkiye,Retail,5,0.05,422.75,220,202.75
+117,ORD-0078,2026-07-09,C045,Customer 045,Consumer,Bursa,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S01,Istanbul Central,Istanbul,Türkiye,Retail,3,0.15,124.95,66,58.95
+118,ORD-0079,2026-04-06,C049,Customer 049,Consumer,Bursa,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S02,Ankara Hub,Ankara,Türkiye,Retail,3,0,417,234,183
+119,ORD-0080,2026-03-11,C163,Customer 163,Corporate,Izmir,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S03,Izmir Coast,Izmir,Türkiye,Retail,1,0,249,145,104
+120,ORD-0081,2026-05-23,C088,Customer 088,Corporate,Istanbul,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S04,Online Türkiye,Türkiye,Türkiye,Online,3,0,657,345,312
+121,ORD-0082,2026-06-27,C004,Customer 004,Small Business,Istanbul,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S03,Izmir Coast,Izmir,Türkiye,Retail,3,0,102,54,48
+122,ORD-0082,2026-06-27,C004,Customer 004,Small Business,Istanbul,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S03,Izmir Coast,Izmir,Türkiye,Retail,1,0,79,42,37
+123,ORD-0083,2026-03-14,C140,Customer 140,Small Business,Ankara,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S01,Istanbul Central,Istanbul,Türkiye,Retail,3,0.05,96.9,54,42.9
+124,ORD-0083,2026-03-14,C140,Customer 140,Small Business,Ankara,Türkiye,P007,Webcam Pro,Video,VisionLab,S01,Istanbul Central,Istanbul,Türkiye,Retail,2,0.15,151.3,88,63.3
+125,ORD-0083,2026-03-14,C140,Customer 140,Small Business,Ankara,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S01,Istanbul Central,Istanbul,Türkiye,Retail,5,0,595,315,280
+126,ORD-0084,2026-01-28,C093,Customer 093,Small Business,Izmir,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S02,Ankara Hub,Ankara,Türkiye,Retail,4,0.05,452.2,252,200.2
+127,ORD-0085,2026-04-23,C128,Customer 128,Consumer,Antalya,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S01,Istanbul Central,Istanbul,Türkiye,Retail,1,0,34,18,16
+128,ORD-0085,2026-04-23,C128,Customer 128,Consumer,Antalya,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S01,Istanbul Central,Istanbul,Türkiye,Retail,1,0.1,30.6,18,12.6
+129,ORD-0086,2026-03-06,C111,Customer 111,Small Business,Izmir,Türkiye,P003,USB-C Hub,Accessories,Connectix,S01,Istanbul Central,Istanbul,Türkiye,Retail,3,0.05,156.75,84,72.75
+130,ORD-0086,2026-03-06,C111,Customer 111,Small Business,Izmir,Türkiye,P008,Desk Lamp,Office,BrightCo,S01,Istanbul Central,Istanbul,Türkiye,Retail,5,0,225,100,125
+131,ORD-0086,2026-03-06,C111,Customer 111,Small Business,Izmir,Türkiye,P012,4K Monitor,Displays,ViewMax,S01,Istanbul Central,Istanbul,Türkiye,Retail,2,0.15,678.3,450,228.3
+132,ORD-0087,2026-07-17,C107,Customer 107,Small Business,Izmir,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S03,Izmir Coast,Izmir,Türkiye,Retail,1,0,249,145,104
+133,ORD-0088,2026-02-18,C084,Customer 084,Consumer,Istanbul,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S04,Online Türkiye,Türkiye,Türkiye,Online,5,0,595,315,280
+134,ORD-0089,2026-01-10,C168,Customer 168,Small Business,Istanbul,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S03,Izmir Coast,Izmir,Türkiye,Retail,5,0,595,315,280
+135,ORD-0090,2026-02-14,C136,Customer 136,Consumer,Ankara,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S03,Izmir Coast,Izmir,Türkiye,Retail,5,0,595,315,280
+136,ORD-0091,2026-04-28,C123,Customer 123,Corporate,Bursa,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S01,Istanbul Central,Istanbul,Türkiye,Retail,1,0,75,36,39
+137,ORD-0092,2026-07-31,C122,Customer 122,Consumer,Antalya,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S01,Istanbul Central,Istanbul,Türkiye,Retail,1,0.1,224.1,145,79.1
+138,ORD-0092,2026-07-31,C122,Customer 122,Consumer,Antalya,Türkiye,P003,USB-C Hub,Accessories,Connectix,S01,Istanbul Central,Istanbul,Türkiye,Retail,4,0,220,112,108
+139,ORD-0092,2026-07-31,C122,Customer 122,Consumer,Antalya,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S01,Istanbul Central,Istanbul,Türkiye,Retail,3,0.1,132.3,66,66.3
+140,ORD-0093,2026-01-21,C167,Customer 167,Consumer,Ankara,Türkiye,P003,USB-C Hub,Accessories,Connectix,S04,Online Türkiye,Türkiye,Türkiye,Online,4,0.1,198.0,112,86.0
+141,ORD-0094,2026-01-29,C179,Customer 179,Corporate,Ankara,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S03,Izmir Coast,Izmir,Türkiye,Retail,2,0,98,44,54
+142,ORD-0095,2026-06-19,C104,Customer 104,Small Business,Istanbul,Türkiye,P008,Desk Lamp,Office,BrightCo,S04,Online Türkiye,Türkiye,Türkiye,Online,1,0.15,38.25,20,18.25
+143,ORD-0096,2026-07-23,C163,Customer 163,Corporate,Izmir,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S03,Izmir Coast,Izmir,Türkiye,Retail,4,0.1,270.0,144,126.0
+144,ORD-0097,2026-06-13,C028,Customer 028,Small Business,Istanbul,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S04,Online Türkiye,Türkiye,Türkiye,Online,5,0,1095,575,520
+145,ORD-0098,2026-05-01,C128,Customer 128,Consumer,Antalya,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S02,Ankara Hub,Ankara,Türkiye,Retail,1,0,75,36,39
+146,ORD-0099,2026-02-22,C074,Customer 074,Consumer,Istanbul,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S03,Izmir Coast,Izmir,Türkiye,Retail,5,0,375,180,195
+147,ORD-0100,2026-04-19,C039,Customer 039,Small Business,Ankara,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S01,Istanbul Central,Istanbul,Türkiye,Retail,3,0.05,213.75,108,105.75
+148,ORD-0101,2026-04-23,C107,Customer 107,Small Business,Izmir,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S04,Online Türkiye,Türkiye,Türkiye,Online,3,0,417,234,183
+149,ORD-0101,2026-04-23,C107,Customer 107,Small Business,Izmir,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S04,Online Türkiye,Türkiye,Türkiye,Online,2,0.15,83.3,44,39.3
+150,ORD-0102,2026-07-18,C108,Customer 108,Small Business,Antalya,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S04,Online Türkiye,Türkiye,Türkiye,Online,1,0.1,125.1,78,47.1
+151,ORD-0103,2026-06-27,C114,Customer 114,Corporate,Antalya,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S02,Ankara Hub,Ankara,Türkiye,Retail,4,0.05,300.2,168,132.2
+152,ORD-0104,2026-05-22,C099,Customer 099,Consumer,Ankara,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S01,Istanbul Central,Istanbul,Türkiye,Retail,3,0.05,213.75,108,105.75
+153,ORD-0105,2026-04-12,C152,Customer 152,Small Business,Istanbul,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S01,Istanbul Central,Istanbul,Türkiye,Retail,2,0.1,250.2,156,94.2
+154,ORD-0106,2026-06-03,C174,Customer 174,Consumer,Antalya,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S01,Istanbul Central,Istanbul,Türkiye,Retail,5,0,1095,575,520
+155,ORD-0107,2026-05-02,C024,Customer 024,Corporate,Izmir,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S02,Ankara Hub,Ankara,Türkiye,Retail,4,0.05,186.2,88,98.2
+156,ORD-0108,2026-07-07,C149,Customer 149,Small Business,Ankara,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S03,Izmir Coast,Izmir,Türkiye,Retail,4,0,196,88,108
+157,ORD-0109,2026-04-09,C044,Customer 044,Corporate,Antalya,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S04,Online Türkiye,Türkiye,Türkiye,Online,5,0.05,1182.75,725,457.75
+158,ORD-0109,2026-04-09,C044,Customer 044,Corporate,Antalya,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S04,Online Türkiye,Türkiye,Türkiye,Online,3,0.15,354.45,234,120.45
+159,ORD-0109,2026-04-09,C044,Customer 044,Corporate,Antalya,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S04,Online Türkiye,Türkiye,Türkiye,Online,1,0.05,71.25,36,35.25
+160,ORD-0110,2026-02-01,C074,Customer 074,Consumer,Istanbul,Türkiye,P003,USB-C Hub,Accessories,Connectix,S01,Istanbul Central,Istanbul,Türkiye,Retail,2,0.05,104.5,56,48.5
+161,ORD-0111,2026-07-05,C025,Customer 025,Corporate,Izmir,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S02,Ankara Hub,Ankara,Türkiye,Retail,4,0.1,176.4,88,88.4
+162,ORD-0112,2026-04-20,C160,Customer 160,Consumer,Ankara,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S02,Ankara Hub,Ankara,Türkiye,Retail,4,0,996,580,416
+163,ORD-0113,2026-03-13,C067,Customer 067,Corporate,Bursa,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S04,Online Türkiye,Türkiye,Türkiye,Online,3,0.05,225.15,126,99.15
+164,ORD-0114,2026-03-24,C074,Customer 074,Consumer,Istanbul,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S02,Ankara Hub,Ankara,Türkiye,Retail,5,0.15,1058.25,725,333.25
+165,ORD-0115,2026-02-28,C165,Customer 165,Corporate,Ankara,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S04,Online Türkiye,Türkiye,Türkiye,Online,2,0,150,72,78
+166,ORD-0116,2026-04-28,C007,Customer 007,Corporate,Ankara,Türkiye,P003,USB-C Hub,Accessories,Connectix,S03,Izmir Coast,Izmir,Türkiye,Retail,1,0,55,28,27
+167,ORD-0117,2026-04-24,C024,Customer 024,Corporate,Izmir,Türkiye,P008,Desk Lamp,Office,BrightCo,S02,Ankara Hub,Ankara,Türkiye,Retail,2,0.05,85.5,40,45.5
+168,ORD-0118,2026-05-21,C169,Customer 169,Small Business,Ankara,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S03,Izmir Coast,Izmir,Türkiye,Retail,1,0.15,63.75,36,27.75
+169,ORD-0119,2026-04-16,C102,Customer 102,Corporate,Istanbul,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S04,Online Türkiye,Türkiye,Türkiye,Online,4,0,300,144,156
+170,ORD-0120,2026-06-18,C110,Customer 110,Small Business,Istanbul,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S02,Ankara Hub,Ankara,Türkiye,Retail,3,0,747,435,312
+171,ORD-0121,2026-02-18,C062,Customer 062,Small Business,Istanbul,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S03,Izmir Coast,Izmir,Türkiye,Retail,5,0,1245,725,520
+172,ORD-0122,2026-07-13,C161,Customer 161,Corporate,Izmir,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S01,Istanbul Central,Istanbul,Türkiye,Retail,5,0.1,153.0,90,63.0
+173,ORD-0123,2026-06-17,C008,Customer 008,Consumer,Ankara,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S03,Izmir Coast,Izmir,Türkiye,Retail,3,0,357,189,168
+174,ORD-0124,2026-06-08,C062,Customer 062,Small Business,Istanbul,Türkiye,P007,Webcam Pro,Video,VisionLab,S03,Izmir Coast,Izmir,Türkiye,Retail,3,0.1,240.3,132,108.3
+175,ORD-0125,2026-05-29,C022,Customer 022,Corporate,Bursa,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S03,Izmir Coast,Izmir,Türkiye,Retail,1,0.05,71.25,36,35.25
+176,ORD-0125,2026-05-29,C022,Customer 022,Corporate,Bursa,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S03,Izmir Coast,Izmir,Türkiye,Retail,5,0.15,208.25,110,98.25
+177,ORD-0126,2026-05-31,C062,Customer 062,Small Business,Istanbul,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S01,Istanbul Central,Istanbul,Türkiye,Retail,2,0.05,64.6,36,28.6
+178,ORD-0126,2026-05-31,C062,Customer 062,Small Business,Istanbul,Türkiye,P012,4K Monitor,Displays,ViewMax,S01,Istanbul Central,Istanbul,Türkiye,Retail,2,0,798,450,348
+179,ORD-0127,2026-05-11,C084,Customer 084,Consumer,Istanbul,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S01,Istanbul Central,Istanbul,Türkiye,Retail,5,0.05,565.25,315,250.25
+180,ORD-0127,2026-05-11,C084,Customer 084,Consumer,Istanbul,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S01,Istanbul Central,Istanbul,Türkiye,Retail,3,0,357,189,168
+181,ORD-0128,2026-06-16,C174,Customer 174,Consumer,Antalya,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S04,Online Türkiye,Türkiye,Türkiye,Online,5,0.1,535.5,315,220.5
+182,ORD-0129,2026-02-07,C109,Customer 109,Consumer,Izmir,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S03,Izmir Coast,Izmir,Türkiye,Retail,2,0.15,372.3,230,142.3
+183,ORD-0130,2026-06-04,C014,Customer 014,Small Business,Istanbul,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S01,Istanbul Central,Istanbul,Türkiye,Retail,4,0,136,72,64
+184,ORD-0130,2026-06-04,C014,Customer 014,Small Business,Istanbul,Türkiye,P012,4K Monitor,Displays,ViewMax,S01,Istanbul Central,Istanbul,Türkiye,Retail,5,0,1995,1125,870
+185,ORD-0131,2026-04-07,C087,Customer 087,Small Business,Izmir,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S03,Izmir Coast,Izmir,Türkiye,Retail,5,0,170,90,80
+186,ORD-0131,2026-04-07,C087,Customer 087,Small Business,Izmir,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S03,Izmir Coast,Izmir,Türkiye,Retail,4,0,476,252,224
+187,ORD-0131,2026-04-07,C087,Customer 087,Small Business,Izmir,Türkiye,P003,USB-C Hub,Accessories,Connectix,S03,Izmir Coast,Izmir,Türkiye,Retail,2,0,110,56,54
+188,ORD-0132,2026-02-13,C169,Customer 169,Small Business,Ankara,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S01,Istanbul Central,Istanbul,Türkiye,Retail,4,0.15,268.6,168,100.6
+189,ORD-0133,2026-06-18,C134,Customer 134,Consumer,Izmir,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S04,Online Türkiye,Türkiye,Türkiye,Online,3,0,102,54,48
+190,ORD-0134,2026-06-22,C098,Customer 098,Consumer,Antalya,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S04,Online Türkiye,Türkiye,Türkiye,Online,1,0,49,22,27
+191,ORD-0134,2026-06-22,C098,Customer 098,Consumer,Antalya,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S04,Online Türkiye,Türkiye,Türkiye,Online,4,0,876,460,416
+192,ORD-0134,2026-06-22,C098,Customer 098,Consumer,Antalya,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S04,Online Türkiye,Türkiye,Türkiye,Online,3,0,747,435,312
+193,ORD-0135,2026-02-14,C164,Customer 164,Small Business,Bursa,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S04,Online Türkiye,Türkiye,Türkiye,Online,2,0.05,264.1,156,108.1
+194,ORD-0135,2026-02-14,C164,Customer 164,Small Business,Bursa,Türkiye,P012,4K Monitor,Displays,ViewMax,S04,Online Türkiye,Türkiye,Türkiye,Online,4,0.05,1516.2,900,616.2
+195,ORD-0136,2026-07-29,C083,Customer 083,Consumer,Izmir,Türkiye,P012,4K Monitor,Displays,ViewMax,S03,Izmir Coast,Izmir,Türkiye,Retail,1,0.05,379.05,225,154.05
+196,ORD-0136,2026-07-29,C083,Customer 083,Consumer,Izmir,Türkiye,P008,Desk Lamp,Office,BrightCo,S03,Izmir Coast,Izmir,Türkiye,Retail,2,0.05,85.5,40,45.5
+197,ORD-0137,2026-07-26,C045,Customer 045,Consumer,Bursa,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S03,Izmir Coast,Izmir,Türkiye,Retail,5,0,1245,725,520
+198,ORD-0138,2026-04-08,C075,Customer 075,Corporate,Izmir,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S01,Istanbul Central,Istanbul,Türkiye,Retail,4,0,196,88,108
+199,ORD-0139,2026-04-20,C145,Customer 145,Consumer,Bursa,Türkiye,P003,USB-C Hub,Accessories,Connectix,S02,Ankara Hub,Ankara,Türkiye,Retail,3,0.15,140.25,84,56.25
+200,ORD-0139,2026-04-20,C145,Customer 145,Consumer,Bursa,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S02,Ankara Hub,Ankara,Türkiye,Retail,5,0,395,210,185
+201,ORD-0140,2026-02-14,C170,Customer 170,Corporate,Ankara,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S02,Ankara Hub,Ankara,Türkiye,Retail,2,0,278,156,122
+202,ORD-0141,2026-06-30,C148,Customer 148,Corporate,Ankara,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S02,Ankara Hub,Ankara,Türkiye,Retail,5,0,1245,725,520
+203,ORD-0141,2026-06-30,C148,Customer 148,Corporate,Ankara,Türkiye,P008,Desk Lamp,Office,BrightCo,S02,Ankara Hub,Ankara,Türkiye,Retail,3,0,135,60,75
+204,ORD-0142,2026-01-03,C044,Customer 044,Corporate,Antalya,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S03,Izmir Coast,Izmir,Türkiye,Retail,3,0,357,189,168
+205,ORD-0143,2026-06-12,C061,Customer 061,Corporate,Bursa,Türkiye,P007,Webcam Pro,Video,VisionLab,S01,Istanbul Central,Istanbul,Türkiye,Retail,5,0.15,378.25,220,158.25
+206,ORD-0144,2026-04-14,C120,Customer 120,Consumer,Ankara,Türkiye,P003,USB-C Hub,Accessories,Connectix,S02,Ankara Hub,Ankara,Türkiye,Retail,2,0,110,56,54
+207,ORD-0145,2026-03-13,C026,Customer 026,Corporate,Bursa,Türkiye,P012,4K Monitor,Displays,ViewMax,S01,Istanbul Central,Istanbul,Türkiye,Retail,4,0.1,1436.4,900,536.4
+208,ORD-0146,2026-02-16,C141,Customer 141,Consumer,Ankara,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S01,Istanbul Central,Istanbul,Türkiye,Retail,1,0.1,125.1,78,47.1
+209,ORD-0147,2026-07-23,C151,Customer 151,Corporate,Istanbul,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S04,Online Türkiye,Türkiye,Türkiye,Online,5,0,245,110,135
+210,ORD-0147,2026-07-23,C151,Customer 151,Corporate,Istanbul,Türkiye,P012,4K Monitor,Displays,ViewMax,S04,Online Türkiye,Türkiye,Türkiye,Online,5,0.15,1695.75,1125,570.75
+211,ORD-0147,2026-07-23,C151,Customer 151,Corporate,Istanbul,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S04,Online Türkiye,Türkiye,Türkiye,Online,5,0,170,90,80
+212,ORD-0148,2026-02-12,C134,Customer 134,Consumer,Izmir,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S04,Online Türkiye,Türkiye,Türkiye,Online,5,0.05,375.25,210,165.25
+213,ORD-0149,2026-07-24,C052,Customer 052,Small Business,Izmir,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S04,Online Türkiye,Türkiye,Türkiye,Online,3,0.1,591.3,345,246.3
+214,ORD-0149,2026-07-24,C052,Customer 052,Small Business,Izmir,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S04,Online Türkiye,Türkiye,Türkiye,Online,3,0,747,435,312
+215,ORD-0150,2026-04-30,C171,Customer 171,Small Business,Izmir,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S03,Izmir Coast,Izmir,Türkiye,Retail,2,0,278,156,122
+216,ORD-0151,2026-03-19,C096,Customer 096,Consumer,Istanbul,Türkiye,P008,Desk Lamp,Office,BrightCo,S04,Online Türkiye,Türkiye,Türkiye,Online,3,0.1,121.5,60,61.5
+217,ORD-0151,2026-03-19,C096,Customer 096,Consumer,Istanbul,Türkiye,P012,4K Monitor,Displays,ViewMax,S04,Online Türkiye,Türkiye,Türkiye,Online,1,0.05,379.05,225,154.05
+218,ORD-0152,2026-06-21,C158,Customer 158,Consumer,Bursa,Türkiye,P012,4K Monitor,Displays,ViewMax,S02,Ankara Hub,Ankara,Türkiye,Retail,4,0.1,1436.4,900,536.4
+219,ORD-0153,2026-07-15,C149,Customer 149,Small Business,Ankara,Türkiye,P003,USB-C Hub,Accessories,Connectix,S03,Izmir Coast,Izmir,Türkiye,Retail,5,0.15,233.75,140,93.75
+220,ORD-0153,2026-07-15,C149,Customer 149,Small Business,Ankara,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S03,Izmir Coast,Izmir,Türkiye,Retail,5,0.15,144.5,90,54.5
+221,ORD-0154,2026-06-25,C148,Customer 148,Corporate,Ankara,Türkiye,P008,Desk Lamp,Office,BrightCo,S04,Online Türkiye,Türkiye,Türkiye,Online,4,0.15,153.0,80,73.0
+222,ORD-0154,2026-06-25,C148,Customer 148,Corporate,Ankara,Türkiye,P007,Webcam Pro,Video,VisionLab,S04,Online Türkiye,Türkiye,Türkiye,Online,2,0.05,169.1,88,81.1
+223,ORD-0155,2026-02-16,C133,Customer 133,Consumer,Bursa,Türkiye,P003,USB-C Hub,Accessories,Connectix,S04,Online Türkiye,Türkiye,Türkiye,Online,2,0,110,56,54
+224,ORD-0156,2026-05-06,C137,Customer 137,Corporate,Bursa,Türkiye,P007,Webcam Pro,Video,VisionLab,S03,Izmir Coast,Izmir,Türkiye,Retail,3,0.05,253.65,132,121.65
+225,ORD-0156,2026-05-06,C137,Customer 137,Corporate,Bursa,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S03,Izmir Coast,Izmir,Türkiye,Retail,5,0,1245,725,520
+226,ORD-0157,2026-03-26,C109,Customer 109,Consumer,Izmir,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S02,Ankara Hub,Ankara,Türkiye,Retail,5,0,1095,575,520
+227,ORD-0157,2026-03-26,C109,Customer 109,Consumer,Izmir,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S02,Ankara Hub,Ankara,Türkiye,Retail,2,0.05,64.6,36,28.6
+228,ORD-0158,2026-04-29,C091,Customer 091,Small Business,Istanbul,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S03,Izmir Coast,Izmir,Türkiye,Retail,2,0.05,416.1,230,186.1
+229,ORD-0159,2026-04-04,C151,Customer 151,Corporate,Istanbul,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S04,Online Türkiye,Türkiye,Türkiye,Online,2,0.15,134.3,84,50.3
+230,ORD-0160,2026-07-14,C008,Customer 008,Consumer,Ankara,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S02,Ankara Hub,Ankara,Türkiye,Retail,5,0,1245,725,520
+231,ORD-0160,2026-07-14,C008,Customer 008,Consumer,Ankara,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S02,Ankara Hub,Ankara,Türkiye,Retail,1,0,79,42,37
+232,ORD-0161,2026-07-15,C086,Customer 086,Consumer,Antalya,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S03,Izmir Coast,Izmir,Türkiye,Retail,1,0,219,115,104
+233,ORD-0161,2026-07-15,C086,Customer 086,Consumer,Antalya,Türkiye,P003,USB-C Hub,Accessories,Connectix,S03,Izmir Coast,Izmir,Türkiye,Retail,5,0.1,247.5,140,107.5
+234,ORD-0162,2026-06-15,C109,Customer 109,Consumer,Izmir,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S04,Online Türkiye,Türkiye,Türkiye,Online,3,0.05,225.15,126,99.15
+235,ORD-0162,2026-06-15,C109,Customer 109,Consumer,Izmir,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S04,Online Türkiye,Türkiye,Türkiye,Online,2,0,158,84,74
+236,ORD-0162,2026-06-15,C109,Customer 109,Consumer,Izmir,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S04,Online Türkiye,Türkiye,Türkiye,Online,2,0.05,264.1,156,108.1
+237,ORD-0163,2026-05-13,C084,Customer 084,Consumer,Istanbul,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S02,Ankara Hub,Ankara,Türkiye,Retail,4,0,300,144,156
+238,ORD-0163,2026-05-13,C084,Customer 084,Consumer,Istanbul,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S02,Ankara Hub,Ankara,Türkiye,Retail,1,0.05,75.05,42,33.05
+239,ORD-0164,2026-03-30,C005,Customer 005,Corporate,Antalya,Türkiye,P008,Desk Lamp,Office,BrightCo,S01,Istanbul Central,Istanbul,Türkiye,Retail,2,0,90,40,50
+240,ORD-0165,2026-02-16,C068,Customer 068,Small Business,Ankara,Türkiye,P003,USB-C Hub,Accessories,Connectix,S01,Istanbul Central,Istanbul,Türkiye,Retail,5,0,275,140,135
+241,ORD-0165,2026-02-16,C068,Customer 068,Small Business,Ankara,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S01,Istanbul Central,Istanbul,Türkiye,Retail,2,0,158,84,74
+242,ORD-0166,2026-06-05,C122,Customer 122,Consumer,Antalya,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S03,Izmir Coast,Izmir,Türkiye,Retail,3,0,237,126,111
+243,ORD-0167,2026-02-07,C129,Customer 129,Corporate,Istanbul,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S01,Istanbul Central,Istanbul,Türkiye,Retail,1,0,34,18,16
+244,ORD-0167,2026-02-07,C129,Customer 129,Corporate,Istanbul,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S01,Istanbul Central,Istanbul,Türkiye,Retail,1,0.15,28.9,18,10.9
+245,ORD-0168,2026-05-21,C171,Customer 171,Small Business,Izmir,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S04,Online Türkiye,Türkiye,Türkiye,Online,1,0.05,71.25,36,35.25
+246,ORD-0169,2026-05-03,C089,Customer 089,Small Business,Bursa,Türkiye,P003,USB-C Hub,Accessories,Connectix,S02,Ankara Hub,Ankara,Türkiye,Retail,1,0,55,28,27
+247,ORD-0170,2026-06-16,C053,Customer 053,Small Business,Istanbul,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S04,Online Türkiye,Türkiye,Türkiye,Online,2,0.05,264.1,156,108.1
+248,ORD-0171,2026-03-05,C062,Customer 062,Small Business,Istanbul,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S03,Izmir Coast,Izmir,Türkiye,Retail,5,0,1245,725,520
+249,ORD-0171,2026-03-05,C062,Customer 062,Small Business,Istanbul,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S03,Izmir Coast,Izmir,Türkiye,Retail,4,0,556,312,244
+250,ORD-0172,2026-03-13,C106,Customer 106,Consumer,Antalya,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S03,Izmir Coast,Izmir,Türkiye,Retail,1,0,249,145,104
+251,ORD-0173,2026-07-17,C062,Customer 062,Small Business,Istanbul,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S03,Izmir Coast,Izmir,Türkiye,Retail,2,0.15,202.3,126,76.3
+252,ORD-0174,2026-04-23,C030,Customer 030,Consumer,Bursa,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S01,Istanbul Central,Istanbul,Türkiye,Retail,3,0.1,321.3,189,132.3
+253,ORD-0175,2026-04-03,C017,Customer 017,Corporate,Istanbul,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S01,Istanbul Central,Istanbul,Türkiye,Retail,4,0.1,500.4,312,188.4
+254,ORD-0175,2026-04-03,C017,Customer 017,Corporate,Istanbul,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S01,Istanbul Central,Istanbul,Türkiye,Retail,2,0,68,36,32
+255,ORD-0175,2026-04-03,C017,Customer 017,Corporate,Istanbul,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S01,Istanbul Central,Istanbul,Türkiye,Retail,3,0,237,126,111
+256,ORD-0176,2026-06-16,C009,Customer 009,Corporate,Izmir,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S03,Izmir Coast,Izmir,Türkiye,Retail,4,0.1,176.4,88,88.4
+257,ORD-0176,2026-06-16,C009,Customer 009,Corporate,Izmir,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S03,Izmir Coast,Izmir,Türkiye,Retail,2,0,158,84,74
+258,ORD-0177,2026-05-01,C095,Customer 095,Consumer,Istanbul,Türkiye,P008,Desk Lamp,Office,BrightCo,S03,Izmir Coast,Izmir,Türkiye,Retail,3,0.05,128.25,60,68.25
+259,ORD-0177,2026-05-01,C095,Customer 095,Consumer,Istanbul,Türkiye,P012,4K Monitor,Displays,ViewMax,S03,Izmir Coast,Izmir,Türkiye,Retail,4,0.1,1436.4,900,536.4
+260,ORD-0178,2026-05-05,C070,Customer 070,Consumer,Istanbul,Türkiye,P003,USB-C Hub,Accessories,Connectix,S03,Izmir Coast,Izmir,Türkiye,Retail,3,0,165,84,81
+261,ORD-0178,2026-05-05,C070,Customer 070,Consumer,Istanbul,Türkiye,P003,USB-C Hub,Accessories,Connectix,S03,Izmir Coast,Izmir,Türkiye,Retail,5,0,275,140,135
+262,ORD-0179,2026-05-15,C075,Customer 075,Corporate,Izmir,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S04,Online Türkiye,Türkiye,Türkiye,Online,2,0.05,416.1,230,186.1
+263,ORD-0180,2026-03-17,C180,Customer 180,Corporate,Istanbul,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S03,Izmir Coast,Izmir,Türkiye,Retail,4,0,476,252,224
+264,ORD-0181,2026-07-31,C144,Customer 144,Small Business,Izmir,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S01,Istanbul Central,Istanbul,Türkiye,Retail,4,0,476,252,224
+265,ORD-0181,2026-07-31,C144,Customer 144,Small Business,Izmir,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S01,Istanbul Central,Istanbul,Türkiye,Retail,1,0.1,107.1,63,44.1
+266,ORD-0182,2026-04-14,C106,Customer 106,Consumer,Antalya,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S01,Istanbul Central,Istanbul,Türkiye,Retail,3,0.1,91.8,54,37.8
+267,ORD-0182,2026-04-14,C106,Customer 106,Consumer,Antalya,Türkiye,P007,Webcam Pro,Video,VisionLab,S01,Istanbul Central,Istanbul,Türkiye,Retail,4,0,356,176,180
+268,ORD-0183,2026-06-14,C049,Customer 049,Consumer,Bursa,Türkiye,P008,Desk Lamp,Office,BrightCo,S01,Istanbul Central,Istanbul,Türkiye,Retail,3,0.1,121.5,60,61.5
+269,ORD-0184,2026-05-30,C034,Customer 034,Small Business,Bursa,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S02,Ankara Hub,Ankara,Türkiye,Retail,4,0.15,472.6,312,160.6
+270,ORD-0184,2026-05-30,C034,Customer 034,Small Business,Bursa,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S02,Ankara Hub,Ankara,Türkiye,Retail,3,0,417,234,183
+271,ORD-0184,2026-05-30,C034,Customer 034,Small Business,Bursa,Türkiye,P007,Webcam Pro,Video,VisionLab,S02,Ankara Hub,Ankara,Türkiye,Retail,1,0,89,44,45
+272,ORD-0185,2026-02-02,C124,Customer 124,Small Business,Izmir,Türkiye,P008,Desk Lamp,Office,BrightCo,S04,Online Türkiye,Türkiye,Türkiye,Online,5,0.15,191.25,100,91.25
+273,ORD-0185,2026-02-02,C124,Customer 124,Small Business,Izmir,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S04,Online Türkiye,Türkiye,Türkiye,Online,4,0.05,832.2,460,372.2
+274,ORD-0186,2026-05-01,C089,Customer 089,Small Business,Bursa,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S03,Izmir Coast,Izmir,Türkiye,Retail,2,0.15,134.3,84,50.3
+275,ORD-0187,2026-04-28,C080,Customer 080,Consumer,Izmir,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S04,Online Türkiye,Türkiye,Türkiye,Online,1,0.1,197.1,115,82.1
+276,ORD-0187,2026-04-28,C080,Customer 080,Consumer,Izmir,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S04,Online Türkiye,Türkiye,Türkiye,Online,3,0.15,558.45,345,213.45
+277,ORD-0188,2026-01-06,C048,Customer 048,Consumer,Bursa,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S01,Istanbul Central,Istanbul,Türkiye,Retail,1,0.15,186.15,115,71.15
+278,ORD-0189,2026-07-27,C156,Customer 156,Small Business,Istanbul,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S04,Online Türkiye,Türkiye,Türkiye,Online,1,0.05,113.05,63,50.05
+279,ORD-0189,2026-07-27,C156,Customer 156,Small Business,Istanbul,Türkiye,P008,Desk Lamp,Office,BrightCo,S04,Online Türkiye,Türkiye,Türkiye,Online,2,0,90,40,50
+280,ORD-0190,2026-04-22,C018,Customer 018,Consumer,Bursa,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S03,Izmir Coast,Izmir,Türkiye,Retail,1,0,249,145,104
+281,ORD-0191,2026-07-02,C105,Customer 105,Corporate,Antalya,Türkiye,P007,Webcam Pro,Video,VisionLab,S01,Istanbul Central,Istanbul,Türkiye,Retail,5,0,445,220,225
+282,ORD-0192,2026-06-10,C054,Customer 054,Consumer,Istanbul,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S01,Istanbul Central,Istanbul,Türkiye,Retail,2,0.05,264.1,156,108.1
+283,ORD-0193,2026-01-09,C057,Customer 057,Consumer,Istanbul,Türkiye,P003,USB-C Hub,Accessories,Connectix,S01,Istanbul Central,Istanbul,Türkiye,Retail,4,0,220,112,108
+284,ORD-0194,2026-05-20,C063,Customer 063,Small Business,Izmir,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S04,Online Türkiye,Türkiye,Türkiye,Online,1,0.05,113.05,63,50.05
+285,ORD-0195,2026-04-05,C019,Customer 019,Consumer,Antalya,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S03,Izmir Coast,Izmir,Türkiye,Retail,2,0,158,84,74
+286,ORD-0196,2026-05-26,C168,Customer 168,Small Business,Istanbul,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S01,Istanbul Central,Istanbul,Türkiye,Retail,1,0,34,18,16
+287,ORD-0196,2026-05-26,C168,Customer 168,Small Business,Istanbul,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S01,Istanbul Central,Istanbul,Türkiye,Retail,4,0.15,268.6,168,100.6
+288,ORD-0197,2026-04-03,C072,Customer 072,Corporate,Ankara,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S04,Online Türkiye,Türkiye,Türkiye,Online,1,0.1,44.1,22,22.1
+289,ORD-0198,2026-05-01,C069,Customer 069,Consumer,Izmir,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S03,Izmir Coast,Izmir,Türkiye,Retail,4,0,556,312,244
+290,ORD-0199,2026-04-02,C038,Customer 038,Consumer,Antalya,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S03,Izmir Coast,Izmir,Türkiye,Retail,5,0,375,180,195
+291,ORD-0199,2026-04-02,C038,Customer 038,Consumer,Antalya,Türkiye,P008,Desk Lamp,Office,BrightCo,S03,Izmir Coast,Izmir,Türkiye,Retail,4,0.05,171.0,80,91.0
+292,ORD-0200,2026-03-20,C131,Customer 131,Small Business,Istanbul,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S01,Istanbul Central,Istanbul,Türkiye,Retail,5,0.15,505.75,315,190.75
+293,ORD-0200,2026-03-20,C131,Customer 131,Small Business,Istanbul,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S01,Istanbul Central,Istanbul,Türkiye,Retail,5,0,395,210,185
+294,ORD-0201,2026-06-21,C179,Customer 179,Corporate,Ankara,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S02,Ankara Hub,Ankara,Türkiye,Retail,2,0.1,142.2,84,58.2
+295,ORD-0201,2026-06-21,C179,Customer 179,Corporate,Ankara,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S02,Ankara Hub,Ankara,Türkiye,Retail,4,0,476,252,224
+296,ORD-0202,2026-06-30,C161,Customer 161,Corporate,Izmir,Türkiye,P007,Webcam Pro,Video,VisionLab,S01,Istanbul Central,Istanbul,Türkiye,Retail,2,0,178,88,90
+297,ORD-0202,2026-06-30,C161,Customer 161,Corporate,Izmir,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S01,Istanbul Central,Istanbul,Türkiye,Retail,1,0.1,125.1,78,47.1
+298,ORD-0202,2026-06-30,C161,Customer 161,Corporate,Izmir,Türkiye,P003,USB-C Hub,Accessories,Connectix,S01,Istanbul Central,Istanbul,Türkiye,Retail,5,0.1,247.5,140,107.5
+299,ORD-0203,2026-03-19,C100,Customer 100,Corporate,Antalya,Türkiye,P007,Webcam Pro,Video,VisionLab,S01,Istanbul Central,Istanbul,Türkiye,Retail,4,0.15,302.6,176,126.6
+300,ORD-0203,2026-03-19,C100,Customer 100,Corporate,Antalya,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S01,Istanbul Central,Istanbul,Türkiye,Retail,5,0,695,390,305
+301,ORD-0204,2026-06-26,C072,Customer 072,Corporate,Ankara,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S01,Istanbul Central,Istanbul,Türkiye,Retail,3,0,102,54,48
+302,ORD-0204,2026-06-26,C072,Customer 072,Corporate,Ankara,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S01,Istanbul Central,Istanbul,Türkiye,Retail,3,0,657,345,312
+303,ORD-0204,2026-06-26,C072,Customer 072,Corporate,Ankara,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S01,Istanbul Central,Istanbul,Türkiye,Retail,2,0,150,72,78
+304,ORD-0205,2026-06-20,C076,Customer 076,Corporate,Ankara,Türkiye,P008,Desk Lamp,Office,BrightCo,S04,Online Türkiye,Türkiye,Türkiye,Online,1,0,45,20,25
+305,ORD-0206,2026-04-18,C032,Customer 032,Consumer,Antalya,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S04,Online Türkiye,Türkiye,Türkiye,Online,4,0.1,122.4,72,50.4
+306,ORD-0206,2026-04-18,C032,Customer 032,Consumer,Antalya,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S04,Online Türkiye,Türkiye,Türkiye,Online,5,0,245,110,135
+307,ORD-0207,2026-02-26,C069,Customer 069,Consumer,Izmir,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S04,Online Türkiye,Türkiye,Türkiye,Online,3,0,747,435,312
+308,ORD-0207,2026-02-26,C069,Customer 069,Consumer,Izmir,Türkiye,P012,4K Monitor,Displays,ViewMax,S04,Online Türkiye,Türkiye,Türkiye,Online,3,0.15,1017.45,675,342.45
+309,ORD-0207,2026-02-26,C069,Customer 069,Consumer,Izmir,Türkiye,P003,USB-C Hub,Accessories,Connectix,S04,Online Türkiye,Türkiye,Türkiye,Online,5,0,275,140,135
+310,ORD-0208,2026-02-05,C166,Customer 166,Small Business,Bursa,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S03,Izmir Coast,Izmir,Türkiye,Retail,1,0.15,63.75,36,27.75
+311,ORD-0208,2026-02-05,C166,Customer 166,Small Business,Bursa,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S03,Izmir Coast,Izmir,Türkiye,Retail,4,0,136,72,64
+312,ORD-0209,2026-02-14,C018,Customer 018,Consumer,Bursa,Türkiye,P003,USB-C Hub,Accessories,Connectix,S01,Istanbul Central,Istanbul,Türkiye,Retail,4,0,220,112,108
+313,ORD-0209,2026-02-14,C018,Customer 018,Consumer,Bursa,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S01,Istanbul Central,Istanbul,Türkiye,Retail,1,0,139,78,61
+314,ORD-0210,2026-05-19,C046,Customer 046,Small Business,Ankara,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S02,Ankara Hub,Ankara,Türkiye,Retail,5,0.15,208.25,110,98.25
+315,ORD-0211,2026-07-29,C030,Customer 030,Consumer,Bursa,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S04,Online Türkiye,Türkiye,Türkiye,Online,1,0,219,115,104
+316,ORD-0212,2026-04-06,C005,Customer 005,Corporate,Antalya,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S03,Izmir Coast,Izmir,Türkiye,Retail,3,0,657,345,312
+317,ORD-0213,2026-03-14,C019,Customer 019,Consumer,Antalya,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S03,Izmir Coast,Izmir,Türkiye,Retail,3,0,102,54,48
+318,ORD-0213,2026-03-14,C019,Customer 019,Consumer,Antalya,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S03,Izmir Coast,Izmir,Türkiye,Retail,3,0,657,345,312
+319,ORD-0214,2026-02-06,C148,Customer 148,Corporate,Ankara,Türkiye,P003,USB-C Hub,Accessories,Connectix,S01,Istanbul Central,Istanbul,Türkiye,Retail,2,0.15,93.5,56,37.5
+320,ORD-0215,2026-02-25,C156,Customer 156,Small Business,Istanbul,Türkiye,P008,Desk Lamp,Office,BrightCo,S01,Istanbul Central,Istanbul,Türkiye,Retail,4,0,180,80,100
+321,ORD-0215,2026-02-25,C156,Customer 156,Small Business,Istanbul,Türkiye,P007,Webcam Pro,Video,VisionLab,S01,Istanbul Central,Istanbul,Türkiye,Retail,2,0,178,88,90
+322,ORD-0216,2026-04-13,C117,Customer 117,Consumer,Izmir,Türkiye,P012,4K Monitor,Displays,ViewMax,S04,Online Türkiye,Türkiye,Türkiye,Online,1,0,399,225,174
+323,ORD-0217,2026-06-18,C130,Customer 130,Small Business,Izmir,Türkiye,P012,4K Monitor,Displays,ViewMax,S01,Istanbul Central,Istanbul,Türkiye,Retail,3,0,1197,675,522
+324,ORD-0218,2026-02-04,C180,Customer 180,Corporate,Istanbul,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S01,Istanbul Central,Istanbul,Türkiye,Retail,3,0.05,139.65,66,73.65
+325,ORD-0219,2026-01-05,C016,Customer 016,Consumer,Izmir,Türkiye,P012,4K Monitor,Displays,ViewMax,S01,Istanbul Central,Istanbul,Türkiye,Retail,3,0,1197,675,522
+326,ORD-0219,2026-01-05,C016,Customer 016,Consumer,Izmir,Türkiye,P012,4K Monitor,Displays,ViewMax,S01,Istanbul Central,Istanbul,Türkiye,Retail,3,0.05,1137.15,675,462.15
+327,ORD-0219,2026-01-05,C016,Customer 016,Consumer,Izmir,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S01,Istanbul Central,Istanbul,Türkiye,Retail,1,0,139,78,61
+328,ORD-0220,2026-05-28,C175,Customer 175,Consumer,Ankara,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S01,Istanbul Central,Istanbul,Türkiye,Retail,3,0,417,234,183
+329,ORD-0221,2026-06-20,C057,Customer 057,Consumer,Istanbul,Türkiye,P007,Webcam Pro,Video,VisionLab,S04,Online Türkiye,Türkiye,Türkiye,Online,4,0.15,302.6,176,126.6
+330,ORD-0222,2026-07-04,C097,Customer 097,Small Business,Ankara,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S01,Istanbul Central,Istanbul,Türkiye,Retail,3,0.1,132.3,66,66.3
+331,ORD-0222,2026-07-04,C097,Customer 097,Small Business,Ankara,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S01,Istanbul Central,Istanbul,Türkiye,Retail,3,0.05,624.15,345,279.15
+332,ORD-0223,2026-06-23,C117,Customer 117,Consumer,Izmir,Türkiye,P007,Webcam Pro,Video,VisionLab,S04,Online Türkiye,Türkiye,Türkiye,Online,4,0.05,338.2,176,162.2
+333,ORD-0224,2026-01-25,C120,Customer 120,Consumer,Ankara,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S02,Ankara Hub,Ankara,Türkiye,Retail,1,0,249,145,104
+334,ORD-0225,2026-02-14,C112,Customer 112,Consumer,Ankara,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S04,Online Türkiye,Türkiye,Türkiye,Online,4,0.05,528.2,312,216.2
+335,ORD-0226,2026-06-26,C116,Customer 116,Small Business,Istanbul,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S03,Izmir Coast,Izmir,Türkiye,Retail,5,0.15,318.75,180,138.75
+336,ORD-0226,2026-06-26,C116,Customer 116,Small Business,Istanbul,Türkiye,P007,Webcam Pro,Video,VisionLab,S03,Izmir Coast,Izmir,Türkiye,Retail,1,0,89,44,45
+337,ORD-0226,2026-06-26,C116,Customer 116,Small Business,Istanbul,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S03,Izmir Coast,Izmir,Türkiye,Retail,5,0,170,90,80
+338,ORD-0227,2026-06-14,C173,Customer 173,Corporate,Antalya,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S04,Online Türkiye,Türkiye,Türkiye,Online,1,0,249,145,104
+339,ORD-0228,2026-06-07,C014,Customer 014,Small Business,Istanbul,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S03,Izmir Coast,Izmir,Türkiye,Retail,5,0,245,110,135
+340,ORD-0229,2026-06-06,C076,Customer 076,Corporate,Ankara,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S02,Ankara Hub,Ankara,Türkiye,Retail,3,0,102,54,48
+341,ORD-0230,2026-06-14,C130,Customer 130,Small Business,Izmir,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S04,Online Türkiye,Türkiye,Türkiye,Online,4,0,556,312,244
+342,ORD-0230,2026-06-14,C130,Customer 130,Small Business,Izmir,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S04,Online Türkiye,Türkiye,Türkiye,Online,2,0,158,84,74
+343,ORD-0231,2026-07-31,C096,Customer 096,Consumer,Istanbul,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S01,Istanbul Central,Istanbul,Türkiye,Retail,2,0,150,72,78
+344,ORD-0232,2026-06-01,C097,Customer 097,Small Business,Ankara,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S01,Istanbul Central,Istanbul,Türkiye,Retail,2,0.15,83.3,44,39.3
+345,ORD-0233,2026-06-03,C087,Customer 087,Small Business,Izmir,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S02,Ankara Hub,Ankara,Türkiye,Retail,1,0.05,71.25,36,35.25
+346,ORD-0233,2026-06-03,C087,Customer 087,Small Business,Izmir,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S02,Ankara Hub,Ankara,Türkiye,Retail,1,0,219,115,104
+347,ORD-0234,2026-01-16,C027,Customer 027,Corporate,Izmir,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S03,Izmir Coast,Izmir,Türkiye,Retail,1,0.1,30.6,18,12.6
+348,ORD-0234,2026-01-16,C027,Customer 027,Corporate,Izmir,Türkiye,P003,USB-C Hub,Accessories,Connectix,S03,Izmir Coast,Izmir,Türkiye,Retail,1,0,55,28,27
+349,ORD-0234,2026-01-16,C027,Customer 027,Corporate,Izmir,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S03,Izmir Coast,Izmir,Türkiye,Retail,2,0,68,36,32
+350,ORD-0235,2026-05-18,C168,Customer 168,Small Business,Istanbul,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S01,Istanbul Central,Istanbul,Türkiye,Retail,4,0,556,312,244
+351,ORD-0235,2026-05-18,C168,Customer 168,Small Business,Istanbul,Türkiye,P012,4K Monitor,Displays,ViewMax,S01,Istanbul Central,Istanbul,Türkiye,Retail,5,0.1,1795.5,1125,670.5
+352,ORD-0235,2026-05-18,C168,Customer 168,Small Business,Istanbul,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S01,Istanbul Central,Istanbul,Türkiye,Retail,3,0.05,624.15,345,279.15
+353,ORD-0236,2026-01-14,C058,Customer 058,Consumer,Izmir,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S02,Ankara Hub,Ankara,Türkiye,Retail,5,0,695,390,305
+354,ORD-0237,2026-02-06,C165,Customer 165,Corporate,Ankara,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S03,Izmir Coast,Izmir,Türkiye,Retail,1,0.15,67.15,42,25.15
+355,ORD-0237,2026-02-06,C165,Customer 165,Corporate,Ankara,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S03,Izmir Coast,Izmir,Türkiye,Retail,5,0,395,210,185
+356,ORD-0237,2026-02-06,C165,Customer 165,Corporate,Ankara,Türkiye,P007,Webcam Pro,Video,VisionLab,S03,Izmir Coast,Izmir,Türkiye,Retail,1,0.15,75.65,44,31.65
+357,ORD-0238,2026-06-24,C162,Customer 162,Consumer,Ankara,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S03,Izmir Coast,Izmir,Türkiye,Retail,5,0.15,590.75,390,200.75
+358,ORD-0238,2026-06-24,C162,Customer 162,Consumer,Ankara,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S03,Izmir Coast,Izmir,Türkiye,Retail,2,0.15,134.3,84,50.3
+359,ORD-0239,2026-04-01,C065,Customer 065,Small Business,Ankara,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S01,Istanbul Central,Istanbul,Türkiye,Retail,4,0,876,460,416
+360,ORD-0239,2026-04-01,C065,Customer 065,Small Business,Ankara,Türkiye,P008,Desk Lamp,Office,BrightCo,S01,Istanbul Central,Istanbul,Türkiye,Retail,4,0.1,162.0,80,82.0
+361,ORD-0240,2026-07-04,C097,Customer 097,Small Business,Ankara,Türkiye,P012,4K Monitor,Displays,ViewMax,S03,Izmir Coast,Izmir,Türkiye,Retail,3,0,1197,675,522
+362,ORD-0241,2026-04-25,C025,Customer 025,Corporate,Izmir,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S02,Ankara Hub,Ankara,Türkiye,Retail,4,0.15,268.6,168,100.6
+363,ORD-0241,2026-04-25,C025,Customer 025,Corporate,Izmir,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S02,Ankara Hub,Ankara,Türkiye,Retail,1,0,34,18,16
+364,ORD-0241,2026-04-25,C025,Customer 025,Corporate,Izmir,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S02,Ankara Hub,Ankara,Türkiye,Retail,2,0.15,134.3,84,50.3
+365,ORD-0242,2026-06-22,C010,Customer 010,Small Business,Istanbul,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S02,Ankara Hub,Ankara,Türkiye,Retail,2,0,98,44,54
+366,ORD-0243,2026-02-23,C073,Customer 073,Consumer,Istanbul,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S04,Online Türkiye,Türkiye,Türkiye,Online,5,0.15,335.75,210,125.75
+367,ORD-0244,2026-07-16,C165,Customer 165,Corporate,Ankara,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S04,Online Türkiye,Türkiye,Türkiye,Online,5,0,375,180,195
+368,ORD-0244,2026-07-16,C165,Customer 165,Corporate,Ankara,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S04,Online Türkiye,Türkiye,Türkiye,Online,3,0.15,191.25,108,83.25
+369,ORD-0244,2026-07-16,C165,Customer 165,Corporate,Ankara,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S04,Online Türkiye,Türkiye,Türkiye,Online,5,0.05,161.5,90,71.5
+370,ORD-0245,2026-03-29,C172,Customer 172,Corporate,Bursa,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S04,Online Türkiye,Türkiye,Türkiye,Online,5,0,1095,575,520
+371,ORD-0245,2026-03-29,C172,Customer 172,Corporate,Bursa,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S04,Online Türkiye,Türkiye,Türkiye,Online,1,0,249,145,104
+372,ORD-0246,2026-02-27,C152,Customer 152,Small Business,Istanbul,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S03,Izmir Coast,Izmir,Türkiye,Retail,3,0,147,66,81
+373,ORD-0246,2026-02-27,C152,Customer 152,Small Business,Istanbul,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S03,Izmir Coast,Izmir,Türkiye,Retail,2,0,68,36,32
+374,ORD-0247,2026-01-18,C165,Customer 165,Corporate,Ankara,Türkiye,P008,Desk Lamp,Office,BrightCo,S01,Istanbul Central,Istanbul,Türkiye,Retail,5,0,225,100,125
+375,ORD-0247,2026-01-18,C165,Customer 165,Corporate,Ankara,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S01,Istanbul Central,Istanbul,Türkiye,Retail,1,0.15,211.65,145,66.65
+376,ORD-0247,2026-01-18,C165,Customer 165,Corporate,Ankara,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S01,Istanbul Central,Istanbul,Türkiye,Retail,4,0,136,72,64
+377,ORD-0248,2026-05-18,C001,Customer 001,Small Business,Bursa,Türkiye,P003,USB-C Hub,Accessories,Connectix,S04,Online Türkiye,Türkiye,Türkiye,Online,1,0,55,28,27
+378,ORD-0248,2026-05-18,C001,Customer 001,Small Business,Bursa,Türkiye,P012,4K Monitor,Displays,ViewMax,S04,Online Türkiye,Türkiye,Türkiye,Online,5,0,1995,1125,870
+379,ORD-0249,2026-06-11,C096,Customer 096,Consumer,Istanbul,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S02,Ankara Hub,Ankara,Türkiye,Retail,2,0,438,230,208
+380,ORD-0250,2026-05-17,C024,Customer 024,Corporate,Izmir,Türkiye,P003,USB-C Hub,Accessories,Connectix,S01,Istanbul Central,Istanbul,Türkiye,Retail,1,0,55,28,27
+381,ORD-0251,2026-04-19,C007,Customer 007,Corporate,Ankara,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S02,Ankara Hub,Ankara,Türkiye,Retail,3,0,102,54,48
+382,ORD-0252,2026-05-02,C060,Customer 060,Small Business,Izmir,Türkiye,P003,USB-C Hub,Accessories,Connectix,S04,Online Türkiye,Türkiye,Türkiye,Online,3,0,165,84,81
+383,ORD-0253,2026-06-13,C135,Customer 135,Small Business,Ankara,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S01,Istanbul Central,Istanbul,Türkiye,Retail,5,0,1245,725,520
+384,ORD-0254,2026-05-27,C003,Customer 003,Corporate,Izmir,Türkiye,P007,Webcam Pro,Video,VisionLab,S04,Online Türkiye,Türkiye,Türkiye,Online,4,0,356,176,180
+385,ORD-0255,2026-07-16,C175,Customer 175,Consumer,Ankara,Türkiye,P008,Desk Lamp,Office,BrightCo,S01,Istanbul Central,Istanbul,Türkiye,Retail,4,0,180,80,100
+386,ORD-0255,2026-07-16,C175,Customer 175,Consumer,Ankara,Türkiye,P008,Desk Lamp,Office,BrightCo,S01,Istanbul Central,Istanbul,Türkiye,Retail,4,0.05,171.0,80,91.0
+387,ORD-0256,2026-06-29,C118,Customer 118,Small Business,Antalya,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S04,Online Türkiye,Türkiye,Türkiye,Online,2,0.1,214.2,126,88.2
+388,ORD-0256,2026-06-29,C118,Customer 118,Small Business,Antalya,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S04,Online Türkiye,Türkiye,Türkiye,Online,3,0.05,624.15,345,279.15
+389,ORD-0257,2026-02-12,C049,Customer 049,Consumer,Bursa,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S01,Istanbul Central,Istanbul,Türkiye,Retail,4,0,996,580,416
+390,ORD-0257,2026-02-12,C049,Customer 049,Consumer,Bursa,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S01,Istanbul Central,Istanbul,Türkiye,Retail,4,0.05,186.2,88,98.2
+391,ORD-0257,2026-02-12,C049,Customer 049,Consumer,Bursa,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S01,Istanbul Central,Istanbul,Türkiye,Retail,3,0,417,234,183
+392,ORD-0258,2026-01-08,C112,Customer 112,Consumer,Ankara,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S01,Istanbul Central,Istanbul,Türkiye,Retail,4,0.05,285.0,144,141.0
+393,ORD-0258,2026-01-08,C112,Customer 112,Consumer,Ankara,Türkiye,P008,Desk Lamp,Office,BrightCo,S01,Istanbul Central,Istanbul,Türkiye,Retail,3,0.15,114.75,60,54.75
+394,ORD-0259,2026-06-06,C043,Customer 043,Corporate,Ankara,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S01,Istanbul Central,Istanbul,Türkiye,Retail,5,0.15,590.75,390,200.75
+395,ORD-0259,2026-06-06,C043,Customer 043,Corporate,Ankara,Türkiye,P008,Desk Lamp,Office,BrightCo,S01,Istanbul Central,Istanbul,Türkiye,Retail,3,0,135,60,75
+396,ORD-0260,2026-06-04,C153,Customer 153,Consumer,Antalya,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S03,Izmir Coast,Izmir,Türkiye,Retail,5,0.15,208.25,110,98.25
+397,ORD-0260,2026-06-04,C153,Customer 153,Consumer,Antalya,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S03,Izmir Coast,Izmir,Türkiye,Retail,2,0.15,372.3,230,142.3
+398,ORD-0261,2026-07-18,C021,Customer 021,Corporate,Ankara,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S02,Ankara Hub,Ankara,Türkiye,Retail,1,0.1,30.6,18,12.6
+399,ORD-0262,2026-06-09,C051,Customer 051,Consumer,Antalya,Türkiye,P007,Webcam Pro,Video,VisionLab,S02,Ankara Hub,Ankara,Türkiye,Retail,3,0,267,132,135
+400,ORD-0263,2026-06-05,C080,Customer 080,Consumer,Izmir,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S03,Izmir Coast,Izmir,Türkiye,Retail,5,0.15,505.75,315,190.75
+401,ORD-0264,2026-04-22,C080,Customer 080,Consumer,Izmir,Türkiye,P012,4K Monitor,Displays,ViewMax,S02,Ankara Hub,Ankara,Türkiye,Retail,4,0.05,1516.2,900,616.2
+402,ORD-0264,2026-04-22,C080,Customer 080,Consumer,Izmir,Türkiye,P008,Desk Lamp,Office,BrightCo,S02,Ankara Hub,Ankara,Türkiye,Retail,4,0.15,153.0,80,73.0
+403,ORD-0264,2026-04-22,C080,Customer 080,Consumer,Izmir,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S02,Ankara Hub,Ankara,Türkiye,Retail,2,0,158,84,74
+404,ORD-0265,2026-07-10,C170,Customer 170,Corporate,Ankara,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S03,Izmir Coast,Izmir,Türkiye,Retail,3,0.15,201.45,126,75.45
+405,ORD-0265,2026-07-10,C170,Customer 170,Corporate,Ankara,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S03,Izmir Coast,Izmir,Türkiye,Retail,2,0,278,156,122
+406,ORD-0266,2026-01-27,C103,Customer 103,Small Business,Bursa,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S02,Ankara Hub,Ankara,Türkiye,Retail,5,0,170,90,80
+407,ORD-0267,2026-07-08,C088,Customer 088,Corporate,Istanbul,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S04,Online Türkiye,Türkiye,Türkiye,Online,5,0,245,110,135
+408,ORD-0268,2026-02-20,C041,Customer 041,Corporate,Bursa,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S04,Online Türkiye,Türkiye,Türkiye,Online,3,0,747,435,312
+409,ORD-0269,2026-03-23,C008,Customer 008,Consumer,Ankara,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S01,Istanbul Central,Istanbul,Türkiye,Retail,2,0,278,156,122
+410,ORD-0269,2026-03-23,C008,Customer 008,Consumer,Ankara,Türkiye,P003,USB-C Hub,Accessories,Connectix,S01,Istanbul Central,Istanbul,Türkiye,Retail,1,0,55,28,27
+411,ORD-0270,2026-04-19,C159,Customer 159,Corporate,Izmir,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S01,Istanbul Central,Istanbul,Türkiye,Retail,4,0,300,144,156
+412,ORD-0271,2026-04-01,C135,Customer 135,Small Business,Ankara,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S02,Ankara Hub,Ankara,Türkiye,Retail,4,0,876,460,416
+413,ORD-0272,2026-05-21,C147,Customer 147,Small Business,Bursa,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S03,Izmir Coast,Izmir,Türkiye,Retail,1,0,75,36,39
+414,ORD-0272,2026-05-21,C147,Customer 147,Small Business,Bursa,Türkiye,P003,USB-C Hub,Accessories,Connectix,S03,Izmir Coast,Izmir,Türkiye,Retail,5,0.05,261.25,140,121.25
+415,ORD-0273,2026-02-01,C051,Customer 051,Consumer,Antalya,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S02,Ankara Hub,Ankara,Türkiye,Retail,4,0.05,452.2,252,200.2
+416,ORD-0273,2026-02-01,C051,Customer 051,Consumer,Antalya,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S02,Ankara Hub,Ankara,Türkiye,Retail,5,0,595,315,280
+417,ORD-0274,2026-01-02,C117,Customer 117,Consumer,Izmir,Türkiye,P003,USB-C Hub,Accessories,Connectix,S02,Ankara Hub,Ankara,Türkiye,Retail,4,0.05,209.0,112,97.0
+418,ORD-0275,2026-02-07,C174,Customer 174,Consumer,Antalya,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S04,Online Türkiye,Türkiye,Türkiye,Online,4,0,136,72,64
+419,ORD-0276,2026-03-25,C140,Customer 140,Small Business,Ankara,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S03,Izmir Coast,Izmir,Türkiye,Retail,2,0.15,57.8,36,21.8
+420,ORD-0277,2026-04-01,C096,Customer 096,Consumer,Istanbul,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S01,Istanbul Central,Istanbul,Türkiye,Retail,5,0.1,625.5,390,235.5
+421,ORD-0277,2026-04-01,C096,Customer 096,Consumer,Istanbul,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S01,Istanbul Central,Istanbul,Türkiye,Retail,5,0.05,375.25,210,165.25
+422,ORD-0278,2026-05-13,C179,Customer 179,Corporate,Ankara,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S01,Istanbul Central,Istanbul,Türkiye,Retail,5,0.1,220.5,110,110.5
+423,ORD-0278,2026-05-13,C179,Customer 179,Corporate,Ankara,Türkiye,P003,USB-C Hub,Accessories,Connectix,S01,Istanbul Central,Istanbul,Türkiye,Retail,1,0,55,28,27
+424,ORD-0279,2026-05-04,C141,Customer 141,Consumer,Ankara,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S04,Online Türkiye,Türkiye,Türkiye,Online,2,0.1,142.2,84,58.2
+425,ORD-0279,2026-05-04,C141,Customer 141,Consumer,Ankara,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S04,Online Türkiye,Türkiye,Türkiye,Online,4,0.15,268.6,168,100.6
+426,ORD-0280,2026-06-25,C134,Customer 134,Consumer,Izmir,Türkiye,P012,4K Monitor,Displays,ViewMax,S03,Izmir Coast,Izmir,Türkiye,Retail,4,0.15,1356.6,900,456.6
+427,ORD-0281,2026-01-09,C090,Customer 090,Corporate,Izmir,Türkiye,P008,Desk Lamp,Office,BrightCo,S02,Ankara Hub,Ankara,Türkiye,Retail,3,0,135,60,75
+428,ORD-0281,2026-01-09,C090,Customer 090,Corporate,Izmir,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S02,Ankara Hub,Ankara,Türkiye,Retail,1,0,219,115,104
+429,ORD-0282,2026-05-06,C057,Customer 057,Consumer,Istanbul,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S01,Istanbul Central,Istanbul,Türkiye,Retail,2,0.05,473.1,290,183.1
+430,ORD-0283,2026-05-24,C064,Customer 064,Corporate,Bursa,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S01,Istanbul Central,Istanbul,Türkiye,Retail,2,0,158,84,74
+431,ORD-0283,2026-05-24,C064,Customer 064,Corporate,Bursa,Türkiye,P003,USB-C Hub,Accessories,Connectix,S01,Istanbul Central,Istanbul,Türkiye,Retail,5,0.1,247.5,140,107.5
+432,ORD-0284,2026-01-13,C030,Customer 030,Consumer,Bursa,Türkiye,P012,4K Monitor,Displays,ViewMax,S04,Online Türkiye,Türkiye,Türkiye,Online,2,0,798,450,348
+433,ORD-0284,2026-01-13,C030,Customer 030,Consumer,Bursa,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S04,Online Türkiye,Türkiye,Türkiye,Online,4,0,136,72,64
+434,ORD-0285,2026-06-06,C040,Customer 040,Corporate,Izmir,Türkiye,P007,Webcam Pro,Video,VisionLab,S04,Online Türkiye,Türkiye,Türkiye,Online,5,0,445,220,225
+435,ORD-0286,2026-02-21,C046,Customer 046,Small Business,Ankara,Türkiye,P012,4K Monitor,Displays,ViewMax,S04,Online Türkiye,Türkiye,Türkiye,Online,5,0.15,1695.75,1125,570.75
+436,ORD-0287,2026-06-13,C124,Customer 124,Small Business,Izmir,Türkiye,P007,Webcam Pro,Video,VisionLab,S02,Ankara Hub,Ankara,Türkiye,Retail,5,0.1,400.5,220,180.5
+437,ORD-0288,2026-03-10,C150,Customer 150,Small Business,Antalya,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S03,Izmir Coast,Izmir,Türkiye,Retail,5,0.1,355.5,210,145.5
+438,ORD-0289,2026-01-19,C010,Customer 010,Small Business,Istanbul,Türkiye,P008,Desk Lamp,Office,BrightCo,S03,Izmir Coast,Izmir,Türkiye,Retail,4,0.1,162.0,80,82.0
+439,ORD-0290,2026-01-15,C028,Customer 028,Small Business,Istanbul,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S02,Ankara Hub,Ankara,Türkiye,Retail,3,0.1,213.3,126,87.3
+440,ORD-0291,2026-03-30,C083,Customer 083,Consumer,Izmir,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S02,Ankara Hub,Ankara,Türkiye,Retail,4,0.1,284.4,168,116.4
+441,ORD-0292,2026-05-12,C079,Customer 079,Small Business,Antalya,Türkiye,P012,4K Monitor,Displays,ViewMax,S02,Ankara Hub,Ankara,Türkiye,Retail,2,0,798,450,348
+442,ORD-0292,2026-05-12,C079,Customer 079,Small Business,Antalya,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S02,Ankara Hub,Ankara,Türkiye,Retail,4,0,476,252,224
+443,ORD-0293,2026-03-20,C082,Customer 082,Small Business,Istanbul,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S03,Izmir Coast,Izmir,Türkiye,Retail,1,0.15,63.75,36,27.75
+444,ORD-0293,2026-03-20,C082,Customer 082,Small Business,Istanbul,Türkiye,P012,4K Monitor,Displays,ViewMax,S03,Izmir Coast,Izmir,Türkiye,Retail,1,0.1,359.1,225,134.1
+445,ORD-0294,2026-06-07,C133,Customer 133,Consumer,Bursa,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S04,Online Türkiye,Türkiye,Türkiye,Online,4,0.15,404.6,252,152.6
+446,ORD-0295,2026-07-23,C052,Customer 052,Small Business,Izmir,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S02,Ankara Hub,Ankara,Türkiye,Retail,3,0.15,191.25,108,83.25
+447,ORD-0295,2026-07-23,C052,Customer 052,Small Business,Izmir,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S02,Ankara Hub,Ankara,Türkiye,Retail,4,0.05,528.2,312,216.2
+448,ORD-0296,2026-06-21,C042,Customer 042,Small Business,Istanbul,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S04,Online Türkiye,Türkiye,Türkiye,Online,1,0,119,63,56
+449,ORD-0297,2026-03-18,C036,Customer 036,Consumer,Antalya,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S04,Online Türkiye,Türkiye,Türkiye,Online,5,0.05,565.25,315,250.25
+450,ORD-0298,2026-03-04,C072,Customer 072,Corporate,Ankara,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S04,Online Türkiye,Türkiye,Türkiye,Online,2,0,438,230,208
+451,ORD-0299,2026-03-17,C091,Customer 091,Small Business,Istanbul,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S03,Izmir Coast,Izmir,Türkiye,Retail,4,0.1,788.4,460,328.4
+452,ORD-0299,2026-03-17,C091,Customer 091,Small Business,Istanbul,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S03,Izmir Coast,Izmir,Türkiye,Retail,1,0.15,211.65,145,66.65
+453,ORD-0300,2026-03-26,C128,Customer 128,Consumer,Antalya,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S01,Istanbul Central,Istanbul,Türkiye,Retail,2,0.05,64.6,36,28.6
+454,ORD-0301,2026-03-12,C075,Customer 075,Corporate,Izmir,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S01,Istanbul Central,Istanbul,Türkiye,Retail,3,0,747,435,312
+455,ORD-0302,2026-07-27,C042,Customer 042,Small Business,Istanbul,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S04,Online Türkiye,Türkiye,Türkiye,Online,3,0.1,672.3,435,237.3
+456,ORD-0302,2026-07-27,C042,Customer 042,Small Business,Istanbul,Türkiye,P003,USB-C Hub,Accessories,Connectix,S04,Online Türkiye,Türkiye,Türkiye,Online,5,0,275,140,135
+457,ORD-0302,2026-07-27,C042,Customer 042,Small Business,Istanbul,Türkiye,P007,Webcam Pro,Video,VisionLab,S04,Online Türkiye,Türkiye,Türkiye,Online,1,0,89,44,45
+458,ORD-0303,2026-04-25,C135,Customer 135,Small Business,Ankara,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S04,Online Türkiye,Türkiye,Türkiye,Online,4,0,196,88,108
+459,ORD-0303,2026-04-25,C135,Customer 135,Small Business,Ankara,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S04,Online Türkiye,Türkiye,Türkiye,Online,2,0,158,84,74
+460,ORD-0303,2026-04-25,C135,Customer 135,Small Business,Ankara,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S04,Online Türkiye,Türkiye,Türkiye,Online,2,0.05,150.1,84,66.1
+461,ORD-0304,2026-07-14,C132,Customer 132,Small Business,Antalya,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S04,Online Türkiye,Türkiye,Türkiye,Online,2,0,498,290,208
+462,ORD-0304,2026-07-14,C132,Customer 132,Small Business,Antalya,Türkiye,P012,4K Monitor,Displays,ViewMax,S04,Online Türkiye,Türkiye,Türkiye,Online,4,0,1596,900,696
+463,ORD-0305,2026-01-11,C081,Customer 081,Consumer,Izmir,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S03,Izmir Coast,Izmir,Türkiye,Retail,2,0.1,250.2,156,94.2
+464,ORD-0305,2026-01-11,C081,Customer 081,Consumer,Izmir,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S03,Izmir Coast,Izmir,Türkiye,Retail,2,0.1,135.0,72,63.0
+465,ORD-0306,2026-03-05,C139,Customer 139,Consumer,Izmir,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S02,Ankara Hub,Ankara,Türkiye,Retail,3,0.05,225.15,126,99.15
+466,ORD-0306,2026-03-05,C139,Customer 139,Consumer,Izmir,Türkiye,P012,4K Monitor,Displays,ViewMax,S02,Ankara Hub,Ankara,Türkiye,Retail,4,0,1596,900,696
+467,ORD-0306,2026-03-05,C139,Customer 139,Consumer,Izmir,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S02,Ankara Hub,Ankara,Türkiye,Retail,1,0,75,36,39
+468,ORD-0307,2026-07-31,C159,Customer 159,Corporate,Izmir,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S01,Istanbul Central,Istanbul,Türkiye,Retail,3,0.1,321.3,189,132.3
+469,ORD-0308,2026-01-18,C123,Customer 123,Corporate,Bursa,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S01,Istanbul Central,Istanbul,Türkiye,Retail,5,0,375,180,195
+470,ORD-0308,2026-01-18,C123,Customer 123,Corporate,Bursa,Türkiye,P008,Desk Lamp,Office,BrightCo,S01,Istanbul Central,Istanbul,Türkiye,Retail,1,0,45,20,25
+471,ORD-0308,2026-01-18,C123,Customer 123,Corporate,Bursa,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S01,Istanbul Central,Istanbul,Türkiye,Retail,2,0,498,290,208
+472,ORD-0309,2026-06-26,C143,Customer 143,Small Business,Ankara,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S03,Izmir Coast,Izmir,Türkiye,Retail,2,0.05,93.1,44,49.1
+473,ORD-0310,2026-07-03,C156,Customer 156,Small Business,Istanbul,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S01,Istanbul Central,Istanbul,Türkiye,Retail,4,0.05,129.2,72,57.2
+474,ORD-0310,2026-07-03,C156,Customer 156,Small Business,Istanbul,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S01,Istanbul Central,Istanbul,Türkiye,Retail,1,0,249,145,104
+475,ORD-0311,2026-06-21,C123,Customer 123,Corporate,Bursa,Türkiye,P007,Webcam Pro,Video,VisionLab,S01,Istanbul Central,Istanbul,Türkiye,Retail,3,0,267,132,135
+476,ORD-0312,2026-06-10,C067,Customer 067,Corporate,Bursa,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S04,Online Türkiye,Türkiye,Türkiye,Online,1,0.1,197.1,115,82.1
+477,ORD-0313,2026-03-05,C002,Customer 002,Consumer,Istanbul,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S01,Istanbul Central,Istanbul,Türkiye,Retail,4,0,136,72,64
+478,ORD-0314,2026-05-30,C169,Customer 169,Small Business,Ankara,Türkiye,P012,4K Monitor,Displays,ViewMax,S01,Istanbul Central,Istanbul,Türkiye,Retail,2,0,798,450,348
+479,ORD-0315,2026-05-05,C101,Customer 101,Small Business,Ankara,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S01,Istanbul Central,Istanbul,Türkiye,Retail,1,0,75,36,39
+480,ORD-0316,2026-07-18,C106,Customer 106,Consumer,Antalya,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S03,Izmir Coast,Izmir,Türkiye,Retail,2,0.05,142.5,72,70.5
+481,ORD-0317,2026-06-21,C004,Customer 004,Small Business,Istanbul,Türkiye,P012,4K Monitor,Displays,ViewMax,S02,Ankara Hub,Ankara,Türkiye,Retail,4,0,1596,900,696
+482,ORD-0318,2026-01-29,C097,Customer 097,Small Business,Ankara,Türkiye,P003,USB-C Hub,Accessories,Connectix,S04,Online Türkiye,Türkiye,Türkiye,Online,2,0,110,56,54
+483,ORD-0319,2026-03-04,C140,Customer 140,Small Business,Ankara,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S01,Istanbul Central,Istanbul,Türkiye,Retail,3,0,225,108,117
+484,ORD-0320,2026-03-19,C163,Customer 163,Corporate,Izmir,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S04,Online Türkiye,Türkiye,Türkiye,Online,2,0,278,156,122
+485,ORD-0320,2026-03-19,C163,Customer 163,Corporate,Izmir,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S04,Online Türkiye,Türkiye,Türkiye,Online,2,0,150,72,78
+486,ORD-0321,2026-06-02,C012,Customer 012,Small Business,Istanbul,Türkiye,P012,4K Monitor,Displays,ViewMax,S03,Izmir Coast,Izmir,Türkiye,Retail,1,0,399,225,174
+487,ORD-0322,2026-02-16,C120,Customer 120,Consumer,Ankara,Türkiye,P003,USB-C Hub,Accessories,Connectix,S04,Online Türkiye,Türkiye,Türkiye,Online,4,0.05,209.0,112,97.0
+488,ORD-0323,2026-04-16,C072,Customer 072,Corporate,Ankara,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S03,Izmir Coast,Izmir,Türkiye,Retail,4,0,996,580,416
+489,ORD-0323,2026-04-16,C072,Customer 072,Corporate,Ankara,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S03,Izmir Coast,Izmir,Türkiye,Retail,4,0,196,88,108
+490,ORD-0324,2026-02-13,C133,Customer 133,Consumer,Bursa,Türkiye,P008,Desk Lamp,Office,BrightCo,S04,Online Türkiye,Türkiye,Türkiye,Online,5,0,225,100,125
+491,ORD-0324,2026-02-13,C133,Customer 133,Consumer,Bursa,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S04,Online Türkiye,Türkiye,Türkiye,Online,4,0.05,300.2,168,132.2
+492,ORD-0324,2026-02-13,C133,Customer 133,Consumer,Bursa,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S04,Online Türkiye,Türkiye,Türkiye,Online,5,0.1,1120.5,725,395.5
+493,ORD-0325,2026-05-12,C073,Customer 073,Consumer,Istanbul,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S03,Izmir Coast,Izmir,Türkiye,Retail,4,0.1,270.0,144,126.0
+494,ORD-0326,2026-05-15,C148,Customer 148,Corporate,Ankara,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S04,Online Türkiye,Türkiye,Türkiye,Online,5,0,595,315,280
+495,ORD-0326,2026-05-15,C148,Customer 148,Corporate,Ankara,Türkiye,P007,Webcam Pro,Video,VisionLab,S04,Online Türkiye,Türkiye,Türkiye,Online,3,0.15,226.95,132,94.95
+496,ORD-0327,2026-02-18,C076,Customer 076,Corporate,Ankara,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S04,Online Türkiye,Türkiye,Türkiye,Online,5,0,375,180,195
+497,ORD-0327,2026-02-18,C076,Customer 076,Corporate,Ankara,Türkiye,P012,4K Monitor,Displays,ViewMax,S04,Online Türkiye,Türkiye,Türkiye,Online,2,0,798,450,348
+498,ORD-0328,2026-06-26,C155,Customer 155,Small Business,Bursa,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S04,Online Türkiye,Türkiye,Türkiye,Online,1,0,249,145,104
+499,ORD-0328,2026-06-26,C155,Customer 155,Small Business,Bursa,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S04,Online Türkiye,Türkiye,Türkiye,Online,3,0,417,234,183
+500,ORD-0329,2026-04-30,C132,Customer 132,Small Business,Antalya,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S03,Izmir Coast,Izmir,Türkiye,Retail,3,0,147,66,81
+501,ORD-0329,2026-04-30,C132,Customer 132,Small Business,Antalya,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S03,Izmir Coast,Izmir,Türkiye,Retail,2,0.1,394.2,230,164.2
+502,ORD-0329,2026-04-30,C132,Customer 132,Small Business,Antalya,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S03,Izmir Coast,Izmir,Türkiye,Retail,5,0,1095,575,520
+503,ORD-0330,2026-02-27,C072,Customer 072,Corporate,Ankara,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S04,Online Türkiye,Türkiye,Türkiye,Online,3,0,225,108,117
+504,ORD-0331,2026-02-18,C105,Customer 105,Corporate,Antalya,Türkiye,P008,Desk Lamp,Office,BrightCo,S02,Ankara Hub,Ankara,Türkiye,Retail,2,0.05,85.5,40,45.5
+505,ORD-0331,2026-02-18,C105,Customer 105,Corporate,Antalya,Türkiye,P007,Webcam Pro,Video,VisionLab,S02,Ankara Hub,Ankara,Türkiye,Retail,5,0,445,220,225
+506,ORD-0331,2026-02-18,C105,Customer 105,Corporate,Antalya,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S02,Ankara Hub,Ankara,Türkiye,Retail,1,0.1,107.1,63,44.1
+507,ORD-0332,2026-03-18,C169,Customer 169,Small Business,Ankara,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S01,Istanbul Central,Istanbul,Türkiye,Retail,5,0.15,318.75,180,138.75
+508,ORD-0332,2026-03-18,C169,Customer 169,Small Business,Ankara,Türkiye,P003,USB-C Hub,Accessories,Connectix,S01,Istanbul Central,Istanbul,Türkiye,Retail,1,0.1,49.5,28,21.5
+509,ORD-0332,2026-03-18,C169,Customer 169,Small Business,Ankara,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S01,Istanbul Central,Istanbul,Türkiye,Retail,1,0.05,208.05,115,93.05
+510,ORD-0333,2026-04-11,C023,Customer 023,Consumer,Izmir,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S04,Online Türkiye,Türkiye,Türkiye,Online,2,0.1,135.0,72,63.0
+511,ORD-0333,2026-04-11,C023,Customer 023,Consumer,Izmir,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S04,Online Türkiye,Türkiye,Türkiye,Online,4,0,316,168,148
+512,ORD-0333,2026-04-11,C023,Customer 023,Consumer,Izmir,Türkiye,P008,Desk Lamp,Office,BrightCo,S04,Online Türkiye,Türkiye,Türkiye,Online,2,0.15,76.5,40,36.5
+513,ORD-0334,2026-06-06,C144,Customer 144,Small Business,Izmir,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S03,Izmir Coast,Izmir,Türkiye,Retail,5,0,1095,575,520
+514,ORD-0335,2026-06-22,C129,Customer 129,Corporate,Istanbul,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S01,Istanbul Central,Istanbul,Türkiye,Retail,3,0,147,66,81
+515,ORD-0336,2026-04-18,C118,Customer 118,Small Business,Antalya,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S04,Online Türkiye,Türkiye,Türkiye,Online,5,0.1,535.5,315,220.5
+516,ORD-0336,2026-04-18,C118,Customer 118,Small Business,Antalya,Türkiye,P007,Webcam Pro,Video,VisionLab,S04,Online Türkiye,Türkiye,Türkiye,Online,4,0.05,338.2,176,162.2
+517,ORD-0336,2026-04-18,C118,Customer 118,Small Business,Antalya,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S04,Online Türkiye,Türkiye,Türkiye,Online,4,0.05,129.2,72,57.2
+518,ORD-0337,2026-07-16,C078,Customer 078,Consumer,Istanbul,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S02,Ankara Hub,Ankara,Türkiye,Retail,3,0,147,66,81
+519,ORD-0337,2026-07-16,C078,Customer 078,Consumer,Istanbul,Türkiye,P007,Webcam Pro,Video,VisionLab,S02,Ankara Hub,Ankara,Türkiye,Retail,4,0.1,320.4,176,144.4
+520,ORD-0338,2026-01-18,C037,Customer 037,Consumer,Izmir,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S02,Ankara Hub,Ankara,Türkiye,Retail,4,0.05,300.2,168,132.2
+521,ORD-0339,2026-04-07,C179,Customer 179,Corporate,Ankara,Türkiye,P008,Desk Lamp,Office,BrightCo,S03,Izmir Coast,Izmir,Türkiye,Retail,2,0.05,85.5,40,45.5
+522,ORD-0339,2026-04-07,C179,Customer 179,Corporate,Ankara,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S03,Izmir Coast,Izmir,Türkiye,Retail,4,0,316,168,148
+523,ORD-0339,2026-04-07,C179,Customer 179,Corporate,Ankara,Türkiye,P008,Desk Lamp,Office,BrightCo,S03,Izmir Coast,Izmir,Türkiye,Retail,4,0.05,171.0,80,91.0
+524,ORD-0340,2026-01-06,C129,Customer 129,Corporate,Istanbul,Türkiye,P003,USB-C Hub,Accessories,Connectix,S01,Istanbul Central,Istanbul,Türkiye,Retail,2,0,110,56,54
+525,ORD-0341,2026-07-10,C015,Customer 015,Consumer,Antalya,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S01,Istanbul Central,Istanbul,Türkiye,Retail,3,0.15,303.45,189,114.45
+526,ORD-0342,2026-03-28,C102,Customer 102,Corporate,Istanbul,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S01,Istanbul Central,Istanbul,Türkiye,Retail,5,0.1,535.5,315,220.5
+527,ORD-0343,2026-04-01,C170,Customer 170,Corporate,Ankara,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S01,Istanbul Central,Istanbul,Türkiye,Retail,1,0.05,46.55,22,24.55
+528,ORD-0344,2026-05-27,C033,Customer 033,Small Business,Ankara,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S04,Online Türkiye,Türkiye,Türkiye,Online,3,0.05,624.15,345,279.15
+529,ORD-0344,2026-05-27,C033,Customer 033,Small Business,Ankara,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S04,Online Türkiye,Türkiye,Türkiye,Online,1,0,34,18,16
+530,ORD-0344,2026-05-27,C033,Customer 033,Small Business,Ankara,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S04,Online Türkiye,Türkiye,Türkiye,Online,4,0,196,88,108
+531,ORD-0345,2026-04-28,C025,Customer 025,Corporate,Izmir,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S04,Online Türkiye,Türkiye,Türkiye,Online,5,0,1245,725,520
+532,ORD-0345,2026-04-28,C025,Customer 025,Corporate,Izmir,Türkiye,P012,4K Monitor,Displays,ViewMax,S04,Online Türkiye,Türkiye,Türkiye,Online,4,0.15,1356.6,900,456.6
+533,ORD-0345,2026-04-28,C025,Customer 025,Corporate,Izmir,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S04,Online Türkiye,Türkiye,Türkiye,Online,1,0,249,145,104
+534,ORD-0346,2026-06-13,C166,Customer 166,Small Business,Bursa,Türkiye,P007,Webcam Pro,Video,VisionLab,S04,Online Türkiye,Türkiye,Türkiye,Online,3,0,267,132,135
+535,ORD-0346,2026-06-13,C166,Customer 166,Small Business,Bursa,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S04,Online Türkiye,Türkiye,Türkiye,Online,4,0.15,472.6,312,160.6
+536,ORD-0347,2026-03-17,C046,Customer 046,Small Business,Ankara,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S01,Istanbul Central,Istanbul,Türkiye,Retail,2,0.05,226.1,126,100.1
+537,ORD-0348,2026-04-04,C107,Customer 107,Small Business,Izmir,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S03,Izmir Coast,Izmir,Türkiye,Retail,5,0,595,315,280
+538,ORD-0349,2026-07-23,C018,Customer 018,Consumer,Bursa,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S02,Ankara Hub,Ankara,Türkiye,Retail,1,0,79,42,37
+539,ORD-0350,2026-01-16,C112,Customer 112,Consumer,Ankara,Türkiye,P003,USB-C Hub,Accessories,Connectix,S02,Ankara Hub,Ankara,Türkiye,Retail,2,0,110,56,54
+540,ORD-0350,2026-01-16,C112,Customer 112,Consumer,Ankara,Türkiye,P012,4K Monitor,Displays,ViewMax,S02,Ankara Hub,Ankara,Türkiye,Retail,3,0.15,1017.45,675,342.45
+541,ORD-0351,2026-03-24,C072,Customer 072,Corporate,Ankara,Türkiye,P003,USB-C Hub,Accessories,Connectix,S01,Istanbul Central,Istanbul,Türkiye,Retail,3,0,165,84,81
+542,ORD-0352,2026-05-08,C001,Customer 001,Small Business,Bursa,Türkiye,P007,Webcam Pro,Video,VisionLab,S04,Online Türkiye,Türkiye,Türkiye,Online,2,0,178,88,90
+543,ORD-0353,2026-06-16,C120,Customer 120,Consumer,Ankara,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S04,Online Türkiye,Türkiye,Türkiye,Online,1,0,249,145,104
+544,ORD-0353,2026-06-16,C120,Customer 120,Consumer,Ankara,Türkiye,P012,4K Monitor,Displays,ViewMax,S04,Online Türkiye,Türkiye,Türkiye,Online,1,0.05,379.05,225,154.05
+545,ORD-0353,2026-06-16,C120,Customer 120,Consumer,Ankara,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S04,Online Türkiye,Türkiye,Türkiye,Online,4,0,196,88,108
+546,ORD-0354,2026-07-27,C142,Customer 142,Consumer,Antalya,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S02,Ankara Hub,Ankara,Türkiye,Retail,3,0.05,709.65,435,274.65
+547,ORD-0355,2026-01-06,C141,Customer 141,Consumer,Ankara,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S03,Izmir Coast,Izmir,Türkiye,Retail,2,0.15,236.3,156,80.3
+548,ORD-0356,2026-06-21,C173,Customer 173,Corporate,Antalya,Türkiye,P003,USB-C Hub,Accessories,Connectix,S01,Istanbul Central,Istanbul,Türkiye,Retail,4,0,220,112,108
+549,ORD-0356,2026-06-21,C173,Customer 173,Corporate,Antalya,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S01,Istanbul Central,Istanbul,Türkiye,Retail,3,0,747,435,312
+550,ORD-0356,2026-06-21,C173,Customer 173,Corporate,Antalya,Türkiye,P003,USB-C Hub,Accessories,Connectix,S01,Istanbul Central,Istanbul,Türkiye,Retail,1,0.05,52.25,28,24.25
+551,ORD-0357,2026-02-26,C054,Customer 054,Consumer,Istanbul,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S02,Ankara Hub,Ankara,Türkiye,Retail,2,0,278,156,122
+552,ORD-0358,2026-07-26,C126,Customer 126,Small Business,Istanbul,Türkiye,P007,Webcam Pro,Video,VisionLab,S04,Online Türkiye,Türkiye,Türkiye,Online,3,0.05,253.65,132,121.65
+553,ORD-0359,2026-04-15,C132,Customer 132,Small Business,Antalya,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S03,Izmir Coast,Izmir,Türkiye,Retail,1,0.15,186.15,115,71.15
+554,ORD-0360,2026-04-04,C008,Customer 008,Consumer,Ankara,Türkiye,P012,4K Monitor,Displays,ViewMax,S02,Ankara Hub,Ankara,Türkiye,Retail,4,0,1596,900,696
+555,ORD-0360,2026-04-04,C008,Customer 008,Consumer,Ankara,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S02,Ankara Hub,Ankara,Türkiye,Retail,5,0.1,153.0,90,63.0
+556,ORD-0361,2026-03-04,C012,Customer 012,Small Business,Istanbul,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S03,Izmir Coast,Izmir,Türkiye,Retail,5,0.1,220.5,110,110.5
+557,ORD-0361,2026-03-04,C012,Customer 012,Small Business,Istanbul,Türkiye,P012,4K Monitor,Displays,ViewMax,S03,Izmir Coast,Izmir,Türkiye,Retail,4,0,1596,900,696
+558,ORD-0362,2026-07-30,C149,Customer 149,Small Business,Ankara,Türkiye,P008,Desk Lamp,Office,BrightCo,S02,Ankara Hub,Ankara,Türkiye,Retail,2,0,90,40,50
+559,ORD-0362,2026-07-30,C149,Customer 149,Small Business,Ankara,Türkiye,P008,Desk Lamp,Office,BrightCo,S02,Ankara Hub,Ankara,Türkiye,Retail,2,0,90,40,50
+560,ORD-0363,2026-02-26,C046,Customer 046,Small Business,Ankara,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S04,Online Türkiye,Türkiye,Türkiye,Online,1,0.05,46.55,22,24.55
+561,ORD-0363,2026-02-26,C046,Customer 046,Small Business,Ankara,Türkiye,P012,4K Monitor,Displays,ViewMax,S04,Online Türkiye,Türkiye,Türkiye,Online,4,0,1596,900,696
+562,ORD-0364,2026-02-03,C020,Customer 020,Small Business,Antalya,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S04,Online Türkiye,Türkiye,Türkiye,Online,1,0,139,78,61
+563,ORD-0365,2026-04-06,C032,Customer 032,Consumer,Antalya,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S03,Izmir Coast,Izmir,Türkiye,Retail,1,0.1,44.1,22,22.1
+564,ORD-0365,2026-04-06,C032,Customer 032,Consumer,Antalya,Türkiye,P012,4K Monitor,Displays,ViewMax,S03,Izmir Coast,Izmir,Türkiye,Retail,1,0,399,225,174
+565,ORD-0365,2026-04-06,C032,Customer 032,Consumer,Antalya,Türkiye,P007,Webcam Pro,Video,VisionLab,S03,Izmir Coast,Izmir,Türkiye,Retail,5,0,445,220,225
+566,ORD-0366,2026-02-10,C166,Customer 166,Small Business,Bursa,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S02,Ankara Hub,Ankara,Türkiye,Retail,1,0.15,101.15,63,38.15
+567,ORD-0366,2026-02-10,C166,Customer 166,Small Business,Bursa,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S02,Ankara Hub,Ankara,Türkiye,Retail,3,0,417,234,183
+568,ORD-0367,2026-03-28,C104,Customer 104,Small Business,Istanbul,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S03,Izmir Coast,Izmir,Türkiye,Retail,1,0.1,71.1,42,29.1
+569,ORD-0368,2026-01-05,C158,Customer 158,Consumer,Bursa,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S03,Izmir Coast,Izmir,Türkiye,Retail,3,0,225,108,117
+570,ORD-0369,2026-01-08,C002,Customer 002,Consumer,Istanbul,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S04,Online Türkiye,Türkiye,Türkiye,Online,4,0,136,72,64
+571,ORD-0370,2026-06-04,C001,Customer 001,Small Business,Bursa,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S02,Ankara Hub,Ankara,Türkiye,Retail,4,0,996,580,416
+572,ORD-0371,2026-05-21,C156,Customer 156,Small Business,Istanbul,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S02,Ankara Hub,Ankara,Türkiye,Retail,4,0,300,144,156
+573,ORD-0371,2026-05-21,C156,Customer 156,Small Business,Istanbul,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S02,Ankara Hub,Ankara,Türkiye,Retail,2,0,158,84,74
+574,ORD-0372,2026-05-15,C070,Customer 070,Consumer,Istanbul,Türkiye,P008,Desk Lamp,Office,BrightCo,S04,Online Türkiye,Türkiye,Türkiye,Online,4,0,180,80,100
+575,ORD-0373,2026-01-30,C080,Customer 080,Consumer,Izmir,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S02,Ankara Hub,Ankara,Türkiye,Retail,5,0,595,315,280
+576,ORD-0374,2026-04-02,C099,Customer 099,Consumer,Ankara,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S04,Online Türkiye,Türkiye,Türkiye,Online,5,0.05,660.25,390,270.25
+577,ORD-0374,2026-04-02,C099,Customer 099,Consumer,Ankara,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S04,Online Türkiye,Türkiye,Türkiye,Online,3,0,225,108,117
+578,ORD-0375,2026-02-21,C180,Customer 180,Corporate,Istanbul,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S02,Ankara Hub,Ankara,Türkiye,Retail,3,0.1,202.5,108,94.5
+579,ORD-0375,2026-02-21,C180,Customer 180,Corporate,Istanbul,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S02,Ankara Hub,Ankara,Türkiye,Retail,4,0.1,500.4,312,188.4
+580,ORD-0376,2026-02-19,C111,Customer 111,Small Business,Izmir,Türkiye,P012,4K Monitor,Displays,ViewMax,S04,Online Türkiye,Türkiye,Türkiye,Online,5,0.15,1695.75,1125,570.75
+581,ORD-0377,2026-02-20,C076,Customer 076,Corporate,Ankara,Türkiye,P012,4K Monitor,Displays,ViewMax,S02,Ankara Hub,Ankara,Türkiye,Retail,2,0,798,450,348
+582,ORD-0378,2026-04-19,C007,Customer 007,Corporate,Ankara,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S04,Online Türkiye,Türkiye,Türkiye,Online,1,0,34,18,16
+583,ORD-0378,2026-04-19,C007,Customer 007,Corporate,Ankara,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S04,Online Türkiye,Türkiye,Türkiye,Online,1,0.15,67.15,42,25.15
+584,ORD-0379,2026-02-05,C172,Customer 172,Corporate,Bursa,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S01,Istanbul Central,Istanbul,Türkiye,Retail,4,0.05,528.2,312,216.2
+585,ORD-0380,2026-07-24,C041,Customer 041,Corporate,Bursa,Türkiye,P007,Webcam Pro,Video,VisionLab,S03,Izmir Coast,Izmir,Türkiye,Retail,4,0,356,176,180
+586,ORD-0381,2026-05-02,C090,Customer 090,Corporate,Izmir,Türkiye,P007,Webcam Pro,Video,VisionLab,S02,Ankara Hub,Ankara,Türkiye,Retail,4,0,356,176,180
+587,ORD-0382,2026-05-22,C148,Customer 148,Corporate,Ankara,Türkiye,P008,Desk Lamp,Office,BrightCo,S02,Ankara Hub,Ankara,Türkiye,Retail,5,0.15,191.25,100,91.25
+588,ORD-0383,2026-01-24,C028,Customer 028,Small Business,Istanbul,Türkiye,P007,Webcam Pro,Video,VisionLab,S03,Izmir Coast,Izmir,Türkiye,Retail,4,0.05,338.2,176,162.2
+589,ORD-0384,2026-02-13,C155,Customer 155,Small Business,Bursa,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S03,Izmir Coast,Izmir,Türkiye,Retail,4,0,196,88,108
+590,ORD-0384,2026-02-13,C155,Customer 155,Small Business,Bursa,Türkiye,P007,Webcam Pro,Video,VisionLab,S03,Izmir Coast,Izmir,Türkiye,Retail,1,0,89,44,45
+591,ORD-0385,2026-04-06,C142,Customer 142,Consumer,Antalya,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S04,Online Türkiye,Türkiye,Türkiye,Online,1,0,119,63,56
+592,ORD-0385,2026-04-06,C142,Customer 142,Consumer,Antalya,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S04,Online Türkiye,Türkiye,Türkiye,Online,4,0.1,428.4,252,176.4
+593,ORD-0386,2026-04-03,C059,Customer 059,Corporate,Istanbul,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S01,Istanbul Central,Istanbul,Türkiye,Retail,4,0,556,312,244
+594,ORD-0386,2026-04-03,C059,Customer 059,Corporate,Istanbul,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S01,Istanbul Central,Istanbul,Türkiye,Retail,3,0.15,86.7,54,32.7
+595,ORD-0386,2026-04-03,C059,Customer 059,Corporate,Istanbul,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S01,Istanbul Central,Istanbul,Türkiye,Retail,1,0.05,71.25,36,35.25
+596,ORD-0387,2026-05-27,C022,Customer 022,Corporate,Bursa,Türkiye,P003,USB-C Hub,Accessories,Connectix,S04,Online Türkiye,Türkiye,Türkiye,Online,2,0,110,56,54
+597,ORD-0388,2026-03-26,C076,Customer 076,Corporate,Ankara,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S02,Ankara Hub,Ankara,Türkiye,Retail,2,0,98,44,54
+598,ORD-0389,2026-06-23,C069,Customer 069,Consumer,Izmir,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S04,Online Türkiye,Türkiye,Türkiye,Online,1,0.1,30.6,18,12.6
+599,ORD-0390,2026-04-25,C174,Customer 174,Consumer,Antalya,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S01,Istanbul Central,Istanbul,Türkiye,Retail,4,0,996,580,416
+600,ORD-0391,2026-06-25,C110,Customer 110,Small Business,Istanbul,Türkiye,P008,Desk Lamp,Office,BrightCo,S01,Istanbul Central,Istanbul,Türkiye,Retail,4,0,180,80,100
+601,ORD-0392,2026-01-08,C167,Customer 167,Consumer,Ankara,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S04,Online Türkiye,Türkiye,Türkiye,Online,1,0.1,107.1,63,44.1
+602,ORD-0393,2026-05-24,C117,Customer 117,Consumer,Izmir,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S03,Izmir Coast,Izmir,Türkiye,Retail,5,0,1095,575,520
+603,ORD-0394,2026-02-14,C016,Customer 016,Consumer,Izmir,Türkiye,P003,USB-C Hub,Accessories,Connectix,S04,Online Türkiye,Türkiye,Türkiye,Online,4,0,220,112,108
+604,ORD-0395,2026-06-25,C116,Customer 116,Small Business,Istanbul,Türkiye,P003,USB-C Hub,Accessories,Connectix,S04,Online Türkiye,Türkiye,Türkiye,Online,5,0,275,140,135
+605,ORD-0395,2026-06-25,C116,Customer 116,Small Business,Istanbul,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S04,Online Türkiye,Türkiye,Türkiye,Online,5,0,395,210,185
+606,ORD-0396,2026-02-20,C038,Customer 038,Consumer,Antalya,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S03,Izmir Coast,Izmir,Türkiye,Retail,1,0.05,208.05,115,93.05
+607,ORD-0397,2026-05-30,C080,Customer 080,Consumer,Izmir,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S02,Ankara Hub,Ankara,Türkiye,Retail,4,0.05,186.2,88,98.2
+608,ORD-0398,2026-02-25,C145,Customer 145,Consumer,Bursa,Türkiye,P003,USB-C Hub,Accessories,Connectix,S03,Izmir Coast,Izmir,Türkiye,Retail,3,0.05,156.75,84,72.75
+609,ORD-0398,2026-02-25,C145,Customer 145,Consumer,Bursa,Türkiye,P003,USB-C Hub,Accessories,Connectix,S03,Izmir Coast,Izmir,Türkiye,Retail,3,0,165,84,81
+610,ORD-0398,2026-02-25,C145,Customer 145,Consumer,Bursa,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S03,Izmir Coast,Izmir,Türkiye,Retail,5,0.15,208.25,110,98.25
+611,ORD-0399,2026-07-16,C018,Customer 018,Consumer,Bursa,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S01,Istanbul Central,Istanbul,Türkiye,Retail,2,0.05,93.1,44,49.1
+612,ORD-0400,2026-03-07,C082,Customer 082,Small Business,Istanbul,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S03,Izmir Coast,Izmir,Türkiye,Retail,5,0,1095,575,520
+613,ORD-0400,2026-03-07,C082,Customer 082,Small Business,Istanbul,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S03,Izmir Coast,Izmir,Türkiye,Retail,2,0,278,156,122
+614,ORD-0401,2026-01-21,C013,Customer 013,Corporate,Antalya,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S02,Ankara Hub,Ankara,Türkiye,Retail,2,0.15,83.3,44,39.3
+615,ORD-0402,2026-07-15,C024,Customer 024,Corporate,Izmir,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S03,Izmir Coast,Izmir,Türkiye,Retail,5,0.05,1040.25,575,465.25
+616,ORD-0402,2026-07-15,C024,Customer 024,Corporate,Izmir,Türkiye,P003,USB-C Hub,Accessories,Connectix,S03,Izmir Coast,Izmir,Türkiye,Retail,3,0,165,84,81
+617,ORD-0403,2026-07-11,C007,Customer 007,Corporate,Ankara,Türkiye,P008,Desk Lamp,Office,BrightCo,S01,Istanbul Central,Istanbul,Türkiye,Retail,4,0.1,162.0,80,82.0
+618,ORD-0404,2026-07-09,C027,Customer 027,Corporate,Izmir,Türkiye,P007,Webcam Pro,Video,VisionLab,S02,Ankara Hub,Ankara,Türkiye,Retail,1,0.05,84.55,44,40.55
+619,ORD-0405,2026-06-09,C113,Customer 113,Consumer,Ankara,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S04,Online Türkiye,Türkiye,Türkiye,Online,5,0.1,535.5,315,220.5
+620,ORD-0406,2026-03-05,C001,Customer 001,Small Business,Bursa,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S03,Izmir Coast,Izmir,Türkiye,Retail,1,0,219,115,104
+621,ORD-0406,2026-03-05,C001,Customer 001,Small Business,Bursa,Türkiye,P003,USB-C Hub,Accessories,Connectix,S03,Izmir Coast,Izmir,Türkiye,Retail,5,0,275,140,135
+622,ORD-0406,2026-03-05,C001,Customer 001,Small Business,Bursa,Türkiye,P012,4K Monitor,Displays,ViewMax,S03,Izmir Coast,Izmir,Türkiye,Retail,4,0.15,1356.6,900,456.6
+623,ORD-0407,2026-01-09,C079,Customer 079,Small Business,Antalya,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S03,Izmir Coast,Izmir,Türkiye,Retail,4,0,876,460,416
+624,ORD-0408,2026-07-18,C153,Customer 153,Consumer,Antalya,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S04,Online Türkiye,Türkiye,Türkiye,Online,1,0.1,224.1,145,79.1
+625,ORD-0409,2026-02-27,C094,Customer 094,Corporate,Istanbul,Türkiye,P008,Desk Lamp,Office,BrightCo,S03,Izmir Coast,Izmir,Türkiye,Retail,3,0,135,60,75
+626,ORD-0410,2026-05-27,C020,Customer 020,Small Business,Antalya,Türkiye,P008,Desk Lamp,Office,BrightCo,S02,Ankara Hub,Ankara,Türkiye,Retail,2,0,90,40,50
+627,ORD-0411,2026-07-12,C054,Customer 054,Consumer,Istanbul,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S01,Istanbul Central,Istanbul,Türkiye,Retail,2,0,68,36,32
+628,ORD-0412,2026-07-18,C081,Customer 081,Consumer,Izmir,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S02,Ankara Hub,Ankara,Türkiye,Retail,2,0,238,126,112
+629,ORD-0413,2026-03-17,C152,Customer 152,Small Business,Istanbul,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S03,Izmir Coast,Izmir,Türkiye,Retail,1,0.1,44.1,22,22.1
+630,ORD-0414,2026-04-06,C118,Customer 118,Small Business,Antalya,Türkiye,P012,4K Monitor,Displays,ViewMax,S03,Izmir Coast,Izmir,Türkiye,Retail,3,0,1197,675,522
+631,ORD-0415,2026-06-17,C051,Customer 051,Consumer,Antalya,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S02,Ankara Hub,Ankara,Türkiye,Retail,1,0.05,208.05,115,93.05
+632,ORD-0415,2026-06-17,C051,Customer 051,Consumer,Antalya,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S02,Ankara Hub,Ankara,Türkiye,Retail,5,0,595,315,280
+633,ORD-0416,2026-01-03,C164,Customer 164,Small Business,Bursa,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S04,Online Türkiye,Türkiye,Türkiye,Online,3,0.15,354.45,234,120.45
+634,ORD-0417,2026-05-21,C113,Customer 113,Consumer,Ankara,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S03,Izmir Coast,Izmir,Türkiye,Retail,5,0,695,390,305
+635,ORD-0418,2026-04-03,C128,Customer 128,Consumer,Antalya,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S03,Izmir Coast,Izmir,Türkiye,Retail,1,0.05,46.55,22,24.55
+636,ORD-0419,2026-02-19,C133,Customer 133,Consumer,Bursa,Türkiye,P003,USB-C Hub,Accessories,Connectix,S04,Online Türkiye,Türkiye,Türkiye,Online,4,0.1,198.0,112,86.0
+637,ORD-0420,2026-06-22,C060,Customer 060,Small Business,Izmir,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S02,Ankara Hub,Ankara,Türkiye,Retail,4,0,196,88,108
+638,ORD-0421,2026-07-15,C022,Customer 022,Corporate,Bursa,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S03,Izmir Coast,Izmir,Türkiye,Retail,1,0.1,44.1,22,22.1
+639,ORD-0421,2026-07-15,C022,Customer 022,Corporate,Bursa,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S03,Izmir Coast,Izmir,Türkiye,Retail,3,0.05,396.15,234,162.15
+640,ORD-0422,2026-04-17,C091,Customer 091,Small Business,Istanbul,Türkiye,P007,Webcam Pro,Video,VisionLab,S04,Online Türkiye,Türkiye,Türkiye,Online,1,0,89,44,45
+641,ORD-0423,2026-02-18,C098,Customer 098,Consumer,Antalya,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S04,Online Türkiye,Türkiye,Türkiye,Online,5,0.1,337.5,180,157.5
+642,ORD-0423,2026-02-18,C098,Customer 098,Consumer,Antalya,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S04,Online Türkiye,Türkiye,Türkiye,Online,5,0,1095,575,520
+643,ORD-0424,2026-01-14,C095,Customer 095,Consumer,Istanbul,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S04,Online Türkiye,Türkiye,Türkiye,Online,3,0,657,345,312
+644,ORD-0424,2026-01-14,C095,Customer 095,Consumer,Istanbul,Türkiye,P012,4K Monitor,Displays,ViewMax,S04,Online Türkiye,Türkiye,Türkiye,Online,3,0.05,1137.15,675,462.15
+645,ORD-0425,2026-01-31,C143,Customer 143,Small Business,Ankara,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S01,Istanbul Central,Istanbul,Türkiye,Retail,4,0,556,312,244
+646,ORD-0425,2026-01-31,C143,Customer 143,Small Business,Ankara,Türkiye,P008,Desk Lamp,Office,BrightCo,S01,Istanbul Central,Istanbul,Türkiye,Retail,3,0,135,60,75
+647,ORD-0425,2026-01-31,C143,Customer 143,Small Business,Ankara,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S01,Istanbul Central,Istanbul,Türkiye,Retail,4,0,316,168,148
+648,ORD-0426,2026-01-21,C180,Customer 180,Corporate,Istanbul,Türkiye,P007,Webcam Pro,Video,VisionLab,S02,Ankara Hub,Ankara,Türkiye,Retail,2,0.1,160.2,88,72.2
+649,ORD-0427,2026-06-30,C125,Customer 125,Corporate,Bursa,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S01,Istanbul Central,Istanbul,Türkiye,Retail,1,0,75,36,39
+650,ORD-0427,2026-06-30,C125,Customer 125,Corporate,Bursa,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S01,Istanbul Central,Istanbul,Türkiye,Retail,1,0,249,145,104
+651,ORD-0428,2026-04-26,C033,Customer 033,Small Business,Ankara,Türkiye,P003,USB-C Hub,Accessories,Connectix,S01,Istanbul Central,Istanbul,Türkiye,Retail,5,0.1,247.5,140,107.5
+652,ORD-0429,2026-06-16,C035,Customer 035,Small Business,Ankara,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S04,Online Türkiye,Türkiye,Türkiye,Online,3,0.15,354.45,234,120.45
+653,ORD-0429,2026-06-16,C035,Customer 035,Small Business,Ankara,Türkiye,P008,Desk Lamp,Office,BrightCo,S04,Online Türkiye,Türkiye,Türkiye,Online,4,0.05,171.0,80,91.0
+654,ORD-0429,2026-06-16,C035,Customer 035,Small Business,Ankara,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S04,Online Türkiye,Türkiye,Türkiye,Online,2,0,438,230,208
+655,ORD-0430,2026-04-29,C166,Customer 166,Small Business,Bursa,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S02,Ankara Hub,Ankara,Türkiye,Retail,4,0,300,144,156
+656,ORD-0430,2026-04-29,C166,Customer 166,Small Business,Bursa,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S02,Ankara Hub,Ankara,Türkiye,Retail,1,0,139,78,61
+657,ORD-0431,2026-04-23,C002,Customer 002,Consumer,Istanbul,Türkiye,P007,Webcam Pro,Video,VisionLab,S01,Istanbul Central,Istanbul,Türkiye,Retail,1,0.05,84.55,44,40.55
+658,ORD-0432,2026-07-16,C025,Customer 025,Corporate,Izmir,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S02,Ankara Hub,Ankara,Türkiye,Retail,2,0.1,135.0,72,63.0
+659,ORD-0433,2026-03-03,C052,Customer 052,Small Business,Izmir,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S03,Izmir Coast,Izmir,Türkiye,Retail,2,0,98,44,54
+660,ORD-0434,2026-01-19,C090,Customer 090,Corporate,Izmir,Türkiye,P007,Webcam Pro,Video,VisionLab,S04,Online Türkiye,Türkiye,Türkiye,Online,2,0.1,160.2,88,72.2
+661,ORD-0435,2026-02-23,C038,Customer 038,Consumer,Antalya,Türkiye,P003,USB-C Hub,Accessories,Connectix,S02,Ankara Hub,Ankara,Türkiye,Retail,4,0,220,112,108
+662,ORD-0436,2026-06-15,C009,Customer 009,Corporate,Izmir,Türkiye,P012,4K Monitor,Displays,ViewMax,S02,Ankara Hub,Ankara,Türkiye,Retail,3,0,1197,675,522
+663,ORD-0436,2026-06-15,C009,Customer 009,Corporate,Izmir,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S02,Ankara Hub,Ankara,Türkiye,Retail,3,0.05,96.9,54,42.9
+664,ORD-0437,2026-03-09,C144,Customer 144,Small Business,Izmir,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S02,Ankara Hub,Ankara,Türkiye,Retail,3,0,417,234,183
+665,ORD-0438,2026-02-18,C059,Customer 059,Corporate,Istanbul,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S03,Izmir Coast,Izmir,Türkiye,Retail,2,0,98,44,54
+666,ORD-0439,2026-03-20,C103,Customer 103,Small Business,Bursa,Türkiye,P012,4K Monitor,Displays,ViewMax,S01,Istanbul Central,Istanbul,Türkiye,Retail,1,0.15,339.15,225,114.15
+667,ORD-0440,2026-03-12,C043,Customer 043,Corporate,Ankara,Türkiye,P007,Webcam Pro,Video,VisionLab,S03,Izmir Coast,Izmir,Türkiye,Retail,2,0.15,151.3,88,63.3
+668,ORD-0441,2026-07-31,C036,Customer 036,Consumer,Antalya,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S03,Izmir Coast,Izmir,Türkiye,Retail,5,0.15,1058.25,725,333.25
+669,ORD-0441,2026-07-31,C036,Customer 036,Consumer,Antalya,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S03,Izmir Coast,Izmir,Türkiye,Retail,4,0,556,312,244
+670,ORD-0442,2026-03-06,C059,Customer 059,Corporate,Istanbul,Türkiye,P012,4K Monitor,Displays,ViewMax,S04,Online Türkiye,Türkiye,Türkiye,Online,3,0,1197,675,522
+671,ORD-0442,2026-03-06,C059,Customer 059,Corporate,Istanbul,Türkiye,P007,Webcam Pro,Video,VisionLab,S04,Online Türkiye,Türkiye,Türkiye,Online,1,0.05,84.55,44,40.55
+672,ORD-0443,2026-06-30,C065,Customer 065,Small Business,Ankara,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S04,Online Türkiye,Türkiye,Türkiye,Online,3,0,147,66,81
+673,ORD-0444,2026-07-27,C081,Customer 081,Consumer,Izmir,Türkiye,P008,Desk Lamp,Office,BrightCo,S02,Ankara Hub,Ankara,Türkiye,Retail,4,0,180,80,100
+674,ORD-0445,2026-07-02,C117,Customer 117,Consumer,Izmir,Türkiye,P007,Webcam Pro,Video,VisionLab,S03,Izmir Coast,Izmir,Türkiye,Retail,5,0.15,378.25,220,158.25
+675,ORD-0446,2026-04-20,C056,Customer 056,Small Business,Izmir,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S02,Ankara Hub,Ankara,Türkiye,Retail,5,0,595,315,280
+676,ORD-0447,2026-07-18,C148,Customer 148,Corporate,Ankara,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S04,Online Türkiye,Türkiye,Türkiye,Online,1,0.1,67.5,36,31.5
+677,ORD-0448,2026-02-20,C103,Customer 103,Small Business,Bursa,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S03,Izmir Coast,Izmir,Türkiye,Retail,3,0,417,234,183
+678,ORD-0449,2026-07-25,C011,Customer 011,Small Business,Antalya,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S03,Izmir Coast,Izmir,Türkiye,Retail,4,0,300,144,156
+679,ORD-0450,2026-04-24,C088,Customer 088,Corporate,Istanbul,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S02,Ankara Hub,Ankara,Türkiye,Retail,1,0,119,63,56
+680,ORD-0451,2026-01-03,C119,Customer 119,Consumer,Antalya,Türkiye,P007,Webcam Pro,Video,VisionLab,S04,Online Türkiye,Türkiye,Türkiye,Online,5,0.15,378.25,220,158.25
+681,ORD-0451,2026-01-03,C119,Customer 119,Consumer,Antalya,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S04,Online Türkiye,Türkiye,Türkiye,Online,1,0,219,115,104
+682,ORD-0452,2026-02-02,C144,Customer 144,Small Business,Izmir,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S01,Istanbul Central,Istanbul,Türkiye,Retail,2,0.05,93.1,44,49.1
+683,ORD-0452,2026-02-02,C144,Customer 144,Small Business,Izmir,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S01,Istanbul Central,Istanbul,Türkiye,Retail,5,0,695,390,305
+684,ORD-0452,2026-02-02,C144,Customer 144,Small Business,Izmir,Türkiye,P008,Desk Lamp,Office,BrightCo,S01,Istanbul Central,Istanbul,Türkiye,Retail,5,0.05,213.75,100,113.75
+685,ORD-0453,2026-07-19,C139,Customer 139,Consumer,Izmir,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S01,Istanbul Central,Istanbul,Türkiye,Retail,1,0.15,211.65,145,66.65
+686,ORD-0454,2026-05-29,C013,Customer 013,Corporate,Antalya,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S03,Izmir Coast,Izmir,Türkiye,Retail,2,0.05,150.1,84,66.1
+687,ORD-0455,2026-07-13,C097,Customer 097,Small Business,Ankara,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S03,Izmir Coast,Izmir,Türkiye,Retail,5,0,375,180,195
+688,ORD-0455,2026-07-13,C097,Customer 097,Small Business,Ankara,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S03,Izmir Coast,Izmir,Türkiye,Retail,4,0,476,252,224
+689,ORD-0456,2026-06-02,C117,Customer 117,Consumer,Izmir,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S03,Izmir Coast,Izmir,Türkiye,Retail,3,0.05,225.15,126,99.15
+690,ORD-0457,2026-07-17,C159,Customer 159,Corporate,Izmir,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S01,Istanbul Central,Istanbul,Türkiye,Retail,1,0.05,208.05,115,93.05
+691,ORD-0458,2026-07-02,C013,Customer 013,Corporate,Antalya,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S01,Istanbul Central,Istanbul,Türkiye,Retail,1,0.05,46.55,22,24.55
+692,ORD-0458,2026-07-02,C013,Customer 013,Corporate,Antalya,Türkiye,P003,USB-C Hub,Accessories,Connectix,S01,Istanbul Central,Istanbul,Türkiye,Retail,3,0,165,84,81
+693,ORD-0459,2026-02-14,C032,Customer 032,Consumer,Antalya,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S03,Izmir Coast,Izmir,Türkiye,Retail,2,0,238,126,112
+694,ORD-0459,2026-02-14,C032,Customer 032,Consumer,Antalya,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S03,Izmir Coast,Izmir,Türkiye,Retail,3,0,417,234,183
+695,ORD-0460,2026-01-14,C124,Customer 124,Small Business,Izmir,Türkiye,P012,4K Monitor,Displays,ViewMax,S04,Online Türkiye,Türkiye,Türkiye,Online,5,0,1995,1125,870
+696,ORD-0460,2026-01-14,C124,Customer 124,Small Business,Izmir,Türkiye,P008,Desk Lamp,Office,BrightCo,S04,Online Türkiye,Türkiye,Türkiye,Online,4,0,180,80,100
+697,ORD-0461,2026-06-29,C004,Customer 004,Small Business,Istanbul,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S04,Online Türkiye,Türkiye,Türkiye,Online,2,0.1,142.2,84,58.2
+698,ORD-0461,2026-06-29,C004,Customer 004,Small Business,Istanbul,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S04,Online Türkiye,Türkiye,Türkiye,Online,1,0.05,32.3,18,14.3
+699,ORD-0462,2026-02-22,C177,Customer 177,Small Business,Ankara,Türkiye,P007,Webcam Pro,Video,VisionLab,S02,Ankara Hub,Ankara,Türkiye,Retail,4,0,356,176,180
+700,ORD-0463,2026-05-02,C038,Customer 038,Consumer,Antalya,Türkiye,P003,USB-C Hub,Accessories,Connectix,S04,Online Türkiye,Türkiye,Türkiye,Online,3,0.05,156.75,84,72.75
+701,ORD-0463,2026-05-02,C038,Customer 038,Consumer,Antalya,Türkiye,P003,USB-C Hub,Accessories,Connectix,S04,Online Türkiye,Türkiye,Türkiye,Online,2,0,110,56,54
+702,ORD-0463,2026-05-02,C038,Customer 038,Consumer,Antalya,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S04,Online Türkiye,Türkiye,Türkiye,Online,2,0,498,290,208
+703,ORD-0464,2026-01-21,C037,Customer 037,Consumer,Izmir,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S02,Ankara Hub,Ankara,Türkiye,Retail,1,0,249,145,104
+704,ORD-0465,2026-05-28,C178,Customer 178,Small Business,Bursa,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S04,Online Türkiye,Türkiye,Türkiye,Online,1,0.1,44.1,22,22.1
+705,ORD-0465,2026-05-28,C178,Customer 178,Small Business,Bursa,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S04,Online Türkiye,Türkiye,Türkiye,Online,5,0,395,210,185
+706,ORD-0466,2026-02-06,C149,Customer 149,Small Business,Ankara,Türkiye,P007,Webcam Pro,Video,VisionLab,S03,Izmir Coast,Izmir,Türkiye,Retail,1,0.15,75.65,44,31.65
+707,ORD-0467,2026-03-24,C082,Customer 082,Small Business,Istanbul,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S03,Izmir Coast,Izmir,Türkiye,Retail,5,0,595,315,280
+708,ORD-0467,2026-03-24,C082,Customer 082,Small Business,Istanbul,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S03,Izmir Coast,Izmir,Türkiye,Retail,5,0.05,565.25,315,250.25
+709,ORD-0468,2026-01-30,C113,Customer 113,Consumer,Ankara,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S04,Online Türkiye,Türkiye,Türkiye,Online,1,0,49,22,27
+710,ORD-0469,2026-02-20,C062,Customer 062,Small Business,Istanbul,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S01,Istanbul Central,Istanbul,Türkiye,Retail,1,0,249,145,104
+711,ORD-0469,2026-02-20,C062,Customer 062,Small Business,Istanbul,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S01,Istanbul Central,Istanbul,Türkiye,Retail,1,0,34,18,16
+712,ORD-0470,2026-04-24,C010,Customer 010,Small Business,Istanbul,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S03,Izmir Coast,Izmir,Türkiye,Retail,2,0.15,202.3,126,76.3
+713,ORD-0471,2026-02-04,C081,Customer 081,Consumer,Izmir,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S03,Izmir Coast,Izmir,Türkiye,Retail,1,0.15,118.15,78,40.15
+714,ORD-0471,2026-02-04,C081,Customer 081,Consumer,Izmir,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S03,Izmir Coast,Izmir,Türkiye,Retail,3,0.1,672.3,435,237.3
+715,ORD-0471,2026-02-04,C081,Customer 081,Consumer,Izmir,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S03,Izmir Coast,Izmir,Türkiye,Retail,3,0.05,624.15,345,279.15
+716,ORD-0472,2026-02-10,C168,Customer 168,Small Business,Istanbul,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S04,Online Türkiye,Türkiye,Türkiye,Online,2,0.15,372.3,230,142.3
+717,ORD-0472,2026-02-10,C168,Customer 168,Small Business,Istanbul,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S04,Online Türkiye,Türkiye,Türkiye,Online,1,0,79,42,37
+718,ORD-0473,2026-02-17,C079,Customer 079,Small Business,Antalya,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S02,Ankara Hub,Ankara,Türkiye,Retail,2,0,150,72,78
+719,ORD-0474,2026-03-14,C057,Customer 057,Consumer,Istanbul,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S02,Ankara Hub,Ankara,Türkiye,Retail,3,0.05,139.65,66,73.65
+720,ORD-0475,2026-05-09,C162,Customer 162,Consumer,Ankara,Türkiye,P008,Desk Lamp,Office,BrightCo,S03,Izmir Coast,Izmir,Türkiye,Retail,5,0.1,202.5,100,102.5
+721,ORD-0475,2026-05-09,C162,Customer 162,Consumer,Ankara,Türkiye,P007,Webcam Pro,Video,VisionLab,S03,Izmir Coast,Izmir,Türkiye,Retail,2,0,178,88,90
+722,ORD-0476,2026-02-22,C098,Customer 098,Consumer,Antalya,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S01,Istanbul Central,Istanbul,Türkiye,Retail,3,0.05,339.15,189,150.15
+723,ORD-0477,2026-07-11,C064,Customer 064,Corporate,Bursa,Türkiye,P007,Webcam Pro,Video,VisionLab,S01,Istanbul Central,Istanbul,Türkiye,Retail,1,0.05,84.55,44,40.55
+724,ORD-0477,2026-07-11,C064,Customer 064,Corporate,Bursa,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S01,Istanbul Central,Istanbul,Türkiye,Retail,3,0.15,191.25,108,83.25
+725,ORD-0477,2026-07-11,C064,Customer 064,Corporate,Bursa,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S01,Istanbul Central,Istanbul,Türkiye,Retail,4,0.1,500.4,312,188.4
+726,ORD-0478,2026-05-04,C145,Customer 145,Consumer,Bursa,Türkiye,P012,4K Monitor,Displays,ViewMax,S01,Istanbul Central,Istanbul,Türkiye,Retail,4,0,1596,900,696
+727,ORD-0479,2026-02-20,C010,Customer 010,Small Business,Istanbul,Türkiye,P008,Desk Lamp,Office,BrightCo,S04,Online Türkiye,Türkiye,Türkiye,Online,1,0,45,20,25
+728,ORD-0479,2026-02-20,C010,Customer 010,Small Business,Istanbul,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S04,Online Türkiye,Türkiye,Türkiye,Online,5,0,695,390,305
+729,ORD-0480,2026-05-13,C122,Customer 122,Consumer,Antalya,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S02,Ankara Hub,Ankara,Türkiye,Retail,2,0,98,44,54
+730,ORD-0480,2026-05-13,C122,Customer 122,Consumer,Antalya,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S02,Ankara Hub,Ankara,Türkiye,Retail,3,0,417,234,183
+731,ORD-0481,2026-03-01,C111,Customer 111,Small Business,Izmir,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S01,Istanbul Central,Istanbul,Türkiye,Retail,2,0,150,72,78
+732,ORD-0481,2026-03-01,C111,Customer 111,Small Business,Izmir,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S01,Istanbul Central,Istanbul,Türkiye,Retail,5,0.1,153.0,90,63.0
+733,ORD-0482,2026-06-05,C074,Customer 074,Consumer,Istanbul,Türkiye,P003,USB-C Hub,Accessories,Connectix,S01,Istanbul Central,Istanbul,Türkiye,Retail,3,0,165,84,81
+734,ORD-0483,2026-02-27,C012,Customer 012,Small Business,Istanbul,Türkiye,P003,USB-C Hub,Accessories,Connectix,S02,Ankara Hub,Ankara,Türkiye,Retail,5,0,275,140,135
+735,ORD-0483,2026-02-27,C012,Customer 012,Small Business,Istanbul,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S02,Ankara Hub,Ankara,Türkiye,Retail,5,0.15,208.25,110,98.25
+736,ORD-0484,2026-05-19,C175,Customer 175,Consumer,Ankara,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S03,Izmir Coast,Izmir,Türkiye,Retail,2,0,158,84,74
+737,ORD-0484,2026-05-19,C175,Customer 175,Consumer,Ankara,Türkiye,P008,Desk Lamp,Office,BrightCo,S03,Izmir Coast,Izmir,Türkiye,Retail,5,0,225,100,125
+738,ORD-0485,2026-05-19,C009,Customer 009,Corporate,Izmir,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S03,Izmir Coast,Izmir,Türkiye,Retail,4,0.15,115.6,72,43.6
+739,ORD-0485,2026-05-19,C009,Customer 009,Corporate,Izmir,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S03,Izmir Coast,Izmir,Türkiye,Retail,3,0,102,54,48
+740,ORD-0486,2026-01-05,C102,Customer 102,Corporate,Istanbul,Türkiye,P012,4K Monitor,Displays,ViewMax,S02,Ankara Hub,Ankara,Türkiye,Retail,2,0.1,718.2,450,268.2
+741,ORD-0487,2026-06-10,C136,Customer 136,Consumer,Ankara,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S03,Izmir Coast,Izmir,Türkiye,Retail,5,0,170,90,80
+742,ORD-0487,2026-06-10,C136,Customer 136,Consumer,Ankara,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S03,Izmir Coast,Izmir,Türkiye,Retail,4,0.15,404.6,252,152.6
+743,ORD-0488,2026-03-05,C166,Customer 166,Small Business,Bursa,Türkiye,P008,Desk Lamp,Office,BrightCo,S02,Ankara Hub,Ankara,Türkiye,Retail,3,0,135,60,75
+744,ORD-0489,2026-01-15,C082,Customer 082,Small Business,Istanbul,Türkiye,P012,4K Monitor,Displays,ViewMax,S01,Istanbul Central,Istanbul,Türkiye,Retail,5,0.1,1795.5,1125,670.5
+745,ORD-0490,2026-03-07,C002,Customer 002,Consumer,Istanbul,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S04,Online Türkiye,Türkiye,Türkiye,Online,1,0,139,78,61
+746,ORD-0491,2026-07-15,C023,Customer 023,Consumer,Izmir,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S01,Istanbul Central,Istanbul,Türkiye,Retail,2,0.1,448.2,290,158.2
+747,ORD-0492,2026-02-17,C041,Customer 041,Corporate,Bursa,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S01,Istanbul Central,Istanbul,Türkiye,Retail,3,0,102,54,48
+748,ORD-0492,2026-02-17,C041,Customer 041,Corporate,Bursa,Türkiye,P003,USB-C Hub,Accessories,Connectix,S01,Istanbul Central,Istanbul,Türkiye,Retail,4,0.05,209.0,112,97.0
+749,ORD-0493,2026-02-01,C143,Customer 143,Small Business,Ankara,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S04,Online Türkiye,Türkiye,Türkiye,Online,2,0,98,44,54
+750,ORD-0493,2026-02-01,C143,Customer 143,Small Business,Ankara,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S04,Online Türkiye,Türkiye,Türkiye,Online,1,0,249,145,104
+751,ORD-0494,2026-01-19,C002,Customer 002,Consumer,Istanbul,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S02,Ankara Hub,Ankara,Türkiye,Retail,5,0.1,1120.5,725,395.5
+752,ORD-0495,2026-01-09,C136,Customer 136,Consumer,Ankara,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S01,Istanbul Central,Istanbul,Türkiye,Retail,2,0,158,84,74
+753,ORD-0496,2026-01-10,C168,Customer 168,Small Business,Istanbul,Türkiye,P003,USB-C Hub,Accessories,Connectix,S01,Istanbul Central,Istanbul,Türkiye,Retail,2,0.1,99.0,56,43.0
+754,ORD-0497,2026-03-30,C052,Customer 052,Small Business,Izmir,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S03,Izmir Coast,Izmir,Türkiye,Retail,5,0.1,337.5,180,157.5
+755,ORD-0497,2026-03-30,C052,Customer 052,Small Business,Izmir,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S03,Izmir Coast,Izmir,Türkiye,Retail,5,0.15,930.75,575,355.75
+756,ORD-0498,2026-03-28,C025,Customer 025,Corporate,Izmir,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S02,Ankara Hub,Ankara,Türkiye,Retail,4,0.05,285.0,144,141.0
+757,ORD-0499,2026-03-28,C164,Customer 164,Small Business,Bursa,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S01,Istanbul Central,Istanbul,Türkiye,Retail,2,0.1,448.2,290,158.2
+758,ORD-0499,2026-03-28,C164,Customer 164,Small Business,Bursa,Türkiye,P003,USB-C Hub,Accessories,Connectix,S01,Istanbul Central,Istanbul,Türkiye,Retail,5,0,275,140,135
+759,ORD-0500,2026-03-04,C017,Customer 017,Corporate,Istanbul,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S02,Ankara Hub,Ankara,Türkiye,Retail,4,0.05,528.2,312,216.2
+760,ORD-0500,2026-03-04,C017,Customer 017,Corporate,Istanbul,Türkiye,P003,USB-C Hub,Accessories,Connectix,S02,Ankara Hub,Ankara,Türkiye,Retail,5,0.15,233.75,140,93.75
+761,ORD-0501,2026-01-12,C062,Customer 062,Small Business,Istanbul,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S04,Online Türkiye,Türkiye,Türkiye,Online,4,0.05,832.2,460,372.2
+762,ORD-0502,2026-03-26,C118,Customer 118,Small Business,Antalya,Türkiye,P003,USB-C Hub,Accessories,Connectix,S03,Izmir Coast,Izmir,Türkiye,Retail,4,0,220,112,108
+763,ORD-0503,2026-04-14,C127,Customer 127,Corporate,Izmir,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S04,Online Türkiye,Türkiye,Türkiye,Online,4,0,196,88,108
+764,ORD-0504,2026-03-20,C143,Customer 143,Small Business,Ankara,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S02,Ankara Hub,Ankara,Türkiye,Retail,5,0.15,930.75,575,355.75
+765,ORD-0505,2026-07-17,C047,Customer 047,Small Business,Antalya,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S01,Istanbul Central,Istanbul,Türkiye,Retail,3,0,417,234,183
+766,ORD-0506,2026-04-14,C150,Customer 150,Small Business,Antalya,Türkiye,P007,Webcam Pro,Video,VisionLab,S02,Ankara Hub,Ankara,Türkiye,Retail,5,0,445,220,225
+767,ORD-0507,2026-02-10,C010,Customer 010,Small Business,Istanbul,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S01,Istanbul Central,Istanbul,Türkiye,Retail,1,0.1,67.5,36,31.5
+768,ORD-0507,2026-02-10,C010,Customer 010,Small Business,Istanbul,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S01,Istanbul Central,Istanbul,Türkiye,Retail,1,0.05,113.05,63,50.05
+769,ORD-0508,2026-03-01,C133,Customer 133,Consumer,Bursa,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S03,Izmir Coast,Izmir,Türkiye,Retail,3,0.15,191.25,108,83.25
+770,ORD-0509,2026-04-07,C012,Customer 012,Small Business,Istanbul,Türkiye,P003,USB-C Hub,Accessories,Connectix,S04,Online Türkiye,Türkiye,Türkiye,Online,1,0.15,46.75,28,18.75
+771,ORD-0510,2026-01-21,C083,Customer 083,Consumer,Izmir,Türkiye,P012,4K Monitor,Displays,ViewMax,S04,Online Türkiye,Türkiye,Türkiye,Online,5,0.15,1695.75,1125,570.75
+772,ORD-0511,2026-02-16,C118,Customer 118,Small Business,Antalya,Türkiye,P003,USB-C Hub,Accessories,Connectix,S01,Istanbul Central,Istanbul,Türkiye,Retail,3,0.05,156.75,84,72.75
+773,ORD-0512,2026-01-31,C079,Customer 079,Small Business,Antalya,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S02,Ankara Hub,Ankara,Türkiye,Retail,3,0,357,189,168
+774,ORD-0512,2026-01-31,C079,Customer 079,Small Business,Antalya,Türkiye,P003,USB-C Hub,Accessories,Connectix,S02,Ankara Hub,Ankara,Türkiye,Retail,5,0.15,233.75,140,93.75
+775,ORD-0513,2026-06-01,C006,Customer 006,Small Business,Ankara,Türkiye,P003,USB-C Hub,Accessories,Connectix,S02,Ankara Hub,Ankara,Türkiye,Retail,3,0.05,156.75,84,72.75
+776,ORD-0514,2026-04-19,C017,Customer 017,Corporate,Istanbul,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S04,Online Türkiye,Türkiye,Türkiye,Online,3,0.1,213.3,126,87.3
+777,ORD-0515,2026-01-22,C036,Customer 036,Consumer,Antalya,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S02,Ankara Hub,Ankara,Türkiye,Retail,3,0,102,54,48
+778,ORD-0516,2026-06-26,C127,Customer 127,Corporate,Izmir,Türkiye,P007,Webcam Pro,Video,VisionLab,S02,Ankara Hub,Ankara,Türkiye,Retail,3,0.15,226.95,132,94.95
+779,ORD-0516,2026-06-26,C127,Customer 127,Corporate,Izmir,Türkiye,P008,Desk Lamp,Office,BrightCo,S02,Ankara Hub,Ankara,Türkiye,Retail,2,0,90,40,50
+780,ORD-0517,2026-03-15,C131,Customer 131,Small Business,Istanbul,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S01,Istanbul Central,Istanbul,Türkiye,Retail,2,0,238,126,112
+781,ORD-0518,2026-06-02,C025,Customer 025,Corporate,Izmir,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S04,Online Türkiye,Türkiye,Türkiye,Online,3,0,417,234,183
+782,ORD-0518,2026-06-02,C025,Customer 025,Corporate,Izmir,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S04,Online Türkiye,Türkiye,Türkiye,Online,4,0,136,72,64
+783,ORD-0519,2026-05-04,C059,Customer 059,Corporate,Istanbul,Türkiye,P008,Desk Lamp,Office,BrightCo,S02,Ankara Hub,Ankara,Türkiye,Retail,1,0,45,20,25
+784,ORD-0520,2026-07-20,C134,Customer 134,Consumer,Izmir,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S01,Istanbul Central,Istanbul,Türkiye,Retail,5,0.05,232.75,110,122.75
+785,ORD-0520,2026-07-20,C134,Customer 134,Consumer,Izmir,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S01,Istanbul Central,Istanbul,Türkiye,Retail,4,0.05,946.2,580,366.2
+786,ORD-0521,2026-06-05,C124,Customer 124,Small Business,Izmir,Türkiye,P012,4K Monitor,Displays,ViewMax,S02,Ankara Hub,Ankara,Türkiye,Retail,1,0.05,379.05,225,154.05
+787,ORD-0522,2026-03-10,C157,Customer 157,Small Business,Bursa,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S01,Istanbul Central,Istanbul,Türkiye,Retail,3,0.05,624.15,345,279.15
+788,ORD-0522,2026-03-10,C157,Customer 157,Small Business,Bursa,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S01,Istanbul Central,Istanbul,Türkiye,Retail,1,0,75,36,39
+789,ORD-0523,2026-03-27,C001,Customer 001,Small Business,Bursa,Türkiye,P012,4K Monitor,Displays,ViewMax,S03,Izmir Coast,Izmir,Türkiye,Retail,2,0.05,758.1,450,308.1
+790,ORD-0524,2026-01-08,C025,Customer 025,Corporate,Izmir,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S03,Izmir Coast,Izmir,Türkiye,Retail,1,0.1,197.1,115,82.1
+791,ORD-0524,2026-01-08,C025,Customer 025,Corporate,Izmir,Türkiye,P008,Desk Lamp,Office,BrightCo,S03,Izmir Coast,Izmir,Türkiye,Retail,2,0.15,76.5,40,36.5
+792,ORD-0525,2026-01-06,C115,Customer 115,Consumer,Bursa,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S01,Istanbul Central,Istanbul,Türkiye,Retail,2,0,438,230,208
+793,ORD-0525,2026-01-06,C115,Customer 115,Consumer,Bursa,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S01,Istanbul Central,Istanbul,Türkiye,Retail,5,0,1245,725,520
+794,ORD-0526,2026-03-02,C030,Customer 030,Consumer,Bursa,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S01,Istanbul Central,Istanbul,Türkiye,Retail,3,0.05,139.65,66,73.65
+795,ORD-0527,2026-05-21,C166,Customer 166,Small Business,Bursa,Türkiye,P008,Desk Lamp,Office,BrightCo,S01,Istanbul Central,Istanbul,Türkiye,Retail,2,0,90,40,50
+796,ORD-0527,2026-05-21,C166,Customer 166,Small Business,Bursa,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S01,Istanbul Central,Istanbul,Türkiye,Retail,2,0.15,236.3,156,80.3
+797,ORD-0528,2026-07-30,C043,Customer 043,Corporate,Ankara,Türkiye,P007,Webcam Pro,Video,VisionLab,S03,Izmir Coast,Izmir,Türkiye,Retail,1,0.1,80.1,44,36.1
+798,ORD-0529,2026-03-16,C099,Customer 099,Consumer,Ankara,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S01,Istanbul Central,Istanbul,Türkiye,Retail,5,0,245,110,135
+799,ORD-0529,2026-03-16,C099,Customer 099,Consumer,Ankara,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S01,Istanbul Central,Istanbul,Türkiye,Retail,1,0,139,78,61
+800,ORD-0529,2026-03-16,C099,Customer 099,Consumer,Ankara,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S01,Istanbul Central,Istanbul,Türkiye,Retail,4,0,316,168,148
+801,ORD-0530,2026-04-29,C001,Customer 001,Small Business,Bursa,Türkiye,P003,USB-C Hub,Accessories,Connectix,S02,Ankara Hub,Ankara,Türkiye,Retail,4,0,220,112,108
+802,ORD-0530,2026-04-29,C001,Customer 001,Small Business,Bursa,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S02,Ankara Hub,Ankara,Türkiye,Retail,5,0.05,1040.25,575,465.25
+803,ORD-0531,2026-07-18,C049,Customer 049,Consumer,Bursa,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S02,Ankara Hub,Ankara,Türkiye,Retail,4,0,300,144,156
+804,ORD-0532,2026-02-08,C131,Customer 131,Small Business,Istanbul,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S03,Izmir Coast,Izmir,Türkiye,Retail,3,0,357,189,168
+805,ORD-0533,2026-01-27,C048,Customer 048,Consumer,Bursa,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S03,Izmir Coast,Izmir,Türkiye,Retail,3,0.1,375.3,234,141.3
+806,ORD-0534,2026-03-27,C163,Customer 163,Corporate,Izmir,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S01,Istanbul Central,Istanbul,Türkiye,Retail,2,0,158,84,74
+807,ORD-0534,2026-03-27,C163,Customer 163,Corporate,Izmir,Türkiye,P012,4K Monitor,Displays,ViewMax,S01,Istanbul Central,Istanbul,Türkiye,Retail,2,0,798,450,348
+808,ORD-0534,2026-03-27,C163,Customer 163,Corporate,Izmir,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S01,Istanbul Central,Istanbul,Türkiye,Retail,2,0.1,61.2,36,25.2
+809,ORD-0535,2026-06-12,C036,Customer 036,Consumer,Antalya,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S03,Izmir Coast,Izmir,Türkiye,Retail,1,0,119,63,56
+810,ORD-0535,2026-06-12,C036,Customer 036,Consumer,Antalya,Türkiye,P012,4K Monitor,Displays,ViewMax,S03,Izmir Coast,Izmir,Türkiye,Retail,2,0.15,678.3,450,228.3
+811,ORD-0536,2026-03-17,C072,Customer 072,Corporate,Ankara,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S01,Istanbul Central,Istanbul,Türkiye,Retail,2,0.1,61.2,36,25.2
+812,ORD-0536,2026-03-17,C072,Customer 072,Corporate,Ankara,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S01,Istanbul Central,Istanbul,Türkiye,Retail,2,0.05,142.5,72,70.5
+813,ORD-0537,2026-01-31,C015,Customer 015,Consumer,Antalya,Türkiye,P007,Webcam Pro,Video,VisionLab,S03,Izmir Coast,Izmir,Türkiye,Retail,4,0,356,176,180
+814,ORD-0537,2026-01-31,C015,Customer 015,Consumer,Antalya,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S03,Izmir Coast,Izmir,Türkiye,Retail,2,0,68,36,32
+815,ORD-0538,2026-01-16,C172,Customer 172,Corporate,Bursa,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S04,Online Türkiye,Türkiye,Türkiye,Online,1,0.05,113.05,63,50.05
+816,ORD-0538,2026-01-16,C172,Customer 172,Corporate,Bursa,Türkiye,P003,USB-C Hub,Accessories,Connectix,S04,Online Türkiye,Türkiye,Türkiye,Online,3,0.15,140.25,84,56.25
+817,ORD-0539,2026-06-17,C176,Customer 176,Corporate,Bursa,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S03,Izmir Coast,Izmir,Türkiye,Retail,3,0,147,66,81
+818,ORD-0540,2026-06-12,C098,Customer 098,Consumer,Antalya,Türkiye,P008,Desk Lamp,Office,BrightCo,S03,Izmir Coast,Izmir,Türkiye,Retail,4,0.1,162.0,80,82.0
+819,ORD-0541,2026-02-15,C006,Customer 006,Small Business,Ankara,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S01,Istanbul Central,Istanbul,Türkiye,Retail,1,0.05,75.05,42,33.05
+820,ORD-0541,2026-02-15,C006,Customer 006,Small Business,Ankara,Türkiye,P007,Webcam Pro,Video,VisionLab,S01,Istanbul Central,Istanbul,Türkiye,Retail,3,0.05,253.65,132,121.65
+821,ORD-0542,2026-05-25,C131,Customer 131,Small Business,Istanbul,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S03,Izmir Coast,Izmir,Türkiye,Retail,2,0,498,290,208
+822,ORD-0543,2026-06-03,C180,Customer 180,Corporate,Istanbul,Türkiye,P003,USB-C Hub,Accessories,Connectix,S02,Ankara Hub,Ankara,Türkiye,Retail,2,0,110,56,54
+823,ORD-0543,2026-06-03,C180,Customer 180,Corporate,Istanbul,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S02,Ankara Hub,Ankara,Türkiye,Retail,2,0.05,416.1,230,186.1
+824,ORD-0544,2026-04-02,C073,Customer 073,Consumer,Istanbul,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S04,Online Türkiye,Türkiye,Türkiye,Online,1,0,75,36,39
+825,ORD-0545,2026-01-02,C014,Customer 014,Small Business,Istanbul,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S02,Ankara Hub,Ankara,Türkiye,Retail,5,0.15,505.75,315,190.75
+826,ORD-0545,2026-01-02,C014,Customer 014,Small Business,Istanbul,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S02,Ankara Hub,Ankara,Türkiye,Retail,4,0.05,285.0,144,141.0
+827,ORD-0546,2026-07-13,C163,Customer 163,Corporate,Izmir,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S01,Istanbul Central,Istanbul,Türkiye,Retail,3,0,237,126,111
+828,ORD-0547,2026-02-07,C162,Customer 162,Consumer,Ankara,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S01,Istanbul Central,Istanbul,Türkiye,Retail,2,0,238,126,112
+829,ORD-0548,2026-03-20,C062,Customer 062,Small Business,Istanbul,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S04,Online Türkiye,Türkiye,Türkiye,Online,2,0.15,202.3,126,76.3
+830,ORD-0549,2026-04-30,C069,Customer 069,Consumer,Izmir,Türkiye,P008,Desk Lamp,Office,BrightCo,S01,Istanbul Central,Istanbul,Türkiye,Retail,3,0,135,60,75
+831,ORD-0549,2026-04-30,C069,Customer 069,Consumer,Izmir,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S01,Istanbul Central,Istanbul,Türkiye,Retail,4,0.15,472.6,312,160.6
+832,ORD-0550,2026-04-09,C036,Customer 036,Consumer,Antalya,Türkiye,P012,4K Monitor,Displays,ViewMax,S01,Istanbul Central,Istanbul,Türkiye,Retail,4,0,1596,900,696
+833,ORD-0551,2026-02-26,C114,Customer 114,Corporate,Antalya,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S01,Istanbul Central,Istanbul,Türkiye,Retail,1,0,75,36,39
+834,ORD-0552,2026-01-26,C055,Customer 055,Corporate,Ankara,Türkiye,P012,4K Monitor,Displays,ViewMax,S02,Ankara Hub,Ankara,Türkiye,Retail,1,0,399,225,174
+835,ORD-0552,2026-01-26,C055,Customer 055,Corporate,Ankara,Türkiye,P007,Webcam Pro,Video,VisionLab,S02,Ankara Hub,Ankara,Türkiye,Retail,2,0.1,160.2,88,72.2
+836,ORD-0552,2026-01-26,C055,Customer 055,Corporate,Ankara,Türkiye,P012,4K Monitor,Displays,ViewMax,S02,Ankara Hub,Ankara,Türkiye,Retail,5,0,1995,1125,870
+837,ORD-0553,2026-07-21,C155,Customer 155,Small Business,Bursa,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S01,Istanbul Central,Istanbul,Türkiye,Retail,1,0.15,67.15,42,25.15
+838,ORD-0554,2026-02-15,C020,Customer 020,Small Business,Antalya,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S02,Ankara Hub,Ankara,Türkiye,Retail,3,0.15,86.7,54,32.7
+839,ORD-0554,2026-02-15,C020,Customer 020,Small Business,Antalya,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S02,Ankara Hub,Ankara,Türkiye,Retail,3,0,147,66,81
+840,ORD-0555,2026-02-16,C156,Customer 156,Small Business,Istanbul,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S03,Izmir Coast,Izmir,Türkiye,Retail,1,0,79,42,37
+841,ORD-0556,2026-02-05,C136,Customer 136,Consumer,Ankara,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S02,Ankara Hub,Ankara,Türkiye,Retail,2,0.1,394.2,230,164.2
+842,ORD-0557,2026-03-12,C018,Customer 018,Consumer,Bursa,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S02,Ankara Hub,Ankara,Türkiye,Retail,4,0.1,122.4,72,50.4
+843,ORD-0557,2026-03-12,C018,Customer 018,Consumer,Bursa,Türkiye,P012,4K Monitor,Displays,ViewMax,S02,Ankara Hub,Ankara,Türkiye,Retail,3,0.05,1137.15,675,462.15
+844,ORD-0558,2026-03-16,C077,Customer 077,Consumer,Izmir,Türkiye,P012,4K Monitor,Displays,ViewMax,S01,Istanbul Central,Istanbul,Türkiye,Retail,2,0.05,758.1,450,308.1
+845,ORD-0558,2026-03-16,C077,Customer 077,Consumer,Izmir,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S01,Istanbul Central,Istanbul,Türkiye,Retail,1,0.15,101.15,63,38.15
+846,ORD-0559,2026-01-16,C166,Customer 166,Small Business,Bursa,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S03,Izmir Coast,Izmir,Türkiye,Retail,5,0,395,210,185
+847,ORD-0559,2026-01-16,C166,Customer 166,Small Business,Bursa,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S03,Izmir Coast,Izmir,Türkiye,Retail,4,0,996,580,416
+848,ORD-0560,2026-07-07,C104,Customer 104,Small Business,Istanbul,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S03,Izmir Coast,Izmir,Türkiye,Retail,4,0,300,144,156
+849,ORD-0561,2026-05-24,C114,Customer 114,Corporate,Antalya,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S01,Istanbul Central,Istanbul,Türkiye,Retail,1,0.1,197.1,115,82.1
+850,ORD-0562,2026-05-26,C124,Customer 124,Small Business,Izmir,Türkiye,P007,Webcam Pro,Video,VisionLab,S03,Izmir Coast,Izmir,Türkiye,Retail,4,0,356,176,180
+851,ORD-0563,2026-02-04,C160,Customer 160,Consumer,Ankara,Türkiye,P008,Desk Lamp,Office,BrightCo,S03,Izmir Coast,Izmir,Türkiye,Retail,4,0.15,153.0,80,73.0
+852,ORD-0564,2026-04-03,C054,Customer 054,Consumer,Istanbul,Türkiye,P007,Webcam Pro,Video,VisionLab,S03,Izmir Coast,Izmir,Türkiye,Retail,5,0,445,220,225
+853,ORD-0564,2026-04-03,C054,Customer 054,Consumer,Istanbul,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S03,Izmir Coast,Izmir,Türkiye,Retail,4,0,556,312,244
+854,ORD-0565,2026-03-28,C166,Customer 166,Small Business,Bursa,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S02,Ankara Hub,Ankara,Türkiye,Retail,5,0,395,210,185
+855,ORD-0566,2026-03-16,C036,Customer 036,Consumer,Antalya,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S02,Ankara Hub,Ankara,Türkiye,Retail,5,0.1,625.5,390,235.5
+856,ORD-0566,2026-03-16,C036,Customer 036,Consumer,Antalya,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S02,Ankara Hub,Ankara,Türkiye,Retail,5,0,1095,575,520
+857,ORD-0567,2026-06-12,C115,Customer 115,Consumer,Bursa,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S01,Istanbul Central,Istanbul,Türkiye,Retail,5,0.05,1182.75,725,457.75
+858,ORD-0567,2026-06-12,C115,Customer 115,Consumer,Bursa,Türkiye,P012,4K Monitor,Displays,ViewMax,S01,Istanbul Central,Istanbul,Türkiye,Retail,2,0,798,450,348
+859,ORD-0567,2026-06-12,C115,Customer 115,Consumer,Bursa,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S01,Istanbul Central,Istanbul,Türkiye,Retail,3,0.15,201.45,126,75.45
+860,ORD-0568,2026-05-28,C039,Customer 039,Small Business,Ankara,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S04,Online Türkiye,Türkiye,Türkiye,Online,5,0,170,90,80
+861,ORD-0569,2026-02-24,C065,Customer 065,Small Business,Ankara,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S02,Ankara Hub,Ankara,Türkiye,Retail,5,0.1,625.5,390,235.5
+862,ORD-0569,2026-02-24,C065,Customer 065,Small Business,Ankara,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S02,Ankara Hub,Ankara,Türkiye,Retail,3,0.05,709.65,435,274.65
+863,ORD-0570,2026-07-11,C113,Customer 113,Consumer,Ankara,Türkiye,P007,Webcam Pro,Video,VisionLab,S01,Istanbul Central,Istanbul,Türkiye,Retail,4,0.1,320.4,176,144.4
+864,ORD-0570,2026-07-11,C113,Customer 113,Consumer,Ankara,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S01,Istanbul Central,Istanbul,Türkiye,Retail,3,0.15,558.45,345,213.45
+865,ORD-0571,2026-03-06,C024,Customer 024,Corporate,Izmir,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S02,Ankara Hub,Ankara,Türkiye,Retail,2,0.1,448.2,290,158.2
+866,ORD-0572,2026-03-28,C053,Customer 053,Small Business,Istanbul,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S04,Online Türkiye,Türkiye,Türkiye,Online,5,0,595,315,280
+867,ORD-0572,2026-03-28,C053,Customer 053,Small Business,Istanbul,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S04,Online Türkiye,Türkiye,Türkiye,Online,4,0,556,312,244
+868,ORD-0573,2026-03-23,C148,Customer 148,Corporate,Ankara,Türkiye,P003,USB-C Hub,Accessories,Connectix,S03,Izmir Coast,Izmir,Türkiye,Retail,5,0.05,261.25,140,121.25
+869,ORD-0574,2026-01-16,C051,Customer 051,Consumer,Antalya,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S02,Ankara Hub,Ankara,Türkiye,Retail,4,0,136,72,64
+870,ORD-0575,2026-03-23,C053,Customer 053,Small Business,Istanbul,Türkiye,P007,Webcam Pro,Video,VisionLab,S04,Online Türkiye,Türkiye,Türkiye,Online,3,0.1,240.3,132,108.3
+871,ORD-0576,2026-02-26,C042,Customer 042,Small Business,Istanbul,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S03,Izmir Coast,Izmir,Türkiye,Retail,4,0.1,896.4,580,316.4
+872,ORD-0577,2026-03-14,C114,Customer 114,Corporate,Antalya,Türkiye,P007,Webcam Pro,Video,VisionLab,S03,Izmir Coast,Izmir,Türkiye,Retail,2,0.1,160.2,88,72.2
+873,ORD-0578,2026-01-02,C116,Customer 116,Small Business,Istanbul,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S02,Ankara Hub,Ankara,Türkiye,Retail,4,0.15,846.6,580,266.6
+874,ORD-0579,2026-05-25,C149,Customer 149,Small Business,Ankara,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S02,Ankara Hub,Ankara,Türkiye,Retail,3,0.1,202.5,108,94.5
+875,ORD-0580,2026-03-13,C180,Customer 180,Corporate,Istanbul,Türkiye,P003,USB-C Hub,Accessories,Connectix,S04,Online Türkiye,Türkiye,Türkiye,Online,5,0.05,261.25,140,121.25
+876,ORD-0581,2026-07-31,C161,Customer 161,Corporate,Izmir,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S03,Izmir Coast,Izmir,Türkiye,Retail,4,0.15,268.6,168,100.6
+877,ORD-0582,2026-06-01,C116,Customer 116,Small Business,Istanbul,Türkiye,P012,4K Monitor,Displays,ViewMax,S03,Izmir Coast,Izmir,Türkiye,Retail,3,0,1197,675,522
+878,ORD-0583,2026-07-02,C159,Customer 159,Corporate,Izmir,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S02,Ankara Hub,Ankara,Türkiye,Retail,4,0,316,168,148
+879,ORD-0584,2026-04-13,C144,Customer 144,Small Business,Izmir,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S01,Istanbul Central,Istanbul,Türkiye,Retail,4,0,876,460,416
+880,ORD-0584,2026-04-13,C144,Customer 144,Small Business,Izmir,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S01,Istanbul Central,Istanbul,Türkiye,Retail,3,0,147,66,81
+881,ORD-0585,2026-05-29,C047,Customer 047,Small Business,Antalya,Türkiye,P012,4K Monitor,Displays,ViewMax,S03,Izmir Coast,Izmir,Türkiye,Retail,5,0,1995,1125,870
+882,ORD-0586,2026-02-11,C154,Customer 154,Consumer,Ankara,Türkiye,P003,USB-C Hub,Accessories,Connectix,S01,Istanbul Central,Istanbul,Türkiye,Retail,2,0.1,99.0,56,43.0
+883,ORD-0587,2026-01-19,C052,Customer 052,Small Business,Izmir,Türkiye,P003,USB-C Hub,Accessories,Connectix,S03,Izmir Coast,Izmir,Türkiye,Retail,1,0,55,28,27
+884,ORD-0588,2026-03-29,C117,Customer 117,Consumer,Izmir,Türkiye,P007,Webcam Pro,Video,VisionLab,S03,Izmir Coast,Izmir,Türkiye,Retail,5,0,445,220,225
+885,ORD-0588,2026-03-29,C117,Customer 117,Consumer,Izmir,Türkiye,P012,4K Monitor,Displays,ViewMax,S03,Izmir Coast,Izmir,Türkiye,Retail,5,0.15,1695.75,1125,570.75
+886,ORD-0589,2026-05-09,C009,Customer 009,Corporate,Izmir,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S04,Online Türkiye,Türkiye,Türkiye,Online,5,0,395,210,185
+887,ORD-0590,2026-07-17,C091,Customer 091,Small Business,Istanbul,Türkiye,P008,Desk Lamp,Office,BrightCo,S04,Online Türkiye,Türkiye,Türkiye,Online,5,0.15,191.25,100,91.25
+888,ORD-0590,2026-07-17,C091,Customer 091,Small Business,Istanbul,Türkiye,P012,4K Monitor,Displays,ViewMax,S04,Online Türkiye,Türkiye,Türkiye,Online,2,0,798,450,348
+889,ORD-0591,2026-03-17,C148,Customer 148,Corporate,Ankara,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S02,Ankara Hub,Ankara,Türkiye,Retail,3,0,657,345,312
+890,ORD-0592,2026-06-27,C013,Customer 013,Corporate,Antalya,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S02,Ankara Hub,Ankara,Türkiye,Retail,5,0,395,210,185
+891,ORD-0593,2026-03-28,C023,Customer 023,Consumer,Izmir,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S04,Online Türkiye,Türkiye,Türkiye,Online,3,0,417,234,183
+892,ORD-0593,2026-03-28,C023,Customer 023,Consumer,Izmir,Türkiye,P003,USB-C Hub,Accessories,Connectix,S04,Online Türkiye,Türkiye,Türkiye,Online,3,0.05,156.75,84,72.75
+893,ORD-0594,2026-02-11,C127,Customer 127,Corporate,Izmir,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S01,Istanbul Central,Istanbul,Türkiye,Retail,4,0.15,744.6,460,284.6
+894,ORD-0595,2026-04-15,C030,Customer 030,Consumer,Bursa,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S01,Istanbul Central,Istanbul,Türkiye,Retail,5,0,170,90,80
+895,ORD-0595,2026-04-15,C030,Customer 030,Consumer,Bursa,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S01,Istanbul Central,Istanbul,Türkiye,Retail,2,0,238,126,112
+896,ORD-0596,2026-05-16,C147,Customer 147,Small Business,Bursa,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S02,Ankara Hub,Ankara,Türkiye,Retail,1,0.15,211.65,145,66.65
+897,ORD-0596,2026-05-16,C147,Customer 147,Small Business,Bursa,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S02,Ankara Hub,Ankara,Türkiye,Retail,4,0,476,252,224
+898,ORD-0597,2026-07-15,C159,Customer 159,Corporate,Izmir,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S03,Izmir Coast,Izmir,Türkiye,Retail,1,0.15,41.65,22,19.65
+899,ORD-0598,2026-05-04,C072,Customer 072,Corporate,Ankara,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S02,Ankara Hub,Ankara,Türkiye,Retail,5,0,375,180,195
+900,ORD-0599,2026-07-17,C158,Customer 158,Consumer,Bursa,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S04,Online Türkiye,Türkiye,Türkiye,Online,2,0,68,36,32
+901,ORD-0599,2026-07-17,C158,Customer 158,Consumer,Bursa,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S04,Online Türkiye,Türkiye,Türkiye,Online,5,0.05,660.25,390,270.25
+902,ORD-0600,2026-04-25,C098,Customer 098,Consumer,Antalya,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S02,Ankara Hub,Ankara,Türkiye,Retail,2,0,238,126,112
+903,ORD-0600,2026-04-25,C098,Customer 098,Consumer,Antalya,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S02,Ankara Hub,Ankara,Türkiye,Retail,3,0,417,234,183
+904,ORD-0601,2026-06-18,C029,Customer 029,Consumer,Istanbul,Türkiye,P003,USB-C Hub,Accessories,Connectix,S04,Online Türkiye,Türkiye,Türkiye,Online,2,0,110,56,54
+905,ORD-0601,2026-06-18,C029,Customer 029,Consumer,Istanbul,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S04,Online Türkiye,Türkiye,Türkiye,Online,5,0,1245,725,520
+906,ORD-0602,2026-06-25,C095,Customer 095,Consumer,Istanbul,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S04,Online Türkiye,Türkiye,Türkiye,Online,2,0,150,72,78
+907,ORD-0603,2026-04-30,C163,Customer 163,Corporate,Izmir,Türkiye,P003,USB-C Hub,Accessories,Connectix,S01,Istanbul Central,Istanbul,Türkiye,Retail,2,0,110,56,54
+908,ORD-0604,2026-01-17,C087,Customer 087,Small Business,Izmir,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S02,Ankara Hub,Ankara,Türkiye,Retail,1,0.1,30.6,18,12.6
+909,ORD-0605,2026-05-04,C134,Customer 134,Consumer,Izmir,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S01,Istanbul Central,Istanbul,Türkiye,Retail,3,0,237,126,111
+910,ORD-0606,2026-04-16,C168,Customer 168,Small Business,Istanbul,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S04,Online Türkiye,Türkiye,Türkiye,Online,4,0,136,72,64
+911,ORD-0607,2026-01-09,C021,Customer 021,Corporate,Ankara,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S04,Online Türkiye,Türkiye,Türkiye,Online,1,0,79,42,37
+912,ORD-0608,2026-06-30,C032,Customer 032,Consumer,Antalya,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S03,Izmir Coast,Izmir,Türkiye,Retail,5,0,245,110,135
+913,ORD-0609,2026-05-20,C111,Customer 111,Small Business,Izmir,Türkiye,P012,4K Monitor,Displays,ViewMax,S01,Istanbul Central,Istanbul,Türkiye,Retail,5,0.05,1895.25,1125,770.25
+914,ORD-0609,2026-05-20,C111,Customer 111,Small Business,Izmir,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S01,Istanbul Central,Istanbul,Türkiye,Retail,4,0,316,168,148
+915,ORD-0610,2026-05-23,C128,Customer 128,Consumer,Antalya,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S01,Istanbul Central,Istanbul,Türkiye,Retail,3,0,657,345,312
+916,ORD-0611,2026-03-28,C038,Customer 038,Consumer,Antalya,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S02,Ankara Hub,Ankara,Türkiye,Retail,5,0,595,315,280
+917,ORD-0612,2026-02-22,C003,Customer 003,Corporate,Izmir,Türkiye,P007,Webcam Pro,Video,VisionLab,S01,Istanbul Central,Istanbul,Türkiye,Retail,5,0.05,422.75,220,202.75
+918,ORD-0613,2026-06-04,C166,Customer 166,Small Business,Bursa,Türkiye,P008,Desk Lamp,Office,BrightCo,S01,Istanbul Central,Istanbul,Türkiye,Retail,2,0,90,40,50
+919,ORD-0613,2026-06-04,C166,Customer 166,Small Business,Bursa,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S01,Istanbul Central,Istanbul,Türkiye,Retail,4,0.1,284.4,168,116.4
+920,ORD-0614,2026-06-26,C025,Customer 025,Corporate,Izmir,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S04,Online Türkiye,Türkiye,Türkiye,Online,4,0,136,72,64
+921,ORD-0614,2026-06-26,C025,Customer 025,Corporate,Izmir,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S04,Online Türkiye,Türkiye,Türkiye,Online,1,0,119,63,56
+922,ORD-0614,2026-06-26,C025,Customer 025,Corporate,Izmir,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S04,Online Türkiye,Türkiye,Türkiye,Online,4,0.1,500.4,312,188.4
+923,ORD-0615,2026-03-14,C065,Customer 065,Small Business,Ankara,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S04,Online Türkiye,Türkiye,Türkiye,Online,4,0.05,300.2,168,132.2
+924,ORD-0616,2026-04-26,C178,Customer 178,Small Business,Bursa,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S03,Izmir Coast,Izmir,Türkiye,Retail,5,0.05,1182.75,725,457.75
+925,ORD-0617,2026-01-01,C097,Customer 097,Small Business,Ankara,Türkiye,P007,Webcam Pro,Video,VisionLab,S04,Online Türkiye,Türkiye,Türkiye,Online,3,0,267,132,135
+926,ORD-0618,2026-06-26,C002,Customer 002,Consumer,Istanbul,Türkiye,P003,USB-C Hub,Accessories,Connectix,S01,Istanbul Central,Istanbul,Türkiye,Retail,4,0,220,112,108
+927,ORD-0618,2026-06-26,C002,Customer 002,Consumer,Istanbul,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S01,Istanbul Central,Istanbul,Türkiye,Retail,1,0,75,36,39
+928,ORD-0619,2026-01-04,C084,Customer 084,Consumer,Istanbul,Türkiye,P003,USB-C Hub,Accessories,Connectix,S04,Online Türkiye,Türkiye,Türkiye,Online,1,0.05,52.25,28,24.25
+929,ORD-0620,2026-06-10,C088,Customer 088,Corporate,Istanbul,Türkiye,P007,Webcam Pro,Video,VisionLab,S04,Online Türkiye,Türkiye,Türkiye,Online,3,0.15,226.95,132,94.95
+930,ORD-0620,2026-06-10,C088,Customer 088,Corporate,Istanbul,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S04,Online Türkiye,Türkiye,Türkiye,Online,3,0.05,396.15,234,162.15
+931,ORD-0621,2026-07-02,C021,Customer 021,Corporate,Ankara,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S03,Izmir Coast,Izmir,Türkiye,Retail,3,0,747,435,312
+932,ORD-0621,2026-07-02,C021,Customer 021,Corporate,Ankara,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S03,Izmir Coast,Izmir,Türkiye,Retail,3,0,102,54,48
+933,ORD-0622,2026-06-06,C113,Customer 113,Consumer,Ankara,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S04,Online Türkiye,Türkiye,Türkiye,Online,3,0,357,189,168
+934,ORD-0623,2026-01-10,C140,Customer 140,Small Business,Ankara,Türkiye,P008,Desk Lamp,Office,BrightCo,S01,Istanbul Central,Istanbul,Türkiye,Retail,3,0,135,60,75
+935,ORD-0623,2026-01-10,C140,Customer 140,Small Business,Ankara,Türkiye,P012,4K Monitor,Displays,ViewMax,S01,Istanbul Central,Istanbul,Türkiye,Retail,3,0,1197,675,522
+936,ORD-0624,2026-01-22,C153,Customer 153,Consumer,Antalya,Türkiye,P008,Desk Lamp,Office,BrightCo,S01,Istanbul Central,Istanbul,Türkiye,Retail,3,0.05,128.25,60,68.25
+937,ORD-0625,2026-01-21,C049,Customer 049,Consumer,Bursa,Türkiye,P012,4K Monitor,Displays,ViewMax,S02,Ankara Hub,Ankara,Türkiye,Retail,2,0,798,450,348
+938,ORD-0625,2026-01-21,C049,Customer 049,Consumer,Bursa,Türkiye,P012,4K Monitor,Displays,ViewMax,S02,Ankara Hub,Ankara,Türkiye,Retail,2,0,798,450,348
+939,ORD-0626,2026-01-24,C024,Customer 024,Corporate,Izmir,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S02,Ankara Hub,Ankara,Türkiye,Retail,5,0,395,210,185
+940,ORD-0627,2026-01-10,C076,Customer 076,Corporate,Ankara,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S01,Istanbul Central,Istanbul,Türkiye,Retail,3,0,237,126,111
+941,ORD-0628,2026-02-16,C103,Customer 103,Small Business,Bursa,Türkiye,P012,4K Monitor,Displays,ViewMax,S04,Online Türkiye,Türkiye,Türkiye,Online,2,0.1,718.2,450,268.2
+942,ORD-0629,2026-06-17,C124,Customer 124,Small Business,Izmir,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S02,Ankara Hub,Ankara,Türkiye,Retail,1,0.15,63.75,36,27.75
+943,ORD-0630,2026-05-28,C008,Customer 008,Consumer,Ankara,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S02,Ankara Hub,Ankara,Türkiye,Retail,4,0,300,144,156
+944,ORD-0631,2026-03-24,C024,Customer 024,Corporate,Izmir,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S02,Ankara Hub,Ankara,Türkiye,Retail,5,0.1,153.0,90,63.0
+945,ORD-0632,2026-06-26,C109,Customer 109,Consumer,Izmir,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S01,Istanbul Central,Istanbul,Türkiye,Retail,2,0.1,394.2,230,164.2
+946,ORD-0633,2026-05-09,C108,Customer 108,Small Business,Antalya,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S03,Izmir Coast,Izmir,Türkiye,Retail,5,0,595,315,280
+947,ORD-0633,2026-05-09,C108,Customer 108,Small Business,Antalya,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S03,Izmir Coast,Izmir,Türkiye,Retail,5,0,245,110,135
+948,ORD-0634,2026-01-13,C066,Customer 066,Small Business,Istanbul,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S03,Izmir Coast,Izmir,Türkiye,Retail,3,0,147,66,81
+949,ORD-0635,2026-03-07,C179,Customer 179,Corporate,Ankara,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S02,Ankara Hub,Ankara,Türkiye,Retail,4,0,876,460,416
+950,ORD-0636,2026-04-02,C021,Customer 021,Corporate,Ankara,Türkiye,P003,USB-C Hub,Accessories,Connectix,S04,Online Türkiye,Türkiye,Türkiye,Online,1,0.1,49.5,28,21.5
+951,ORD-0636,2026-04-02,C021,Customer 021,Corporate,Ankara,Türkiye,P012,4K Monitor,Displays,ViewMax,S04,Online Türkiye,Türkiye,Türkiye,Online,5,0.1,1795.5,1125,670.5
+952,ORD-0637,2026-03-20,C015,Customer 015,Consumer,Antalya,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S03,Izmir Coast,Izmir,Türkiye,Retail,1,0.1,107.1,63,44.1
+953,ORD-0637,2026-03-20,C015,Customer 015,Consumer,Antalya,Türkiye,P008,Desk Lamp,Office,BrightCo,S03,Izmir Coast,Izmir,Türkiye,Retail,1,0.15,38.25,20,18.25
+954,ORD-0638,2026-07-12,C134,Customer 134,Consumer,Izmir,Türkiye,P008,Desk Lamp,Office,BrightCo,S04,Online Türkiye,Türkiye,Türkiye,Online,1,0,45,20,25
+955,ORD-0639,2026-05-12,C123,Customer 123,Corporate,Bursa,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S02,Ankara Hub,Ankara,Türkiye,Retail,4,0.15,472.6,312,160.6
+956,ORD-0640,2026-06-01,C040,Customer 040,Corporate,Izmir,Türkiye,P012,4K Monitor,Displays,ViewMax,S03,Izmir Coast,Izmir,Türkiye,Retail,3,0.15,1017.45,675,342.45
+957,ORD-0641,2026-02-23,C115,Customer 115,Consumer,Bursa,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S04,Online Türkiye,Türkiye,Türkiye,Online,3,0,417,234,183
+958,ORD-0642,2026-07-21,C147,Customer 147,Small Business,Bursa,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S03,Izmir Coast,Izmir,Türkiye,Retail,2,0.05,226.1,126,100.1
+959,ORD-0643,2026-05-17,C166,Customer 166,Small Business,Bursa,Türkiye,P012,4K Monitor,Displays,ViewMax,S01,Istanbul Central,Istanbul,Türkiye,Retail,3,0.05,1137.15,675,462.15
+960,ORD-0644,2026-04-08,C026,Customer 026,Corporate,Bursa,Türkiye,P007,Webcam Pro,Video,VisionLab,S01,Istanbul Central,Istanbul,Türkiye,Retail,1,0,89,44,45
+961,ORD-0645,2026-01-28,C068,Customer 068,Small Business,Ankara,Türkiye,P012,4K Monitor,Displays,ViewMax,S02,Ankara Hub,Ankara,Türkiye,Retail,2,0.1,718.2,450,268.2
+962,ORD-0645,2026-01-28,C068,Customer 068,Small Business,Ankara,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S02,Ankara Hub,Ankara,Türkiye,Retail,4,0,316,168,148
+963,ORD-0645,2026-01-28,C068,Customer 068,Small Business,Ankara,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S02,Ankara Hub,Ankara,Türkiye,Retail,3,0,225,108,117
+964,ORD-0646,2026-06-13,C061,Customer 061,Corporate,Bursa,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S01,Istanbul Central,Istanbul,Türkiye,Retail,2,0.1,142.2,84,58.2
+965,ORD-0647,2026-01-23,C177,Customer 177,Small Business,Ankara,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S03,Izmir Coast,Izmir,Türkiye,Retail,5,0.1,337.5,180,157.5
+966,ORD-0647,2026-01-23,C177,Customer 177,Small Business,Ankara,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S03,Izmir Coast,Izmir,Türkiye,Retail,2,0.1,250.2,156,94.2
+967,ORD-0648,2026-07-02,C110,Customer 110,Small Business,Istanbul,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S01,Istanbul Central,Istanbul,Türkiye,Retail,2,0.05,93.1,44,49.1
+968,ORD-0649,2026-01-01,C015,Customer 015,Consumer,Antalya,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S01,Istanbul Central,Istanbul,Türkiye,Retail,4,0,316,168,148
+969,ORD-0649,2026-01-01,C015,Customer 015,Consumer,Antalya,Türkiye,P012,4K Monitor,Displays,ViewMax,S01,Istanbul Central,Istanbul,Türkiye,Retail,3,0.05,1137.15,675,462.15
+970,ORD-0650,2026-05-18,C040,Customer 040,Corporate,Izmir,Türkiye,P003,USB-C Hub,Accessories,Connectix,S04,Online Türkiye,Türkiye,Türkiye,Online,3,0.05,156.75,84,72.75
+971,ORD-0650,2026-05-18,C040,Customer 040,Corporate,Izmir,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S04,Online Türkiye,Türkiye,Türkiye,Online,2,0,278,156,122
+972,ORD-0651,2026-04-25,C089,Customer 089,Small Business,Bursa,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S02,Ankara Hub,Ankara,Türkiye,Retail,1,0,34,18,16
+973,ORD-0652,2026-05-02,C070,Customer 070,Consumer,Istanbul,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S03,Izmir Coast,Izmir,Türkiye,Retail,1,0,79,42,37
+974,ORD-0653,2026-01-06,C004,Customer 004,Small Business,Istanbul,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S03,Izmir Coast,Izmir,Türkiye,Retail,1,0.05,71.25,36,35.25
+975,ORD-0653,2026-01-06,C004,Customer 004,Small Business,Istanbul,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S03,Izmir Coast,Izmir,Türkiye,Retail,5,0.05,232.75,110,122.75
+976,ORD-0654,2026-02-28,C093,Customer 093,Small Business,Izmir,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S01,Istanbul Central,Istanbul,Türkiye,Retail,4,0,996,580,416
+977,ORD-0654,2026-02-28,C093,Customer 093,Small Business,Izmir,Türkiye,P003,USB-C Hub,Accessories,Connectix,S01,Istanbul Central,Istanbul,Türkiye,Retail,5,0.05,261.25,140,121.25
+978,ORD-0655,2026-01-27,C155,Customer 155,Small Business,Bursa,Türkiye,P003,USB-C Hub,Accessories,Connectix,S02,Ankara Hub,Ankara,Türkiye,Retail,4,0,220,112,108
+979,ORD-0655,2026-01-27,C155,Customer 155,Small Business,Bursa,Türkiye,P008,Desk Lamp,Office,BrightCo,S02,Ankara Hub,Ankara,Türkiye,Retail,3,0,135,60,75
+980,ORD-0656,2026-01-28,C123,Customer 123,Corporate,Bursa,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S04,Online Türkiye,Türkiye,Türkiye,Online,3,0.15,354.45,234,120.45
+981,ORD-0657,2026-07-13,C180,Customer 180,Corporate,Istanbul,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S04,Online Türkiye,Türkiye,Türkiye,Online,1,0,119,63,56
+982,ORD-0658,2026-07-14,C051,Customer 051,Consumer,Antalya,Türkiye,P008,Desk Lamp,Office,BrightCo,S02,Ankara Hub,Ankara,Türkiye,Retail,1,0,45,20,25
+983,ORD-0658,2026-07-14,C051,Customer 051,Consumer,Antalya,Türkiye,P008,Desk Lamp,Office,BrightCo,S02,Ankara Hub,Ankara,Türkiye,Retail,4,0,180,80,100
+984,ORD-0658,2026-07-14,C051,Customer 051,Consumer,Antalya,Türkiye,P007,Webcam Pro,Video,VisionLab,S02,Ankara Hub,Ankara,Türkiye,Retail,4,0.15,302.6,176,126.6
+985,ORD-0659,2026-06-11,C001,Customer 001,Small Business,Bursa,Türkiye,P007,Webcam Pro,Video,VisionLab,S02,Ankara Hub,Ankara,Türkiye,Retail,2,0.05,169.1,88,81.1
+986,ORD-0660,2026-06-16,C040,Customer 040,Corporate,Izmir,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S02,Ankara Hub,Ankara,Türkiye,Retail,1,0,79,42,37
+987,ORD-0661,2026-04-29,C024,Customer 024,Corporate,Izmir,Türkiye,P012,4K Monitor,Displays,ViewMax,S01,Istanbul Central,Istanbul,Türkiye,Retail,2,0.1,718.2,450,268.2
+988,ORD-0661,2026-04-29,C024,Customer 024,Corporate,Izmir,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S01,Istanbul Central,Istanbul,Türkiye,Retail,2,0,98,44,54
+989,ORD-0662,2026-04-02,C029,Customer 029,Consumer,Istanbul,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S03,Izmir Coast,Izmir,Türkiye,Retail,4,0.15,744.6,460,284.6
+990,ORD-0663,2026-01-15,C077,Customer 077,Consumer,Izmir,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S02,Ankara Hub,Ankara,Türkiye,Retail,1,0,34,18,16
+991,ORD-0663,2026-01-15,C077,Customer 077,Consumer,Izmir,Türkiye,P003,USB-C Hub,Accessories,Connectix,S02,Ankara Hub,Ankara,Türkiye,Retail,5,0.05,261.25,140,121.25
+992,ORD-0664,2026-05-29,C099,Customer 099,Consumer,Ankara,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S02,Ankara Hub,Ankara,Türkiye,Retail,4,0.05,528.2,312,216.2
+993,ORD-0664,2026-05-29,C099,Customer 099,Consumer,Ankara,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S02,Ankara Hub,Ankara,Türkiye,Retail,2,0,158,84,74
+994,ORD-0665,2026-01-23,C014,Customer 014,Small Business,Istanbul,Türkiye,P012,4K Monitor,Displays,ViewMax,S02,Ankara Hub,Ankara,Türkiye,Retail,5,0.15,1695.75,1125,570.75
+995,ORD-0666,2026-05-11,C003,Customer 003,Corporate,Izmir,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S02,Ankara Hub,Ankara,Türkiye,Retail,5,0,395,210,185
+996,ORD-0667,2026-07-05,C040,Customer 040,Corporate,Izmir,Türkiye,P007,Webcam Pro,Video,VisionLab,S01,Istanbul Central,Istanbul,Türkiye,Retail,5,0.1,400.5,220,180.5
+997,ORD-0668,2026-06-15,C080,Customer 080,Consumer,Izmir,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S02,Ankara Hub,Ankara,Türkiye,Retail,4,0,300,144,156
+998,ORD-0669,2026-02-05,C037,Customer 037,Consumer,Izmir,Türkiye,P009,Portable SSD 1TB,Storage,DataGo,S02,Ankara Hub,Ankara,Türkiye,Retail,1,0,119,63,56
+999,ORD-0670,2026-01-06,C141,Customer 141,Consumer,Ankara,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S03,Izmir Coast,Izmir,Türkiye,Retail,1,0,219,115,104
+1000,ORD-0671,2026-05-11,C118,Customer 118,Small Business,Antalya,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S02,Ankara Hub,Ankara,Türkiye,Retail,3,0,657,345,312
+1001,ORD-0671,2026-05-11,C118,Customer 118,Small Business,Antalya,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S02,Ankara Hub,Ankara,Türkiye,Retail,5,0,1245,725,520
+1002,ORD-0672,2026-02-09,C028,Customer 028,Small Business,Istanbul,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S04,Online Türkiye,Türkiye,Türkiye,Online,2,0,68,36,32
+1003,ORD-0673,2026-05-01,C131,Customer 131,Small Business,Istanbul,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S03,Izmir Coast,Izmir,Türkiye,Retail,2,0.15,83.3,44,39.3
+1004,ORD-0674,2026-06-28,C008,Customer 008,Consumer,Ankara,Türkiye,P004,27-inch Monitor,Displays,ViewMax,S03,Izmir Coast,Izmir,Türkiye,Retail,2,0,498,290,208
+1005,ORD-0675,2026-04-10,C158,Customer 158,Consumer,Bursa,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S02,Ankara Hub,Ankara,Türkiye,Retail,2,0.1,142.2,84,58.2
+1006,ORD-0675,2026-04-10,C158,Customer 158,Consumer,Bursa,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S02,Ankara Hub,Ankara,Türkiye,Retail,2,0.1,61.2,36,25.2
+1007,ORD-0676,2026-07-24,C018,Customer 018,Consumer,Bursa,Türkiye,P008,Desk Lamp,Office,BrightCo,S03,Izmir Coast,Izmir,Türkiye,Retail,4,0,180,80,100
+1008,ORD-0677,2026-05-13,C130,Customer 130,Small Business,Izmir,Türkiye,P012,4K Monitor,Displays,ViewMax,S04,Online Türkiye,Türkiye,Türkiye,Online,1,0,399,225,174
+1009,ORD-0678,2026-01-31,C107,Customer 107,Small Business,Izmir,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S03,Izmir Coast,Izmir,Türkiye,Retail,2,0.15,57.8,36,21.8
+1010,ORD-0679,2026-04-15,C053,Customer 053,Small Business,Istanbul,Türkiye,P007,Webcam Pro,Video,VisionLab,S04,Online Türkiye,Türkiye,Türkiye,Online,1,0.15,75.65,44,31.65
+1011,ORD-0680,2026-03-02,C024,Customer 024,Corporate,Izmir,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S03,Izmir Coast,Izmir,Türkiye,Retail,1,0.1,67.5,36,31.5
+1012,ORD-0681,2026-07-23,C138,Customer 138,Small Business,Ankara,Türkiye,P008,Desk Lamp,Office,BrightCo,S04,Online Türkiye,Türkiye,Türkiye,Online,5,0.1,202.5,100,102.5
+1013,ORD-0682,2026-06-03,C166,Customer 166,Small Business,Bursa,Türkiye,P003,USB-C Hub,Accessories,Connectix,S04,Online Türkiye,Türkiye,Türkiye,Online,4,0,220,112,108
+1014,ORD-0683,2026-03-10,C110,Customer 110,Small Business,Istanbul,Türkiye,P003,USB-C Hub,Accessories,Connectix,S03,Izmir Coast,Izmir,Türkiye,Retail,2,0,110,56,54
+1015,ORD-0684,2026-05-23,C093,Customer 093,Small Business,Izmir,Türkiye,P008,Desk Lamp,Office,BrightCo,S01,Istanbul Central,Istanbul,Türkiye,Retail,5,0,225,100,125
+1016,ORD-0684,2026-05-23,C093,Customer 093,Small Business,Izmir,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S01,Istanbul Central,Istanbul,Türkiye,Retail,5,0.15,335.75,210,125.75
+1017,ORD-0685,2026-03-17,C132,Customer 132,Small Business,Antalya,Türkiye,P011,Gaming Chair,Office,ErgoWorks,S03,Izmir Coast,Izmir,Türkiye,Retail,3,0.15,558.45,345,213.45
+1018,ORD-0686,2026-06-06,C055,Customer 055,Corporate,Ankara,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S04,Online Türkiye,Türkiye,Türkiye,Online,1,0,75,36,39
+1019,ORD-0686,2026-06-06,C055,Customer 055,Corporate,Ankara,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S04,Online Türkiye,Türkiye,Türkiye,Online,4,0.15,268.6,168,100.6
+1020,ORD-0687,2026-04-14,C064,Customer 064,Corporate,Bursa,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S04,Online Türkiye,Türkiye,Türkiye,Online,1,0.15,41.65,22,19.65
+1021,ORD-0688,2026-01-24,C012,Customer 012,Small Business,Istanbul,Türkiye,P007,Webcam Pro,Video,VisionLab,S01,Istanbul Central,Istanbul,Türkiye,Retail,4,0,356,176,180
+1022,ORD-0688,2026-01-24,C012,Customer 012,Small Business,Istanbul,Türkiye,P008,Desk Lamp,Office,BrightCo,S01,Istanbul Central,Istanbul,Türkiye,Retail,2,0.05,85.5,40,45.5
+1023,ORD-0689,2026-05-23,C035,Customer 035,Small Business,Ankara,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S04,Online Türkiye,Türkiye,Türkiye,Online,2,0.1,250.2,156,94.2
+1024,ORD-0690,2026-04-27,C073,Customer 073,Consumer,Istanbul,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S01,Istanbul Central,Istanbul,Türkiye,Retail,5,0.1,355.5,210,145.5
+1025,ORD-0690,2026-04-27,C073,Customer 073,Consumer,Istanbul,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S01,Istanbul Central,Istanbul,Türkiye,Retail,5,0.15,335.75,210,125.75
+1026,ORD-0691,2026-03-12,C063,Customer 063,Small Business,Izmir,Türkiye,P007,Webcam Pro,Video,VisionLab,S01,Istanbul Central,Istanbul,Türkiye,Retail,2,0,178,88,90
+1027,ORD-0691,2026-03-12,C063,Customer 063,Small Business,Izmir,Türkiye,P006,Noise-Cancel Headphones,Audio,SonicWave,S01,Istanbul Central,Istanbul,Türkiye,Retail,2,0.05,264.1,156,108.1
+1028,ORD-0692,2026-02-15,C043,Customer 043,Corporate,Ankara,Türkiye,P012,4K Monitor,Displays,ViewMax,S03,Izmir Coast,Izmir,Türkiye,Retail,3,0.15,1017.45,675,342.45
+1029,ORD-0693,2026-04-18,C004,Customer 004,Small Business,Istanbul,Türkiye,P012,4K Monitor,Displays,ViewMax,S03,Izmir Coast,Izmir,Türkiye,Retail,3,0.05,1137.15,675,462.15
+1030,ORD-0694,2026-03-09,C138,Customer 138,Small Business,Ankara,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S02,Ankara Hub,Ankara,Türkiye,Retail,2,0.05,150.1,84,66.1
+1031,ORD-0695,2026-01-24,C038,Customer 038,Consumer,Antalya,Türkiye,P001,Wireless Mouse,Accessories,TechGear,S01,Istanbul Central,Istanbul,Türkiye,Retail,2,0.1,61.2,36,25.2
+1032,ORD-0696,2026-03-02,C117,Customer 117,Consumer,Izmir,Türkiye,P012,4K Monitor,Displays,ViewMax,S01,Istanbul Central,Istanbul,Türkiye,Retail,1,0,399,225,174
+1033,ORD-0697,2026-03-29,C005,Customer 005,Corporate,Antalya,Türkiye,P010,Bluetooth Speaker,Audio,SonicWave,S02,Ankara Hub,Ankara,Türkiye,Retail,4,0,300,144,156
+1034,ORD-0698,2026-05-23,C110,Customer 110,Small Business,Istanbul,Türkiye,P007,Webcam Pro,Video,VisionLab,S01,Istanbul Central,Istanbul,Türkiye,Retail,4,0.1,320.4,176,144.4
+1035,ORD-0698,2026-05-23,C110,Customer 110,Small Business,Istanbul,Türkiye,P007,Webcam Pro,Video,VisionLab,S01,Istanbul Central,Istanbul,Türkiye,Retail,4,0,356,176,180
+1036,ORD-0699,2026-07-02,C050,Customer 050,Small Business,Istanbul,Türkiye,P005,Laptop Stand,Office,ErgoWorks,S03,Izmir Coast,Izmir,Türkiye,Retail,2,0,98,44,54
+1037,ORD-0700,2026-03-23,C070,Customer 070,Consumer,Istanbul,Türkiye,P002,Mechanical Keyboard,Accessories,KeyPro,S03,Izmir Coast,Izmir,Türkiye,Retail,1,0,79,42,37

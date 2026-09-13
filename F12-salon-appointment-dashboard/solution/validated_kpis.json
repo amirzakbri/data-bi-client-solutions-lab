@@ -1,0 +1,11 @@
+{
+  "period": "2026-01-01 to 2026-06-30",
+  "appointments": 1231,
+  "completed": 981,
+  "completion_rate": 0.7969,
+  "cancelled": 168,
+  "no_shows": 82,
+  "net_revenue": 62989.1,
+  "average_ticket": 64.21,
+  "unique_customers": 180
+}

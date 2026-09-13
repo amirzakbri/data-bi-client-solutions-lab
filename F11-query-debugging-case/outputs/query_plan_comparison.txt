@@ -1,0 +1,5 @@
+BROKEN NON-SARGABLE PLAN
+(3, 0, 213, 'SCAN orders USING COVERING INDEX idx_orders_date_status')
+
+CORRECTED RANGE PLAN
+(3, 0, 153, 'SEARCH orders USING COVERING INDEX idx_orders_date_status (order_date>? AND order_date<?)')

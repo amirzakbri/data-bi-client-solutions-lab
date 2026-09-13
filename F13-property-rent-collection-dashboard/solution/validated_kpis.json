@@ -1,0 +1,13 @@
+{
+  "properties": 12,
+  "total_units": 96,
+  "occupied_units": 88,
+  "occupancy_rate": 0.9166666666666666,
+  "rent_billed": 1602000,
+  "rent_collected": 1476786,
+  "collection_rate": 0.9218389513108615,
+  "total_arrears": 125214,
+  "open_invoices": 110,
+  "late_paid_invoices": 145,
+  "high_risk_tenants": 60
+}

@@ -1,0 +1,11 @@
+Control,Status
+Revenue preserved,PASS
+Gross profit preserved,PASS
+Sales-line grain preserved,PASS
+Customer keys valid,PASS
+Product keys valid,PASS
+Store keys valid,PASS
+Date keys valid,PASS
+No blank revenue,PASS
+All benchmark tests improved,PASS
+Star estimate smaller,PASS

@@ -1,0 +1,14 @@
+{
+  "required_columns": ["customer_id", "full_name", "email", "signup_date", "country", "status", "lifetime_value"],
+  "column_aliases": {
+    "Customer ID": "customer_id", "customer id": "customer_id", "Full Name": "full_name",
+    "E-mail": "email", "Email Address": "email", "Signup Date": "signup_date",
+    "Country": "country", "Account Status": "status", "Lifetime Value": "lifetime_value"
+  },
+  "allowed_statuses": ["Active", "Inactive", "Prospect"],
+  "status_map": {"active": "Active", "ACTIVE": "Active", "inactive": "Inactive", "IN-ACTIVE": "Inactive", "prospect": "Prospect", "lead": "Prospect"},
+  "country_map": {"us": "United States", "usa": "United States", "united states": "United States", "uk": "United Kingdom", "u.k.": "United Kingdom", "united kingdom": "United Kingdom", "turkiye": "Türkiye", "turkey": "Türkiye", "germany": "Germany", "de": "Germany", "france": "France", "fr": "France"},
+  "date_formats": ["%Y-%m-%d", "%d/%m/%Y", "%m/%d/%Y", "%d-%b-%Y"],
+  "duplicate_key": "customer_id",
+  "minimum_lifetime_value": 0
+}

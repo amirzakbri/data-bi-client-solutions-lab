@@ -1,0 +1,31 @@
+product_id,product_name,category,unit_price,launch_date
+P001,Wireless Earbuds,Audio,183.73,2025-02-07
+P002,Bluetooth Speaker,Audio,24.29,2024-12-05
+P003,Studio Headphones,Audio,68.68,2025-01-27
+P004,Soundbar,Audio,73.59,2024-06-18
+P005,Portable Radio,Audio,136.48,2025-04-07
+P006,Gaming Headset,Audio,179.28,2024-07-18
+P007,Air Purifier,Home,62.11,2025-03-07
+P008,Robot Vacuum,Home,51.58,2024-08-05
+P009,Coffee Maker,Home,120.51,2024-02-02
+P010,Desk Lamp,Home,137.75,2024-01-01
+P011,Electric Kettle,Home,31.69,2024-09-30
+P012,Space Heater,Home,125.35,2024-05-26
+P013,Fitness Tracker,Fitness,91.17,2025-03-30
+P014,Yoga Mat,Fitness,116.39,2024-12-01
+P015,Resistance Bands,Fitness,110.15,2024-10-21
+P016,Massage Gun,Fitness,33.39,2024-11-21
+P017,Smart Scale,Fitness,68.85,2025-03-28
+P018,Foam Roller,Fitness,73.45,2024-02-03
+P019,Laptop Stand,Accessories,45.01,2025-04-18
+P020,Phone Charger,Accessories,101.93,2024-10-09
+P021,Travel Backpack,Accessories,122.21,2025-02-26
+P022,Wireless Mouse,Accessories,145.47,2024-02-19
+P023,USB Hub,Accessories,127.74,2024-01-23
+P024,Phone Case,Accessories,53.12,2024-07-27
+P025,Blender,Kitchen,142.26,2025-03-23
+P026,Food Scale,Kitchen,122.08,2024-07-05
+P027,Toaster,Kitchen,26.68,2024-05-04
+P028,Knife Set,Kitchen,171.43,2024-08-17
+P029,Lunch Box,Kitchen,129.95,2025-01-05
+P030,Water Bottle,Kitchen,84.65,2024-10-28

@@ -1,0 +1,13 @@
+{
+  "reporting_cutoff": "2026-07-31",
+  "members_joined": 1200,
+  "active_members": 877,
+  "cancelled_members": 323,
+  "observed_churn_pct": 26.9,
+  "checkins": 101575,
+  "payment_events": 18451,
+  "intervention_queue_members": 244,
+  "monthly_revenue_at_risk": 13282.0,
+  "validation_controls_passed": 12,
+  "validation_controls_total": 12
+}

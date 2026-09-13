@@ -1,0 +1,49 @@
+Order ID,Order Date,Product,Category,Channel,Region,Quantity,Unit Price,Discount,Revenue,Cost,Profit
+ORD-1049,2026-02-04,Ceramic Mug,Accessories,Online,Ankara,2,12.1,0.15,20.57,8.8,11.77
+ORD-1050,2026-02-11,Paper Filters 100pk,Accessories,Wholesale,Bursa,7,8.06,0,56.42,18.2,38.22
+ORD-1051,2026-02-18,Ceramic Mug,Accessories,Retail Store,Ankara,4,12.1,0,48.4,17.6,30.8
+ORD-1052,2026-02-25,Paper Filters 100pk,Accessories,Online,Bursa,1,8.06,0,8.06,2.6,5.46
+ORD-1053,2026-02-04,Ceramic Mug,Accessories,Wholesale,Ankara,6,12.1,0,72.6,26.4,46.2
+ORD-1054,2026-02-11,Paper Filters 100pk,Accessories,Retail Store,Bursa,3,8.06,0,24.18,7.8,16.38
+ORD-1055,2026-02-18,Ceramic Mug,Accessories,Online,Ankara,8,12.1,0,96.8,35.2,61.6
+ORD-1056,2026-02-25,Paper Filters 100pk,Accessories,Wholesale,Bursa,5,8.06,0.1,36.27,13,23.27
+ORD-1057,2026-02-04,Ceramic Mug,Accessories,Retail Store,Ankara,2,12.1,0,24.2,8.8,15.4
+ORD-1058,2026-02-11,Paper Filters 100pk,Accessories,Online,Bursa,7,8.06,0,56.42,18.2,38.22
+ORD-1059,2026-02-18,Ceramic Mug,Accessories,Wholesale,Ankara,4,12.1,0,48.4,17.6,30.8
+ORD-1060,2026-02-25,Paper Filters 100pk,Accessories,Retail Store,Bursa,1,8.06,0.15,6.85,2.6,4.25
+ORD-1061,2026-02-04,Ceramic Mug,Accessories,Online,Ankara,6,12.1,0,72.6,26.4,46.2
+ORD-1062,2026-02-11,Paper Filters 100pk,Accessories,Wholesale,Bursa,3,8.06,0,24.18,7.8,16.38
+ORD-1063,2026-02-18,Ceramic Mug,Accessories,Retail Store,Ankara,8,12.1,0.1,87.12,35.2,51.92
+ORD-1064,2026-02-25,Paper Filters 100pk,Accessories,Online,Bursa,5,8.06,0,40.3,13,27.3
+ORD-1065,2026-02-04,Ceramic Mug,Accessories,Wholesale,Ankara,2,12.1,0,24.2,8.8,15.4
+ORD-1066,2026-02-11,Paper Filters 100pk,Accessories,Retail Store,Bursa,7,8.06,0,56.42,18.2,38.22
+ORD-1067,2026-02-18,Ceramic Mug,Accessories,Online,Ankara,4,12.1,0,48.4,17.6,30.8
+ORD-1068,2026-02-25,Paper Filters 100pk,Accessories,Wholesale,Bursa,1,8.06,0,8.06,2.6,5.46
+ORD-1069,2026-02-04,Ceramic Mug,Accessories,Retail Store,Ankara,6,12.1,0,72.6,26.4,46.2
+ORD-1070,2026-02-11,Paper Filters 100pk,Accessories,Online,Bursa,3,8.06,0.1,21.76,7.8,13.96
+ORD-1071,2026-02-18,Ceramic Mug,Accessories,Wholesale,Ankara,8,12.1,0.15,82.28,35.2,47.08
+ORD-1072,2026-02-25,Paper Filters 100pk,Accessories,Retail Store,Bursa,5,8.06,0,40.3,13,27.3
+ORD-1073,2026-02-04,Ceramic Mug,Accessories,Online,Ankara,2,12.1,0,24.2,8.8,15.4
+ORD-1074,2026-02-11,Paper Filters 100pk,Accessories,Wholesale,Bursa,7,8.06,0,56.42,18.2,38.22
+ORD-1075,2026-02-18,Ceramic Mug,Accessories,Retail Store,Ankara,4,12.1,0,48.4,17.6,30.8
+ORD-1076,2026-02-25,Paper Filters 100pk,Accessories,Online,Bursa,1,8.06,0,8.06,2.6,5.46
+ORD-1077,2026-02-04,Ceramic Mug,Accessories,Wholesale,Ankara,6,12.1,0.1,65.34,26.4,38.94
+ORD-1078,2026-02-11,Paper Filters 100pk,Accessories,Retail Store,Bursa,3,8.06,0,24.18,7.8,16.38
+ORD-1079,2026-02-18,Ceramic Mug,Accessories,Online,Ankara,8,12.1,0,96.8,35.2,61.6
+ORD-1080,2026-02-25,Paper Filters 100pk,Accessories,Wholesale,Bursa,5,8.06,0,40.3,13,27.3
+ORD-1081,2026-02-04,Ceramic Mug,Accessories,Retail Store,Ankara,2,12.1,0,24.2,8.8,15.4
+ORD-1082,2026-02-11,Paper Filters 100pk,Accessories,Online,Bursa,7,8.06,0.15,47.96,18.2,29.76
+ORD-1083,2026-02-18,Ceramic Mug,Accessories,Wholesale,Ankara,4,12.1,0,48.4,17.6,30.8
+ORD-1084,2026-02-25,Paper Filters 100pk,Accessories,Retail Store,Bursa,1,8.06,0.1,7.25,2.6,4.65
+ORD-1085,2026-02-04,Ceramic Mug,Accessories,Online,Ankara,6,12.1,0,72.6,26.4,46.2
+ORD-1086,2026-02-11,Paper Filters 100pk,Accessories,Wholesale,Bursa,3,8.06,0,24.18,7.8,16.38
+ORD-1087,2026-02-18,Ceramic Mug,Accessories,Retail Store,Ankara,8,12.1,0,96.8,35.2,61.6
+ORD-1088,2026-02-25,Paper Filters 100pk,Accessories,Online,Bursa,5,8.06,0,40.3,13,27.3
+ORD-1089,2026-02-04,Ceramic Mug,Accessories,Wholesale,Ankara,2,12.1,0,24.2,8.8,15.4
+ORD-1090,2026-02-11,Paper Filters 100pk,Accessories,Retail Store,Bursa,7,8.06,0,56.42,18.2,38.22
+ORD-1091,2026-02-18,Ceramic Mug,Accessories,Online,Ankara,4,12.1,0.1,43.56,17.6,25.96
+ORD-1092,2026-02-25,Paper Filters 100pk,Accessories,Wholesale,Bursa,1,8.06,0,8.06,2.6,5.46
+ORD-1093,2026-02-04,Ceramic Mug,Accessories,Retail Store,Ankara,6,12.1,0.15,61.71,26.4,35.31
+ORD-1094,2026-02-11,Paper Filters 100pk,Accessories,Online,Bursa,3,8.06,0,24.18,7.8,16.38
+ORD-1095,2026-02-18,Ceramic Mug,Accessories,Wholesale,Ankara,8,12.1,0,96.8,35.2,61.6
+ORD-1096,2026-02-25,Paper Filters 100pk,Accessories,Retail Store,Bursa,5,8.06,0,40.3,13,27.3

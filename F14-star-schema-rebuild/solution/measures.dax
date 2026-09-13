@@ -1,0 +1,11 @@
+// Core measures for the rebuilt star schema
+Total Revenue = SUM ( FactSales[SalesAmount] )
+Total Cost = SUM ( FactSales[CostAmount] )
+Gross Profit = [Total Revenue] - [Total Cost]
+Gross Margin % = DIVIDE ( [Gross Profit], [Total Revenue] )
+Orders = DISTINCTCOUNT ( FactSales[OrderID] )
+Units Sold = SUM ( FactSales[Quantity] )
+Average Order Value = DIVIDE ( [Total Revenue], [Orders] )
+Revenue YTD = TOTALYTD ( [Total Revenue], DimDate[Date] )
+Revenue Previous Month = CALCULATE ( [Total Revenue], DATEADD ( DimDate[Date], -1, MONTH ) )
+Revenue MoM % = DIVIDE ( [Total Revenue] - [Revenue Previous Month], [Revenue Previous Month] )

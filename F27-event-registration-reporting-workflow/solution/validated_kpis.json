@@ -1,0 +1,12 @@
+{
+  "records": 1245,
+  "confirmed": 1023,
+  "paid_count": 931,
+  "checked_in": 801,
+  "expected_revenue": 168117,
+  "collected_revenue": 123597,
+  "collection_rate": 0.735184425132497,
+  "attendance_rate": 0.782991202346041,
+  "duplicate_rows": 2,
+  "exceptions": 121
+}

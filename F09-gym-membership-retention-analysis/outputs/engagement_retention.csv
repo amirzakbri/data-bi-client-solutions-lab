@@ -1,0 +1,5 @@
+band,members,avg_monthly_visits,observed_churn_pct
+0-1 visits,73,1.4,61.6
+2-4 visits,447,3.6,33.1
+5-8 visits,543,6.8,21.0
+9+ visits,137,10.1,11.7

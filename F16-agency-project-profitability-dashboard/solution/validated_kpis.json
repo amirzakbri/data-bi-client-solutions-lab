@@ -1,0 +1,14 @@
+{
+  "projects": 24,
+  "revenue": 1431800,
+  "cost": 793728.48,
+  "profit": 638071.52,
+  "margin": 0.4456,
+  "hours": 8738,
+  "billableHours": 7297,
+  "utilization": 0.8351,
+  "critical": 5,
+  "watch": 4,
+  "timeEntries": 395,
+  "vendorRows": 32
+}

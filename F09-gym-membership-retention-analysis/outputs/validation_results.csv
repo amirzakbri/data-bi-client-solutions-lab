@@ -1,0 +1,13 @@
+control,actual,expected,result
+Unique member IDs,1200,1200,PASS
+Status totals reconcile,1200,1200,PASS
+No cancellation before join,0,0,PASS
+No orphan check-ins,0,0,PASS
+No orphan payments,0,0,PASS
+Latest snapshot active count,877,877,PASS
+Plan totals reconcile,1200,1200,PASS
+Location totals reconcile,1200,1200,PASS
+Queue contains active members only,0,0,PASS
+Queue member IDs unique,244,244,PASS
+Risk tiers complete,0,0,PASS
+All monthly active counts nonnegative,0,0,PASS

@@ -1,0 +1,13 @@
+{
+  "name": "Retail Performance Optimized",
+  "dataColors": [
+    "#216869",
+    "#49A078",
+    "#DCE1DE",
+    "#D9822B",
+    "#B23A48"
+  ],
+  "background": "#F7F9F8",
+  "foreground": "#18332F",
+  "tableAccent": "#216869"
+}

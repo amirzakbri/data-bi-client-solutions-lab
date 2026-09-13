@@ -1,0 +1,333 @@
+shipment_id,priority,hub,carrier,service_level,destination_city,late_or_overdue_hours,delay_reason,order_value
+3484,OPEN OVERDUE,Istanbul Central,Mavi Cargo,Same Day,Bursa,379.7,None,146.24
+3491,OPEN OVERDUE,Bursa Hub,RouteOne,Next Day,Mersin,346.5,None,34.7
+3494,OPEN OVERDUE,Antalya Hub,SwiftLine,Next Day,Gaziantep,343.3,None,87.77
+3497,OPEN OVERDUE,Istanbul Central,Mavi Cargo,Next Day,Istanbul,336.8,None,293.59
+3481,OPEN OVERDUE,Istanbul Central,Mavi Cargo,Standard,Konya,318.8,Hub Congestion,234.71
+3505,OPEN OVERDUE,Istanbul Central,Mavi Cargo,Standard,Adana,269.3,None,117.69
+3041,SEVERE LATE,Istanbul Central,Mavi Cargo,Standard,Adana,54.9,Vehicle Breakdown,200.92
+715,SEVERE LATE,Adana Hub,RouteOne,Standard,Antalya,54.1,Vehicle Breakdown,308.94
+3416,SEVERE LATE,Izmir Hub,Mavi Cargo,Next Day,Mersin,53.7,Vehicle Breakdown,19.85
+1445,SEVERE LATE,Bursa Hub,Anatolia Express,Standard,Eskisehir,52.9,Vehicle Breakdown,276.58
+2234,SEVERE LATE,Bursa Hub,Mavi Cargo,Standard,Gaziantep,52.5,Vehicle Breakdown,163.9
+31,SEVERE LATE,Antalya Hub,Anatolia Express,Same Day,Adana,52.4,Vehicle Breakdown,281.37
+1374,SEVERE LATE,Bursa Hub,SwiftLine,Standard,Bursa,52.2,Vehicle Breakdown,235.98
+1414,SEVERE LATE,Istanbul Central,Anatolia Express,Next Day,Istanbul,51.9,Hub Congestion,199.93
+2933,SEVERE LATE,Ankara Hub,SwiftLine,Standard,Adana,51.9,Vehicle Breakdown,164.74
+807,SEVERE LATE,Ankara Hub,Anatolia Express,Standard,Adana,51.7,Hub Congestion,278.18
+2466,SEVERE LATE,Izmir Hub,Anatolia Express,Standard,Konya,51.6,Hub Congestion,151.73
+3078,SEVERE LATE,Istanbul Central,RouteOne,Next Day,Eskisehir,51.5,Hub Congestion,305.18
+3083,SEVERE LATE,Bursa Hub,Mavi Cargo,Next Day,Bursa,51.4,Hub Congestion,126.42
+718,SEVERE LATE,Ankara Hub,SwiftLine,Standard,Izmir,51.1,Hub Congestion,145.23
+1367,SEVERE LATE,Bursa Hub,SwiftLine,Next Day,Istanbul,50.8,Hub Congestion,172.87
+2565,SEVERE LATE,Istanbul Central,Mavi Cargo,Standard,Antalya,50.8,Hub Congestion,265.3
+80,SEVERE LATE,Istanbul Central,Anatolia Express,Standard,Eskisehir,50.6,Hub Congestion,129.16
+2702,SEVERE LATE,Istanbul Central,RouteOne,Same Day,Istanbul,50.3,Hub Congestion,248.61
+2757,SEVERE LATE,Izmir Hub,Mavi Cargo,Same Day,Antalya,50.3,Hub Congestion,182.53
+2323,SEVERE LATE,Istanbul Central,Anatolia Express,Standard,Eskisehir,49.6,Hub Congestion,54.61
+2381,SEVERE LATE,Adana Hub,RouteOne,Standard,Antalya,49.5,Vehicle Breakdown,290.68
+1207,SEVERE LATE,Ankara Hub,SwiftLine,Standard,Antalya,48.9,Hub Congestion,182.07
+1296,SEVERE LATE,Antalya Hub,RouteOne,Standard,Ankara,48.9,Vehicle Breakdown,169.67
+1276,SEVERE LATE,Ankara Hub,RouteOne,Next Day,Mersin,48.8,Hub Congestion,102.73
+3384,SEVERE LATE,Antalya Hub,RouteOne,Next Day,Konya,48.6,Hub Congestion,182.36
+1484,SEVERE LATE,Adana Hub,RouteOne,Same Day,Antalya,48.5,Hub Congestion,72.87
+1083,SEVERE LATE,Istanbul Central,Mavi Cargo,Standard,Eskisehir,46.7,Hub Congestion,316.82
+1815,SEVERE LATE,Bursa Hub,Anatolia Express,Next Day,Bursa,46.4,Hub Congestion,218.78
+888,SEVERE LATE,Ankara Hub,Mavi Cargo,Standard,Gaziantep,46.3,Hub Congestion,297.31
+299,SEVERE LATE,Adana Hub,Mavi Cargo,Standard,Bursa,46.1,Hub Congestion,215.68
+2573,SEVERE LATE,Bursa Hub,Anatolia Express,Same Day,Mersin,45.6,Hub Congestion,222.11
+916,SEVERE LATE,Ankara Hub,Anatolia Express,Next Day,Konya,45.5,Hub Congestion,28.22
+2970,SEVERE LATE,Adana Hub,Anatolia Express,Next Day,Bursa,45.5,Hub Congestion,168.97
+411,SEVERE LATE,Izmir Hub,RouteOne,Standard,Konya,45.0,Hub Congestion,161.81
+2152,SEVERE LATE,Istanbul Central,SwiftLine,Standard,Izmir,45.0,Hub Congestion,237.94
+3000,SEVERE LATE,Izmir Hub,SwiftLine,Next Day,Adana,45.0,Hub Congestion,273.56
+791,SEVERE LATE,Istanbul Central,RouteOne,Next Day,Gaziantep,44.9,Hub Congestion,188.52
+675,SEVERE LATE,Bursa Hub,RouteOne,Next Day,Eskisehir,44.4,Hub Congestion,218.14
+364,SEVERE LATE,Ankara Hub,SwiftLine,Next Day,Konya,44.3,Hub Congestion,194.94
+3001,SEVERE LATE,Antalya Hub,SwiftLine,Standard,Adana,44.2,Hub Congestion,64.85
+3349,SEVERE LATE,Ankara Hub,Anatolia Express,Next Day,Antalya,44.1,Hub Congestion,195.02
+2186,SEVERE LATE,Istanbul Central,Mavi Cargo,Standard,Bursa,43.9,Address Issue,25.68
+2340,SEVERE LATE,Istanbul Central,SwiftLine,Standard,Eskisehir,43.9,Weather,210.7
+1911,SEVERE LATE,Ankara Hub,SwiftLine,Same Day,Mersin,43.7,Carrier Capacity,147.09
+234,SEVERE LATE,Izmir Hub,Anatolia Express,Standard,Eskisehir,43.6,Carrier Capacity,168.25
+2564,SEVERE LATE,Istanbul Central,RouteOne,Standard,Izmir,43.6,Customer Unavailable,210.72
+3247,SEVERE LATE,Istanbul Central,SwiftLine,Next Day,Ankara,43.6,Weather,176.32
+1929,SEVERE LATE,Izmir Hub,SwiftLine,Standard,Istanbul,43.4,Hub Congestion,220.1
+2181,SEVERE LATE,Adana Hub,Anatolia Express,Standard,Izmir,43.3,Carrier Capacity,214.34
+2805,SEVERE LATE,Izmir Hub,SwiftLine,Next Day,Gaziantep,43.2,Customer Unavailable,18.46
+523,SEVERE LATE,Adana Hub,RouteOne,Same Day,Bursa,43.1,Address Issue,253.46
+659,SEVERE LATE,Izmir Hub,RouteOne,Standard,Bursa,43.1,Hub Congestion,19.94
+1868,SEVERE LATE,Izmir Hub,RouteOne,Next Day,Istanbul,43.0,Hub Congestion,318.67
+2678,SEVERE LATE,Bursa Hub,RouteOne,Next Day,Adana,43.0,Address Issue,235.59
+3303,SEVERE LATE,Adana Hub,RouteOne,Same Day,Adana,43.0,Hub Congestion,183.54
+1172,SEVERE LATE,Bursa Hub,SwiftLine,Standard,Gaziantep,42.9,Carrier Capacity,117.96
+3308,SEVERE LATE,Istanbul Central,SwiftLine,Next Day,Mersin,42.9,Carrier Capacity,49.96
+870,SEVERE LATE,Izmir Hub,SwiftLine,Next Day,Konya,42.8,Address Issue,181.43
+3514,SEVERE LATE,Antalya Hub,Anatolia Express,Standard,Antalya,42.8,Carrier Capacity,296.01
+205,SEVERE LATE,Izmir Hub,RouteOne,Next Day,Istanbul,42.7,Carrier Capacity,63.45
+707,SEVERE LATE,Ankara Hub,Anatolia Express,Standard,Konya,42.7,Hub Congestion,67.13
+2829,SEVERE LATE,Bursa Hub,Anatolia Express,Standard,Adana,42.6,Hub Congestion,259.49
+3480,SEVERE LATE,Antalya Hub,RouteOne,Same Day,Mersin,42.5,Carrier Capacity,80.87
+318,SEVERE LATE,Antalya Hub,SwiftLine,Next Day,Konya,42.3,Carrier Capacity,52.48
+27,SEVERE LATE,Bursa Hub,SwiftLine,Standard,Istanbul,42.2,Carrier Capacity,18.69
+134,SEVERE LATE,Bursa Hub,RouteOne,Next Day,Mersin,42.2,Weather,138.39
+3370,SEVERE LATE,Istanbul Central,RouteOne,Standard,Antalya,42.2,Hub Congestion,25.6
+3392,SEVERE LATE,Bursa Hub,Mavi Cargo,Standard,Antalya,42.2,Hub Congestion,220.33
+3408,SEVERE LATE,Istanbul Central,RouteOne,Standard,Eskisehir,42.2,Hub Congestion,94.68
+1859,SEVERE LATE,Ankara Hub,Mavi Cargo,Standard,Bursa,42.0,Hub Congestion,44.29
+1245,SEVERE LATE,Bursa Hub,RouteOne,Standard,Izmir,41.8,Carrier Capacity,270.47
+883,SEVERE LATE,Istanbul Central,Mavi Cargo,Same Day,Gaziantep,41.7,Address Issue,288.68
+1371,SEVERE LATE,Bursa Hub,Mavi Cargo,Same Day,Istanbul,41.7,Weather,124.47
+1516,SEVERE LATE,Ankara Hub,SwiftLine,Next Day,Istanbul,41.7,Hub Congestion,44.06
+94,SEVERE LATE,Bursa Hub,Anatolia Express,Standard,Mersin,41.6,Weather,276.64
+594,SEVERE LATE,Bursa Hub,Mavi Cargo,Standard,Adana,41.6,Hub Congestion,304.11
+2105,SEVERE LATE,Izmir Hub,SwiftLine,Next Day,Mersin,41.6,Vehicle Breakdown,209.03
+2309,SEVERE LATE,Bursa Hub,SwiftLine,Next Day,Adana,41.6,Hub Congestion,150.01
+2350,SEVERE LATE,Ankara Hub,RouteOne,Same Day,Istanbul,41.6,Address Issue,110.38
+15,SEVERE LATE,Istanbul Central,SwiftLine,Next Day,Ankara,41.5,Vehicle Breakdown,139.3
+274,SEVERE LATE,Ankara Hub,Mavi Cargo,Standard,Izmir,41.5,Address Issue,38.8
+493,SEVERE LATE,Izmir Hub,SwiftLine,Same Day,Izmir,41.5,Hub Congestion,263.21
+2084,SEVERE LATE,Ankara Hub,Mavi Cargo,Standard,Adana,41.4,Carrier Capacity,273.7
+2366,SEVERE LATE,Bursa Hub,SwiftLine,Standard,Gaziantep,41.4,Address Issue,192.08
+945,SEVERE LATE,Ankara Hub,Mavi Cargo,Standard,Adana,41.3,Hub Congestion,269.78
+2267,SEVERE LATE,Antalya Hub,RouteOne,Standard,Bursa,41.2,Address Issue,91.05
+43,SEVERE LATE,Istanbul Central,Anatolia Express,Same Day,Antalya,41.1,Hub Congestion,227.94
+1721,SEVERE LATE,Bursa Hub,RouteOne,Next Day,Mersin,41.0,Carrier Capacity,182.13
+2057,SEVERE LATE,Bursa Hub,Mavi Cargo,Same Day,Eskisehir,41.0,Hub Congestion,76.99
+2803,SEVERE LATE,Bursa Hub,SwiftLine,Next Day,Konya,41.0,Weather,54.21
+2979,SEVERE LATE,Adana Hub,RouteOne,Next Day,Ankara,41.0,Address Issue,220.47
+146,SEVERE LATE,Adana Hub,RouteOne,Standard,Ankara,40.9,Hub Congestion,150.67
+564,SEVERE LATE,Bursa Hub,Anatolia Express,Next Day,Konya,40.8,Weather,89.72
+2376,SEVERE LATE,Bursa Hub,RouteOne,Next Day,Bursa,40.8,Hub Congestion,60.12
+1856,SEVERE LATE,Antalya Hub,RouteOne,Standard,Eskisehir,40.6,Hub Congestion,317.11
+1983,SEVERE LATE,Bursa Hub,Mavi Cargo,Next Day,Konya,40.6,Carrier Capacity,205.03
+502,SEVERE LATE,Antalya Hub,Anatolia Express,Standard,Gaziantep,40.5,Address Issue,210.66
+3394,SEVERE LATE,Antalya Hub,RouteOne,Standard,Ankara,40.5,Hub Congestion,141.3
+419,SEVERE LATE,Bursa Hub,RouteOne,Next Day,Eskisehir,40.3,Hub Congestion,61.26
+632,SEVERE LATE,Ankara Hub,Anatolia Express,Standard,Eskisehir,40.2,Carrier Capacity,235.7
+1520,SEVERE LATE,Ankara Hub,RouteOne,Same Day,Eskisehir,40.2,Carrier Capacity,132.6
+473,SEVERE LATE,Bursa Hub,Anatolia Express,Standard,Konya,40.1,Carrier Capacity,220.19
+2542,SEVERE LATE,Istanbul Central,Anatolia Express,Same Day,Bursa,40.0,Weather,43.63
+86,SEVERE LATE,Antalya Hub,Anatolia Express,Same Day,Eskisehir,39.9,Hub Congestion,233.75
+297,SEVERE LATE,Adana Hub,RouteOne,Standard,Adana,39.9,Address Issue,315.6
+103,SEVERE LATE,Ankara Hub,Mavi Cargo,Standard,Antalya,39.8,Hub Congestion,274.33
+2281,SEVERE LATE,Ankara Hub,RouteOne,Same Day,Ankara,39.8,Hub Congestion,274.4
+433,SEVERE LATE,Ankara Hub,Anatolia Express,Same Day,Ankara,39.7,Hub Congestion,118.58
+1322,SEVERE LATE,Izmir Hub,Mavi Cargo,Next Day,Konya,39.6,Hub Congestion,283.53
+2436,SEVERE LATE,Adana Hub,Anatolia Express,Next Day,Antalya,39.6,Hub Congestion,157.05
+665,SEVERE LATE,Bursa Hub,SwiftLine,Standard,Bursa,39.5,Weather,154.84
+1122,SEVERE LATE,Antalya Hub,Anatolia Express,Next Day,Istanbul,39.5,Hub Congestion,71.93
+3007,SEVERE LATE,Istanbul Central,RouteOne,Standard,Izmir,39.5,Weather,86.4
+477,SEVERE LATE,Ankara Hub,SwiftLine,Next Day,Ankara,39.4,Hub Congestion,115.27
+2081,SEVERE LATE,Adana Hub,SwiftLine,Same Day,Konya,39.3,Address Issue,273.66
+413,SEVERE LATE,Bursa Hub,RouteOne,Standard,Bursa,39.1,Carrier Capacity,117.19
+2015,SEVERE LATE,Bursa Hub,Mavi Cargo,Standard,Antalya,39.1,Weather,239.56
+1945,SEVERE LATE,Istanbul Central,Mavi Cargo,Next Day,Konya,39.0,Hub Congestion,192.68
+2052,SEVERE LATE,Istanbul Central,SwiftLine,Standard,Eskisehir,39.0,Hub Congestion,164.86
+3021,SEVERE LATE,Adana Hub,SwiftLine,Standard,Eskisehir,39.0,Carrier Capacity,80.87
+2635,SEVERE LATE,Bursa Hub,RouteOne,Same Day,Izmir,38.9,Hub Congestion,79.0
+268,SEVERE LATE,Bursa Hub,RouteOne,Next Day,Izmir,38.8,Carrier Capacity,272.16
+593,SEVERE LATE,Bursa Hub,RouteOne,Standard,Adana,38.8,Hub Congestion,198.58
+1415,SEVERE LATE,Bursa Hub,Mavi Cargo,Same Day,Mersin,38.8,Vehicle Breakdown,207.22
+99,SEVERE LATE,Adana Hub,RouteOne,Next Day,Ankara,38.7,Address Issue,72.54
+597,SEVERE LATE,Adana Hub,RouteOne,Standard,Antalya,38.6,Hub Congestion,166.47
+1901,SEVERE LATE,Istanbul Central,RouteOne,Standard,Izmir,38.6,Weather,152.25
+3271,SEVERE LATE,Istanbul Central,Mavi Cargo,Standard,Bursa,38.6,Hub Congestion,167.6
+3310,SEVERE LATE,Istanbul Central,SwiftLine,Next Day,Konya,38.6,Customer Unavailable,55.42
+1018,SEVERE LATE,Bursa Hub,Mavi Cargo,Next Day,Izmir,38.5,Carrier Capacity,235.13
+545,SEVERE LATE,Antalya Hub,SwiftLine,Next Day,Istanbul,38.4,Carrier Capacity,69.22
+627,SEVERE LATE,Antalya Hub,RouteOne,Next Day,Istanbul,38.4,Carrier Capacity,214.54
+2425,SEVERE LATE,Ankara Hub,Anatolia Express,Next Day,Konya,38.4,Carrier Capacity,251.13
+3510,SEVERE LATE,Izmir Hub,RouteOne,Next Day,Konya,38.4,Customer Unavailable,215.11
+2615,SEVERE LATE,Bursa Hub,RouteOne,Standard,Konya,38.2,Weather,103.85
+3433,SEVERE LATE,Izmir Hub,RouteOne,Next Day,Adana,38.2,Vehicle Breakdown,24.11
+288,SEVERE LATE,Istanbul Central,Mavi Cargo,Standard,Eskisehir,38.1,Carrier Capacity,47.02
+1873,SEVERE LATE,Istanbul Central,RouteOne,Standard,Bursa,38.1,Customer Unavailable,169.05
+3336,SEVERE LATE,Istanbul Central,Mavi Cargo,Standard,Gaziantep,38.0,Vehicle Breakdown,142.58
+3223,SEVERE LATE,Istanbul Central,RouteOne,Next Day,Istanbul,37.9,Carrier Capacity,78.49
+2395,SEVERE LATE,Adana Hub,RouteOne,Next Day,Antalya,37.8,Weather,109.68
+743,SEVERE LATE,Antalya Hub,RouteOne,Standard,Antalya,37.5,Weather,256.12
+2121,SEVERE LATE,Ankara Hub,Mavi Cargo,Next Day,Ankara,37.3,Hub Congestion,211.35
+585,SEVERE LATE,Adana Hub,RouteOne,Standard,Izmir,37.2,Carrier Capacity,188.28
+894,SEVERE LATE,Bursa Hub,Anatolia Express,Next Day,Bursa,37.2,Carrier Capacity,259.48
+2034,SEVERE LATE,Antalya Hub,SwiftLine,Same Day,Istanbul,37.2,Weather,175.83
+196,SEVERE LATE,Bursa Hub,Anatolia Express,Standard,Bursa,37.0,Carrier Capacity,167.18
+511,SEVERE LATE,Bursa Hub,Mavi Cargo,Next Day,Eskisehir,36.9,Address Issue,69.81
+2282,SEVERE LATE,Izmir Hub,RouteOne,Same Day,Bursa,36.9,Carrier Capacity,162.44
+745,SEVERE LATE,Istanbul Central,RouteOne,Standard,Ankara,36.8,Weather,35.26
+1266,SEVERE LATE,Ankara Hub,Anatolia Express,Next Day,Izmir,36.8,Carrier Capacity,61.49
+48,SEVERE LATE,Ankara Hub,SwiftLine,Standard,Antalya,36.4,Hub Congestion,46.67
+1745,SEVERE LATE,Bursa Hub,Anatolia Express,Standard,Gaziantep,36.4,Weather,309.5
+365,SEVERE LATE,Istanbul Central,RouteOne,Next Day,Antalya,36.3,Carrier Capacity,79.54
+1956,SEVERE LATE,Bursa Hub,SwiftLine,Standard,Ankara,36.3,Address Issue,114.58
+1481,SEVERE LATE,Antalya Hub,SwiftLine,Next Day,Istanbul,36.2,Weather,101.81
+2843,SEVERE LATE,Bursa Hub,Anatolia Express,Next Day,Ankara,36.2,Customer Unavailable,215.33
+1724,SEVERE LATE,Bursa Hub,Mavi Cargo,Standard,Antalya,36.0,Address Issue,32.6
+838,SEVERE LATE,Istanbul Central,SwiftLine,Same Day,Izmir,35.9,Carrier Capacity,303.93
+537,SEVERE LATE,Bursa Hub,Mavi Cargo,Next Day,Eskisehir,35.8,Vehicle Breakdown,236.18
+1501,SEVERE LATE,Ankara Hub,SwiftLine,Standard,Mersin,35.7,Address Issue,223.94
+1523,SEVERE LATE,Izmir Hub,SwiftLine,Same Day,Izmir,35.7,Weather,108.82
+51,SEVERE LATE,Bursa Hub,RouteOne,Standard,Konya,35.5,Hub Congestion,54.95
+708,SEVERE LATE,Izmir Hub,Mavi Cargo,Standard,Gaziantep,35.4,Carrier Capacity,135.38
+2155,SEVERE LATE,Adana Hub,RouteOne,Next Day,Antalya,35.4,Hub Congestion,150.96
+3245,SEVERE LATE,Istanbul Central,Anatolia Express,Standard,Bursa,35.4,Vehicle Breakdown,80.72
+2963,SEVERE LATE,Ankara Hub,RouteOne,Standard,Eskisehir,35.2,Address Issue,229.29
+3341,SEVERE LATE,Istanbul Central,RouteOne,Standard,Mersin,35.0,Hub Congestion,301.21
+1286,SEVERE LATE,Istanbul Central,RouteOne,Next Day,Istanbul,34.9,Address Issue,131.98
+76,SEVERE LATE,Adana Hub,RouteOne,Standard,Ankara,34.8,Weather,250.41
+263,SEVERE LATE,Istanbul Central,SwiftLine,Standard,Adana,34.8,Customer Unavailable,276.81
+1130,SEVERE LATE,Istanbul Central,SwiftLine,Same Day,Istanbul,34.8,Customer Unavailable,158.07
+2901,SEVERE LATE,Istanbul Central,Mavi Cargo,Next Day,Adana,34.7,Hub Congestion,169.43
+767,SEVERE LATE,Bursa Hub,Anatolia Express,Standard,Mersin,34.6,Carrier Capacity,50.81
+2570,SEVERE LATE,Izmir Hub,RouteOne,Next Day,Istanbul,34.6,Carrier Capacity,71.69
+3285,SEVERE LATE,Izmir Hub,Anatolia Express,Standard,Istanbul,34.6,Address Issue,154.03
+1163,SEVERE LATE,Adana Hub,Mavi Cargo,Standard,Mersin,34.4,Weather,197.76
+2622,SEVERE LATE,Bursa Hub,SwiftLine,Next Day,Gaziantep,34.3,Carrier Capacity,160.8
+1158,SEVERE LATE,Istanbul Central,SwiftLine,Same Day,Konya,34.1,Carrier Capacity,169.56
+6,SEVERE LATE,Bursa Hub,Mavi Cargo,Standard,Istanbul,34.0,Address Issue,68.07
+849,SEVERE LATE,Ankara Hub,SwiftLine,Next Day,Konya,34.0,Weather,53.93
+1247,SEVERE LATE,Ankara Hub,RouteOne,Next Day,Izmir,34.0,Vehicle Breakdown,278.22
+1325,SEVERE LATE,Bursa Hub,RouteOne,Standard,Bursa,34.0,Customer Unavailable,143.38
+1478,SEVERE LATE,Istanbul Central,SwiftLine,Next Day,Konya,33.9,Weather,278.9
+1906,SEVERE LATE,Bursa Hub,Mavi Cargo,Next Day,Istanbul,33.9,Carrier Capacity,175.47
+1730,SEVERE LATE,Istanbul Central,SwiftLine,Next Day,Istanbul,33.8,Carrier Capacity,178.33
+1793,SEVERE LATE,Istanbul Central,RouteOne,Next Day,Adana,33.8,Customer Unavailable,227.5
+68,SEVERE LATE,Bursa Hub,Mavi Cargo,Standard,Mersin,33.7,Hub Congestion,253.63
+440,SEVERE LATE,Adana Hub,RouteOne,Same Day,Bursa,33.7,Address Issue,210.36
+1741,SEVERE LATE,Bursa Hub,Anatolia Express,Standard,Antalya,33.7,Weather,108.94
+1781,SEVERE LATE,Ankara Hub,RouteOne,Standard,Bursa,33.5,Customer Unavailable,149.83
+1561,SEVERE LATE,Ankara Hub,Anatolia Express,Same Day,Istanbul,33.4,Carrier Capacity,162.58
+794,SEVERE LATE,Bursa Hub,Anatolia Express,Same Day,Bursa,33.3,Weather,135.74
+2569,SEVERE LATE,Izmir Hub,Mavi Cargo,Next Day,Gaziantep,33.3,Address Issue,53.04
+768,SEVERE LATE,Istanbul Central,SwiftLine,Next Day,Eskisehir,33.2,Customer Unavailable,129.39
+1258,SEVERE LATE,Izmir Hub,Mavi Cargo,Standard,Izmir,33.2,Customer Unavailable,112.37
+1456,SEVERE LATE,Istanbul Central,Mavi Cargo,Same Day,Mersin,33.2,Hub Congestion,20.18
+2866,SEVERE LATE,Ankara Hub,Mavi Cargo,Same Day,Ankara,33.2,Hub Congestion,253.73
+328,SEVERE LATE,Antalya Hub,SwiftLine,Standard,Adana,33.1,Hub Congestion,207.66
+1455,SEVERE LATE,Adana Hub,SwiftLine,Next Day,Eskisehir,33.1,Address Issue,45.15
+1853,SEVERE LATE,Bursa Hub,RouteOne,Same Day,Konya,33.1,Carrier Capacity,274.57
+1242,SEVERE LATE,Bursa Hub,SwiftLine,Standard,Antalya,32.9,Carrier Capacity,98.64
+3345,SEVERE LATE,Bursa Hub,Anatolia Express,Standard,Izmir,32.9,Customer Unavailable,264.89
+1810,SEVERE LATE,Izmir Hub,Anatolia Express,Same Day,Mersin,32.8,Customer Unavailable,253.27
+2138,SEVERE LATE,Ankara Hub,RouteOne,Standard,Izmir,32.8,Customer Unavailable,48.23
+1812,SEVERE LATE,Bursa Hub,RouteOne,Standard,Izmir,32.7,Weather,42.14
+2406,SEVERE LATE,Antalya Hub,RouteOne,Same Day,Mersin,32.7,Weather,302.44
+824,SEVERE LATE,Bursa Hub,RouteOne,Next Day,Ankara,32.6,Weather,276.7
+447,SEVERE LATE,Ankara Hub,SwiftLine,Same Day,Konya,32.5,Weather,83.41
+2230,SEVERE LATE,Bursa Hub,Mavi Cargo,Next Day,Gaziantep,32.5,Hub Congestion,68.73
+3365,SEVERE LATE,Adana Hub,SwiftLine,Same Day,Izmir,32.4,Carrier Capacity,259.67
+42,SEVERE LATE,Adana Hub,RouteOne,Standard,Antalya,32.3,Hub Congestion,93.99
+671,SEVERE LATE,Izmir Hub,RouteOne,Standard,Konya,32.2,Hub Congestion,244.87
+1684,SEVERE LATE,Bursa Hub,SwiftLine,Next Day,Ankara,32.2,Hub Congestion,52.33
+1805,SEVERE LATE,Ankara Hub,RouteOne,Standard,Gaziantep,32.2,Address Issue,297.63
+362,SEVERE LATE,Ankara Hub,Anatolia Express,Next Day,Eskisehir,32.0,Vehicle Breakdown,184.48
+747,SEVERE LATE,Istanbul Central,RouteOne,Next Day,Mersin,32.0,Hub Congestion,276.34
+1352,SEVERE LATE,Ankara Hub,Anatolia Express,Standard,Mersin,32.0,Hub Congestion,152.87
+287,SEVERE LATE,Istanbul Central,Anatolia Express,Standard,Izmir,31.9,Hub Congestion,299.56
+1914,SEVERE LATE,Ankara Hub,Anatolia Express,Same Day,Mersin,31.9,Hub Congestion,173.98
+978,SEVERE LATE,Izmir Hub,Anatolia Express,Next Day,Adana,31.6,Carrier Capacity,178.89
+2176,SEVERE LATE,Bursa Hub,SwiftLine,Standard,Eskisehir,31.6,Carrier Capacity,195.61
+748,SEVERE LATE,Antalya Hub,Mavi Cargo,Next Day,Eskisehir,31.2,Hub Congestion,87.5
+242,SEVERE LATE,Istanbul Central,Anatolia Express,Standard,Konya,31.1,Carrier Capacity,255.31
+104,SEVERE LATE,Izmir Hub,SwiftLine,Standard,Bursa,30.8,Carrier Capacity,47.26
+781,SEVERE LATE,Ankara Hub,SwiftLine,Next Day,Ankara,30.8,Hub Congestion,265.0
+805,SEVERE LATE,Ankara Hub,RouteOne,Same Day,Izmir,30.8,Hub Congestion,315.15
+404,SEVERE LATE,Ankara Hub,SwiftLine,Standard,Ankara,30.7,Customer Unavailable,132.9
+744,SEVERE LATE,Bursa Hub,Anatolia Express,Next Day,Eskisehir,30.5,Address Issue,90.63
+1262,SEVERE LATE,Antalya Hub,RouteOne,Standard,Izmir,30.5,Vehicle Breakdown,283.97
+2574,SEVERE LATE,Antalya Hub,RouteOne,Standard,Antalya,30.5,Carrier Capacity,51.83
+786,SEVERE LATE,Izmir Hub,Mavi Cargo,Next Day,Bursa,30.4,Hub Congestion,276.26
+2159,SEVERE LATE,Istanbul Central,SwiftLine,Same Day,Izmir,30.4,Vehicle Breakdown,280.96
+691,SEVERE LATE,Istanbul Central,Mavi Cargo,Standard,Istanbul,30.2,Hub Congestion,129.45
+3386,SEVERE LATE,Adana Hub,Mavi Cargo,Standard,Antalya,30.2,Carrier Capacity,122.8
+249,SEVERE LATE,Ankara Hub,RouteOne,Standard,Antalya,29.9,Vehicle Breakdown,158.6
+1019,SEVERE LATE,Istanbul Central,Anatolia Express,Standard,Adana,29.9,Hub Congestion,285.81
+1748,SEVERE LATE,Adana Hub,Anatolia Express,Standard,Gaziantep,29.8,Carrier Capacity,283.25
+2614,SEVERE LATE,Ankara Hub,Mavi Cargo,Standard,Gaziantep,29.8,Hub Congestion,33.59
+1933,SEVERE LATE,Bursa Hub,Anatolia Express,Same Day,Izmir,29.7,Customer Unavailable,188.31
+3024,SEVERE LATE,Istanbul Central,RouteOne,Next Day,Bursa,29.6,Carrier Capacity,41.85
+219,SEVERE LATE,Istanbul Central,RouteOne,Next Day,Bursa,29.4,Vehicle Breakdown,160.66
+2913,SEVERE LATE,Istanbul Central,RouteOne,Next Day,Adana,29.4,Carrier Capacity,68.64
+752,SEVERE LATE,Istanbul Central,SwiftLine,Next Day,Eskisehir,29.3,Hub Congestion,81.45
+2128,SEVERE LATE,Antalya Hub,Anatolia Express,Next Day,Izmir,29.3,Vehicle Breakdown,34.51
+2333,SEVERE LATE,Istanbul Central,Mavi Cargo,Standard,Bursa,29.3,Hub Congestion,83.93
+3413,SEVERE LATE,Istanbul Central,Mavi Cargo,Standard,Ankara,29.3,Address Issue,270.07
+3452,SEVERE LATE,Bursa Hub,RouteOne,Next Day,Konya,29.3,Carrier Capacity,99.41
+2008,SEVERE LATE,Ankara Hub,Anatolia Express,Standard,Mersin,29.0,Carrier Capacity,226.82
+863,SEVERE LATE,Istanbul Central,Mavi Cargo,Standard,Mersin,28.9,Address Issue,101.43
+1100,SEVERE LATE,Ankara Hub,Anatolia Express,Next Day,Bursa,28.9,Weather,271.93
+716,SEVERE LATE,Istanbul Central,SwiftLine,Standard,Adana,28.8,Address Issue,158.68
+1316,SEVERE LATE,Ankara Hub,RouteOne,Standard,Istanbul,28.8,Weather,88.04
+2100,SEVERE LATE,Istanbul Central,RouteOne,Standard,Antalya,28.8,Carrier Capacity,318.37
+2660,SEVERE LATE,Istanbul Central,RouteOne,Next Day,Istanbul,28.8,Weather,164.05
+2718,SEVERE LATE,Antalya Hub,SwiftLine,Next Day,Antalya,28.8,Address Issue,242.26
+193,SEVERE LATE,Bursa Hub,Mavi Cargo,Standard,Izmir,28.7,Customer Unavailable,245.21
+1358,SEVERE LATE,Bursa Hub,Anatolia Express,Standard,Gaziantep,28.7,Vehicle Breakdown,52.63
+2413,SEVERE LATE,Istanbul Central,Mavi Cargo,Standard,Antalya,28.7,Address Issue,251.42
+156,SEVERE LATE,Ankara Hub,SwiftLine,Standard,Mersin,28.6,Hub Congestion,240.57
+3503,SEVERE LATE,Adana Hub,Mavi Cargo,Same Day,Gaziantep,28.6,Weather,210.51
+1535,SEVERE LATE,Ankara Hub,SwiftLine,Standard,Mersin,28.4,Carrier Capacity,290.54
+1170,SEVERE LATE,Antalya Hub,RouteOne,Same Day,Mersin,28.3,Carrier Capacity,65.04
+2355,SEVERE LATE,Antalya Hub,SwiftLine,Next Day,Mersin,28.2,Hub Congestion,179.95
+2480,SEVERE LATE,Izmir Hub,SwiftLine,Next Day,Mersin,28.1,Hub Congestion,235.68
+630,SEVERE LATE,Izmir Hub,Anatolia Express,Standard,Antalya,28.0,Weather,277.57
+2357,SEVERE LATE,Istanbul Central,RouteOne,Next Day,Bursa,28.0,Address Issue,50.66
+3471,SEVERE LATE,Istanbul Central,SwiftLine,Standard,Bursa,28.0,Carrier Capacity,42.96
+2536,SEVERE LATE,Adana Hub,Anatolia Express,Next Day,Adana,27.8,Hub Congestion,231.33
+213,SEVERE LATE,Bursa Hub,RouteOne,Standard,Ankara,27.7,Hub Congestion,277.32
+2703,SEVERE LATE,Bursa Hub,Mavi Cargo,Standard,Izmir,27.6,Hub Congestion,280.72
+1401,SEVERE LATE,Ankara Hub,RouteOne,Next Day,Konya,27.5,Carrier Capacity,243.74
+1630,SEVERE LATE,Antalya Hub,Anatolia Express,Next Day,Konya,27.5,Weather,227.16
+3402,SEVERE LATE,Istanbul Central,Anatolia Express,Standard,Istanbul,27.5,Carrier Capacity,91.86
+1467,SEVERE LATE,Bursa Hub,SwiftLine,Standard,Konya,27.3,Weather,53.6
+57,SEVERE LATE,Istanbul Central,Mavi Cargo,Standard,Konya,27.2,Carrier Capacity,181.1
+1900,SEVERE LATE,Ankara Hub,RouteOne,Standard,Antalya,27.2,Weather,75.44
+1370,SEVERE LATE,Bursa Hub,SwiftLine,Standard,Adana,27.1,Customer Unavailable,56.29
+1636,SEVERE LATE,Izmir Hub,RouteOne,Same Day,Ankara,27.1,Address Issue,204.22
+1617,SEVERE LATE,Istanbul Central,Mavi Cargo,Standard,Adana,27.0,Weather,239.26
+225,SEVERE LATE,Antalya Hub,Anatolia Express,Next Day,Bursa,26.9,Hub Congestion,124.98
+1336,SEVERE LATE,Izmir Hub,SwiftLine,Same Day,Konya,26.8,Hub Congestion,169.81
+2586,SEVERE LATE,Istanbul Central,Mavi Cargo,Standard,Antalya,26.8,Address Issue,122.66
+1619,SEVERE LATE,Istanbul Central,SwiftLine,Standard,Antalya,26.7,Address Issue,200.4
+2601,SEVERE LATE,Bursa Hub,RouteOne,Standard,Bursa,26.7,Carrier Capacity,143.39
+2638,SEVERE LATE,Bursa Hub,RouteOne,Standard,Eskisehir,26.7,Carrier Capacity,251.38
+3361,SEVERE LATE,Izmir Hub,SwiftLine,Standard,Ankara,26.7,Hub Congestion,260.23
+687,SEVERE LATE,Antalya Hub,SwiftLine,Next Day,Bursa,26.6,Weather,50.85
+851,SEVERE LATE,Bursa Hub,RouteOne,Next Day,Adana,26.6,Carrier Capacity,90.77
+971,SEVERE LATE,Antalya Hub,Mavi Cargo,Same Day,Eskisehir,26.6,Vehicle Breakdown,48.59
+1639,SEVERE LATE,Bursa Hub,Anatolia Express,Same Day,Adana,26.6,Hub Congestion,28.16
+1697,SEVERE LATE,Antalya Hub,SwiftLine,Standard,Antalya,26.5,Hub Congestion,319.68
+2478,SEVERE LATE,Adana Hub,Anatolia Express,Standard,Gaziantep,26.5,Hub Congestion,163.29
+1936,SEVERE LATE,Istanbul Central,Mavi Cargo,Next Day,Konya,26.3,Customer Unavailable,250.69
+2774,SEVERE LATE,Adana Hub,RouteOne,Next Day,Konya,26.2,Hub Congestion,308.93
+41,SEVERE LATE,Bursa Hub,SwiftLine,Next Day,Izmir,26.1,Hub Congestion,37.3
+3018,SEVERE LATE,Antalya Hub,Anatolia Express,Standard,Konya,26.1,Hub Congestion,213.51
+12,SEVERE LATE,Adana Hub,Mavi Cargo,Standard,Adana,26.0,Carrier Capacity,191.29
+1156,SEVERE LATE,Izmir Hub,RouteOne,Same Day,Gaziantep,26.0,Address Issue,66.3
+2260,SEVERE LATE,Istanbul Central,RouteOne,Standard,Gaziantep,26.0,Hub Congestion,230.62
+3066,SEVERE LATE,Bursa Hub,SwiftLine,Standard,Izmir,26.0,Weather,301.88
+2709,SEVERE LATE,Ankara Hub,Anatolia Express,Next Day,Antalya,25.9,Weather,40.92
+2864,SEVERE LATE,Izmir Hub,Mavi Cargo,Standard,Istanbul,25.9,Hub Congestion,209.57
+79,SEVERE LATE,Bursa Hub,Mavi Cargo,Next Day,Istanbul,25.5,Carrier Capacity,256.58
+1539,SEVERE LATE,Bursa Hub,SwiftLine,Standard,Ankara,25.5,Hub Congestion,104.97
+2946,SEVERE LATE,Antalya Hub,Anatolia Express,Next Day,Eskisehir,25.3,Weather,293.34
+1062,SEVERE LATE,Antalya Hub,Anatolia Express,Same Day,Istanbul,25.2,Hub Congestion,156.84
+209,SEVERE LATE,Istanbul Central,Mavi Cargo,Same Day,Konya,25.1,Hub Congestion,247.16
+1804,SEVERE LATE,Istanbul Central,RouteOne,Standard,Antalya,25.1,Hub Congestion,311.33
+2298,SEVERE LATE,Bursa Hub,Mavi Cargo,Standard,Bursa,25.1,Customer Unavailable,156.36
+173,SEVERE LATE,Ankara Hub,Anatolia Express,Standard,Konya,25.0,Carrier Capacity,64.15
+3010,SEVERE LATE,Bursa Hub,SwiftLine,Standard,Konya,25.0,Carrier Capacity,91.4
+2453,SEVERE LATE,Izmir Hub,Mavi Cargo,Next Day,Izmir,24.9,Weather,198.95
+2877,SEVERE LATE,Bursa Hub,RouteOne,Standard,Istanbul,24.8,Hub Congestion,141.53
+1717,SEVERE LATE,Bursa Hub,Anatolia Express,Next Day,Adana,24.6,Customer Unavailable,96.43
+2481,SEVERE LATE,Istanbul Central,Mavi Cargo,Next Day,Mersin,24.6,Hub Congestion,132.72
+3426,SEVERE LATE,Bursa Hub,RouteOne,Standard,Eskisehir,24.6,Weather,132.72
+3476,SEVERE LATE,Adana Hub,RouteOne,Next Day,Bursa,24.6,Address Issue,261.0
+70,SEVERE LATE,Ankara Hub,Mavi Cargo,Next Day,Antalya,24.5,Carrier Capacity,111.73
+696,SEVERE LATE,Bursa Hub,Mavi Cargo,Standard,Adana,24.4,Weather,232.73
+2896,SEVERE LATE,Izmir Hub,Mavi Cargo,Same Day,Mersin,24.4,Hub Congestion,57.36
+986,SEVERE LATE,Antalya Hub,Anatolia Express,Same Day,Gaziantep,24.3,Customer Unavailable,271.78
+2644,SEVERE LATE,Ankara Hub,Mavi Cargo,Next Day,Istanbul,24.3,Carrier Capacity,76.5
+33,SEVERE LATE,Bursa Hub,RouteOne,Standard,Gaziantep,24.2,Vehicle Breakdown,176.19
+2170,SEVERE LATE,Istanbul Central,Anatolia Express,Next Day,Mersin,24.2,Customer Unavailable,156.0
+3381,SEVERE LATE,Izmir Hub,RouteOne,Standard,Eskisehir,24.1,Address Issue,31.89

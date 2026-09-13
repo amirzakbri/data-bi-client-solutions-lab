@@ -1,0 +1,51 @@
+customer_id,full_name,email,signup_date,country,status,lifetime_value,source_row,rejection_reasons
+c-0004, Ada Clark ,Ada.Clark4@example.com,22-Jan-2025,Türkiye,ACTIVE,"$1,202.60",502,duplicate_customer_id
+ C- 0007 , Emma Kaya ,Emma.Kaya7@example.com,14/10/2025,United States,IN-ACTIVE,3010.4,503,duplicate_customer_id
+c-0010,  lucas  WILSON  ,Lucas.Wilson10@example.com,11-Feb-2026,FR,prospect,132.91,504,duplicate_customer_id
+c-0013, Liam Taylor ,Liam.Taylor13@example.com,02/09/2025,DE,ACTIVE,50.27,505,duplicate_customer_id
+c-0016, Liam Martin ,Liam.Martin16@example.com,2025-02-23,United States,prospect,"$1,860.14",506,duplicate_customer_id
+c-0019, Lucas Demir ,Lucas.Demir19@example.com,2025-05-03,Turkey,lead,857.0,507,duplicate_customer_id
+c-0022, Noah Brown ,Noah.Brown22@example.com,02/07/2026,us,ACTIVE,2200.13,508,duplicate_customer_id
+c-0025,  ada  BROWN  ,Ada.Brown25@example.com,28/07/2025,USA,lead,2864.92,509,duplicate_customer_id
+ C- 0028 , Ada Stone ,Ada.Stone28@example.com,2026-05-26,USA,IN-ACTIVE,"$2,724.42",510,duplicate_customer_id
+c-0031, Ada Yilmaz ,Ada.Yilmaz31@example.com,2025-04-20,FR,prospect,3810.39,511,duplicate_customer_id
+c-0034, Liam Miller ,Liam.Miller34@example.com,20/02/2026,us,IN-ACTIVE,3936.43,512,duplicate_customer_id
+c-0037, Emma Wilson ,Emma.Wilson37@example.com,01-Jan-2025,USA,active,1458.26,513,duplicate_customer_id
+c-0040,  emma  WILSON  ,Emma.Wilson40@example.com,26-Nov-2025,USA,ACTIVE,"$4,239.22",514,duplicate_customer_id
+c-0043, Mia Kaya ,Mia.Kaya43@example.com,04/05/2026,Turkey,ACTIVE,1878.52,515,duplicate_customer_id
+c-0046, Liam Demir ,Liam.Demir46@example.com,2026-07-24,u.k.,ACTIVE,2012.48,516,duplicate_customer_id
+ C- 0049 , Oliver Yilmaz ,Oliver.Yilmaz49@example.com,2026-07-06,DE,lead,1787.9,517,duplicate_customer_id
+c-0052, Mia Stone ,Mia.Stone52@example.com,15-Jun-2025,Germany,ACTIVE,"$3,549.51",518,duplicate_customer_id
+c-0055,  liam  BROWN  ,Liam.Brown55@example.com,19-Aug-2025,France,Inactive,2394.38,519,duplicate_customer_id
+c-0058, Mia Stone ,Mia.Stone58@example.com,18-Jul-2026,France,active,2277.85,520,duplicate_customer_id
+c-0061, Oliver Kaya ,Oliver.Kaya61@example.com,05-Jun-2026,us,Inactive,739.25,521,duplicate_customer_id
+c-0064, Liam Kaya ,Liam.Kaya64@example.com,21-Feb-2025,us,active,$571.70,522,duplicate_customer_id
+c-0067, Emma Demir ,Emma.Demir67@example.com,31-May-2025,Türkiye,prospect,4076.28,523,duplicate_customer_id
+BAD-001,Mia Brown,not-an-email,25-Jan-2025,United States,lead,4493.87,524,invalid_email
+BAD-002,Noah Martin, Noah.Martin12@Example.COM ,31/31/2026,Türkiye,active,$461.60,525,invalid_signup_date
+BAD-003,Ada Demir,Ada.Demir23@example.com,10-Apr-2025,Atlantis,IN-ACTIVE,2125.42,526,invalid_country
+BAD-004,Liam Miller,Liam.Miller34@example.com,20/02/2026,us,Blocked,3936.43,527,invalid_status
+BAD-005, ada  MILLER ,Ada.Miller45@example.com,14-Oct-2025,us,ACTIVE,-50,528,negative_lifetime_value
+BAD-006,,Lucas.Stone56@example.com,03-Sep-2025,Turkey,IN-ACTIVE,"$2,501.54",529,missing_full_name
+BAD-007,Emma Demir,Emma.Demir67@example.com,31-May-2025,Türkiye,prospect,unknown,530,invalid_lifetime_value
+BAD-008,Noah Taylor,not-an-email,2025-12-25,UK,Inactive,519.73,531,invalid_email
+BAD-009,Mia Demir,Mia.Demir89@example.com,31/31/2026,USA,prospect,4382.9,532,invalid_signup_date
+BAD-010, lucas  MILLER ,Lucas.Miller100@example.com,06/07/2026,Atlantis,prospect,"$4,438.38",533,invalid_country
+BAD-011,Ethan Stone,Ethan.Stone111@example.com,22/07/2026,UK,Blocked,1608.63,534,invalid_status
+BAD-012,Emma Kaya,Emma.Kaya122@example.com,19-May-2025,FR,lead,-50,535,negative_lifetime_value
+BAD-013,,Emma.Martin133@example.com,2026-06-27,USA,IN-ACTIVE,1732.32,536,missing_full_name
+BAD-014,Mia Clark, Mia.Clark144@Example.COM ,09-Jun-2025,DE,active,unknown,537,invalid_lifetime_value
+BAD-015, sofia  STONE ,not-an-email,21/09/2025,DE,ACTIVE,1671.92,538,invalid_email
+BAD-016,Oliver Martin,Oliver.Martin166@example.com,31/31/2026,DE,active,170.92,539,invalid_signup_date
+BAD-017,Leyla Miller,Leyla.Miller177@example.com,2025-11-18,Atlantis,IN-ACTIVE,1862.14,540,invalid_country
+BAD-018,Ethan Kaya,Ethan.Kaya188@example.com,2025-05-17,Türkiye,Blocked,$581.36,541,invalid_status
+BAD-019,Lucas Martin,Lucas.Martin199@example.com,12/03/2026,France,lead,-50,542,negative_lifetime_value
+BAD-020,, Leyla.Clark210@Example.COM ,04-Jul-2026,USA,active,3137.49,543,missing_full_name
+BAD-021,Leyla Martin,Leyla.Martin221@example.com,01/04/2026,Germany,Inactive,unknown,544,invalid_lifetime_value
+BAD-022,Sofia Wilson,not-an-email,2026-04-10,Turkey,IN-ACTIVE,"$2,740.98",545,invalid_email
+BAD-023,Mia Kaya,Mia.Kaya243@example.com,31/31/2026,FR,ACTIVE,1095.0,546,invalid_signup_date
+BAD-024,Leyla Clark,Leyla.Clark254@example.com,2025-01-17,Atlantis,prospect,2108.54,547,invalid_country
+BAD-025, mia  STONE ,Mia.Stone265@example.com,18/05/2026,United States,Blocked,3152.1,548,invalid_status
+BAD-026,Lucas Stone, Lucas.Stone276@Example.COM ,2025-07-27,u.k.,ACTIVE,-50,549,negative_lifetime_value
+BAD-027,,Liam.Yilmaz287@example.com,02-Sep-2025,u.k.,IN-ACTIVE,706.27,550,missing_full_name
+BAD-028,Oliver Brown,Oliver.Brown298@example.com,08-Jul-2026,u.k.,prospect,unknown,551,invalid_lifetime_value

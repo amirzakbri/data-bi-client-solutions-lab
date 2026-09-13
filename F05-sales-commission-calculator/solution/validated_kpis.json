@@ -1,0 +1,85 @@
+{
+  "transactions": 240,
+  "approved": 192,
+  "pending": 48,
+  "totalGross": 934939,
+  "returns": 10463.88,
+  "netRevenue": 924475.12,
+  "totalQuota": 955000,
+  "totalPayout": 34682.81,
+  "acceleratorReps": 5,
+  "reps": [
+    {
+      "rep": "Maya Chen",
+      "netRevenue": 71125.68,
+      "attainment": 0.7903,
+      "payout": 2335.66
+    },
+    {
+      "rep": "Ethan Brooks",
+      "netRevenue": 75912.06,
+      "attainment": 0.8931,
+      "payout": 2643.48
+    },
+    {
+      "rep": "Sofia Patel",
+      "netRevenue": 78028.66,
+      "attainment": 0.9754,
+      "payout": 2807.39
+    },
+    {
+      "rep": "Noah Williams",
+      "netRevenue": 74838.75,
+      "attainment": 0.9595,
+      "payout": 2667.94
+    },
+    {
+      "rep": "Lina Haddad",
+      "netRevenue": 75705.25,
+      "attainment": 1.2211,
+      "payout": 3341.54
+    },
+    {
+      "rep": "Lucas Martin",
+      "netRevenue": 80060.43,
+      "attainment": 1.1774,
+      "payout": 3495
+    },
+    {
+      "rep": "Aylin Demir",
+      "netRevenue": 79515.09,
+      "attainment": 0.7952,
+      "payout": 2592.58
+    },
+    {
+      "rep": "Owen Taylor",
+      "netRevenue": 81492.32,
+      "attainment": 1.0187,
+      "payout": 3029.96
+    },
+    {
+      "rep": "Sara Kim",
+      "netRevenue": 80500.48,
+      "attainment": 1.15,
+      "payout": 3423.31
+    },
+    {
+      "rep": "Daniel Ruiz",
+      "netRevenue": 77863.74,
+      "attainment": 0.8196,
+      "payout": 2572.37
+    },
+    {
+      "rep": "Elif Kaya",
+      "netRevenue": 75773.88,
+      "attainment": 0.9241,
+      "payout": 2705.21
+    },
+    {
+      "rep": "Jon Bell",
+      "netRevenue": 73658.78,
+      "attainment": 1.1332,
+      "payout": 3068.38
+    }
+  ]
+}

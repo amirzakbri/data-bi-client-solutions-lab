@@ -1,0 +1,23 @@
+Rent Billed = SUM(FactRentLedger[rent_billed])
+
+Rent Collected = SUM(FactRentLedger[amount_paid])
+
+Total Arrears = SUM(FactRentLedger[balance])
+
+Collection Rate = DIVIDE([Rent Collected], [Rent Billed])
+
+Open Invoices = CALCULATE(COUNTROWS(FactRentLedger), FactRentLedger[balance] > 0)
+
+Late Paid Invoices = CALCULATE(COUNTROWS(FactRentLedger), FactRentLedger[payment_status] = "Paid Late")
+
+Occupied Units = CALCULATE(DISTINCTCOUNT(DimUnit[unit_id]), DimUnit[occupancy_status] = "Occupied")
+
+Total Units = DISTINCTCOUNT(DimUnit[unit_id])
+
+Occupancy Rate = DIVIDE([Occupied Units], [Total Units])
+
+Arrears 90 Plus = CALCULATE([Total Arrears], FactRentLedger[aging_bucket] = "90+ Days")
+
+Arrears Share = DIVIDE([Total Arrears], CALCULATE([Total Arrears], ALL(FactRentLedger[aging_bucket])))
+
+High Risk Tenants = COUNTROWS(FILTER(SUMMARIZE(FactRentLedger, FactRentLedger[tenant_id], "TenantBalance", [Total Arrears], "OldestDays", MAX(FactRentLedger[days_late])), [TenantBalance] > 3500 || [OldestDays] > 60))

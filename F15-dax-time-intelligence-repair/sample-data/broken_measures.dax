@@ -1,0 +1,8 @@
+// DELIBERATELY BROKEN — diagnostic evidence only
+Revenue = SUM ( Sales[Revenue] )
+Revenue YTD Broken = TOTALYTD ( [Revenue], Sales[OrderDate] )
+Revenue PY Broken = CALCULATE ( [Revenue], SAMEPERIODLASTYEAR ( Sales[OrderDate] ) )
+Revenue PM Broken = CALCULATE ( [Revenue], DATEADD ( Sales[OrderDate], -1, MONTH ) )
+Revenue MoM % Broken = ([Revenue] - [Revenue PM Broken]) / [Revenue PM Broken]
+Rolling 12M Broken = CALCULATE ( [Revenue], DATESINPERIOD ( Sales[OrderDate], MAX ( Sales[OrderDate] ), -12, MONTH ) )
+// Problems: fact-date input, non-contiguous dates, unsafe division, and no governed calendar.

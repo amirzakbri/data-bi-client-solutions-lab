@@ -1,0 +1,7 @@
+Metric,Before,After,ImprovementPct
+Estimated in-memory footprint,110019508,10722099,90.3
+Columns loaded,28,30,
+Fact rows,120000,120000,0.0
+Bidirectional relationships,4,0,100.0
+Calculated columns in fact,7,1,85.7
+Report visuals,27,12,55.6

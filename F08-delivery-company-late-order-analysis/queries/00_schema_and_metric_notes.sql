@@ -1,0 +1,5 @@
+-- F08 Delivery Operations metric contract (SQLite)
+-- Shipment grain: one row per shipment. Tracking events and attempts are one-to-many children.
+-- SLA population: delivered shipments only unless explicitly labelled open/failed.
+-- On-time: delivered_at <= promised_at. Late hours: max(julianday(delivered_at)-julianday(promised_at),0)*24.
+-- Severe late: more than 24 hours after promise. First-attempt success uses attempt_number=1.

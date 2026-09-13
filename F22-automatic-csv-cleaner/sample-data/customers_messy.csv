@@ -1,0 +1,551 @@
+Customer ID,Full Name,E-mail,Signup Date,Country,Account Status,Lifetime Value
+c-0001,Mia Brown,Mia.Brown1@example.com,25-Jan-2025,United States,lead,4493.87
+c-0002,Noah Wilson,Noah.Wilson2@example.com,2025-03-23,USA,Inactive,1226.31
+c-0003,Lucas Kaya,Lucas.Kaya3@example.com,20-Jul-2026,Türkiye,lead,3304.42
+c-0004,Ada Clark,Ada.Clark4@example.com,22-Jan-2025,Türkiye,ACTIVE,"$1,202.60"
+c-0005, mia  MARTIN ,Mia.Martin5@example.com,28-Jun-2026,FR,active,3487.31
+c-0006,Ethan Clark, Ethan.Clark6@Example.COM ,09/12/2025,Türkiye,Inactive,846.34
+ C- 0007 ,Emma Kaya,Emma.Kaya7@example.com,14/10/2025,United States,IN-ACTIVE,3010.4
+c-0008,Ada Wilson,Ada.Wilson8@example.com,2026-06-29,u.k.,prospect,"$1,898.85"
+c-0009,Sofia Taylor,Sofia.Taylor9@example.com,24/02/2026,United States,Inactive,2981.28
+c-0010, lucas  WILSON ,Lucas.Wilson10@example.com,11-Feb-2026,FR,prospect,132.91
+c-0011,Emma Taylor,Emma.Taylor11@example.com,24/06/2026,Germany,IN-ACTIVE,3413.81
+c-0012,Noah Martin, Noah.Martin12@Example.COM ,31/03/2026,Türkiye,active,$461.60
+c-0013,Liam Taylor,Liam.Taylor13@example.com,02/09/2025,DE,ACTIVE,50.27
+ C- 0014 ,Mia Stone,Mia.Stone14@example.com,14/07/2026,Turkey,Inactive,1584.14
+c-0015, liam  MILLER ,Liam.Miller15@example.com,2025-02-07,France,lead,2418.83
+c-0016,Liam Martin,Liam.Martin16@example.com,2025-02-23,United States,prospect,"$1,860.14"
+c-0017,Oliver Stone,Oliver.Stone17@example.com,03/05/2025,United States,prospect,3190.2
+c-0018,Sofia Miller, Sofia.Miller18@Example.COM ,03-May-2026,Turkey,active,315.07
+c-0019,Lucas Demir,Lucas.Demir19@example.com,2025-05-03,Turkey,lead,857.0
+c-0020, noah  WILSON ,Noah.Wilson20@example.com,2025-04-10,FR,IN-ACTIVE,"$2,837.99"
+ C- 0021 ,Sofia Kaya,Sofia.Kaya21@example.com,2025-02-12,Turkey,lead,4352.76
+c-0022,Noah Brown,Noah.Brown22@example.com,02/07/2026,us,ACTIVE,2200.13
+c-0023,Ada Demir,Ada.Demir23@example.com,10-Apr-2025,UK,IN-ACTIVE,2125.42
+c-0024,Ethan Martin, Ethan.Martin24@Example.COM ,2026-06-22,Türkiye,prospect,$191.50
+c-0025, ada  BROWN ,Ada.Brown25@example.com,28/07/2025,USA,lead,2864.92
+c-0026,Leyla Miller,Leyla.Miller26@example.com,2025-09-17,us,Inactive,4004.04
+c-0027,Noah Clark,Noah.Clark27@example.com,2025-06-11,France,Inactive,4004.55
+ C- 0028 ,Ada Stone,Ada.Stone28@example.com,2026-05-26,USA,IN-ACTIVE,"$2,724.42"
+c-0029,Ada Demir,Ada.Demir29@example.com,2025-01-05,DE,lead,2851.32
+c-0030, liam  MILLER , Liam.Miller30@Example.COM ,02/07/2026,Turkey,Inactive,646.51
+c-0031,Ada Yilmaz,Ada.Yilmaz31@example.com,2025-04-20,FR,prospect,3810.39
+c-0032,Ethan Demir,Ethan.Demir32@example.com,10/06/2026,u.k.,prospect,$863.80
+c-0033,Mia Wilson,Mia.Wilson33@example.com,07/06/2026,United States,prospect,3141.05
+c-0034,Liam Miller,Liam.Miller34@example.com,20/02/2026,us,IN-ACTIVE,3936.43
+ C- 0035 , emma  BROWN ,Emma.Brown35@example.com,2025-06-15,Türkiye,Inactive,246.72
+c-0036,Liam Stone, Liam.Stone36@Example.COM ,15-Jun-2026,United States,ACTIVE,"$4,363.39"
+c-0037,Emma Wilson,Emma.Wilson37@example.com,01-Jan-2025,USA,active,1458.26
+c-0038,Emma Stone,Emma.Stone38@example.com,2025-03-08,United States,Inactive,2575.71
+c-0039,Emma Demir,Emma.Demir39@example.com,17/11/2025,Germany,lead,2596.03
+c-0040, emma  WILSON ,Emma.Wilson40@example.com,26-Nov-2025,USA,ACTIVE,"$4,239.22"
+c-0041,Emma Wilson,Emma.Wilson41@example.com,2025-10-16,USA,active,1088.38
+ C- 0042 ,Ethan Demir, Ethan.Demir42@Example.COM ,25/01/2025,DE,Inactive,525.07
+c-0043,Mia Kaya,Mia.Kaya43@example.com,04/05/2026,Turkey,ACTIVE,1878.52
+c-0044,Leyla Demir,Leyla.Demir44@example.com,29-Aug-2025,FR,Inactive,"$1,038.67"
+c-0045, ada  MILLER ,Ada.Miller45@example.com,14-Oct-2025,us,ACTIVE,2452.02
+c-0046,Liam Demir,Liam.Demir46@example.com,2026-07-24,u.k.,ACTIVE,2012.48
+c-0047,Mia Martin,Mia.Martin47@example.com,08/05/2026,Germany,IN-ACTIVE,3610.21
+c-0048,Noah Wilson, Noah.Wilson48@Example.COM ,31/07/2025,France,prospect,$612.34
+ C- 0049 ,Oliver Yilmaz,Oliver.Yilmaz49@example.com,2026-07-06,DE,lead,1787.9
+c-0050, oliver  WILSON ,Oliver.Wilson50@example.com,02/08/2025,us,active,3101.15
+c-0051,Mia Miller,Mia.Miller51@example.com,2025-03-23,France,Inactive,2544.02
+c-0052,Mia Stone,Mia.Stone52@example.com,15-Jun-2025,Germany,ACTIVE,"$3,549.51"
+c-0053,Lucas Brown,Lucas.Brown53@example.com,12-Dec-2025,Germany,lead,1803.36
+c-0054,Mia Yilmaz, Mia.Yilmaz54@Example.COM ,08-Apr-2026,Türkiye,Inactive,3599.83
+c-0055, liam  BROWN ,Liam.Brown55@example.com,19-Aug-2025,France,Inactive,2394.38
+ C- 0056 ,Lucas Stone,Lucas.Stone56@example.com,03-Sep-2025,Turkey,IN-ACTIVE,"$2,501.54"
+c-0057,Ethan Martin,Ethan.Martin57@example.com,22/08/2025,United States,lead,1882.44
+c-0058,Mia Stone,Mia.Stone58@example.com,18-Jul-2026,France,active,2277.85
+c-0059,Mia Taylor,Mia.Taylor59@example.com,27/08/2025,Turkey,prospect,603.52
+c-0060, sofia  STONE , Sofia.Stone60@Example.COM ,2025-01-10,Turkey,ACTIVE,"$1,997.60"
+c-0061,Oliver Kaya,Oliver.Kaya61@example.com,05-Jun-2026,us,Inactive,739.25
+c-0062,Ethan Martin,Ethan.Martin62@example.com,2026-05-03,us,lead,807.03
+ C- 0063 ,Emma Demir,Emma.Demir63@example.com,01-Apr-2026,FR,Inactive,2039.39
+c-0064,Liam Kaya,Liam.Kaya64@example.com,21-Feb-2025,us,active,$571.70
+c-0065, emma  TAYLOR ,Emma.Taylor65@example.com,27-Feb-2026,Türkiye,lead,4295.62
+c-0066,Noah Brown, Noah.Brown66@Example.COM ,22/02/2026,Turkey,prospect,208.89
+c-0067,Emma Demir,Emma.Demir67@example.com,31-May-2025,Türkiye,prospect,4076.28
+c-0068,Noah Stone,Noah.Stone68@example.com,25-Dec-2025,DE,active,$346.99
+c-0069,Oliver Yilmaz,Oliver.Yilmaz69@example.com,2026-03-11,USA,IN-ACTIVE,1635.23
+ C- 0070 , leyla  BROWN ,Leyla.Brown70@example.com,2025-10-23,United States,Inactive,2765.9
+c-0071,Noah Stone,Noah.Stone71@example.com,2026-04-21,United States,IN-ACTIVE,1433.64
+c-0072,Liam Kaya, Liam.Kaya72@Example.COM ,2025-03-07,UK,Inactive,"$4,465.60"
+c-0073,Leyla Miller,Leyla.Miller73@example.com,14/10/2025,Turkey,lead,2743.32
+c-0074,Sofia Wilson,Sofia.Wilson74@example.com,2025-11-14,UK,ACTIVE,2520.01
+c-0075, liam  YILMAZ ,Liam.Yilmaz75@example.com,2026-02-04,u.k.,Inactive,354.66
+c-0076,Ada Miller,Ada.Miller76@example.com,23-Jun-2026,DE,ACTIVE,"$3,981.58"
+ C- 0077 ,Ada Brown,Ada.Brown77@example.com,03-Jun-2025,USA,IN-ACTIVE,1411.33
+c-0078,Noah Taylor, Noah.Taylor78@Example.COM ,2025-12-25,UK,Inactive,519.73
+c-0079,Leyla Kaya,Leyla.Kaya79@example.com,03/06/2025,UK,prospect,2966.1
+c-0080, oliver  YILMAZ ,Oliver.Yilmaz80@example.com,28/04/2025,United States,active,$629.87
+c-0081,Sofia Brown,Sofia.Brown81@example.com,30/12/2025,u.k.,prospect,3186.62
+c-0082,Noah Demir,Noah.Demir82@example.com,07-Feb-2026,UK,lead,4097.36
+c-0083,Liam Kaya,Liam.Kaya83@example.com,09/06/2025,us,lead,1154.48
+ C- 0084 ,Liam Stone, Liam.Stone84@Example.COM ,14-May-2026,us,IN-ACTIVE,"$1,333.93"
+c-0085, noah  STONE ,Noah.Stone85@example.com,22-Jan-2025,FR,IN-ACTIVE,2861.21
+c-0086,Oliver Yilmaz,Oliver.Yilmaz86@example.com,15-Jun-2026,Germany,ACTIVE,630.64
+c-0087,Mia Wilson,Mia.Wilson87@example.com,2025-09-28,us,active,1448.07
+c-0088,Emma Miller,Emma.Miller88@example.com,30-Aug-2025,Turkey,ACTIVE,"$2,286.93"
+c-0089,Mia Demir,Mia.Demir89@example.com,26-Nov-2025,USA,prospect,4382.9
+c-0090, noah  CLARK , Noah.Clark90@Example.COM ,2025-01-26,Germany,IN-ACTIVE,1392.51
+ C- 0091 ,Leyla Martin,Leyla.Martin91@example.com,30/12/2025,Germany,active,2329.0
+c-0092,Ethan Martin,Ethan.Martin92@example.com,26-May-2026,Türkiye,ACTIVE,"$3,928.65"
+c-0093,Liam Clark,Liam.Clark93@example.com,2025-05-22,USA,prospect,4463.26
+c-0094,Leyla Wilson,Leyla.Wilson94@example.com,30/09/2025,u.k.,Inactive,3258.33
+c-0095, ethan  DEMIR ,Ethan.Demir95@example.com,16/03/2025,Turkey,Inactive,3332.73
+c-0096,Leyla Taylor, Leyla.Taylor96@Example.COM ,26-Jun-2025,United States,ACTIVE,$458.39
+c-0097,Mia Brown,Mia.Brown97@example.com,18-Mar-2026,Turkey,IN-ACTIVE,419.37
+ C- 0098 ,Oliver Miller,Oliver.Miller98@example.com,21/06/2026,Turkey,IN-ACTIVE,410.78
+c-0099,Noah Miller,Noah.Miller99@example.com,02-Nov-2025,United States,prospect,1266.36
+c-0100, lucas  MILLER ,Lucas.Miller100@example.com,06/07/2026,FR,prospect,"$4,438.38"
+c-0101,Leyla Yilmaz,Leyla.Yilmaz101@example.com,2026-03-06,Turkey,IN-ACTIVE,3442.81
+c-0102,Noah Miller, Noah.Miller102@Example.COM ,12-Nov-2025,us,Inactive,3966.05
+c-0103,Ada Wilson,Ada.Wilson103@example.com,06/02/2025,u.k.,IN-ACTIVE,3084.68
+c-0104,Ada Brown,Ada.Brown104@example.com,19/02/2026,USA,IN-ACTIVE,"$2,111.77"
+ C- 0105 , mia  BROWN ,Mia.Brown105@example.com,2026-01-01,u.k.,active,252.64
+c-0106,Ethan Martin,Ethan.Martin106@example.com,2025-01-28,Türkiye,prospect,3406.2
+c-0107,Emma Kaya,Emma.Kaya107@example.com,13-May-2025,Germany,active,363.92
+c-0108,Emma Demir, Emma.Demir108@Example.COM ,09/02/2025,us,lead,"$1,508.07"
+c-0109,Ada Martin,Ada.Martin109@example.com,20-Jul-2025,Germany,prospect,2331.5
+c-0110, liam  MARTIN ,Liam.Martin110@example.com,17/06/2025,u.k.,IN-ACTIVE,1285.41
+c-0111,Ethan Stone,Ethan.Stone111@example.com,22/07/2026,UK,Inactive,1608.63
+ C- 0112 ,Ethan Clark,Ethan.Clark112@example.com,13-Feb-2026,u.k.,ACTIVE,"$1,237.20"
+c-0113,Ada Demir,Ada.Demir113@example.com,22-Oct-2025,United States,lead,364.43
+c-0114,Lucas Kaya, Lucas.Kaya114@Example.COM ,18/02/2026,u.k.,prospect,2368.45
+c-0115, emma  MARTIN ,Emma.Martin115@example.com,2026-05-03,Germany,IN-ACTIVE,2954.81
+c-0116,Liam Demir,Liam.Demir116@example.com,2025-02-04,USA,active,"$2,273.81"
+c-0117,Lucas Taylor,Lucas.Taylor117@example.com,26/08/2025,USA,IN-ACTIVE,432.25
+c-0118,Sofia Demir,Sofia.Demir118@example.com,2026-03-06,FR,Inactive,4441.36
+ C- 0119 ,Oliver Demir,Oliver.Demir119@example.com,07/03/2025,u.k.,lead,3296.46
+c-0120, ada  YILMAZ , Ada.Yilmaz120@Example.COM ,04/11/2025,FR,prospect,$219.13
+c-0121,Oliver Martin,Oliver.Martin121@example.com,05-Dec-2025,u.k.,lead,2872.62
+c-0122,Emma Kaya,Emma.Kaya122@example.com,19-May-2025,FR,lead,902.06
+c-0123,Lucas Brown,Lucas.Brown123@example.com,2026-05-07,Türkiye,active,2199.47
+c-0124,Lucas Yilmaz,Lucas.Yilmaz124@example.com,2026-03-16,us,ACTIVE,"$1,452.86"
+c-0125, oliver  YILMAZ ,Oliver.Yilmaz125@example.com,03-Nov-2025,France,Inactive,2020.73
+ C- 0126 ,Emma Taylor, Emma.Taylor126@Example.COM ,26/08/2025,DE,active,759.68
+c-0127,Leyla Yilmaz,Leyla.Yilmaz127@example.com,27/08/2025,FR,active,2185.64
+c-0128,Lucas Demir,Lucas.Demir128@example.com,28-Feb-2026,us,ACTIVE,"$3,750.85"
+c-0129,Noah Brown,Noah.Brown129@example.com,01-Dec-2025,Türkiye,ACTIVE,1968.3
+c-0130, lucas  YILMAZ ,Lucas.Yilmaz130@example.com,2026-07-02,DE,active,3862.83
+c-0131,Sofia Taylor,Sofia.Taylor131@example.com,10/09/2025,Turkey,active,875.67
+c-0132,Mia Kaya, Mia.Kaya132@Example.COM ,2025-02-14,France,prospect,"$1,711.28"
+ C- 0133 ,Emma Martin,Emma.Martin133@example.com,2026-06-27,USA,IN-ACTIVE,1732.32
+c-0134,Ethan Miller,Ethan.Miller134@example.com,11-Jan-2026,USA,IN-ACTIVE,1779.0
+c-0135, emma  KAYA ,Emma.Kaya135@example.com,01-Jul-2025,Germany,prospect,1168.37
+c-0136,Ethan Wilson,Ethan.Wilson136@example.com,17-May-2025,DE,active,"$2,908.25"
+c-0137,Noah Miller,Noah.Miller137@example.com,02/02/2026,UK,prospect,2240.35
+c-0138,Oliver Taylor, Oliver.Taylor138@Example.COM ,2025-07-30,United States,ACTIVE,4174.19
+c-0139,Lucas Clark,Lucas.Clark139@example.com,2025-06-10,Turkey,active,1199.47
+ C- 0140 , ethan  STONE ,Ethan.Stone140@example.com,16-Jan-2026,France,active,$546.33
+c-0141,Liam Miller,Liam.Miller141@example.com,29-Jul-2025,us,ACTIVE,3364.9
+c-0142,Sofia Martin,Sofia.Martin142@example.com,26-Oct-2025,us,prospect,24.05
+c-0143,Noah Brown,Noah.Brown143@example.com,07/09/2025,France,lead,2538.95
+c-0144,Mia Clark, Mia.Clark144@Example.COM ,09-Jun-2025,DE,active,"$3,842.94"
+c-0145, emma  MARTIN ,Emma.Martin145@example.com,02-Jul-2026,France,active,58.95
+c-0146,Oliver Demir,Oliver.Demir146@example.com,2025-06-01,France,active,617.68
+ C- 0147 ,Ethan Stone,Ethan.Stone147@example.com,29/09/2025,France,IN-ACTIVE,2049.08
+c-0148,Lucas Stone,Lucas.Stone148@example.com,2025-02-03,DE,prospect,$116.06
+c-0149,Ethan Wilson,Ethan.Wilson149@example.com,07/09/2025,France,ACTIVE,2856.31
+c-0150, mia  DEMIR , Mia.Demir150@Example.COM ,10/03/2025,DE,IN-ACTIVE,760.18
+c-0151,Emma Miller,Emma.Miller151@example.com,06/06/2026,UK,ACTIVE,1532.95
+c-0152,Mia Yilmaz,Mia.Yilmaz152@example.com,2025-01-24,UK,ACTIVE,"$1,470.23"
+c-0153,Ada Brown,Ada.Brown153@example.com,12/01/2025,FR,active,2309.89
+ C- 0154 ,Ada Miller,Ada.Miller154@example.com,25/07/2025,United States,lead,3571.72
+c-0155, sofia  STONE ,Sofia.Stone155@example.com,21/09/2025,DE,ACTIVE,1671.92
+c-0156,Noah Stone, Noah.Stone156@Example.COM ,22/02/2025,u.k.,ACTIVE,"$1,957.76"
+c-0157,Liam Kaya,Liam.Kaya157@example.com,14-Mar-2025,Germany,active,3156.85
+c-0158,Emma Wilson,Emma.Wilson158@example.com,30/10/2025,u.k.,ACTIVE,3083.04
+c-0159,Lucas Taylor,Lucas.Taylor159@example.com,02-Jul-2026,us,active,3246.61
+c-0160, emma  STONE ,Emma.Stone160@example.com,10/05/2025,France,ACTIVE,"$2,378.17"
+ C- 0161 ,Ada Martin,Ada.Martin161@example.com,2026-06-29,Germany,IN-ACTIVE,802.7
+c-0162,Lucas Miller, Lucas.Miller162@Example.COM ,20-May-2025,DE,ACTIVE,1354.44
+c-0163,Lucas Brown,Lucas.Brown163@example.com,2026-05-18,Turkey,lead,2215.4
+c-0164,Noah Kaya,Noah.Kaya164@example.com,2025-01-22,France,Inactive,"$1,342.80"
+c-0165, ada  BROWN ,Ada.Brown165@example.com,09/06/2025,DE,ACTIVE,1420.17
+c-0166,Oliver Martin,Oliver.Martin166@example.com,09/03/2026,DE,active,170.92
+c-0167,Emma Brown,Emma.Brown167@example.com,18/06/2026,Turkey,active,3335.87
+ C- 0168 ,Noah Clark, Noah.Clark168@Example.COM ,03/03/2026,United States,ACTIVE,"$1,802.98"
+c-0169,Leyla Miller,Leyla.Miller169@example.com,2025-02-27,u.k.,IN-ACTIVE,146.38
+c-0170, mia  TAYLOR ,Mia.Taylor170@example.com,06-Mar-2025,Türkiye,prospect,93.03
+c-0171,Oliver Taylor,Oliver.Taylor171@example.com,13-Apr-2026,United States,active,1029.73
+c-0172,Ethan Wilson,Ethan.Wilson172@example.com,18-Mar-2026,us,IN-ACTIVE,$299.98
+c-0173,Liam Miller,Liam.Miller173@example.com,01-Feb-2025,us,active,1707.54
+c-0174,Ada Kaya, Ada.Kaya174@Example.COM ,2026-03-17,France,lead,395.49
+ C- 0175 , liam  TAYLOR ,Liam.Taylor175@example.com,04/04/2025,Turkey,IN-ACTIVE,1073.85
+c-0176,Emma Wilson,Emma.Wilson176@example.com,18-Oct-2025,Germany,IN-ACTIVE,"$3,065.47"
+c-0177,Leyla Miller,Leyla.Miller177@example.com,2025-11-18,UK,IN-ACTIVE,1862.14
+c-0178,Emma Brown,Emma.Brown178@example.com,2026-03-19,u.k.,IN-ACTIVE,4284.91
+c-0179,Leyla Kaya,Leyla.Kaya179@example.com,2026-07-15,u.k.,Inactive,2848.34
+c-0180, leyla  MARTIN , Leyla.Martin180@Example.COM ,13-Jul-2025,UK,IN-ACTIVE,"$1,187.37"
+c-0181,Mia Kaya,Mia.Kaya181@example.com,2025-09-12,DE,ACTIVE,3896.74
+ C- 0182 ,Sofia Kaya,Sofia.Kaya182@example.com,04/12/2025,us,prospect,795.13
+c-0183,Noah Wilson,Noah.Wilson183@example.com,16-Apr-2025,u.k.,active,148.8
+c-0184,Lucas Brown,Lucas.Brown184@example.com,19-Mar-2026,France,ACTIVE,"$1,322.39"
+c-0185, ada  KAYA ,Ada.Kaya185@example.com,11/06/2025,Türkiye,lead,32.91
+c-0186,Ada Taylor, Ada.Taylor186@Example.COM ,13-Mar-2026,USA,prospect,2255.33
+c-0187,Mia Demir,Mia.Demir187@example.com,21/09/2025,us,IN-ACTIVE,2686.44
+c-0188,Ethan Kaya,Ethan.Kaya188@example.com,2025-05-17,Türkiye,Inactive,$581.36
+ C- 0189 ,Noah Stone,Noah.Stone189@example.com,19/02/2026,FR,IN-ACTIVE,1032.97
+c-0190, lucas  YILMAZ ,Lucas.Yilmaz190@example.com,09/03/2026,France,Inactive,1218.56
+c-0191,Liam Martin,Liam.Martin191@example.com,2026-03-16,Turkey,prospect,4121.26
+c-0192,Oliver Miller, Oliver.Miller192@Example.COM ,01-Jul-2025,Türkiye,Inactive,"$2,466.91"
+c-0193,Ada Clark,Ada.Clark193@example.com,14/07/2025,Türkiye,lead,1394.31
+c-0194,Lucas Clark,Lucas.Clark194@example.com,22/01/2026,DE,lead,1199.7
+c-0195, sofia  DEMIR ,Sofia.Demir195@example.com,26-May-2025,DE,IN-ACTIVE,2421.78
+ C- 0196 ,Noah Taylor,Noah.Taylor196@example.com,28-Dec-2025,United States,lead,"$3,431.44"
+c-0197,Ada Demir,Ada.Demir197@example.com,2026-05-29,USA,Inactive,106.98
+c-0198,Noah Brown, Noah.Brown198@Example.COM ,19-May-2026,us,prospect,3217.05
+c-0199,Lucas Martin,Lucas.Martin199@example.com,12/03/2026,France,lead,1169.87
+c-0200, noah  YILMAZ ,Noah.Yilmaz200@example.com,02-Mar-2026,France,lead,"$3,284.72"
+c-0201,Ada Stone,Ada.Stone201@example.com,2026-01-12,Germany,Inactive,1964.06
+c-0202,Liam Brown,Liam.Brown202@example.com,13-May-2026,FR,Inactive,1861.5
+ C- 0203 ,Noah Yilmaz,Noah.Yilmaz203@example.com,01-Jun-2025,United States,ACTIVE,3202.17
+c-0204,Lucas Yilmaz, Lucas.Yilmaz204@Example.COM ,21/10/2025,DE,Inactive,$166.63
+c-0205, ethan  WILSON ,Ethan.Wilson205@example.com,2026-01-26,FR,Inactive,2516.29
+c-0206,Oliver Stone,Oliver.Stone206@example.com,21-Jun-2025,FR,ACTIVE,686.7
+c-0207,Sofia Martin,Sofia.Martin207@example.com,2025-11-22,Turkey,active,3141.18
+c-0208,Leyla Demir,Leyla.Demir208@example.com,10/02/2025,United States,IN-ACTIVE,$908.73
+c-0209,Ethan Stone,Ethan.Stone209@example.com,2025-07-18,us,prospect,1308.76
+ C- 0210 , leyla  CLARK , Leyla.Clark210@Example.COM ,04-Jul-2026,USA,active,3137.49
+c-0211,Ada Taylor,Ada.Taylor211@example.com,07-May-2026,DE,active,3435.06
+c-0212,Ada Martin,Ada.Martin212@example.com,2026-04-29,DE,lead,"$1,057.46"
+c-0213,Ethan Clark,Ethan.Clark213@example.com,2025-08-07,USA,prospect,4228.8
+c-0214,Mia Wilson,Mia.Wilson214@example.com,2025-08-27,USA,IN-ACTIVE,2770.39
+c-0215, ada  MILLER ,Ada.Miller215@example.com,2025-03-31,USA,active,4039.81
+c-0216,Ethan Clark, Ethan.Clark216@Example.COM ,24-Jan-2025,United States,IN-ACTIVE,$815.73
+ C- 0217 ,Emma Wilson,Emma.Wilson217@example.com,2026-03-22,us,active,3403.44
+c-0218,Emma Demir,Emma.Demir218@example.com,2025-06-28,Germany,ACTIVE,3899.56
+c-0219,Ethan Taylor,Ethan.Taylor219@example.com,29/06/2026,FR,Inactive,408.7
+c-0220, mia  YILMAZ ,Mia.Yilmaz220@example.com,02-Dec-2025,FR,lead,"$4,168.38"
+c-0221,Leyla Martin,Leyla.Martin221@example.com,01/04/2026,Germany,Inactive,2166.94
+c-0222,Sofia Yilmaz, Sofia.Yilmaz222@Example.COM ,06-Jun-2025,Türkiye,lead,2446.25
+c-0223,Emma Wilson,Emma.Wilson223@example.com,19-Jan-2026,France,active,2977.64
+ C- 0224 ,Oliver Yilmaz,Oliver.Yilmaz224@example.com,02/10/2025,DE,lead,$543.86
+c-0225, noah  STONE ,Noah.Stone225@example.com,05/05/2026,Turkey,active,3110.69
+c-0226,Noah Martin,Noah.Martin226@example.com,2026-03-08,USA,ACTIVE,975.91
+c-0227,Noah Yilmaz,Noah.Yilmaz227@example.com,15/02/2025,FR,IN-ACTIVE,3061.59
+c-0228,Ethan Miller, Ethan.Miller228@Example.COM ,10-Oct-2025,France,Inactive,"$1,315.35"
+c-0229,Noah Taylor,Noah.Taylor229@example.com,29/10/2025,Türkiye,Inactive,22.57
+c-0230, oliver  BROWN ,Oliver.Brown230@example.com,2026-01-21,Germany,IN-ACTIVE,3310.8
+ C- 0231 ,Mia Yilmaz,Mia.Yilmaz231@example.com,02-Aug-2025,Germany,IN-ACTIVE,3677.34
+c-0232,Sofia Wilson,Sofia.Wilson232@example.com,2026-04-10,Turkey,IN-ACTIVE,"$2,740.98"
+c-0233,Leyla Demir,Leyla.Demir233@example.com,29-Dec-2025,UK,Inactive,3134.37
+c-0234,Ada Demir, Ada.Demir234@Example.COM ,2026-05-27,United States,IN-ACTIVE,2217.91
+c-0235, mia  MARTIN ,Mia.Martin235@example.com,2025-03-11,u.k.,lead,1863.62
+c-0236,Sofia Demir,Sofia.Demir236@example.com,2025-08-22,Turkey,IN-ACTIVE,"$2,493.10"
+c-0237,Ada Demir,Ada.Demir237@example.com,01-Nov-2025,u.k.,prospect,3376.78
+ C- 0238 ,Oliver Yilmaz,Oliver.Yilmaz238@example.com,17-May-2026,u.k.,prospect,1735.2
+c-0239,Ada Stone,Ada.Stone239@example.com,04-Feb-2025,USA,lead,3727.97
+c-0240, ada  KAYA , Ada.Kaya240@Example.COM ,29-Sep-2025,United States,lead,$298.59
+c-0241,Liam Wilson,Liam.Wilson241@example.com,17/07/2025,USA,prospect,219.21
+c-0242,Emma Stone,Emma.Stone242@example.com,2025-05-07,DE,Inactive,3985.93
+c-0243,Mia Kaya,Mia.Kaya243@example.com,2026-04-20,FR,ACTIVE,1095.0
+c-0244,Ada Wilson,Ada.Wilson244@example.com,2025-12-02,u.k.,ACTIVE,"$3,472.58"
+ C- 0245 , liam  CLARK ,Liam.Clark245@example.com,2026-04-14,Türkiye,IN-ACTIVE,3134.48
+c-0246,Mia Wilson, Mia.Wilson246@Example.COM ,29-Mar-2025,us,lead,1452.03
+c-0247,Lucas Martin,Lucas.Martin247@example.com,26-Feb-2026,UK,lead,619.03
+c-0248,Oliver Demir,Oliver.Demir248@example.com,2026-04-15,us,ACTIVE,"$2,803.70"
+c-0249,Leyla Wilson,Leyla.Wilson249@example.com,21-Mar-2026,United States,lead,3964.7
+c-0250, mia  STONE ,Mia.Stone250@example.com,02-Mar-2026,Türkiye,prospect,3413.41
+c-0251,Lucas Clark,Lucas.Clark251@example.com,2025-01-27,us,prospect,3707.52
+ C- 0252 ,Noah Taylor, Noah.Taylor252@Example.COM ,2025-02-15,u.k.,prospect,"$4,379.55"
+c-0253,Leyla Taylor,Leyla.Taylor253@example.com,2025-03-26,FR,prospect,732.58
+c-0254,Leyla Clark,Leyla.Clark254@example.com,2025-01-17,United States,prospect,2108.54
+c-0255, noah  CLARK ,Noah.Clark255@example.com,13-Jan-2026,u.k.,ACTIVE,2500.23
+c-0256,Leyla Kaya,Leyla.Kaya256@example.com,2025-06-30,u.k.,IN-ACTIVE,"$1,030.96"
+c-0257,Lucas Taylor,Lucas.Taylor257@example.com,23/03/2025,USA,ACTIVE,3990.03
+c-0258,Lucas Stone, Lucas.Stone258@Example.COM ,2026-01-27,FR,Inactive,2012.18
+ C- 0259 ,Sofia Demir,Sofia.Demir259@example.com,19/12/2025,USA,lead,1004.54
+c-0260, lucas  KAYA ,Lucas.Kaya260@example.com,2025-11-09,USA,prospect,"$4,034.95"
+c-0261,Emma Wilson,Emma.Wilson261@example.com,16/02/2026,DE,lead,1525.94
+c-0262,Noah Stone,Noah.Stone262@example.com,09-Mar-2025,France,lead,44.97
+c-0263,Sofia Wilson,Sofia.Wilson263@example.com,2026-06-30,FR,active,2065.26
+c-0264,Lucas Kaya, Lucas.Kaya264@Example.COM ,05-Aug-2025,USA,ACTIVE,"$3,300.57"
+c-0265, mia  STONE ,Mia.Stone265@example.com,18/05/2026,United States,prospect,3152.1
+ C- 0266 ,Emma Martin,Emma.Martin266@example.com,14-May-2025,DE,Inactive,893.73
+c-0267,Ada Miller,Ada.Miller267@example.com,2025-04-26,u.k.,prospect,3385.55
+c-0268,Emma Clark,Emma.Clark268@example.com,2025-04-18,us,ACTIVE,"$3,129.46"
+c-0269,Lucas Clark,Lucas.Clark269@example.com,04-Mar-2026,Türkiye,active,392.94
+c-0270, emma  KAYA , Emma.Kaya270@Example.COM ,16/04/2026,France,Inactive,2008.71
+c-0271,Lucas Stone,Lucas.Stone271@example.com,18-Jun-2026,USA,prospect,2005.05
+c-0272,Oliver Clark,Oliver.Clark272@example.com,21-Jan-2026,us,ACTIVE,$460.69
+ C- 0273 ,Oliver Stone,Oliver.Stone273@example.com,15/05/2026,United States,ACTIVE,1356.06
+c-0274,Noah Miller,Noah.Miller274@example.com,03-Aug-2025,UK,prospect,3352.97
+c-0275, ethan  MARTIN ,Ethan.Martin275@example.com,13/04/2026,DE,Inactive,4320.28
+c-0276,Lucas Stone, Lucas.Stone276@Example.COM ,2025-07-27,u.k.,ACTIVE,"$2,282.01"
+c-0277,Ada Demir,Ada.Demir277@example.com,2025-10-22,Germany,IN-ACTIVE,4412.71
+c-0278,Ethan Kaya,Ethan.Kaya278@example.com,20/05/2025,DE,lead,99.19
+c-0279,Sofia Taylor,Sofia.Taylor279@example.com,23/08/2025,Türkiye,ACTIVE,4328.71
+ C- 0280 , ethan  STONE ,Ethan.Stone280@example.com,05-Mar-2026,France,Inactive,"$2,111.80"
+c-0281,Mia Stone,Mia.Stone281@example.com,2025-03-08,Germany,Inactive,669.48
+c-0282,Liam Taylor, Liam.Taylor282@Example.COM ,21/10/2025,France,lead,204.28
+c-0283,Liam Taylor,Liam.Taylor283@example.com,2025-02-20,Turkey,ACTIVE,3707.94
+c-0284,Emma Brown,Emma.Brown284@example.com,2025-06-26,USA,prospect,"$4,103.27"
+c-0285, mia  YILMAZ ,Mia.Yilmaz285@example.com,26/05/2025,USA,Inactive,2020.93
+c-0286,Emma Brown,Emma.Brown286@example.com,25/02/2025,UK,lead,2223.87
+ C- 0287 ,Liam Yilmaz,Liam.Yilmaz287@example.com,02-Sep-2025,u.k.,IN-ACTIVE,706.27
+c-0288,Ada Miller, Ada.Miller288@Example.COM ,2025-10-05,us,prospect,"$3,067.79"
+c-0289,Noah Clark,Noah.Clark289@example.com,04-Jul-2025,United States,active,701.38
+c-0290, noah  YILMAZ ,Noah.Yilmaz290@example.com,12-Jul-2026,Türkiye,Inactive,2686.73
+c-0291,Ada Brown,Ada.Brown291@example.com,27-Mar-2026,FR,Inactive,3072.62
+c-0292,Emma Martin,Emma.Martin292@example.com,20/03/2026,us,lead,"$1,901.55"
+c-0293,Ada Stone,Ada.Stone293@example.com,2026-05-24,USA,ACTIVE,4121.47
+ C- 0294 ,Ethan Brown, Ethan.Brown294@Example.COM ,22-Jan-2026,Türkiye,Inactive,180.4
+c-0295, noah  DEMIR ,Noah.Demir295@example.com,06/03/2026,United States,lead,1151.86
+c-0296,Sofia Clark,Sofia.Clark296@example.com,26-Jun-2026,USA,active,"$3,510.53"
+c-0297,Lucas Stone,Lucas.Stone297@example.com,2026-06-20,France,lead,2349.94
+c-0298,Oliver Brown,Oliver.Brown298@example.com,08-Jul-2026,u.k.,prospect,2926.21
+c-0299,Lucas Wilson,Lucas.Wilson299@example.com,2025-09-21,France,lead,3001.68
+c-0300, sofia  TAYLOR , Sofia.Taylor300@Example.COM ,2025-03-04,us,active,$902.73
+ C- 0301 ,Emma Martin,Emma.Martin301@example.com,30/06/2026,u.k.,active,3846.9
+c-0302,Mia Wilson,Mia.Wilson302@example.com,26-Aug-2025,u.k.,lead,1815.04
+c-0303,Ada Yilmaz,Ada.Yilmaz303@example.com,04-Feb-2025,FR,IN-ACTIVE,385.48
+c-0304,Liam Demir,Liam.Demir304@example.com,24/11/2025,Türkiye,prospect,$376.65
+c-0305, liam  KAYA ,Liam.Kaya305@example.com,07-Aug-2025,UK,IN-ACTIVE,1580.64
+c-0306,Mia Miller, Mia.Miller306@Example.COM ,06/02/2025,Germany,IN-ACTIVE,3946.1
+c-0307,Noah Clark,Noah.Clark307@example.com,15-Sep-2025,Turkey,ACTIVE,821.83
+ C- 0308 ,Sofia Brown,Sofia.Brown308@example.com,2025-03-04,Türkiye,active,$29.22
+c-0309,Oliver Brown,Oliver.Brown309@example.com,26/06/2026,FR,ACTIVE,3902.94
+c-0310, ada  BROWN ,Ada.Brown310@example.com,11-Feb-2026,USA,active,204.4
+c-0311,Ada Martin,Ada.Martin311@example.com,24/02/2026,us,active,4062.99
+c-0312,Lucas Miller, Lucas.Miller312@Example.COM ,2025-01-03,Germany,ACTIVE,"$3,374.40"
+c-0313,Mia Brown,Mia.Brown313@example.com,25/10/2025,FR,Inactive,3432.84
+c-0314,Lucas Martin,Lucas.Martin314@example.com,2025-05-12,u.k.,lead,2179.81
+ C- 0315 , ethan  YILMAZ ,Ethan.Yilmaz315@example.com,28-Mar-2026,FR,active,278.89
+c-0316,Mia Wilson,Mia.Wilson316@example.com,2025-11-13,u.k.,active,"$2,039.61"
+c-0317,Mia Taylor,Mia.Taylor317@example.com,23/06/2025,Türkiye,active,2190.67
+c-0318,Leyla Clark, Leyla.Clark318@Example.COM ,2026-07-08,FR,ACTIVE,1641.69
+c-0319,Emma Brown,Emma.Brown319@example.com,22/12/2025,FR,active,3996.25
+c-0320, liam  MILLER ,Liam.Miller320@example.com,2025-12-28,FR,ACTIVE,"$2,121.36"
+c-0321,Noah Miller,Noah.Miller321@example.com,2025-11-08,France,Inactive,2151.06
+ C- 0322 ,Leyla Yilmaz,Leyla.Yilmaz322@example.com,2025-05-24,FR,lead,1196.32
+c-0323,Leyla Kaya,Leyla.Kaya323@example.com,07/02/2025,USA,prospect,3922.63
+c-0324,Liam Demir, Liam.Demir324@Example.COM ,15-May-2025,France,Inactive,"$3,779.78"
+c-0325, emma  YILMAZ ,Emma.Yilmaz325@example.com,27-May-2026,UK,prospect,4333.33
+c-0326,Lucas Demir,Lucas.Demir326@example.com,28/09/2025,Türkiye,Inactive,3111.45
+c-0327,Lucas Stone,Lucas.Stone327@example.com,03/02/2026,us,prospect,3312.72
+c-0328,Oliver Kaya,Oliver.Kaya328@example.com,2026-02-10,USA,IN-ACTIVE,"$3,507.63"
+ C- 0329 ,Sofia Clark,Sofia.Clark329@example.com,19-Oct-2025,United States,Inactive,3733.65
+c-0330, lucas  MARTIN , Lucas.Martin330@Example.COM ,09-Jul-2026,DE,lead,3710.84
+c-0331,Ada Kaya,Ada.Kaya331@example.com,2026-05-23,USA,ACTIVE,497.23
+c-0332,Leyla Brown,Leyla.Brown332@example.com,2025-06-06,Germany,lead,"$2,885.43"
+c-0333,Emma Yilmaz,Emma.Yilmaz333@example.com,17/11/2025,FR,ACTIVE,524.31
+c-0334,Lucas Miller,Lucas.Miller334@example.com,18/06/2026,FR,lead,2097.76
+c-0335, liam  DEMIR ,Liam.Demir335@example.com,2025-05-10,UK,lead,3394.32
+ C- 0336 ,Noah Stone, Noah.Stone336@Example.COM ,21/05/2026,DE,ACTIVE,"$4,008.73"
+c-0337,Ada Kaya,Ada.Kaya337@example.com,26-May-2026,FR,IN-ACTIVE,4219.93
+c-0338,Ethan Clark,Ethan.Clark338@example.com,09/04/2026,USA,prospect,2461.8
+c-0339,Emma Martin,Emma.Martin339@example.com,30-Jun-2025,United States,prospect,1993.23
+c-0340, emma  MILLER ,Emma.Miller340@example.com,09/05/2025,Türkiye,lead,"$1,562.90"
+c-0341,Oliver Clark,Oliver.Clark341@example.com,04/11/2025,Türkiye,Inactive,1056.83
+c-0342,Emma Miller, Emma.Miller342@Example.COM ,24/04/2025,UK,ACTIVE,165.92
+ C- 0343 ,Sofia Kaya,Sofia.Kaya343@example.com,07-Dec-2025,FR,IN-ACTIVE,976.92
+c-0344,Ada Martin,Ada.Martin344@example.com,09/04/2026,u.k.,lead,"$3,528.26"
+c-0345, ada  KAYA ,Ada.Kaya345@example.com,21-Dec-2025,Turkey,IN-ACTIVE,3207.01
+c-0346,Mia Stone,Mia.Stone346@example.com,20-Oct-2025,DE,prospect,1314.01
+c-0347,Ethan Taylor,Ethan.Taylor347@example.com,17-Dec-2025,u.k.,Inactive,2475.79
+c-0348,Leyla Yilmaz, Leyla.Yilmaz348@Example.COM ,19-Sep-2025,DE,prospect,"$3,640.23"
+c-0349,Sofia Brown,Sofia.Brown349@example.com,2026-04-29,USA,ACTIVE,2786.85
+ C- 0350 , lucas  MILLER ,Lucas.Miller350@example.com,2025-01-22,FR,ACTIVE,1524.2
+c-0351,Oliver Kaya,Oliver.Kaya351@example.com,24-Jun-2025,Turkey,lead,962.09
+c-0352,Sofia Miller,Sofia.Miller352@example.com,2025-04-04,France,Inactive,"$1,864.12"
+c-0353,Ada Miller,Ada.Miller353@example.com,14/09/2025,Türkiye,active,3348.91
+c-0354,Sofia Wilson, Sofia.Wilson354@Example.COM ,15/06/2026,us,ACTIVE,1162.96
+c-0355, sofia  STONE ,Sofia.Stone355@example.com,20/02/2025,Turkey,Inactive,1079.03
+c-0356,Mia Miller,Mia.Miller356@example.com,2025-12-01,USA,active,"$4,279.48"
+ C- 0357 ,Mia Wilson,Mia.Wilson357@example.com,25/05/2026,DE,IN-ACTIVE,2650.01
+c-0358,Emma Wilson,Emma.Wilson358@example.com,31-Dec-2025,Turkey,ACTIVE,4460.65
+c-0359,Oliver Martin,Oliver.Martin359@example.com,30-Aug-2025,Türkiye,lead,2199.15
+c-0360, liam  YILMAZ , Liam.Yilmaz360@Example.COM ,2025-02-21,DE,ACTIVE,"$1,584.90"
+c-0361,Leyla Miller,Leyla.Miller361@example.com,2026-02-11,FR,active,3855.77
+c-0362,Oliver Wilson,Oliver.Wilson362@example.com,2025-02-05,u.k.,Inactive,3945.62
+c-0363,Sofia Kaya,Sofia.Kaya363@example.com,28-May-2026,u.k.,lead,2595.11
+ C- 0364 ,Liam Clark,Liam.Clark364@example.com,05/02/2026,France,Inactive,"$3,713.21"
+c-0365, oliver  BROWN ,Oliver.Brown365@example.com,12-Feb-2025,Turkey,active,3958.73
+c-0366,Lucas Brown, Lucas.Brown366@Example.COM ,2026-02-24,us,Inactive,2993.62
+c-0367,Leyla Yilmaz,Leyla.Yilmaz367@example.com,30/10/2025,u.k.,prospect,2110.76
+c-0368,Ada Martin,Ada.Martin368@example.com,17/07/2026,UK,ACTIVE,"$1,268.13"
+c-0369,Leyla Yilmaz,Leyla.Yilmaz369@example.com,2026-05-11,France,ACTIVE,3280.07
+c-0370, lucas  KAYA ,Lucas.Kaya370@example.com,2026-03-28,us,prospect,3991.8
+ C- 0371 ,Mia Taylor,Mia.Taylor371@example.com,06/10/2025,DE,IN-ACTIVE,695.04
+c-0372,Mia Stone, Mia.Stone372@Example.COM ,2025-06-29,DE,lead,$590.32
+c-0373,Oliver Demir,Oliver.Demir373@example.com,2025-03-24,u.k.,ACTIVE,2865.35
+c-0374,Mia Martin,Mia.Martin374@example.com,21/12/2025,u.k.,Inactive,315.5
+c-0375, leyla  WILSON ,Leyla.Wilson375@example.com,22/11/2025,Türkiye,ACTIVE,819.2
+c-0376,Liam Yilmaz,Liam.Yilmaz376@example.com,13-Apr-2025,FR,ACTIVE,"$3,684.73"
+c-0377,Ada Kaya,Ada.Kaya377@example.com,26/05/2026,FR,Inactive,2945.76
+ C- 0378 ,Sofia Clark, Sofia.Clark378@Example.COM ,2025-11-07,DE,active,552.37
+c-0379,Leyla Wilson,Leyla.Wilson379@example.com,2026-03-17,FR,active,2997.92
+c-0380, ada  MILLER ,Ada.Miller380@example.com,10/12/2025,Türkiye,lead,$422.32
+c-0381,Liam Taylor,Liam.Taylor381@example.com,2025-09-03,Germany,active,860.13
+c-0382,Lucas Stone,Lucas.Stone382@example.com,11-Mar-2025,USA,prospect,2145.07
+c-0383,Lucas Yilmaz,Lucas.Yilmaz383@example.com,26/08/2025,u.k.,lead,3743.16
+c-0384,Emma Martin, Emma.Martin384@Example.COM ,2026-02-25,DE,lead,"$1,792.59"
+ C- 0385 , emma  KAYA ,Emma.Kaya385@example.com,03/05/2025,UK,prospect,1581.41
+c-0386,Ethan Martin,Ethan.Martin386@example.com,2025-08-19,Germany,active,127.75
+c-0387,Oliver Clark,Oliver.Clark387@example.com,2025-03-08,u.k.,active,25.61
+c-0388,Oliver Brown,Oliver.Brown388@example.com,17/11/2025,USA,IN-ACTIVE,"$1,679.51"
+c-0389,Oliver Demir,Oliver.Demir389@example.com,09-Mar-2026,us,Inactive,762.91
+c-0390, lucas  STONE , Lucas.Stone390@Example.COM ,14-Mar-2025,Türkiye,Inactive,26.2
+c-0391,Oliver Clark,Oliver.Clark391@example.com,2025-10-09,us,prospect,3919.01
+ C- 0392 ,Lucas Martin,Lucas.Martin392@example.com,2025-06-08,Germany,IN-ACTIVE,"$4,025.31"
+c-0393,Emma Demir,Emma.Demir393@example.com,19-Apr-2025,United States,IN-ACTIVE,1627.65
+c-0394,Lucas Martin,Lucas.Martin394@example.com,21-Nov-2025,Germany,prospect,2699.51
+c-0395, ethan  DEMIR ,Ethan.Demir395@example.com,2025-01-21,us,Inactive,4165.74
+c-0396,Leyla Taylor, Leyla.Taylor396@Example.COM ,2025-07-10,Germany,active,$654.64
+c-0397,Noah Clark,Noah.Clark397@example.com,2026-03-27,Türkiye,IN-ACTIVE,1327.81
+c-0398,Ada Demir,Ada.Demir398@example.com,21-Oct-2025,Turkey,lead,3807.28
+ C- 0399 ,Ada Miller,Ada.Miller399@example.com,2026-07-23,u.k.,prospect,3784.27
+c-0400, noah  YILMAZ ,Noah.Yilmaz400@example.com,16/03/2026,UK,lead,"$1,780.18"
+c-0401,Ethan Yilmaz,Ethan.Yilmaz401@example.com,23/04/2026,Turkey,active,3523.78
+c-0402,Liam Wilson, Liam.Wilson402@Example.COM ,13/06/2026,us,ACTIVE,262.63
+c-0403,Liam Kaya,Liam.Kaya403@example.com,04/05/2026,Turkey,prospect,1404.17
+c-0404,Oliver Martin,Oliver.Martin404@example.com,21/11/2025,Türkiye,lead,"$1,651.80"
+c-0405, leyla  MARTIN ,Leyla.Martin405@example.com,13-May-2026,DE,Inactive,3070.89
+ C- 0406 ,Mia Yilmaz,Mia.Yilmaz406@example.com,22/03/2025,u.k.,lead,1745.83
+c-0407,Liam Demir,Liam.Demir407@example.com,16-Aug-2025,us,ACTIVE,4341.23
+c-0408,Liam Wilson, Liam.Wilson408@Example.COM ,2025-09-06,us,ACTIVE,"$1,435.61"
+c-0409,Noah Clark,Noah.Clark409@example.com,2026-07-11,FR,lead,3579.06
+c-0410, liam  YILMAZ ,Liam.Yilmaz410@example.com,11/11/2025,USA,active,2184.68
+c-0411,Lucas Miller,Lucas.Miller411@example.com,14-Jun-2026,Türkiye,IN-ACTIVE,3573.67
+c-0412,Liam Yilmaz,Liam.Yilmaz412@example.com,2026-03-16,UK,ACTIVE,"$2,420.05"
+ C- 0413 ,Ethan Miller,Ethan.Miller413@example.com,09-Jul-2026,France,active,1269.56
+c-0414,Leyla Martin, Leyla.Martin414@Example.COM ,13/01/2026,Türkiye,ACTIVE,362.73
+c-0415, emma  DEMIR ,Emma.Demir415@example.com,20-Dec-2025,DE,active,2921.56
+c-0416,Liam Stone,Liam.Stone416@example.com,04-Nov-2025,France,prospect,"$3,439.58"
+c-0417,Ada Taylor,Ada.Taylor417@example.com,20-Jul-2025,Germany,prospect,1505.36
+c-0418,Leyla Yilmaz,Leyla.Yilmaz418@example.com,17/03/2025,DE,lead,221.05
+c-0419,Emma Demir,Emma.Demir419@example.com,2025-02-25,USA,IN-ACTIVE,1795.48
+ C- 0420 , emma  BROWN , Emma.Brown420@Example.COM ,13/04/2025,Turkey,IN-ACTIVE,"$2,557.03"
+c-0421,Lucas Wilson,Lucas.Wilson421@example.com,09-May-2026,Turkey,active,4145.52
+c-0422,Ethan Brown,Ethan.Brown422@example.com,2026-03-13,DE,IN-ACTIVE,3800.83
+c-0423,Emma Stone,Emma.Stone423@example.com,12/04/2026,DE,ACTIVE,1374.15
+c-0424,Noah Taylor,Noah.Taylor424@example.com,14/04/2026,u.k.,ACTIVE,"$3,112.07"
+c-0425, mia  CLARK ,Mia.Clark425@example.com,2026-01-18,Germany,active,666.0
+c-0426,Ethan Stone, Ethan.Stone426@Example.COM ,29-Dec-2025,Germany,lead,3991.91
+ C- 0427 ,Noah Taylor,Noah.Taylor427@example.com,10-Jul-2026,France,lead,2761.02
+c-0428,Mia Demir,Mia.Demir428@example.com,13/11/2025,USA,IN-ACTIVE,"$4,137.11"
+c-0429,Lucas Taylor,Lucas.Taylor429@example.com,2026-01-31,UK,IN-ACTIVE,1649.98
+c-0430, ada  CLARK ,Ada.Clark430@example.com,2026-03-07,USA,prospect,982.32
+c-0431,Mia Wilson,Mia.Wilson431@example.com,2026-03-23,United States,Inactive,2065.2
+c-0432,Ada Clark, Ada.Clark432@Example.COM ,29-Sep-2025,u.k.,IN-ACTIVE,"$3,012.76"
+c-0433,Lucas Brown,Lucas.Brown433@example.com,2025-08-25,u.k.,Inactive,3524.45
+ C- 0434 ,Liam Taylor,Liam.Taylor434@example.com,02/05/2026,United States,IN-ACTIVE,2147.96
+c-0435, liam  TAYLOR ,Liam.Taylor435@example.com,2025-10-13,Germany,prospect,4121.06
+c-0436,Liam Demir,Liam.Demir436@example.com,14-Apr-2026,u.k.,prospect,$271.44
+c-0437,Oliver Clark,Oliver.Clark437@example.com,05/04/2025,DE,Inactive,1676.62
+c-0438,Mia Clark, Mia.Clark438@Example.COM ,2026-03-15,France,ACTIVE,654.92
+c-0439,Emma Martin,Emma.Martin439@example.com,19-Jan-2026,UK,prospect,152.3
+c-0440, liam  DEMIR ,Liam.Demir440@example.com,2025-01-19,United States,IN-ACTIVE,"$2,133.06"
+ C- 0441 ,Ethan Demir,Ethan.Demir441@example.com,2025-05-07,Germany,ACTIVE,2900.06
+c-0442,Ada Miller,Ada.Miller442@example.com,04-Feb-2025,DE,ACTIVE,171.59
+c-0443,Oliver Brown,Oliver.Brown443@example.com,10/10/2025,UK,lead,4364.56
+c-0444,Liam Wilson, Liam.Wilson444@Example.COM ,02-Feb-2026,UK,Inactive,"$2,193.72"
+c-0445, lucas  YILMAZ ,Lucas.Yilmaz445@example.com,25-Mar-2025,Turkey,IN-ACTIVE,3716.86
+c-0446,Oliver Wilson,Oliver.Wilson446@example.com,2025-05-21,Türkiye,IN-ACTIVE,3160.19
+c-0447,Mia Clark,Mia.Clark447@example.com,06/12/2025,us,IN-ACTIVE,1080.66
+ C- 0448 ,Lucas Taylor,Lucas.Taylor448@example.com,2025-12-24,France,Inactive,"$1,698.08"
+c-0449,Noah Kaya,Noah.Kaya449@example.com,18-Jan-2025,Germany,lead,3294.36
+c-0450, oliver  MILLER , Oliver.Miller450@Example.COM ,23-Aug-2025,Türkiye,ACTIVE,3440.46
+c-0451,Leyla Brown,Leyla.Brown451@example.com,13-Jan-2026,UK,IN-ACTIVE,3341.35
+c-0452,Lucas Kaya,Lucas.Kaya452@example.com,2026-04-02,u.k.,lead,"$1,812.69"
+c-0453,Ada Kaya,Ada.Kaya453@example.com,2025-02-24,FR,prospect,1751.9
+c-0454,Ada Clark,Ada.Clark454@example.com,20-Jul-2025,USA,ACTIVE,493.46
+ C- 0455 , oliver  YILMAZ ,Oliver.Yilmaz455@example.com,07/06/2025,United States,ACTIVE,2416.76
+c-0456,Sofia Demir, Sofia.Demir456@Example.COM ,04-Sep-2025,us,ACTIVE,"$1,110.15"
+c-0457,Mia Demir,Mia.Demir457@example.com,02-May-2026,UK,IN-ACTIVE,48.57
+c-0458,Ada Stone,Ada.Stone458@example.com,11/08/2025,Türkiye,lead,1861.29
+c-0459,Ada Demir,Ada.Demir459@example.com,25/12/2025,Türkiye,prospect,2934.13
+c-0460, oliver  MARTIN ,Oliver.Martin460@example.com,2026-06-04,us,active,"$2,416.81"
+c-0461,Lucas Clark,Lucas.Clark461@example.com,02/11/2025,us,active,3771.22
+ C- 0462 ,Lucas Wilson, Lucas.Wilson462@Example.COM ,2026-03-09,us,Inactive,3124.59
+c-0463,Liam Brown,Liam.Brown463@example.com,09/01/2025,Germany,lead,1811.31
+c-0464,Sofia Clark,Sofia.Clark464@example.com,14/01/2025,DE,IN-ACTIVE,$434.71
+c-0465, sofia  CLARK ,Sofia.Clark465@example.com,07-Jan-2025,FR,ACTIVE,3207.5
+c-0466,Mia Kaya,Mia.Kaya466@example.com,13-Feb-2025,Türkiye,lead,1207.61
+c-0467,Leyla Wilson,Leyla.Wilson467@example.com,28/06/2026,USA,prospect,397.51
+c-0468,Leyla Miller, Leyla.Miller468@Example.COM ,06/12/2025,France,lead,"$3,965.60"
+ C- 0469 ,Ethan Brown,Ethan.Brown469@example.com,12/08/2025,Türkiye,IN-ACTIVE,2368.16
+c-0470, emma  TAYLOR ,Emma.Taylor470@example.com,01/09/2025,us,ACTIVE,3503.3
+c-0471,Mia Martin,Mia.Martin471@example.com,22-Feb-2025,Turkey,Inactive,1991.42
+c-0472,Sofia Martin,Sofia.Martin472@example.com,20/06/2025,Türkiye,prospect,"$4,268.04"
+c-0473,Ada Martin,Ada.Martin473@example.com,19/01/2025,Turkey,IN-ACTIVE,4126.44
+c-0474,Mia Martin, Mia.Martin474@Example.COM ,20-Jan-2026,Germany,IN-ACTIVE,270.8
+c-0475, liam  KAYA ,Liam.Kaya475@example.com,07-Oct-2025,UK,Inactive,3592.65
+ C- 0476 ,Noah Clark,Noah.Clark476@example.com,25/03/2025,USA,lead,$642.31
+c-0477,Lucas Clark,Lucas.Clark477@example.com,24-Jul-2026,DE,prospect,1689.57
+c-0478,Mia Demir,Mia.Demir478@example.com,2026-07-10,USA,IN-ACTIVE,175.17
+c-0479,Lucas Yilmaz,Lucas.Yilmaz479@example.com,08-Feb-2025,us,active,2907.54
+c-0480, ada  TAYLOR , Ada.Taylor480@Example.COM ,2025-08-14,Turkey,prospect,"$4,454.05"
+c-0481,Sofia Stone,Sofia.Stone481@example.com,08-Oct-2025,UK,active,3291.85
+c-0482,Liam Taylor,Liam.Taylor482@example.com,20/02/2025,United States,active,2148.42
+ C- 0483 ,Ethan Wilson,Ethan.Wilson483@example.com,25-Mar-2026,Turkey,lead,1281.47
+c-0484,Ada Wilson,Ada.Wilson484@example.com,21-Jan-2025,France,IN-ACTIVE,"$1,660.90"
+c-0485, ada  CLARK ,Ada.Clark485@example.com,22-Aug-2025,FR,prospect,3621.11
+c-0486,Leyla Kaya, Leyla.Kaya486@Example.COM ,09-Jan-2026,us,active,3650.22
+c-0487,Emma Stone,Emma.Stone487@example.com,2025-09-20,DE,lead,1507.17
+c-0488,Oliver Miller,Oliver.Miller488@example.com,2025-02-17,Turkey,Inactive,"$2,709.99"
+c-0489,Ethan Clark,Ethan.Clark489@example.com,10-Jul-2026,DE,Inactive,3768.16
+ C- 0490 , noah  YILMAZ ,Noah.Yilmaz490@example.com,14-Jun-2026,DE,Inactive,2292.98
+c-0491,Liam Martin,Liam.Martin491@example.com,11-Jun-2026,u.k.,lead,2600.06
+c-0492,Mia Miller, Mia.Miller492@Example.COM ,26/11/2025,UK,IN-ACTIVE,$772.19
+c-0493,Mia Brown,Mia.Brown493@example.com,2025-10-03,USA,Inactive,4454.84
+c-0494,Mia Wilson,Mia.Wilson494@example.com,05/02/2025,FR,prospect,798.61
+c-0495, noah  KAYA ,Noah.Kaya495@example.com,2026-03-17,Türkiye,IN-ACTIVE,1537.54
+c-0496,Emma Wilson,Emma.Wilson496@example.com,03-Dec-2025,USA,prospect,"$2,094.48"
+ C- 0497 ,Liam Miller,Liam.Miller497@example.com,2025-12-15,FR,Inactive,1571.92
+c-0498,Oliver Kaya, Oliver.Kaya498@Example.COM ,22-Jul-2025,France,lead,3664.68
+c-0499,Noah Clark,Noah.Clark499@example.com,24-May-2026,DE,Inactive,178.31
+c-0500, mia  DEMIR ,Mia.Demir500@example.com,28/10/2025,UK,IN-ACTIVE,$228.93
+c-0004, Ada Clark ,Ada.Clark4@example.com,22-Jan-2025,Türkiye,ACTIVE,"$1,202.60"
+ C- 0007 , Emma Kaya ,Emma.Kaya7@example.com,14/10/2025,United States,IN-ACTIVE,3010.4
+c-0010,  lucas  WILSON  ,Lucas.Wilson10@example.com,11-Feb-2026,FR,prospect,132.91
+c-0013, Liam Taylor ,Liam.Taylor13@example.com,02/09/2025,DE,ACTIVE,50.27
+c-0016, Liam Martin ,Liam.Martin16@example.com,2025-02-23,United States,prospect,"$1,860.14"
+c-0019, Lucas Demir ,Lucas.Demir19@example.com,2025-05-03,Turkey,lead,857.0
+c-0022, Noah Brown ,Noah.Brown22@example.com,02/07/2026,us,ACTIVE,2200.13
+c-0025,  ada  BROWN  ,Ada.Brown25@example.com,28/07/2025,USA,lead,2864.92
+ C- 0028 , Ada Stone ,Ada.Stone28@example.com,2026-05-26,USA,IN-ACTIVE,"$2,724.42"
+c-0031, Ada Yilmaz ,Ada.Yilmaz31@example.com,2025-04-20,FR,prospect,3810.39
+c-0034, Liam Miller ,Liam.Miller34@example.com,20/02/2026,us,IN-ACTIVE,3936.43
+c-0037, Emma Wilson ,Emma.Wilson37@example.com,01-Jan-2025,USA,active,1458.26
+c-0040,  emma  WILSON  ,Emma.Wilson40@example.com,26-Nov-2025,USA,ACTIVE,"$4,239.22"
+c-0043, Mia Kaya ,Mia.Kaya43@example.com,04/05/2026,Turkey,ACTIVE,1878.52
+c-0046, Liam Demir ,Liam.Demir46@example.com,2026-07-24,u.k.,ACTIVE,2012.48
+ C- 0049 , Oliver Yilmaz ,Oliver.Yilmaz49@example.com,2026-07-06,DE,lead,1787.9
+c-0052, Mia Stone ,Mia.Stone52@example.com,15-Jun-2025,Germany,ACTIVE,"$3,549.51"
+c-0055,  liam  BROWN  ,Liam.Brown55@example.com,19-Aug-2025,France,Inactive,2394.38
+c-0058, Mia Stone ,Mia.Stone58@example.com,18-Jul-2026,France,active,2277.85
+c-0061, Oliver Kaya ,Oliver.Kaya61@example.com,05-Jun-2026,us,Inactive,739.25
+c-0064, Liam Kaya ,Liam.Kaya64@example.com,21-Feb-2025,us,active,$571.70
+c-0067, Emma Demir ,Emma.Demir67@example.com,31-May-2025,Türkiye,prospect,4076.28
+BAD-001,Mia Brown,not-an-email,25-Jan-2025,United States,lead,4493.87
+BAD-002,Noah Martin, Noah.Martin12@Example.COM ,31/31/2026,Türkiye,active,$461.60
+BAD-003,Ada Demir,Ada.Demir23@example.com,10-Apr-2025,Atlantis,IN-ACTIVE,2125.42
+BAD-004,Liam Miller,Liam.Miller34@example.com,20/02/2026,us,Blocked,3936.43
+BAD-005, ada  MILLER ,Ada.Miller45@example.com,14-Oct-2025,us,ACTIVE,-50
+BAD-006,,Lucas.Stone56@example.com,03-Sep-2025,Turkey,IN-ACTIVE,"$2,501.54"
+BAD-007,Emma Demir,Emma.Demir67@example.com,31-May-2025,Türkiye,prospect,unknown
+BAD-008,Noah Taylor,not-an-email,2025-12-25,UK,Inactive,519.73
+BAD-009,Mia Demir,Mia.Demir89@example.com,31/31/2026,USA,prospect,4382.9
+BAD-010, lucas  MILLER ,Lucas.Miller100@example.com,06/07/2026,Atlantis,prospect,"$4,438.38"
+BAD-011,Ethan Stone,Ethan.Stone111@example.com,22/07/2026,UK,Blocked,1608.63
+BAD-012,Emma Kaya,Emma.Kaya122@example.com,19-May-2025,FR,lead,-50
+BAD-013,,Emma.Martin133@example.com,2026-06-27,USA,IN-ACTIVE,1732.32
+BAD-014,Mia Clark, Mia.Clark144@Example.COM ,09-Jun-2025,DE,active,unknown
+BAD-015, sofia  STONE ,not-an-email,21/09/2025,DE,ACTIVE,1671.92
+BAD-016,Oliver Martin,Oliver.Martin166@example.com,31/31/2026,DE,active,170.92
+BAD-017,Leyla Miller,Leyla.Miller177@example.com,2025-11-18,Atlantis,IN-ACTIVE,1862.14
+BAD-018,Ethan Kaya,Ethan.Kaya188@example.com,2025-05-17,Türkiye,Blocked,$581.36
+BAD-019,Lucas Martin,Lucas.Martin199@example.com,12/03/2026,France,lead,-50
+BAD-020,, Leyla.Clark210@Example.COM ,04-Jul-2026,USA,active,3137.49
+BAD-021,Leyla Martin,Leyla.Martin221@example.com,01/04/2026,Germany,Inactive,unknown
+BAD-022,Sofia Wilson,not-an-email,2026-04-10,Turkey,IN-ACTIVE,"$2,740.98"
+BAD-023,Mia Kaya,Mia.Kaya243@example.com,31/31/2026,FR,ACTIVE,1095.0
+BAD-024,Leyla Clark,Leyla.Clark254@example.com,2025-01-17,Atlantis,prospect,2108.54
+BAD-025, mia  STONE ,Mia.Stone265@example.com,18/05/2026,United States,Blocked,3152.1
+BAD-026,Lucas Stone, Lucas.Stone276@Example.COM ,2025-07-27,u.k.,ACTIVE,-50
+BAD-027,,Liam.Yilmaz287@example.com,02-Sep-2025,u.k.,IN-ACTIVE,706.27
+BAD-028,Oliver Brown,Oliver.Brown298@example.com,08-Jul-2026,u.k.,prospect,unknown

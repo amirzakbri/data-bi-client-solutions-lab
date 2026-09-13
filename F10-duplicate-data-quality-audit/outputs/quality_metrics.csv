@@ -1,0 +1,15 @@
+metric,affected_rows
+customer_duplicate_id_rows,16
+customer_duplicate_email_rows,36
+customer_invalid_email_rows,7
+customer_missing_name_rows,6
+customer_invalid_country_rows,5
+customer_future_signup_rows,4
+customer_invalid_status_rows,5
+order_duplicate_id_rows,17
+order_orphan_rows,12
+order_invalid_amount_rows,8
+order_amount_mismatch_rows,15
+order_invalid_status_rows,6
+order_future_date_rows,5
+order_missing_id_rows,5

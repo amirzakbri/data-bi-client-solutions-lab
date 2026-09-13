@@ -1,0 +1,22 @@
+{
+  "source_rows": 2735,
+  "coverage_start": "2025-08-01",
+  "coverage_end": "2026-07-31",
+  "orders": 2735,
+  "units": 4388,
+  "revenue": 1737992.95,
+  "cost": 1137951,
+  "gross_profit": 600041.95,
+  "gross_margin_pct": 34.5,
+  "revenue_target": 1728455.08,
+  "target_attainment_pct": 100.6,
+  "latest_complete_month": "2026-07",
+  "latest_month_revenue": 161297.8,
+  "latest_month_mom_pct": 2.7,
+  "action_products": 6,
+  "critical_products": 0,
+  "watch_products": 6,
+  "design_issues_repaired": 10,
+  "validation_checks_passed": 10,
+  "validation_checks_total": 10
+}

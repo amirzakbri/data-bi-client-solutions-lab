@@ -1,0 +1,49 @@
+Order ID,Order Date,Product,Category,Channel,Region,Quantity,Unit Price,Discount,Revenue,Cost,Profit
+ORD-1145,2026-04-10,Espresso Beans 1kg,Coffee,Retail Store,Bursa,4,18.43,0.15,62.66,42,20.66
+ORD-1146,2026-04-17,French Press,Equipment,Online,Ankara,1,32.77,0,32.77,18,14.77
+ORD-1147,2026-04-24,Espresso Beans 1kg,Coffee,Wholesale,Bursa,6,18.43,0,110.58,63,47.58
+ORD-1148,2026-04-03,French Press,Equipment,Retail Store,Ankara,3,32.77,0,98.31,54,44.31
+ORD-1149,2026-04-10,Espresso Beans 1kg,Coffee,Online,Bursa,8,18.43,0,147.44,84,63.44
+ORD-1150,2026-04-17,French Press,Equipment,Wholesale,Ankara,5,32.77,0,163.85,90,73.85
+ORD-1151,2026-04-24,Espresso Beans 1kg,Coffee,Retail Store,Bursa,2,18.43,0,36.86,21,15.86
+ORD-1152,2026-04-03,French Press,Equipment,Online,Ankara,7,32.77,0.1,206.45,126,80.45
+ORD-1153,2026-04-10,Espresso Beans 1kg,Coffee,Wholesale,Bursa,4,18.43,0,73.72,42,31.72
+ORD-1154,2026-04-17,French Press,Equipment,Retail Store,Ankara,1,32.77,0,32.77,18,14.77
+ORD-1155,2026-04-24,Espresso Beans 1kg,Coffee,Online,Bursa,6,18.43,0,110.58,63,47.58
+ORD-1156,2026-04-03,French Press,Equipment,Wholesale,Ankara,3,32.77,0.15,83.56,54,29.56
+ORD-1157,2026-04-10,Espresso Beans 1kg,Coffee,Retail Store,Bursa,8,18.43,0,147.44,84,63.44
+ORD-1158,2026-04-17,French Press,Equipment,Online,Ankara,5,32.77,0,163.85,90,73.85
+ORD-1159,2026-04-24,Espresso Beans 1kg,Coffee,Wholesale,Bursa,2,18.43,0.1,33.17,21,12.17
+ORD-1160,2026-04-03,French Press,Equipment,Retail Store,Ankara,7,32.77,0,229.39,126,103.39
+ORD-1161,2026-04-10,Espresso Beans 1kg,Coffee,Online,Bursa,4,18.43,0,73.72,42,31.72
+ORD-1162,2026-04-17,French Press,Equipment,Wholesale,Ankara,1,32.77,0,32.77,18,14.77
+ORD-1163,2026-04-24,Espresso Beans 1kg,Coffee,Retail Store,Bursa,6,18.43,0,110.58,63,47.58
+ORD-1164,2026-04-03,French Press,Equipment,Online,Ankara,3,32.77,0,98.31,54,44.31
+ORD-1165,2026-04-10,Espresso Beans 1kg,Coffee,Wholesale,Bursa,8,18.43,0,147.44,84,63.44
+ORD-1166,2026-04-17,French Press,Equipment,Retail Store,Ankara,5,32.77,0.1,147.47,90,57.47
+ORD-1167,2026-04-24,Espresso Beans 1kg,Coffee,Online,Bursa,2,18.43,0.15,31.33,21,10.33
+ORD-1168,2026-04-03,French Press,Equipment,Wholesale,Ankara,7,32.77,0,229.39,126,103.39
+ORD-1169,2026-04-10,Espresso Beans 1kg,Coffee,Retail Store,Bursa,4,18.43,0,73.72,42,31.72
+ORD-1170,2026-04-17,French Press,Equipment,Online,Ankara,1,32.77,0,32.77,18,14.77
+ORD-1171,2026-04-24,Espresso Beans 1kg,Coffee,Wholesale,Bursa,6,18.43,0,110.58,63,47.58
+ORD-1172,2026-04-03,French Press,Equipment,Retail Store,Ankara,3,32.77,0,98.31,54,44.31
+ORD-1173,2026-04-10,Espresso Beans 1kg,Coffee,Online,Bursa,8,18.43,0.1,132.7,84,48.7
+ORD-1174,2026-04-17,French Press,Equipment,Wholesale,Ankara,5,32.77,0,163.85,90,73.85
+ORD-1175,2026-04-24,Espresso Beans 1kg,Coffee,Retail Store,Bursa,2,18.43,0,36.86,21,15.86
+ORD-1176,2026-04-03,French Press,Equipment,Online,Ankara,7,32.77,0,229.39,126,103.39
+ORD-1177,2026-04-10,Espresso Beans 1kg,Coffee,Wholesale,Bursa,4,18.43,0,73.72,42,31.72
+ORD-1178,2026-04-17,French Press,Equipment,Retail Store,Ankara,1,32.77,0.15,27.85,18,9.85
+ORD-1179,2026-04-24,Espresso Beans 1kg,Coffee,Online,Bursa,6,18.43,0,110.58,63,47.58
+ORD-1180,2026-04-03,French Press,Equipment,Wholesale,Ankara,3,32.77,0.1,88.48,54,34.48
+ORD-1181,2026-04-10,Espresso Beans 1kg,Coffee,Retail Store,Bursa,8,18.43,0,147.44,84,63.44
+ORD-1182,2026-04-17,French Press,Equipment,Online,Ankara,5,32.77,0,163.85,90,73.85
+ORD-1183,2026-04-24,Espresso Beans 1kg,Coffee,Wholesale,Bursa,2,18.43,0,36.86,21,15.86
+ORD-1184,2026-04-03,French Press,Equipment,Retail Store,Ankara,7,32.77,0,229.39,126,103.39
+ORD-1185,2026-04-10,Espresso Beans 1kg,Coffee,Online,Bursa,4,18.43,0,73.72,42,31.72
+ORD-1186,2026-04-17,French Press,Equipment,Wholesale,Ankara,1,32.77,0,32.77,18,14.77
+ORD-1187,2026-04-24,Espresso Beans 1kg,Coffee,Retail Store,Bursa,6,18.43,0.1,99.52,63,36.52
+ORD-1188,2026-04-03,French Press,Equipment,Online,Ankara,3,32.77,0,98.31,54,44.31
+ORD-1189,2026-04-10,Espresso Beans 1kg,Coffee,Wholesale,Bursa,8,18.43,0.15,125.32,84,41.32
+ORD-1190,2026-04-17,French Press,Equipment,Retail Store,Ankara,5,32.77,0,163.85,90,73.85
+ORD-1191,2026-04-24,Espresso Beans 1kg,Coffee,Online,Bursa,2,18.43,0,36.86,21,15.86
+ORD-1192,2026-04-03,French Press,Equipment,Wholesale,Ankara,7,32.77,0,229.39,126,103.39

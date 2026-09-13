@@ -1,0 +1,12 @@
+Subject: Weekly KPI summary | Week ending 2026-08-02
+
+Complete reporting week: 2026-07-27 to 2026-08-02
+Revenue: $43,858 (-11.6% WoW)
+Orders: 511 (-14.8% WoW)
+KPIs requiring action: 4
+- Revenue: 43,858.00
+- Orders: 511.00
+- Conversion Rate: 3.12%
+- Refund Rate: 5.68%
+
+See the attached workbook/HTML for definitions, targets, and QA controls.

@@ -1,0 +1,501 @@
+customer_id,full_name,email,signup_date,country,status,lifetime_value
+C-0001,Mia Brown,mia.brown1@example.com,2025-01-25,United States,Prospect,4493.87
+C-0002,Noah Wilson,noah.wilson2@example.com,2025-03-23,United States,Inactive,1226.31
+C-0003,Lucas Kaya,lucas.kaya3@example.com,2026-07-20,Türkiye,Prospect,3304.42
+C-0004,Ada Clark,ada.clark4@example.com,2025-01-22,Türkiye,Active,1202.60
+C-0005,Mia Martin,mia.martin5@example.com,2026-06-28,France,Active,3487.31
+C-0006,Ethan Clark,ethan.clark6@example.com,2025-12-09,Türkiye,Inactive,846.34
+C-0007,Emma Kaya,emma.kaya7@example.com,2025-10-14,United States,Inactive,3010.40
+C-0008,Ada Wilson,ada.wilson8@example.com,2026-06-29,United Kingdom,Prospect,1898.85
+C-0009,Sofia Taylor,sofia.taylor9@example.com,2026-02-24,United States,Inactive,2981.28
+C-0010,Lucas Wilson,lucas.wilson10@example.com,2026-02-11,France,Prospect,132.91
+C-0011,Emma Taylor,emma.taylor11@example.com,2026-06-24,Germany,Inactive,3413.81
+C-0012,Noah Martin,noah.martin12@example.com,2026-03-31,Türkiye,Active,461.60
+C-0013,Liam Taylor,liam.taylor13@example.com,2025-09-02,Germany,Active,50.27
+C-0014,Mia Stone,mia.stone14@example.com,2026-07-14,Türkiye,Inactive,1584.14
+C-0015,Liam Miller,liam.miller15@example.com,2025-02-07,France,Prospect,2418.83
+C-0016,Liam Martin,liam.martin16@example.com,2025-02-23,United States,Prospect,1860.14
+C-0017,Oliver Stone,oliver.stone17@example.com,2025-05-03,United States,Prospect,3190.20
+C-0018,Sofia Miller,sofia.miller18@example.com,2026-05-03,Türkiye,Active,315.07
+C-0019,Lucas Demir,lucas.demir19@example.com,2025-05-03,Türkiye,Prospect,857.00
+C-0020,Noah Wilson,noah.wilson20@example.com,2025-04-10,France,Inactive,2837.99
+C-0021,Sofia Kaya,sofia.kaya21@example.com,2025-02-12,Türkiye,Prospect,4352.76
+C-0022,Noah Brown,noah.brown22@example.com,2026-07-02,United States,Active,2200.13
+C-0023,Ada Demir,ada.demir23@example.com,2025-04-10,United Kingdom,Inactive,2125.42
+C-0024,Ethan Martin,ethan.martin24@example.com,2026-06-22,Türkiye,Prospect,191.50
+C-0025,Ada Brown,ada.brown25@example.com,2025-07-28,United States,Prospect,2864.92
+C-0026,Leyla Miller,leyla.miller26@example.com,2025-09-17,United States,Inactive,4004.04
+C-0027,Noah Clark,noah.clark27@example.com,2025-06-11,France,Inactive,4004.55
+C-0028,Ada Stone,ada.stone28@example.com,2026-05-26,United States,Inactive,2724.42
+C-0029,Ada Demir,ada.demir29@example.com,2025-01-05,Germany,Prospect,2851.32
+C-0030,Liam Miller,liam.miller30@example.com,2026-07-02,Türkiye,Inactive,646.51
+C-0031,Ada Yilmaz,ada.yilmaz31@example.com,2025-04-20,France,Prospect,3810.39
+C-0032,Ethan Demir,ethan.demir32@example.com,2026-06-10,United Kingdom,Prospect,863.80
+C-0033,Mia Wilson,mia.wilson33@example.com,2026-06-07,United States,Prospect,3141.05
+C-0034,Liam Miller,liam.miller34@example.com,2026-02-20,United States,Inactive,3936.43
+C-0035,Emma Brown,emma.brown35@example.com,2025-06-15,Türkiye,Inactive,246.72
+C-0036,Liam Stone,liam.stone36@example.com,2026-06-15,United States,Active,4363.39
+C-0037,Emma Wilson,emma.wilson37@example.com,2025-01-01,United States,Active,1458.26
+C-0038,Emma Stone,emma.stone38@example.com,2025-03-08,United States,Inactive,2575.71
+C-0039,Emma Demir,emma.demir39@example.com,2025-11-17,Germany,Prospect,2596.03
+C-0040,Emma Wilson,emma.wilson40@example.com,2025-11-26,United States,Active,4239.22
+C-0041,Emma Wilson,emma.wilson41@example.com,2025-10-16,United States,Active,1088.38
+C-0042,Ethan Demir,ethan.demir42@example.com,2025-01-25,Germany,Inactive,525.07
+C-0043,Mia Kaya,mia.kaya43@example.com,2026-05-04,Türkiye,Active,1878.52
+C-0044,Leyla Demir,leyla.demir44@example.com,2025-08-29,France,Inactive,1038.67
+C-0045,Ada Miller,ada.miller45@example.com,2025-10-14,United States,Active,2452.02
+C-0046,Liam Demir,liam.demir46@example.com,2026-07-24,United Kingdom,Active,2012.48
+C-0047,Mia Martin,mia.martin47@example.com,2026-05-08,Germany,Inactive,3610.21
+C-0048,Noah Wilson,noah.wilson48@example.com,2025-07-31,France,Prospect,612.34
+C-0049,Oliver Yilmaz,oliver.yilmaz49@example.com,2026-07-06,Germany,Prospect,1787.90
+C-0050,Oliver Wilson,oliver.wilson50@example.com,2025-08-02,United States,Active,3101.15
+C-0051,Mia Miller,mia.miller51@example.com,2025-03-23,France,Inactive,2544.02
+C-0052,Mia Stone,mia.stone52@example.com,2025-06-15,Germany,Active,3549.51
+C-0053,Lucas Brown,lucas.brown53@example.com,2025-12-12,Germany,Prospect,1803.36
+C-0054,Mia Yilmaz,mia.yilmaz54@example.com,2026-04-08,Türkiye,Inactive,3599.83
+C-0055,Liam Brown,liam.brown55@example.com,2025-08-19,France,Inactive,2394.38
+C-0056,Lucas Stone,lucas.stone56@example.com,2025-09-03,Türkiye,Inactive,2501.54
+C-0057,Ethan Martin,ethan.martin57@example.com,2025-08-22,United States,Prospect,1882.44
+C-0058,Mia Stone,mia.stone58@example.com,2026-07-18,France,Active,2277.85
+C-0059,Mia Taylor,mia.taylor59@example.com,2025-08-27,Türkiye,Prospect,603.52
+C-0060,Sofia Stone,sofia.stone60@example.com,2025-01-10,Türkiye,Active,1997.60
+C-0061,Oliver Kaya,oliver.kaya61@example.com,2026-06-05,United States,Inactive,739.25
+C-0062,Ethan Martin,ethan.martin62@example.com,2026-05-03,United States,Prospect,807.03
+C-0063,Emma Demir,emma.demir63@example.com,2026-04-01,France,Inactive,2039.39
+C-0064,Liam Kaya,liam.kaya64@example.com,2025-02-21,United States,Active,571.70
+C-0065,Emma Taylor,emma.taylor65@example.com,2026-02-27,Türkiye,Prospect,4295.62
+C-0066,Noah Brown,noah.brown66@example.com,2026-02-22,Türkiye,Prospect,208.89
+C-0067,Emma Demir,emma.demir67@example.com,2025-05-31,Türkiye,Prospect,4076.28
+C-0068,Noah Stone,noah.stone68@example.com,2025-12-25,Germany,Active,346.99
+C-0069,Oliver Yilmaz,oliver.yilmaz69@example.com,2026-03-11,United States,Inactive,1635.23
+C-0070,Leyla Brown,leyla.brown70@example.com,2025-10-23,United States,Inactive,2765.90
+C-0071,Noah Stone,noah.stone71@example.com,2026-04-21,United States,Inactive,1433.64
+C-0072,Liam Kaya,liam.kaya72@example.com,2025-03-07,United Kingdom,Inactive,4465.60
+C-0073,Leyla Miller,leyla.miller73@example.com,2025-10-14,Türkiye,Prospect,2743.32
+C-0074,Sofia Wilson,sofia.wilson74@example.com,2025-11-14,United Kingdom,Active,2520.01
+C-0075,Liam Yilmaz,liam.yilmaz75@example.com,2026-02-04,United Kingdom,Inactive,354.66
+C-0076,Ada Miller,ada.miller76@example.com,2026-06-23,Germany,Active,3981.58
+C-0077,Ada Brown,ada.brown77@example.com,2025-06-03,United States,Inactive,1411.33
+C-0078,Noah Taylor,noah.taylor78@example.com,2025-12-25,United Kingdom,Inactive,519.73
+C-0079,Leyla Kaya,leyla.kaya79@example.com,2025-06-03,United Kingdom,Prospect,2966.10
+C-0080,Oliver Yilmaz,oliver.yilmaz80@example.com,2025-04-28,United States,Active,629.87
+C-0081,Sofia Brown,sofia.brown81@example.com,2025-12-30,United Kingdom,Prospect,3186.62
+C-0082,Noah Demir,noah.demir82@example.com,2026-02-07,United Kingdom,Prospect,4097.36
+C-0083,Liam Kaya,liam.kaya83@example.com,2025-06-09,United States,Prospect,1154.48
+C-0084,Liam Stone,liam.stone84@example.com,2026-05-14,United States,Inactive,1333.93
+C-0085,Noah Stone,noah.stone85@example.com,2025-01-22,France,Inactive,2861.21
+C-0086,Oliver Yilmaz,oliver.yilmaz86@example.com,2026-06-15,Germany,Active,630.64
+C-0087,Mia Wilson,mia.wilson87@example.com,2025-09-28,United States,Active,1448.07
+C-0088,Emma Miller,emma.miller88@example.com,2025-08-30,Türkiye,Active,2286.93
+C-0089,Mia Demir,mia.demir89@example.com,2025-11-26,United States,Prospect,4382.90
+C-0090,Noah Clark,noah.clark90@example.com,2025-01-26,Germany,Inactive,1392.51
+C-0091,Leyla Martin,leyla.martin91@example.com,2025-12-30,Germany,Active,2329.00
+C-0092,Ethan Martin,ethan.martin92@example.com,2026-05-26,Türkiye,Active,3928.65
+C-0093,Liam Clark,liam.clark93@example.com,2025-05-22,United States,Prospect,4463.26
+C-0094,Leyla Wilson,leyla.wilson94@example.com,2025-09-30,United Kingdom,Inactive,3258.33
+C-0095,Ethan Demir,ethan.demir95@example.com,2025-03-16,Türkiye,Inactive,3332.73
+C-0096,Leyla Taylor,leyla.taylor96@example.com,2025-06-26,United States,Active,458.39
+C-0097,Mia Brown,mia.brown97@example.com,2026-03-18,Türkiye,Inactive,419.37
+C-0098,Oliver Miller,oliver.miller98@example.com,2026-06-21,Türkiye,Inactive,410.78
+C-0099,Noah Miller,noah.miller99@example.com,2025-11-02,United States,Prospect,1266.36
+C-0100,Lucas Miller,lucas.miller100@example.com,2026-07-06,France,Prospect,4438.38
+C-0101,Leyla Yilmaz,leyla.yilmaz101@example.com,2026-03-06,Türkiye,Inactive,3442.81
+C-0102,Noah Miller,noah.miller102@example.com,2025-11-12,United States,Inactive,3966.05
+C-0103,Ada Wilson,ada.wilson103@example.com,2025-02-06,United Kingdom,Inactive,3084.68
+C-0104,Ada Brown,ada.brown104@example.com,2026-02-19,United States,Inactive,2111.77
+C-0105,Mia Brown,mia.brown105@example.com,2026-01-01,United Kingdom,Active,252.64
+C-0106,Ethan Martin,ethan.martin106@example.com,2025-01-28,Türkiye,Prospect,3406.20
+C-0107,Emma Kaya,emma.kaya107@example.com,2025-05-13,Germany,Active,363.92
+C-0108,Emma Demir,emma.demir108@example.com,2025-02-09,United States,Prospect,1508.07
+C-0109,Ada Martin,ada.martin109@example.com,2025-07-20,Germany,Prospect,2331.50
+C-0110,Liam Martin,liam.martin110@example.com,2025-06-17,United Kingdom,Inactive,1285.41
+C-0111,Ethan Stone,ethan.stone111@example.com,2026-07-22,United Kingdom,Inactive,1608.63
+C-0112,Ethan Clark,ethan.clark112@example.com,2026-02-13,United Kingdom,Active,1237.20
+C-0113,Ada Demir,ada.demir113@example.com,2025-10-22,United States,Prospect,364.43
+C-0114,Lucas Kaya,lucas.kaya114@example.com,2026-02-18,United Kingdom,Prospect,2368.45
+C-0115,Emma Martin,emma.martin115@example.com,2026-05-03,Germany,Inactive,2954.81
+C-0116,Liam Demir,liam.demir116@example.com,2025-02-04,United States,Active,2273.81
+C-0117,Lucas Taylor,lucas.taylor117@example.com,2025-08-26,United States,Inactive,432.25
+C-0118,Sofia Demir,sofia.demir118@example.com,2026-03-06,France,Inactive,4441.36
+C-0119,Oliver Demir,oliver.demir119@example.com,2025-03-07,United Kingdom,Prospect,3296.46
+C-0120,Ada Yilmaz,ada.yilmaz120@example.com,2025-11-04,France,Prospect,219.13
+C-0121,Oliver Martin,oliver.martin121@example.com,2025-12-05,United Kingdom,Prospect,2872.62
+C-0122,Emma Kaya,emma.kaya122@example.com,2025-05-19,France,Prospect,902.06
+C-0123,Lucas Brown,lucas.brown123@example.com,2026-05-07,Türkiye,Active,2199.47
+C-0124,Lucas Yilmaz,lucas.yilmaz124@example.com,2026-03-16,United States,Active,1452.86
+C-0125,Oliver Yilmaz,oliver.yilmaz125@example.com,2025-11-03,France,Inactive,2020.73
+C-0126,Emma Taylor,emma.taylor126@example.com,2025-08-26,Germany,Active,759.68
+C-0127,Leyla Yilmaz,leyla.yilmaz127@example.com,2025-08-27,France,Active,2185.64
+C-0128,Lucas Demir,lucas.demir128@example.com,2026-02-28,United States,Active,3750.85
+C-0129,Noah Brown,noah.brown129@example.com,2025-12-01,Türkiye,Active,1968.30
+C-0130,Lucas Yilmaz,lucas.yilmaz130@example.com,2026-07-02,Germany,Active,3862.83
+C-0131,Sofia Taylor,sofia.taylor131@example.com,2025-09-10,Türkiye,Active,875.67
+C-0132,Mia Kaya,mia.kaya132@example.com,2025-02-14,France,Prospect,1711.28
+C-0133,Emma Martin,emma.martin133@example.com,2026-06-27,United States,Inactive,1732.32
+C-0134,Ethan Miller,ethan.miller134@example.com,2026-01-11,United States,Inactive,1779.00
+C-0135,Emma Kaya,emma.kaya135@example.com,2025-07-01,Germany,Prospect,1168.37
+C-0136,Ethan Wilson,ethan.wilson136@example.com,2025-05-17,Germany,Active,2908.25
+C-0137,Noah Miller,noah.miller137@example.com,2026-02-02,United Kingdom,Prospect,2240.35
+C-0138,Oliver Taylor,oliver.taylor138@example.com,2025-07-30,United States,Active,4174.19
+C-0139,Lucas Clark,lucas.clark139@example.com,2025-06-10,Türkiye,Active,1199.47
+C-0140,Ethan Stone,ethan.stone140@example.com,2026-01-16,France,Active,546.33
+C-0141,Liam Miller,liam.miller141@example.com,2025-07-29,United States,Active,3364.90
+C-0142,Sofia Martin,sofia.martin142@example.com,2025-10-26,United States,Prospect,24.05
+C-0143,Noah Brown,noah.brown143@example.com,2025-09-07,France,Prospect,2538.95
+C-0144,Mia Clark,mia.clark144@example.com,2025-06-09,Germany,Active,3842.94
+C-0145,Emma Martin,emma.martin145@example.com,2026-07-02,France,Active,58.95
+C-0146,Oliver Demir,oliver.demir146@example.com,2025-06-01,France,Active,617.68
+C-0147,Ethan Stone,ethan.stone147@example.com,2025-09-29,France,Inactive,2049.08
+C-0148,Lucas Stone,lucas.stone148@example.com,2025-02-03,Germany,Prospect,116.06
+C-0149,Ethan Wilson,ethan.wilson149@example.com,2025-09-07,France,Active,2856.31
+C-0150,Mia Demir,mia.demir150@example.com,2025-03-10,Germany,Inactive,760.18
+C-0151,Emma Miller,emma.miller151@example.com,2026-06-06,United Kingdom,Active,1532.95
+C-0152,Mia Yilmaz,mia.yilmaz152@example.com,2025-01-24,United Kingdom,Active,1470.23
+C-0153,Ada Brown,ada.brown153@example.com,2025-01-12,France,Active,2309.89
+C-0154,Ada Miller,ada.miller154@example.com,2025-07-25,United States,Prospect,3571.72
+C-0155,Sofia Stone,sofia.stone155@example.com,2025-09-21,Germany,Active,1671.92
+C-0156,Noah Stone,noah.stone156@example.com,2025-02-22,United Kingdom,Active,1957.76
+C-0157,Liam Kaya,liam.kaya157@example.com,2025-03-14,Germany,Active,3156.85
+C-0158,Emma Wilson,emma.wilson158@example.com,2025-10-30,United Kingdom,Active,3083.04
+C-0159,Lucas Taylor,lucas.taylor159@example.com,2026-07-02,United States,Active,3246.61
+C-0160,Emma Stone,emma.stone160@example.com,2025-05-10,France,Active,2378.17
+C-0161,Ada Martin,ada.martin161@example.com,2026-06-29,Germany,Inactive,802.70
+C-0162,Lucas Miller,lucas.miller162@example.com,2025-05-20,Germany,Active,1354.44
+C-0163,Lucas Brown,lucas.brown163@example.com,2026-05-18,Türkiye,Prospect,2215.40
+C-0164,Noah Kaya,noah.kaya164@example.com,2025-01-22,France,Inactive,1342.80
+C-0165,Ada Brown,ada.brown165@example.com,2025-06-09,Germany,Active,1420.17
+C-0166,Oliver Martin,oliver.martin166@example.com,2026-03-09,Germany,Active,170.92
+C-0167,Emma Brown,emma.brown167@example.com,2026-06-18,Türkiye,Active,3335.87
+C-0168,Noah Clark,noah.clark168@example.com,2026-03-03,United States,Active,1802.98
+C-0169,Leyla Miller,leyla.miller169@example.com,2025-02-27,United Kingdom,Inactive,146.38
+C-0170,Mia Taylor,mia.taylor170@example.com,2025-03-06,Türkiye,Prospect,93.03
+C-0171,Oliver Taylor,oliver.taylor171@example.com,2026-04-13,United States,Active,1029.73
+C-0172,Ethan Wilson,ethan.wilson172@example.com,2026-03-18,United States,Inactive,299.98
+C-0173,Liam Miller,liam.miller173@example.com,2025-02-01,United States,Active,1707.54
+C-0174,Ada Kaya,ada.kaya174@example.com,2026-03-17,France,Prospect,395.49
+C-0175,Liam Taylor,liam.taylor175@example.com,2025-04-04,Türkiye,Inactive,1073.85
+C-0176,Emma Wilson,emma.wilson176@example.com,2025-10-18,Germany,Inactive,3065.47
+C-0177,Leyla Miller,leyla.miller177@example.com,2025-11-18,United Kingdom,Inactive,1862.14
+C-0178,Emma Brown,emma.brown178@example.com,2026-03-19,United Kingdom,Inactive,4284.91
+C-0179,Leyla Kaya,leyla.kaya179@example.com,2026-07-15,United Kingdom,Inactive,2848.34
+C-0180,Leyla Martin,leyla.martin180@example.com,2025-07-13,United Kingdom,Inactive,1187.37
+C-0181,Mia Kaya,mia.kaya181@example.com,2025-09-12,Germany,Active,3896.74
+C-0182,Sofia Kaya,sofia.kaya182@example.com,2025-12-04,United States,Prospect,795.13
+C-0183,Noah Wilson,noah.wilson183@example.com,2025-04-16,United Kingdom,Active,148.80
+C-0184,Lucas Brown,lucas.brown184@example.com,2026-03-19,France,Active,1322.39
+C-0185,Ada Kaya,ada.kaya185@example.com,2025-06-11,Türkiye,Prospect,32.91
+C-0186,Ada Taylor,ada.taylor186@example.com,2026-03-13,United States,Prospect,2255.33
+C-0187,Mia Demir,mia.demir187@example.com,2025-09-21,United States,Inactive,2686.44
+C-0188,Ethan Kaya,ethan.kaya188@example.com,2025-05-17,Türkiye,Inactive,581.36
+C-0189,Noah Stone,noah.stone189@example.com,2026-02-19,France,Inactive,1032.97
+C-0190,Lucas Yilmaz,lucas.yilmaz190@example.com,2026-03-09,France,Inactive,1218.56
+C-0191,Liam Martin,liam.martin191@example.com,2026-03-16,Türkiye,Prospect,4121.26
+C-0192,Oliver Miller,oliver.miller192@example.com,2025-07-01,Türkiye,Inactive,2466.91
+C-0193,Ada Clark,ada.clark193@example.com,2025-07-14,Türkiye,Prospect,1394.31
+C-0194,Lucas Clark,lucas.clark194@example.com,2026-01-22,Germany,Prospect,1199.70
+C-0195,Sofia Demir,sofia.demir195@example.com,2025-05-26,Germany,Inactive,2421.78
+C-0196,Noah Taylor,noah.taylor196@example.com,2025-12-28,United States,Prospect,3431.44
+C-0197,Ada Demir,ada.demir197@example.com,2026-05-29,United States,Inactive,106.98
+C-0198,Noah Brown,noah.brown198@example.com,2026-05-19,United States,Prospect,3217.05
+C-0199,Lucas Martin,lucas.martin199@example.com,2026-03-12,France,Prospect,1169.87
+C-0200,Noah Yilmaz,noah.yilmaz200@example.com,2026-03-02,France,Prospect,3284.72
+C-0201,Ada Stone,ada.stone201@example.com,2026-01-12,Germany,Inactive,1964.06
+C-0202,Liam Brown,liam.brown202@example.com,2026-05-13,France,Inactive,1861.50
+C-0203,Noah Yilmaz,noah.yilmaz203@example.com,2025-06-01,United States,Active,3202.17
+C-0204,Lucas Yilmaz,lucas.yilmaz204@example.com,2025-10-21,Germany,Inactive,166.63
+C-0205,Ethan Wilson,ethan.wilson205@example.com,2026-01-26,France,Inactive,2516.29
+C-0206,Oliver Stone,oliver.stone206@example.com,2025-06-21,France,Active,686.70
+C-0207,Sofia Martin,sofia.martin207@example.com,2025-11-22,Türkiye,Active,3141.18
+C-0208,Leyla Demir,leyla.demir208@example.com,2025-02-10,United States,Inactive,908.73
+C-0209,Ethan Stone,ethan.stone209@example.com,2025-07-18,United States,Prospect,1308.76
+C-0210,Leyla Clark,leyla.clark210@example.com,2026-07-04,United States,Active,3137.49
+C-0211,Ada Taylor,ada.taylor211@example.com,2026-05-07,Germany,Active,3435.06
+C-0212,Ada Martin,ada.martin212@example.com,2026-04-29,Germany,Prospect,1057.46
+C-0213,Ethan Clark,ethan.clark213@example.com,2025-08-07,United States,Prospect,4228.80
+C-0214,Mia Wilson,mia.wilson214@example.com,2025-08-27,United States,Inactive,2770.39
+C-0215,Ada Miller,ada.miller215@example.com,2025-03-31,United States,Active,4039.81
+C-0216,Ethan Clark,ethan.clark216@example.com,2025-01-24,United States,Inactive,815.73
+C-0217,Emma Wilson,emma.wilson217@example.com,2026-03-22,United States,Active,3403.44
+C-0218,Emma Demir,emma.demir218@example.com,2025-06-28,Germany,Active,3899.56
+C-0219,Ethan Taylor,ethan.taylor219@example.com,2026-06-29,France,Inactive,408.70
+C-0220,Mia Yilmaz,mia.yilmaz220@example.com,2025-12-02,France,Prospect,4168.38
+C-0221,Leyla Martin,leyla.martin221@example.com,2026-04-01,Germany,Inactive,2166.94
+C-0222,Sofia Yilmaz,sofia.yilmaz222@example.com,2025-06-06,Türkiye,Prospect,2446.25
+C-0223,Emma Wilson,emma.wilson223@example.com,2026-01-19,France,Active,2977.64
+C-0224,Oliver Yilmaz,oliver.yilmaz224@example.com,2025-10-02,Germany,Prospect,543.86
+C-0225,Noah Stone,noah.stone225@example.com,2026-05-05,Türkiye,Active,3110.69
+C-0226,Noah Martin,noah.martin226@example.com,2026-03-08,United States,Active,975.91
+C-0227,Noah Yilmaz,noah.yilmaz227@example.com,2025-02-15,France,Inactive,3061.59
+C-0228,Ethan Miller,ethan.miller228@example.com,2025-10-10,France,Inactive,1315.35
+C-0229,Noah Taylor,noah.taylor229@example.com,2025-10-29,Türkiye,Inactive,22.57
+C-0230,Oliver Brown,oliver.brown230@example.com,2026-01-21,Germany,Inactive,3310.80
+C-0231,Mia Yilmaz,mia.yilmaz231@example.com,2025-08-02,Germany,Inactive,3677.34
+C-0232,Sofia Wilson,sofia.wilson232@example.com,2026-04-10,Türkiye,Inactive,2740.98
+C-0233,Leyla Demir,leyla.demir233@example.com,2025-12-29,United Kingdom,Inactive,3134.37
+C-0234,Ada Demir,ada.demir234@example.com,2026-05-27,United States,Inactive,2217.91
+C-0235,Mia Martin,mia.martin235@example.com,2025-03-11,United Kingdom,Prospect,1863.62
+C-0236,Sofia Demir,sofia.demir236@example.com,2025-08-22,Türkiye,Inactive,2493.10
+C-0237,Ada Demir,ada.demir237@example.com,2025-11-01,United Kingdom,Prospect,3376.78
+C-0238,Oliver Yilmaz,oliver.yilmaz238@example.com,2026-05-17,United Kingdom,Prospect,1735.20
+C-0239,Ada Stone,ada.stone239@example.com,2025-02-04,United States,Prospect,3727.97
+C-0240,Ada Kaya,ada.kaya240@example.com,2025-09-29,United States,Prospect,298.59
+C-0241,Liam Wilson,liam.wilson241@example.com,2025-07-17,United States,Prospect,219.21
+C-0242,Emma Stone,emma.stone242@example.com,2025-05-07,Germany,Inactive,3985.93
+C-0243,Mia Kaya,mia.kaya243@example.com,2026-04-20,France,Active,1095.00
+C-0244,Ada Wilson,ada.wilson244@example.com,2025-12-02,United Kingdom,Active,3472.58
+C-0245,Liam Clark,liam.clark245@example.com,2026-04-14,Türkiye,Inactive,3134.48
+C-0246,Mia Wilson,mia.wilson246@example.com,2025-03-29,United States,Prospect,1452.03
+C-0247,Lucas Martin,lucas.martin247@example.com,2026-02-26,United Kingdom,Prospect,619.03
+C-0248,Oliver Demir,oliver.demir248@example.com,2026-04-15,United States,Active,2803.70
+C-0249,Leyla Wilson,leyla.wilson249@example.com,2026-03-21,United States,Prospect,3964.70
+C-0250,Mia Stone,mia.stone250@example.com,2026-03-02,Türkiye,Prospect,3413.41
+C-0251,Lucas Clark,lucas.clark251@example.com,2025-01-27,United States,Prospect,3707.52
+C-0252,Noah Taylor,noah.taylor252@example.com,2025-02-15,United Kingdom,Prospect,4379.55
+C-0253,Leyla Taylor,leyla.taylor253@example.com,2025-03-26,France,Prospect,732.58
+C-0254,Leyla Clark,leyla.clark254@example.com,2025-01-17,United States,Prospect,2108.54
+C-0255,Noah Clark,noah.clark255@example.com,2026-01-13,United Kingdom,Active,2500.23
+C-0256,Leyla Kaya,leyla.kaya256@example.com,2025-06-30,United Kingdom,Inactive,1030.96
+C-0257,Lucas Taylor,lucas.taylor257@example.com,2025-03-23,United States,Active,3990.03
+C-0258,Lucas Stone,lucas.stone258@example.com,2026-01-27,France,Inactive,2012.18
+C-0259,Sofia Demir,sofia.demir259@example.com,2025-12-19,United States,Prospect,1004.54
+C-0260,Lucas Kaya,lucas.kaya260@example.com,2025-11-09,United States,Prospect,4034.95
+C-0261,Emma Wilson,emma.wilson261@example.com,2026-02-16,Germany,Prospect,1525.94
+C-0262,Noah Stone,noah.stone262@example.com,2025-03-09,France,Prospect,44.97
+C-0263,Sofia Wilson,sofia.wilson263@example.com,2026-06-30,France,Active,2065.26
+C-0264,Lucas Kaya,lucas.kaya264@example.com,2025-08-05,United States,Active,3300.57
+C-0265,Mia Stone,mia.stone265@example.com,2026-05-18,United States,Prospect,3152.10
+C-0266,Emma Martin,emma.martin266@example.com,2025-05-14,Germany,Inactive,893.73
+C-0267,Ada Miller,ada.miller267@example.com,2025-04-26,United Kingdom,Prospect,3385.55
+C-0268,Emma Clark,emma.clark268@example.com,2025-04-18,United States,Active,3129.46
+C-0269,Lucas Clark,lucas.clark269@example.com,2026-03-04,Türkiye,Active,392.94
+C-0270,Emma Kaya,emma.kaya270@example.com,2026-04-16,France,Inactive,2008.71
+C-0271,Lucas Stone,lucas.stone271@example.com,2026-06-18,United States,Prospect,2005.05
+C-0272,Oliver Clark,oliver.clark272@example.com,2026-01-21,United States,Active,460.69
+C-0273,Oliver Stone,oliver.stone273@example.com,2026-05-15,United States,Active,1356.06
+C-0274,Noah Miller,noah.miller274@example.com,2025-08-03,United Kingdom,Prospect,3352.97
+C-0275,Ethan Martin,ethan.martin275@example.com,2026-04-13,Germany,Inactive,4320.28
+C-0276,Lucas Stone,lucas.stone276@example.com,2025-07-27,United Kingdom,Active,2282.01
+C-0277,Ada Demir,ada.demir277@example.com,2025-10-22,Germany,Inactive,4412.71
+C-0278,Ethan Kaya,ethan.kaya278@example.com,2025-05-20,Germany,Prospect,99.19
+C-0279,Sofia Taylor,sofia.taylor279@example.com,2025-08-23,Türkiye,Active,4328.71
+C-0280,Ethan Stone,ethan.stone280@example.com,2026-03-05,France,Inactive,2111.80
+C-0281,Mia Stone,mia.stone281@example.com,2025-03-08,Germany,Inactive,669.48
+C-0282,Liam Taylor,liam.taylor282@example.com,2025-10-21,France,Prospect,204.28
+C-0283,Liam Taylor,liam.taylor283@example.com,2025-02-20,Türkiye,Active,3707.94
+C-0284,Emma Brown,emma.brown284@example.com,2025-06-26,United States,Prospect,4103.27
+C-0285,Mia Yilmaz,mia.yilmaz285@example.com,2025-05-26,United States,Inactive,2020.93
+C-0286,Emma Brown,emma.brown286@example.com,2025-02-25,United Kingdom,Prospect,2223.87
+C-0287,Liam Yilmaz,liam.yilmaz287@example.com,2025-09-02,United Kingdom,Inactive,706.27
+C-0288,Ada Miller,ada.miller288@example.com,2025-10-05,United States,Prospect,3067.79
+C-0289,Noah Clark,noah.clark289@example.com,2025-07-04,United States,Active,701.38
+C-0290,Noah Yilmaz,noah.yilmaz290@example.com,2026-07-12,Türkiye,Inactive,2686.73
+C-0291,Ada Brown,ada.brown291@example.com,2026-03-27,France,Inactive,3072.62
+C-0292,Emma Martin,emma.martin292@example.com,2026-03-20,United States,Prospect,1901.55
+C-0293,Ada Stone,ada.stone293@example.com,2026-05-24,United States,Active,4121.47
+C-0294,Ethan Brown,ethan.brown294@example.com,2026-01-22,Türkiye,Inactive,180.40
+C-0295,Noah Demir,noah.demir295@example.com,2026-03-06,United States,Prospect,1151.86
+C-0296,Sofia Clark,sofia.clark296@example.com,2026-06-26,United States,Active,3510.53
+C-0297,Lucas Stone,lucas.stone297@example.com,2026-06-20,France,Prospect,2349.94
+C-0298,Oliver Brown,oliver.brown298@example.com,2026-07-08,United Kingdom,Prospect,2926.21
+C-0299,Lucas Wilson,lucas.wilson299@example.com,2025-09-21,France,Prospect,3001.68
+C-0300,Sofia Taylor,sofia.taylor300@example.com,2025-03-04,United States,Active,902.73
+C-0301,Emma Martin,emma.martin301@example.com,2026-06-30,United Kingdom,Active,3846.90
+C-0302,Mia Wilson,mia.wilson302@example.com,2025-08-26,United Kingdom,Prospect,1815.04
+C-0303,Ada Yilmaz,ada.yilmaz303@example.com,2025-02-04,France,Inactive,385.48
+C-0304,Liam Demir,liam.demir304@example.com,2025-11-24,Türkiye,Prospect,376.65
+C-0305,Liam Kaya,liam.kaya305@example.com,2025-08-07,United Kingdom,Inactive,1580.64
+C-0306,Mia Miller,mia.miller306@example.com,2025-02-06,Germany,Inactive,3946.10
+C-0307,Noah Clark,noah.clark307@example.com,2025-09-15,Türkiye,Active,821.83
+C-0308,Sofia Brown,sofia.brown308@example.com,2025-03-04,Türkiye,Active,29.22
+C-0309,Oliver Brown,oliver.brown309@example.com,2026-06-26,France,Active,3902.94
+C-0310,Ada Brown,ada.brown310@example.com,2026-02-11,United States,Active,204.40
+C-0311,Ada Martin,ada.martin311@example.com,2026-02-24,United States,Active,4062.99
+C-0312,Lucas Miller,lucas.miller312@example.com,2025-01-03,Germany,Active,3374.40
+C-0313,Mia Brown,mia.brown313@example.com,2025-10-25,France,Inactive,3432.84
+C-0314,Lucas Martin,lucas.martin314@example.com,2025-05-12,United Kingdom,Prospect,2179.81
+C-0315,Ethan Yilmaz,ethan.yilmaz315@example.com,2026-03-28,France,Active,278.89
+C-0316,Mia Wilson,mia.wilson316@example.com,2025-11-13,United Kingdom,Active,2039.61
+C-0317,Mia Taylor,mia.taylor317@example.com,2025-06-23,Türkiye,Active,2190.67
+C-0318,Leyla Clark,leyla.clark318@example.com,2026-07-08,France,Active,1641.69
+C-0319,Emma Brown,emma.brown319@example.com,2025-12-22,France,Active,3996.25
+C-0320,Liam Miller,liam.miller320@example.com,2025-12-28,France,Active,2121.36
+C-0321,Noah Miller,noah.miller321@example.com,2025-11-08,France,Inactive,2151.06
+C-0322,Leyla Yilmaz,leyla.yilmaz322@example.com,2025-05-24,France,Prospect,1196.32
+C-0323,Leyla Kaya,leyla.kaya323@example.com,2025-02-07,United States,Prospect,3922.63
+C-0324,Liam Demir,liam.demir324@example.com,2025-05-15,France,Inactive,3779.78
+C-0325,Emma Yilmaz,emma.yilmaz325@example.com,2026-05-27,United Kingdom,Prospect,4333.33
+C-0326,Lucas Demir,lucas.demir326@example.com,2025-09-28,Türkiye,Inactive,3111.45
+C-0327,Lucas Stone,lucas.stone327@example.com,2026-02-03,United States,Prospect,3312.72
+C-0328,Oliver Kaya,oliver.kaya328@example.com,2026-02-10,United States,Inactive,3507.63
+C-0329,Sofia Clark,sofia.clark329@example.com,2025-10-19,United States,Inactive,3733.65
+C-0330,Lucas Martin,lucas.martin330@example.com,2026-07-09,Germany,Prospect,3710.84
+C-0331,Ada Kaya,ada.kaya331@example.com,2026-05-23,United States,Active,497.23
+C-0332,Leyla Brown,leyla.brown332@example.com,2025-06-06,Germany,Prospect,2885.43
+C-0333,Emma Yilmaz,emma.yilmaz333@example.com,2025-11-17,France,Active,524.31
+C-0334,Lucas Miller,lucas.miller334@example.com,2026-06-18,France,Prospect,2097.76
+C-0335,Liam Demir,liam.demir335@example.com,2025-05-10,United Kingdom,Prospect,3394.32
+C-0336,Noah Stone,noah.stone336@example.com,2026-05-21,Germany,Active,4008.73
+C-0337,Ada Kaya,ada.kaya337@example.com,2026-05-26,France,Inactive,4219.93
+C-0338,Ethan Clark,ethan.clark338@example.com,2026-04-09,United States,Prospect,2461.80
+C-0339,Emma Martin,emma.martin339@example.com,2025-06-30,United States,Prospect,1993.23
+C-0340,Emma Miller,emma.miller340@example.com,2025-05-09,Türkiye,Prospect,1562.90
+C-0341,Oliver Clark,oliver.clark341@example.com,2025-11-04,Türkiye,Inactive,1056.83
+C-0342,Emma Miller,emma.miller342@example.com,2025-04-24,United Kingdom,Active,165.92
+C-0343,Sofia Kaya,sofia.kaya343@example.com,2025-12-07,France,Inactive,976.92
+C-0344,Ada Martin,ada.martin344@example.com,2026-04-09,United Kingdom,Prospect,3528.26
+C-0345,Ada Kaya,ada.kaya345@example.com,2025-12-21,Türkiye,Inactive,3207.01
+C-0346,Mia Stone,mia.stone346@example.com,2025-10-20,Germany,Prospect,1314.01
+C-0347,Ethan Taylor,ethan.taylor347@example.com,2025-12-17,United Kingdom,Inactive,2475.79
+C-0348,Leyla Yilmaz,leyla.yilmaz348@example.com,2025-09-19,Germany,Prospect,3640.23
+C-0349,Sofia Brown,sofia.brown349@example.com,2026-04-29,United States,Active,2786.85
+C-0350,Lucas Miller,lucas.miller350@example.com,2025-01-22,France,Active,1524.20
+C-0351,Oliver Kaya,oliver.kaya351@example.com,2025-06-24,Türkiye,Prospect,962.09
+C-0352,Sofia Miller,sofia.miller352@example.com,2025-04-04,France,Inactive,1864.12
+C-0353,Ada Miller,ada.miller353@example.com,2025-09-14,Türkiye,Active,3348.91
+C-0354,Sofia Wilson,sofia.wilson354@example.com,2026-06-15,United States,Active,1162.96
+C-0355,Sofia Stone,sofia.stone355@example.com,2025-02-20,Türkiye,Inactive,1079.03
+C-0356,Mia Miller,mia.miller356@example.com,2025-12-01,United States,Active,4279.48
+C-0357,Mia Wilson,mia.wilson357@example.com,2026-05-25,Germany,Inactive,2650.01
+C-0358,Emma Wilson,emma.wilson358@example.com,2025-12-31,Türkiye,Active,4460.65
+C-0359,Oliver Martin,oliver.martin359@example.com,2025-08-30,Türkiye,Prospect,2199.15
+C-0360,Liam Yilmaz,liam.yilmaz360@example.com,2025-02-21,Germany,Active,1584.90
+C-0361,Leyla Miller,leyla.miller361@example.com,2026-02-11,France,Active,3855.77
+C-0362,Oliver Wilson,oliver.wilson362@example.com,2025-02-05,United Kingdom,Inactive,3945.62
+C-0363,Sofia Kaya,sofia.kaya363@example.com,2026-05-28,United Kingdom,Prospect,2595.11
+C-0364,Liam Clark,liam.clark364@example.com,2026-02-05,France,Inactive,3713.21
+C-0365,Oliver Brown,oliver.brown365@example.com,2025-02-12,Türkiye,Active,3958.73
+C-0366,Lucas Brown,lucas.brown366@example.com,2026-02-24,United States,Inactive,2993.62
+C-0367,Leyla Yilmaz,leyla.yilmaz367@example.com,2025-10-30,United Kingdom,Prospect,2110.76
+C-0368,Ada Martin,ada.martin368@example.com,2026-07-17,United Kingdom,Active,1268.13
+C-0369,Leyla Yilmaz,leyla.yilmaz369@example.com,2026-05-11,France,Active,3280.07
+C-0370,Lucas Kaya,lucas.kaya370@example.com,2026-03-28,United States,Prospect,3991.80
+C-0371,Mia Taylor,mia.taylor371@example.com,2025-10-06,Germany,Inactive,695.04
+C-0372,Mia Stone,mia.stone372@example.com,2025-06-29,Germany,Prospect,590.32
+C-0373,Oliver Demir,oliver.demir373@example.com,2025-03-24,United Kingdom,Active,2865.35
+C-0374,Mia Martin,mia.martin374@example.com,2025-12-21,United Kingdom,Inactive,315.50
+C-0375,Leyla Wilson,leyla.wilson375@example.com,2025-11-22,Türkiye,Active,819.20
+C-0376,Liam Yilmaz,liam.yilmaz376@example.com,2025-04-13,France,Active,3684.73
+C-0377,Ada Kaya,ada.kaya377@example.com,2026-05-26,France,Inactive,2945.76
+C-0378,Sofia Clark,sofia.clark378@example.com,2025-11-07,Germany,Active,552.37
+C-0379,Leyla Wilson,leyla.wilson379@example.com,2026-03-17,France,Active,2997.92
+C-0380,Ada Miller,ada.miller380@example.com,2025-12-10,Türkiye,Prospect,422.32
+C-0381,Liam Taylor,liam.taylor381@example.com,2025-09-03,Germany,Active,860.13
+C-0382,Lucas Stone,lucas.stone382@example.com,2025-03-11,United States,Prospect,2145.07
+C-0383,Lucas Yilmaz,lucas.yilmaz383@example.com,2025-08-26,United Kingdom,Prospect,3743.16
+C-0384,Emma Martin,emma.martin384@example.com,2026-02-25,Germany,Prospect,1792.59
+C-0385,Emma Kaya,emma.kaya385@example.com,2025-05-03,United Kingdom,Prospect,1581.41
+C-0386,Ethan Martin,ethan.martin386@example.com,2025-08-19,Germany,Active,127.75
+C-0387,Oliver Clark,oliver.clark387@example.com,2025-03-08,United Kingdom,Active,25.61
+C-0388,Oliver Brown,oliver.brown388@example.com,2025-11-17,United States,Inactive,1679.51
+C-0389,Oliver Demir,oliver.demir389@example.com,2026-03-09,United States,Inactive,762.91
+C-0390,Lucas Stone,lucas.stone390@example.com,2025-03-14,Türkiye,Inactive,26.20
+C-0391,Oliver Clark,oliver.clark391@example.com,2025-10-09,United States,Prospect,3919.01
+C-0392,Lucas Martin,lucas.martin392@example.com,2025-06-08,Germany,Inactive,4025.31
+C-0393,Emma Demir,emma.demir393@example.com,2025-04-19,United States,Inactive,1627.65
+C-0394,Lucas Martin,lucas.martin394@example.com,2025-11-21,Germany,Prospect,2699.51
+C-0395,Ethan Demir,ethan.demir395@example.com,2025-01-21,United States,Inactive,4165.74
+C-0396,Leyla Taylor,leyla.taylor396@example.com,2025-07-10,Germany,Active,654.64
+C-0397,Noah Clark,noah.clark397@example.com,2026-03-27,Türkiye,Inactive,1327.81
+C-0398,Ada Demir,ada.demir398@example.com,2025-10-21,Türkiye,Prospect,3807.28
+C-0399,Ada Miller,ada.miller399@example.com,2026-07-23,United Kingdom,Prospect,3784.27
+C-0400,Noah Yilmaz,noah.yilmaz400@example.com,2026-03-16,United Kingdom,Prospect,1780.18
+C-0401,Ethan Yilmaz,ethan.yilmaz401@example.com,2026-04-23,Türkiye,Active,3523.78
+C-0402,Liam Wilson,liam.wilson402@example.com,2026-06-13,United States,Active,262.63
+C-0403,Liam Kaya,liam.kaya403@example.com,2026-05-04,Türkiye,Prospect,1404.17
+C-0404,Oliver Martin,oliver.martin404@example.com,2025-11-21,Türkiye,Prospect,1651.80
+C-0405,Leyla Martin,leyla.martin405@example.com,2026-05-13,Germany,Inactive,3070.89
+C-0406,Mia Yilmaz,mia.yilmaz406@example.com,2025-03-22,United Kingdom,Prospect,1745.83
+C-0407,Liam Demir,liam.demir407@example.com,2025-08-16,United States,Active,4341.23
+C-0408,Liam Wilson,liam.wilson408@example.com,2025-09-06,United States,Active,1435.61
+C-0409,Noah Clark,noah.clark409@example.com,2026-07-11,France,Prospect,3579.06
+C-0410,Liam Yilmaz,liam.yilmaz410@example.com,2025-11-11,United States,Active,2184.68
+C-0411,Lucas Miller,lucas.miller411@example.com,2026-06-14,Türkiye,Inactive,3573.67
+C-0412,Liam Yilmaz,liam.yilmaz412@example.com,2026-03-16,United Kingdom,Active,2420.05
+C-0413,Ethan Miller,ethan.miller413@example.com,2026-07-09,France,Active,1269.56
+C-0414,Leyla Martin,leyla.martin414@example.com,2026-01-13,Türkiye,Active,362.73
+C-0415,Emma Demir,emma.demir415@example.com,2025-12-20,Germany,Active,2921.56
+C-0416,Liam Stone,liam.stone416@example.com,2025-11-04,France,Prospect,3439.58
+C-0417,Ada Taylor,ada.taylor417@example.com,2025-07-20,Germany,Prospect,1505.36
+C-0418,Leyla Yilmaz,leyla.yilmaz418@example.com,2025-03-17,Germany,Prospect,221.05
+C-0419,Emma Demir,emma.demir419@example.com,2025-02-25,United States,Inactive,1795.48
+C-0420,Emma Brown,emma.brown420@example.com,2025-04-13,Türkiye,Inactive,2557.03
+C-0421,Lucas Wilson,lucas.wilson421@example.com,2026-05-09,Türkiye,Active,4145.52
+C-0422,Ethan Brown,ethan.brown422@example.com,2026-03-13,Germany,Inactive,3800.83
+C-0423,Emma Stone,emma.stone423@example.com,2026-04-12,Germany,Active,1374.15
+C-0424,Noah Taylor,noah.taylor424@example.com,2026-04-14,United Kingdom,Active,3112.07
+C-0425,Mia Clark,mia.clark425@example.com,2026-01-18,Germany,Active,666.00
+C-0426,Ethan Stone,ethan.stone426@example.com,2025-12-29,Germany,Prospect,3991.91
+C-0427,Noah Taylor,noah.taylor427@example.com,2026-07-10,France,Prospect,2761.02
+C-0428,Mia Demir,mia.demir428@example.com,2025-11-13,United States,Inactive,4137.11
+C-0429,Lucas Taylor,lucas.taylor429@example.com,2026-01-31,United Kingdom,Inactive,1649.98
+C-0430,Ada Clark,ada.clark430@example.com,2026-03-07,United States,Prospect,982.32
+C-0431,Mia Wilson,mia.wilson431@example.com,2026-03-23,United States,Inactive,2065.20
+C-0432,Ada Clark,ada.clark432@example.com,2025-09-29,United Kingdom,Inactive,3012.76
+C-0433,Lucas Brown,lucas.brown433@example.com,2025-08-25,United Kingdom,Inactive,3524.45
+C-0434,Liam Taylor,liam.taylor434@example.com,2026-05-02,United States,Inactive,2147.96
+C-0435,Liam Taylor,liam.taylor435@example.com,2025-10-13,Germany,Prospect,4121.06
+C-0436,Liam Demir,liam.demir436@example.com,2026-04-14,United Kingdom,Prospect,271.44
+C-0437,Oliver Clark,oliver.clark437@example.com,2025-04-05,Germany,Inactive,1676.62
+C-0438,Mia Clark,mia.clark438@example.com,2026-03-15,France,Active,654.92
+C-0439,Emma Martin,emma.martin439@example.com,2026-01-19,United Kingdom,Prospect,152.30
+C-0440,Liam Demir,liam.demir440@example.com,2025-01-19,United States,Inactive,2133.06
+C-0441,Ethan Demir,ethan.demir441@example.com,2025-05-07,Germany,Active,2900.06
+C-0442,Ada Miller,ada.miller442@example.com,2025-02-04,Germany,Active,171.59
+C-0443,Oliver Brown,oliver.brown443@example.com,2025-10-10,United Kingdom,Prospect,4364.56
+C-0444,Liam Wilson,liam.wilson444@example.com,2026-02-02,United Kingdom,Inactive,2193.72
+C-0445,Lucas Yilmaz,lucas.yilmaz445@example.com,2025-03-25,Türkiye,Inactive,3716.86
+C-0446,Oliver Wilson,oliver.wilson446@example.com,2025-05-21,Türkiye,Inactive,3160.19
+C-0447,Mia Clark,mia.clark447@example.com,2025-12-06,United States,Inactive,1080.66
+C-0448,Lucas Taylor,lucas.taylor448@example.com,2025-12-24,France,Inactive,1698.08
+C-0449,Noah Kaya,noah.kaya449@example.com,2025-01-18,Germany,Prospect,3294.36
+C-0450,Oliver Miller,oliver.miller450@example.com,2025-08-23,Türkiye,Active,3440.46
+C-0451,Leyla Brown,leyla.brown451@example.com,2026-01-13,United Kingdom,Inactive,3341.35
+C-0452,Lucas Kaya,lucas.kaya452@example.com,2026-04-02,United Kingdom,Prospect,1812.69
+C-0453,Ada Kaya,ada.kaya453@example.com,2025-02-24,France,Prospect,1751.90
+C-0454,Ada Clark,ada.clark454@example.com,2025-07-20,United States,Active,493.46
+C-0455,Oliver Yilmaz,oliver.yilmaz455@example.com,2025-06-07,United States,Active,2416.76
+C-0456,Sofia Demir,sofia.demir456@example.com,2025-09-04,United States,Active,1110.15
+C-0457,Mia Demir,mia.demir457@example.com,2026-05-02,United Kingdom,Inactive,48.57
+C-0458,Ada Stone,ada.stone458@example.com,2025-08-11,Türkiye,Prospect,1861.29
+C-0459,Ada Demir,ada.demir459@example.com,2025-12-25,Türkiye,Prospect,2934.13
+C-0460,Oliver Martin,oliver.martin460@example.com,2026-06-04,United States,Active,2416.81
+C-0461,Lucas Clark,lucas.clark461@example.com,2025-11-02,United States,Active,3771.22
+C-0462,Lucas Wilson,lucas.wilson462@example.com,2026-03-09,United States,Inactive,3124.59
+C-0463,Liam Brown,liam.brown463@example.com,2025-01-09,Germany,Prospect,1811.31
+C-0464,Sofia Clark,sofia.clark464@example.com,2025-01-14,Germany,Inactive,434.71
+C-0465,Sofia Clark,sofia.clark465@example.com,2025-01-07,France,Active,3207.50
+C-0466,Mia Kaya,mia.kaya466@example.com,2025-02-13,Türkiye,Prospect,1207.61
+C-0467,Leyla Wilson,leyla.wilson467@example.com,2026-06-28,United States,Prospect,397.51
+C-0468,Leyla Miller,leyla.miller468@example.com,2025-12-06,France,Prospect,3965.60
+C-0469,Ethan Brown,ethan.brown469@example.com,2025-08-12,Türkiye,Inactive,2368.16
+C-0470,Emma Taylor,emma.taylor470@example.com,2025-09-01,United States,Active,3503.30
+C-0471,Mia Martin,mia.martin471@example.com,2025-02-22,Türkiye,Inactive,1991.42
+C-0472,Sofia Martin,sofia.martin472@example.com,2025-06-20,Türkiye,Prospect,4268.04
+C-0473,Ada Martin,ada.martin473@example.com,2025-01-19,Türkiye,Inactive,4126.44
+C-0474,Mia Martin,mia.martin474@example.com,2026-01-20,Germany,Inactive,270.80
+C-0475,Liam Kaya,liam.kaya475@example.com,2025-10-07,United Kingdom,Inactive,3592.65
+C-0476,Noah Clark,noah.clark476@example.com,2025-03-25,United States,Prospect,642.31
+C-0477,Lucas Clark,lucas.clark477@example.com,2026-07-24,Germany,Prospect,1689.57
+C-0478,Mia Demir,mia.demir478@example.com,2026-07-10,United States,Inactive,175.17
+C-0479,Lucas Yilmaz,lucas.yilmaz479@example.com,2025-02-08,United States,Active,2907.54
+C-0480,Ada Taylor,ada.taylor480@example.com,2025-08-14,Türkiye,Prospect,4454.05
+C-0481,Sofia Stone,sofia.stone481@example.com,2025-10-08,United Kingdom,Active,3291.85
+C-0482,Liam Taylor,liam.taylor482@example.com,2025-02-20,United States,Active,2148.42
+C-0483,Ethan Wilson,ethan.wilson483@example.com,2026-03-25,Türkiye,Prospect,1281.47
+C-0484,Ada Wilson,ada.wilson484@example.com,2025-01-21,France,Inactive,1660.90
+C-0485,Ada Clark,ada.clark485@example.com,2025-08-22,France,Prospect,3621.11
+C-0486,Leyla Kaya,leyla.kaya486@example.com,2026-01-09,United States,Active,3650.22
+C-0487,Emma Stone,emma.stone487@example.com,2025-09-20,Germany,Prospect,1507.17
+C-0488,Oliver Miller,oliver.miller488@example.com,2025-02-17,Türkiye,Inactive,2709.99
+C-0489,Ethan Clark,ethan.clark489@example.com,2026-07-10,Germany,Inactive,3768.16
+C-0490,Noah Yilmaz,noah.yilmaz490@example.com,2026-06-14,Germany,Inactive,2292.98
+C-0491,Liam Martin,liam.martin491@example.com,2026-06-11,United Kingdom,Prospect,2600.06
+C-0492,Mia Miller,mia.miller492@example.com,2025-11-26,United Kingdom,Inactive,772.19
+C-0493,Mia Brown,mia.brown493@example.com,2025-10-03,United States,Inactive,4454.84
+C-0494,Mia Wilson,mia.wilson494@example.com,2025-02-05,France,Prospect,798.61
+C-0495,Noah Kaya,noah.kaya495@example.com,2026-03-17,Türkiye,Inactive,1537.54
+C-0496,Emma Wilson,emma.wilson496@example.com,2025-12-03,United States,Prospect,2094.48
+C-0497,Liam Miller,liam.miller497@example.com,2025-12-15,France,Inactive,1571.92
+C-0498,Oliver Kaya,oliver.kaya498@example.com,2025-07-22,France,Prospect,3664.68
+C-0499,Noah Clark,noah.clark499@example.com,2026-05-24,Germany,Inactive,178.31
+C-0500,Mia Demir,mia.demir500@example.com,2025-10-28,United Kingdom,Inactive,228.93

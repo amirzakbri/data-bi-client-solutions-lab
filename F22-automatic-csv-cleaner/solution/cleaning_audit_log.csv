@@ -1,0 +1,2505 @@
+source_row,customer_id,field,before,after,action
+2,C-0001,customer_id,c-0001,C-0001,Standardized
+2,C-0001,email,Mia.Brown1@example.com,mia.brown1@example.com,Standardized
+2,C-0001,status,lead,Prospect,Standardized
+2,C-0001,signup_date,25-Jan-2025,2025-01-25,Standardized
+3,C-0002,customer_id,c-0002,C-0002,Standardized
+3,C-0002,email,Noah.Wilson2@example.com,noah.wilson2@example.com,Standardized
+3,C-0002,country,USA,United States,Standardized
+4,C-0003,customer_id,c-0003,C-0003,Standardized
+4,C-0003,email,Lucas.Kaya3@example.com,lucas.kaya3@example.com,Standardized
+4,C-0003,status,lead,Prospect,Standardized
+4,C-0003,signup_date,20-Jul-2026,2026-07-20,Standardized
+5,C-0004,customer_id,c-0004,C-0004,Standardized
+5,C-0004,email,Ada.Clark4@example.com,ada.clark4@example.com,Standardized
+5,C-0004,status,ACTIVE,Active,Standardized
+5,C-0004,lifetime_value,"$1,202.60",1202.60,Standardized
+5,C-0004,signup_date,22-Jan-2025,2025-01-22,Standardized
+6,C-0005,customer_id,c-0005,C-0005,Standardized
+6,C-0005,full_name,mia MARTIN,Mia Martin,Standardized
+6,C-0005,email,Mia.Martin5@example.com,mia.martin5@example.com,Standardized
+6,C-0005,country,FR,France,Standardized
+6,C-0005,status,active,Active,Standardized
+6,C-0005,signup_date,28-Jun-2026,2026-06-28,Standardized
+7,C-0006,customer_id,c-0006,C-0006,Standardized
+7,C-0006,email,Ethan.Clark6@Example.COM,ethan.clark6@example.com,Standardized
+7,C-0006,signup_date,09/12/2025,2025-12-09,Standardized
+8,C-0007,customer_id,C- 0007,C-0007,Standardized
+8,C-0007,email,Emma.Kaya7@example.com,emma.kaya7@example.com,Standardized
+8,C-0007,status,IN-ACTIVE,Inactive,Standardized
+8,C-0007,signup_date,14/10/2025,2025-10-14,Standardized
+9,C-0008,customer_id,c-0008,C-0008,Standardized
+9,C-0008,email,Ada.Wilson8@example.com,ada.wilson8@example.com,Standardized
+9,C-0008,country,u.k.,United Kingdom,Standardized
+9,C-0008,status,prospect,Prospect,Standardized
+9,C-0008,lifetime_value,"$1,898.85",1898.85,Standardized
+10,C-0009,customer_id,c-0009,C-0009,Standardized
+10,C-0009,email,Sofia.Taylor9@example.com,sofia.taylor9@example.com,Standardized
+10,C-0009,signup_date,24/02/2026,2026-02-24,Standardized
+11,C-0010,customer_id,c-0010,C-0010,Standardized
+11,C-0010,full_name,lucas WILSON,Lucas Wilson,Standardized
+11,C-0010,email,Lucas.Wilson10@example.com,lucas.wilson10@example.com,Standardized
+11,C-0010,country,FR,France,Standardized
+11,C-0010,status,prospect,Prospect,Standardized
+11,C-0010,signup_date,11-Feb-2026,2026-02-11,Standardized
+12,C-0011,customer_id,c-0011,C-0011,Standardized
+12,C-0011,email,Emma.Taylor11@example.com,emma.taylor11@example.com,Standardized
+12,C-0011,status,IN-ACTIVE,Inactive,Standardized
+12,C-0011,signup_date,24/06/2026,2026-06-24,Standardized
+13,C-0012,customer_id,c-0012,C-0012,Standardized
+13,C-0012,email,Noah.Martin12@Example.COM,noah.martin12@example.com,Standardized
+13,C-0012,status,active,Active,Standardized
+13,C-0012,lifetime_value,$461.60,461.60,Standardized
+13,C-0012,signup_date,31/03/2026,2026-03-31,Standardized
+14,C-0013,customer_id,c-0013,C-0013,Standardized
+14,C-0013,email,Liam.Taylor13@example.com,liam.taylor13@example.com,Standardized
+14,C-0013,country,DE,Germany,Standardized
+14,C-0013,status,ACTIVE,Active,Standardized
+14,C-0013,signup_date,02/09/2025,2025-09-02,Standardized
+15,C-0014,customer_id,C- 0014,C-0014,Standardized
+15,C-0014,email,Mia.Stone14@example.com,mia.stone14@example.com,Standardized
+15,C-0014,country,Turkey,Türkiye,Standardized
+15,C-0014,signup_date,14/07/2026,2026-07-14,Standardized
+16,C-0015,customer_id,c-0015,C-0015,Standardized
+16,C-0015,full_name,liam MILLER,Liam Miller,Standardized
+16,C-0015,email,Liam.Miller15@example.com,liam.miller15@example.com,Standardized
+16,C-0015,status,lead,Prospect,Standardized
+17,C-0016,customer_id,c-0016,C-0016,Standardized
+17,C-0016,email,Liam.Martin16@example.com,liam.martin16@example.com,Standardized
+17,C-0016,status,prospect,Prospect,Standardized
+17,C-0016,lifetime_value,"$1,860.14",1860.14,Standardized
+18,C-0017,customer_id,c-0017,C-0017,Standardized
+18,C-0017,email,Oliver.Stone17@example.com,oliver.stone17@example.com,Standardized
+18,C-0017,status,prospect,Prospect,Standardized
+18,C-0017,signup_date,03/05/2025,2025-05-03,Standardized
+19,C-0018,customer_id,c-0018,C-0018,Standardized
+19,C-0018,email,Sofia.Miller18@Example.COM,sofia.miller18@example.com,Standardized
+19,C-0018,country,Turkey,Türkiye,Standardized
+19,C-0018,status,active,Active,Standardized
+19,C-0018,signup_date,03-May-2026,2026-05-03,Standardized
+20,C-0019,customer_id,c-0019,C-0019,Standardized
+20,C-0019,email,Lucas.Demir19@example.com,lucas.demir19@example.com,Standardized
+20,C-0019,country,Turkey,Türkiye,Standardized
+20,C-0019,status,lead,Prospect,Standardized
+21,C-0020,customer_id,c-0020,C-0020,Standardized
+21,C-0020,full_name,noah WILSON,Noah Wilson,Standardized
+21,C-0020,email,Noah.Wilson20@example.com,noah.wilson20@example.com,Standardized
+21,C-0020,country,FR,France,Standardized
+21,C-0020,status,IN-ACTIVE,Inactive,Standardized
+21,C-0020,lifetime_value,"$2,837.99",2837.99,Standardized
+22,C-0021,customer_id,C- 0021,C-0021,Standardized
+22,C-0021,email,Sofia.Kaya21@example.com,sofia.kaya21@example.com,Standardized
+22,C-0021,country,Turkey,Türkiye,Standardized
+22,C-0021,status,lead,Prospect,Standardized
+23,C-0022,customer_id,c-0022,C-0022,Standardized
+23,C-0022,email,Noah.Brown22@example.com,noah.brown22@example.com,Standardized
+23,C-0022,country,us,United States,Standardized
+23,C-0022,status,ACTIVE,Active,Standardized
+23,C-0022,signup_date,02/07/2026,2026-07-02,Standardized
+24,C-0023,customer_id,c-0023,C-0023,Standardized
+24,C-0023,email,Ada.Demir23@example.com,ada.demir23@example.com,Standardized
+24,C-0023,country,UK,United Kingdom,Standardized
+24,C-0023,status,IN-ACTIVE,Inactive,Standardized
+24,C-0023,signup_date,10-Apr-2025,2025-04-10,Standardized
+25,C-0024,customer_id,c-0024,C-0024,Standardized
+25,C-0024,email,Ethan.Martin24@Example.COM,ethan.martin24@example.com,Standardized
+25,C-0024,status,prospect,Prospect,Standardized
+25,C-0024,lifetime_value,$191.50,191.50,Standardized
+26,C-0025,customer_id,c-0025,C-0025,Standardized
+26,C-0025,full_name,ada BROWN,Ada Brown,Standardized
+26,C-0025,email,Ada.Brown25@example.com,ada.brown25@example.com,Standardized
+26,C-0025,country,USA,United States,Standardized
+26,C-0025,status,lead,Prospect,Standardized
+26,C-0025,signup_date,28/07/2025,2025-07-28,Standardized
+27,C-0026,customer_id,c-0026,C-0026,Standardized
+27,C-0026,email,Leyla.Miller26@example.com,leyla.miller26@example.com,Standardized
+27,C-0026,country,us,United States,Standardized
+28,C-0027,customer_id,c-0027,C-0027,Standardized
+28,C-0027,email,Noah.Clark27@example.com,noah.clark27@example.com,Standardized
+29,C-0028,customer_id,C- 0028,C-0028,Standardized
+29,C-0028,email,Ada.Stone28@example.com,ada.stone28@example.com,Standardized
+29,C-0028,country,USA,United States,Standardized
+29,C-0028,status,IN-ACTIVE,Inactive,Standardized
+29,C-0028,lifetime_value,"$2,724.42",2724.42,Standardized
+30,C-0029,customer_id,c-0029,C-0029,Standardized
+30,C-0029,email,Ada.Demir29@example.com,ada.demir29@example.com,Standardized
+30,C-0029,country,DE,Germany,Standardized
+30,C-0029,status,lead,Prospect,Standardized
+31,C-0030,customer_id,c-0030,C-0030,Standardized
+31,C-0030,full_name,liam MILLER,Liam Miller,Standardized
+31,C-0030,email,Liam.Miller30@Example.COM,liam.miller30@example.com,Standardized
+31,C-0030,country,Turkey,Türkiye,Standardized
+31,C-0030,signup_date,02/07/2026,2026-07-02,Standardized
+32,C-0031,customer_id,c-0031,C-0031,Standardized
+32,C-0031,email,Ada.Yilmaz31@example.com,ada.yilmaz31@example.com,Standardized
+32,C-0031,country,FR,France,Standardized
+32,C-0031,status,prospect,Prospect,Standardized
+33,C-0032,customer_id,c-0032,C-0032,Standardized
+33,C-0032,email,Ethan.Demir32@example.com,ethan.demir32@example.com,Standardized
+33,C-0032,country,u.k.,United Kingdom,Standardized
+33,C-0032,status,prospect,Prospect,Standardized
+33,C-0032,lifetime_value,$863.80,863.80,Standardized
+33,C-0032,signup_date,10/06/2026,2026-06-10,Standardized
+34,C-0033,customer_id,c-0033,C-0033,Standardized
+34,C-0033,email,Mia.Wilson33@example.com,mia.wilson33@example.com,Standardized
+34,C-0033,status,prospect,Prospect,Standardized
+34,C-0033,signup_date,07/06/2026,2026-06-07,Standardized
+35,C-0034,customer_id,c-0034,C-0034,Standardized
+35,C-0034,email,Liam.Miller34@example.com,liam.miller34@example.com,Standardized
+35,C-0034,country,us,United States,Standardized
+35,C-0034,status,IN-ACTIVE,Inactive,Standardized
+35,C-0034,signup_date,20/02/2026,2026-02-20,Standardized
+36,C-0035,customer_id,C- 0035,C-0035,Standardized
+36,C-0035,full_name,emma BROWN,Emma Brown,Standardized
+36,C-0035,email,Emma.Brown35@example.com,emma.brown35@example.com,Standardized
+37,C-0036,customer_id,c-0036,C-0036,Standardized
+37,C-0036,email,Liam.Stone36@Example.COM,liam.stone36@example.com,Standardized
+37,C-0036,status,ACTIVE,Active,Standardized
+37,C-0036,lifetime_value,"$4,363.39",4363.39,Standardized
+37,C-0036,signup_date,15-Jun-2026,2026-06-15,Standardized
+38,C-0037,customer_id,c-0037,C-0037,Standardized
+38,C-0037,email,Emma.Wilson37@example.com,emma.wilson37@example.com,Standardized
+38,C-0037,country,USA,United States,Standardized
+38,C-0037,status,active,Active,Standardized
+38,C-0037,signup_date,01-Jan-2025,2025-01-01,Standardized
+39,C-0038,customer_id,c-0038,C-0038,Standardized
+39,C-0038,email,Emma.Stone38@example.com,emma.stone38@example.com,Standardized
+40,C-0039,customer_id,c-0039,C-0039,Standardized
+40,C-0039,email,Emma.Demir39@example.com,emma.demir39@example.com,Standardized
+40,C-0039,status,lead,Prospect,Standardized
+40,C-0039,signup_date,17/11/2025,2025-11-17,Standardized
+41,C-0040,customer_id,c-0040,C-0040,Standardized
+41,C-0040,full_name,emma WILSON,Emma Wilson,Standardized
+41,C-0040,email,Emma.Wilson40@example.com,emma.wilson40@example.com,Standardized
+41,C-0040,country,USA,United States,Standardized
+41,C-0040,status,ACTIVE,Active,Standardized
+41,C-0040,lifetime_value,"$4,239.22",4239.22,Standardized
+41,C-0040,signup_date,26-Nov-2025,2025-11-26,Standardized
+42,C-0041,customer_id,c-0041,C-0041,Standardized
+42,C-0041,email,Emma.Wilson41@example.com,emma.wilson41@example.com,Standardized
+42,C-0041,country,USA,United States,Standardized
+42,C-0041,status,active,Active,Standardized
+43,C-0042,customer_id,C- 0042,C-0042,Standardized
+43,C-0042,email,Ethan.Demir42@Example.COM,ethan.demir42@example.com,Standardized
+43,C-0042,country,DE,Germany,Standardized
+43,C-0042,signup_date,25/01/2025,2025-01-25,Standardized
+44,C-0043,customer_id,c-0043,C-0043,Standardized
+44,C-0043,email,Mia.Kaya43@example.com,mia.kaya43@example.com,Standardized
+44,C-0043,country,Turkey,Türkiye,Standardized
+44,C-0043,status,ACTIVE,Active,Standardized
+44,C-0043,signup_date,04/05/2026,2026-05-04,Standardized
+45,C-0044,customer_id,c-0044,C-0044,Standardized
+45,C-0044,email,Leyla.Demir44@example.com,leyla.demir44@example.com,Standardized
+45,C-0044,country,FR,France,Standardized
+45,C-0044,lifetime_value,"$1,038.67",1038.67,Standardized
+45,C-0044,signup_date,29-Aug-2025,2025-08-29,Standardized
+46,C-0045,customer_id,c-0045,C-0045,Standardized
+46,C-0045,full_name,ada MILLER,Ada Miller,Standardized
+46,C-0045,email,Ada.Miller45@example.com,ada.miller45@example.com,Standardized
+46,C-0045,country,us,United States,Standardized
+46,C-0045,status,ACTIVE,Active,Standardized
+46,C-0045,signup_date,14-Oct-2025,2025-10-14,Standardized
+47,C-0046,customer_id,c-0046,C-0046,Standardized
+47,C-0046,email,Liam.Demir46@example.com,liam.demir46@example.com,Standardized
+47,C-0046,country,u.k.,United Kingdom,Standardized
+47,C-0046,status,ACTIVE,Active,Standardized
+48,C-0047,customer_id,c-0047,C-0047,Standardized
+48,C-0047,email,Mia.Martin47@example.com,mia.martin47@example.com,Standardized
+48,C-0047,status,IN-ACTIVE,Inactive,Standardized
+48,C-0047,signup_date,08/05/2026,2026-05-08,Standardized
+49,C-0048,customer_id,c-0048,C-0048,Standardized
+49,C-0048,email,Noah.Wilson48@Example.COM,noah.wilson48@example.com,Standardized
+49,C-0048,status,prospect,Prospect,Standardized
+49,C-0048,lifetime_value,$612.34,612.34,Standardized
+49,C-0048,signup_date,31/07/2025,2025-07-31,Standardized
+50,C-0049,customer_id,C- 0049,C-0049,Standardized
+50,C-0049,email,Oliver.Yilmaz49@example.com,oliver.yilmaz49@example.com,Standardized
+50,C-0049,country,DE,Germany,Standardized
+50,C-0049,status,lead,Prospect,Standardized
+51,C-0050,customer_id,c-0050,C-0050,Standardized
+51,C-0050,full_name,oliver WILSON,Oliver Wilson,Standardized
+51,C-0050,email,Oliver.Wilson50@example.com,oliver.wilson50@example.com,Standardized
+51,C-0050,country,us,United States,Standardized
+51,C-0050,status,active,Active,Standardized
+51,C-0050,signup_date,02/08/2025,2025-08-02,Standardized
+52,C-0051,customer_id,c-0051,C-0051,Standardized
+52,C-0051,email,Mia.Miller51@example.com,mia.miller51@example.com,Standardized
+53,C-0052,customer_id,c-0052,C-0052,Standardized
+53,C-0052,email,Mia.Stone52@example.com,mia.stone52@example.com,Standardized
+53,C-0052,status,ACTIVE,Active,Standardized
+53,C-0052,lifetime_value,"$3,549.51",3549.51,Standardized
+53,C-0052,signup_date,15-Jun-2025,2025-06-15,Standardized
+54,C-0053,customer_id,c-0053,C-0053,Standardized
+54,C-0053,email,Lucas.Brown53@example.com,lucas.brown53@example.com,Standardized
+54,C-0053,status,lead,Prospect,Standardized
+54,C-0053,signup_date,12-Dec-2025,2025-12-12,Standardized
+55,C-0054,customer_id,c-0054,C-0054,Standardized
+55,C-0054,email,Mia.Yilmaz54@Example.COM,mia.yilmaz54@example.com,Standardized
+55,C-0054,signup_date,08-Apr-2026,2026-04-08,Standardized
+56,C-0055,customer_id,c-0055,C-0055,Standardized
+56,C-0055,full_name,liam BROWN,Liam Brown,Standardized
+56,C-0055,email,Liam.Brown55@example.com,liam.brown55@example.com,Standardized
+56,C-0055,signup_date,19-Aug-2025,2025-08-19,Standardized
+57,C-0056,customer_id,C- 0056,C-0056,Standardized
+57,C-0056,email,Lucas.Stone56@example.com,lucas.stone56@example.com,Standardized
+57,C-0056,country,Turkey,Türkiye,Standardized
+57,C-0056,status,IN-ACTIVE,Inactive,Standardized
+57,C-0056,lifetime_value,"$2,501.54",2501.54,Standardized
+57,C-0056,signup_date,03-Sep-2025,2025-09-03,Standardized
+58,C-0057,customer_id,c-0057,C-0057,Standardized
+58,C-0057,email,Ethan.Martin57@example.com,ethan.martin57@example.com,Standardized
+58,C-0057,status,lead,Prospect,Standardized
+58,C-0057,signup_date,22/08/2025,2025-08-22,Standardized
+59,C-0058,customer_id,c-0058,C-0058,Standardized
+59,C-0058,email,Mia.Stone58@example.com,mia.stone58@example.com,Standardized
+59,C-0058,status,active,Active,Standardized
+59,C-0058,signup_date,18-Jul-2026,2026-07-18,Standardized
+60,C-0059,customer_id,c-0059,C-0059,Standardized
+60,C-0059,email,Mia.Taylor59@example.com,mia.taylor59@example.com,Standardized
+60,C-0059,country,Turkey,Türkiye,Standardized
+60,C-0059,status,prospect,Prospect,Standardized
+60,C-0059,signup_date,27/08/2025,2025-08-27,Standardized
+61,C-0060,customer_id,c-0060,C-0060,Standardized
+61,C-0060,full_name,sofia STONE,Sofia Stone,Standardized
+61,C-0060,email,Sofia.Stone60@Example.COM,sofia.stone60@example.com,Standardized
+61,C-0060,country,Turkey,Türkiye,Standardized
+61,C-0060,status,ACTIVE,Active,Standardized
+61,C-0060,lifetime_value,"$1,997.60",1997.60,Standardized
+62,C-0061,customer_id,c-0061,C-0061,Standardized
+62,C-0061,email,Oliver.Kaya61@example.com,oliver.kaya61@example.com,Standardized
+62,C-0061,country,us,United States,Standardized
+62,C-0061,signup_date,05-Jun-2026,2026-06-05,Standardized
+63,C-0062,customer_id,c-0062,C-0062,Standardized
+63,C-0062,email,Ethan.Martin62@example.com,ethan.martin62@example.com,Standardized
+63,C-0062,country,us,United States,Standardized
+63,C-0062,status,lead,Prospect,Standardized
+64,C-0063,customer_id,C- 0063,C-0063,Standardized
+64,C-0063,email,Emma.Demir63@example.com,emma.demir63@example.com,Standardized
+64,C-0063,country,FR,France,Standardized
+64,C-0063,signup_date,01-Apr-2026,2026-04-01,Standardized
+65,C-0064,customer_id,c-0064,C-0064,Standardized
+65,C-0064,email,Liam.Kaya64@example.com,liam.kaya64@example.com,Standardized
+65,C-0064,country,us,United States,Standardized
+65,C-0064,status,active,Active,Standardized
+65,C-0064,lifetime_value,$571.70,571.70,Standardized
+65,C-0064,signup_date,21-Feb-2025,2025-02-21,Standardized
+66,C-0065,customer_id,c-0065,C-0065,Standardized
+66,C-0065,full_name,emma TAYLOR,Emma Taylor,Standardized
+66,C-0065,email,Emma.Taylor65@example.com,emma.taylor65@example.com,Standardized
+66,C-0065,status,lead,Prospect,Standardized
+66,C-0065,signup_date,27-Feb-2026,2026-02-27,Standardized
+67,C-0066,customer_id,c-0066,C-0066,Standardized
+67,C-0066,email,Noah.Brown66@Example.COM,noah.brown66@example.com,Standardized
+67,C-0066,country,Turkey,Türkiye,Standardized
+67,C-0066,status,prospect,Prospect,Standardized
+67,C-0066,signup_date,22/02/2026,2026-02-22,Standardized
+68,C-0067,customer_id,c-0067,C-0067,Standardized
+68,C-0067,email,Emma.Demir67@example.com,emma.demir67@example.com,Standardized
+68,C-0067,status,prospect,Prospect,Standardized
+68,C-0067,signup_date,31-May-2025,2025-05-31,Standardized
+69,C-0068,customer_id,c-0068,C-0068,Standardized
+69,C-0068,email,Noah.Stone68@example.com,noah.stone68@example.com,Standardized
+69,C-0068,country,DE,Germany,Standardized
+69,C-0068,status,active,Active,Standardized
+69,C-0068,lifetime_value,$346.99,346.99,Standardized
+69,C-0068,signup_date,25-Dec-2025,2025-12-25,Standardized
+70,C-0069,customer_id,c-0069,C-0069,Standardized
+70,C-0069,email,Oliver.Yilmaz69@example.com,oliver.yilmaz69@example.com,Standardized
+70,C-0069,country,USA,United States,Standardized
+70,C-0069,status,IN-ACTIVE,Inactive,Standardized
+71,C-0070,customer_id,C- 0070,C-0070,Standardized
+71,C-0070,full_name,leyla BROWN,Leyla Brown,Standardized
+71,C-0070,email,Leyla.Brown70@example.com,leyla.brown70@example.com,Standardized
+72,C-0071,customer_id,c-0071,C-0071,Standardized
+72,C-0071,email,Noah.Stone71@example.com,noah.stone71@example.com,Standardized
+72,C-0071,status,IN-ACTIVE,Inactive,Standardized
+73,C-0072,customer_id,c-0072,C-0072,Standardized
+73,C-0072,email,Liam.Kaya72@Example.COM,liam.kaya72@example.com,Standardized
+73,C-0072,country,UK,United Kingdom,Standardized
+73,C-0072,lifetime_value,"$4,465.60",4465.60,Standardized
+74,C-0073,customer_id,c-0073,C-0073,Standardized
+74,C-0073,email,Leyla.Miller73@example.com,leyla.miller73@example.com,Standardized
+74,C-0073,country,Turkey,Türkiye,Standardized
+74,C-0073,status,lead,Prospect,Standardized
+74,C-0073,signup_date,14/10/2025,2025-10-14,Standardized
+75,C-0074,customer_id,c-0074,C-0074,Standardized
+75,C-0074,email,Sofia.Wilson74@example.com,sofia.wilson74@example.com,Standardized
+75,C-0074,country,UK,United Kingdom,Standardized
+75,C-0074,status,ACTIVE,Active,Standardized
+76,C-0075,customer_id,c-0075,C-0075,Standardized
+76,C-0075,full_name,liam YILMAZ,Liam Yilmaz,Standardized
+76,C-0075,email,Liam.Yilmaz75@example.com,liam.yilmaz75@example.com,Standardized
+76,C-0075,country,u.k.,United Kingdom,Standardized
+77,C-0076,customer_id,c-0076,C-0076,Standardized
+77,C-0076,email,Ada.Miller76@example.com,ada.miller76@example.com,Standardized
+77,C-0076,country,DE,Germany,Standardized
+77,C-0076,status,ACTIVE,Active,Standardized
+77,C-0076,lifetime_value,"$3,981.58",3981.58,Standardized
+77,C-0076,signup_date,23-Jun-2026,2026-06-23,Standardized
+78,C-0077,customer_id,C- 0077,C-0077,Standardized
+78,C-0077,email,Ada.Brown77@example.com,ada.brown77@example.com,Standardized
+78,C-0077,country,USA,United States,Standardized
+78,C-0077,status,IN-ACTIVE,Inactive,Standardized
+78,C-0077,signup_date,03-Jun-2025,2025-06-03,Standardized
+79,C-0078,customer_id,c-0078,C-0078,Standardized
+79,C-0078,email,Noah.Taylor78@Example.COM,noah.taylor78@example.com,Standardized
+79,C-0078,country,UK,United Kingdom,Standardized
+80,C-0079,customer_id,c-0079,C-0079,Standardized
+80,C-0079,email,Leyla.Kaya79@example.com,leyla.kaya79@example.com,Standardized
+80,C-0079,country,UK,United Kingdom,Standardized
+80,C-0079,status,prospect,Prospect,Standardized
+80,C-0079,signup_date,03/06/2025,2025-06-03,Standardized
+81,C-0080,customer_id,c-0080,C-0080,Standardized
+81,C-0080,full_name,oliver YILMAZ,Oliver Yilmaz,Standardized
+81,C-0080,email,Oliver.Yilmaz80@example.com,oliver.yilmaz80@example.com,Standardized
+81,C-0080,status,active,Active,Standardized
+81,C-0080,lifetime_value,$629.87,629.87,Standardized
+81,C-0080,signup_date,28/04/2025,2025-04-28,Standardized
+82,C-0081,customer_id,c-0081,C-0081,Standardized
+82,C-0081,email,Sofia.Brown81@example.com,sofia.brown81@example.com,Standardized
+82,C-0081,country,u.k.,United Kingdom,Standardized
+82,C-0081,status,prospect,Prospect,Standardized
+82,C-0081,signup_date,30/12/2025,2025-12-30,Standardized
+83,C-0082,customer_id,c-0082,C-0082,Standardized
+83,C-0082,email,Noah.Demir82@example.com,noah.demir82@example.com,Standardized
+83,C-0082,country,UK,United Kingdom,Standardized
+83,C-0082,status,lead,Prospect,Standardized
+83,C-0082,signup_date,07-Feb-2026,2026-02-07,Standardized
+84,C-0083,customer_id,c-0083,C-0083,Standardized
+84,C-0083,email,Liam.Kaya83@example.com,liam.kaya83@example.com,Standardized
+84,C-0083,country,us,United States,Standardized
+84,C-0083,status,lead,Prospect,Standardized
+84,C-0083,signup_date,09/06/2025,2025-06-09,Standardized
+85,C-0084,customer_id,C- 0084,C-0084,Standardized
+85,C-0084,email,Liam.Stone84@Example.COM,liam.stone84@example.com,Standardized
+85,C-0084,country,us,United States,Standardized
+85,C-0084,status,IN-ACTIVE,Inactive,Standardized
+85,C-0084,lifetime_value,"$1,333.93",1333.93,Standardized
+85,C-0084,signup_date,14-May-2026,2026-05-14,Standardized
+86,C-0085,customer_id,c-0085,C-0085,Standardized
+86,C-0085,full_name,noah STONE,Noah Stone,Standardized
+86,C-0085,email,Noah.Stone85@example.com,noah.stone85@example.com,Standardized
+86,C-0085,country,FR,France,Standardized
+86,C-0085,status,IN-ACTIVE,Inactive,Standardized
+86,C-0085,signup_date,22-Jan-2025,2025-01-22,Standardized
+87,C-0086,customer_id,c-0086,C-0086,Standardized
+87,C-0086,email,Oliver.Yilmaz86@example.com,oliver.yilmaz86@example.com,Standardized
+87,C-0086,status,ACTIVE,Active,Standardized
+87,C-0086,signup_date,15-Jun-2026,2026-06-15,Standardized
+88,C-0087,customer_id,c-0087,C-0087,Standardized
+88,C-0087,email,Mia.Wilson87@example.com,mia.wilson87@example.com,Standardized
+88,C-0087,country,us,United States,Standardized
+88,C-0087,status,active,Active,Standardized
+89,C-0088,customer_id,c-0088,C-0088,Standardized
+89,C-0088,email,Emma.Miller88@example.com,emma.miller88@example.com,Standardized
+89,C-0088,country,Turkey,Türkiye,Standardized
+89,C-0088,status,ACTIVE,Active,Standardized
+89,C-0088,lifetime_value,"$2,286.93",2286.93,Standardized
+89,C-0088,signup_date,30-Aug-2025,2025-08-30,Standardized
+90,C-0089,customer_id,c-0089,C-0089,Standardized
+90,C-0089,email,Mia.Demir89@example.com,mia.demir89@example.com,Standardized
+90,C-0089,country,USA,United States,Standardized
+90,C-0089,status,prospect,Prospect,Standardized
+90,C-0089,signup_date,26-Nov-2025,2025-11-26,Standardized
+91,C-0090,customer_id,c-0090,C-0090,Standardized
+91,C-0090,full_name,noah CLARK,Noah Clark,Standardized
+91,C-0090,email,Noah.Clark90@Example.COM,noah.clark90@example.com,Standardized
+91,C-0090,status,IN-ACTIVE,Inactive,Standardized
+92,C-0091,customer_id,C- 0091,C-0091,Standardized
+92,C-0091,email,Leyla.Martin91@example.com,leyla.martin91@example.com,Standardized
+92,C-0091,status,active,Active,Standardized
+92,C-0091,signup_date,30/12/2025,2025-12-30,Standardized
+93,C-0092,customer_id,c-0092,C-0092,Standardized
+93,C-0092,email,Ethan.Martin92@example.com,ethan.martin92@example.com,Standardized
+93,C-0092,status,ACTIVE,Active,Standardized
+93,C-0092,lifetime_value,"$3,928.65",3928.65,Standardized
+93,C-0092,signup_date,26-May-2026,2026-05-26,Standardized
+94,C-0093,customer_id,c-0093,C-0093,Standardized
+94,C-0093,email,Liam.Clark93@example.com,liam.clark93@example.com,Standardized
+94,C-0093,country,USA,United States,Standardized
+94,C-0093,status,prospect,Prospect,Standardized
+95,C-0094,customer_id,c-0094,C-0094,Standardized
+95,C-0094,email,Leyla.Wilson94@example.com,leyla.wilson94@example.com,Standardized
+95,C-0094,country,u.k.,United Kingdom,Standardized
+95,C-0094,signup_date,30/09/2025,2025-09-30,Standardized
+96,C-0095,customer_id,c-0095,C-0095,Standardized
+96,C-0095,full_name,ethan DEMIR,Ethan Demir,Standardized
+96,C-0095,email,Ethan.Demir95@example.com,ethan.demir95@example.com,Standardized
+96,C-0095,country,Turkey,Türkiye,Standardized
+96,C-0095,signup_date,16/03/2025,2025-03-16,Standardized
+97,C-0096,customer_id,c-0096,C-0096,Standardized
+97,C-0096,email,Leyla.Taylor96@Example.COM,leyla.taylor96@example.com,Standardized
+97,C-0096,status,ACTIVE,Active,Standardized
+97,C-0096,lifetime_value,$458.39,458.39,Standardized
+97,C-0096,signup_date,26-Jun-2025,2025-06-26,Standardized
+98,C-0097,customer_id,c-0097,C-0097,Standardized
+98,C-0097,email,Mia.Brown97@example.com,mia.brown97@example.com,Standardized
+98,C-0097,country,Turkey,Türkiye,Standardized
+98,C-0097,status,IN-ACTIVE,Inactive,Standardized
+98,C-0097,signup_date,18-Mar-2026,2026-03-18,Standardized
+99,C-0098,customer_id,C- 0098,C-0098,Standardized
+99,C-0098,email,Oliver.Miller98@example.com,oliver.miller98@example.com,Standardized
+99,C-0098,country,Turkey,Türkiye,Standardized
+99,C-0098,status,IN-ACTIVE,Inactive,Standardized
+99,C-0098,signup_date,21/06/2026,2026-06-21,Standardized
+100,C-0099,customer_id,c-0099,C-0099,Standardized
+100,C-0099,email,Noah.Miller99@example.com,noah.miller99@example.com,Standardized
+100,C-0099,status,prospect,Prospect,Standardized
+100,C-0099,signup_date,02-Nov-2025,2025-11-02,Standardized
+101,C-0100,customer_id,c-0100,C-0100,Standardized
+101,C-0100,full_name,lucas MILLER,Lucas Miller,Standardized
+101,C-0100,email,Lucas.Miller100@example.com,lucas.miller100@example.com,Standardized
+101,C-0100,country,FR,France,Standardized
+101,C-0100,status,prospect,Prospect,Standardized
+101,C-0100,lifetime_value,"$4,438.38",4438.38,Standardized
+101,C-0100,signup_date,06/07/2026,2026-07-06,Standardized
+102,C-0101,customer_id,c-0101,C-0101,Standardized
+102,C-0101,email,Leyla.Yilmaz101@example.com,leyla.yilmaz101@example.com,Standardized
+102,C-0101,country,Turkey,Türkiye,Standardized
+102,C-0101,status,IN-ACTIVE,Inactive,Standardized
+103,C-0102,customer_id,c-0102,C-0102,Standardized
+103,C-0102,email,Noah.Miller102@Example.COM,noah.miller102@example.com,Standardized
+103,C-0102,country,us,United States,Standardized
+103,C-0102,signup_date,12-Nov-2025,2025-11-12,Standardized
+104,C-0103,customer_id,c-0103,C-0103,Standardized
+104,C-0103,email,Ada.Wilson103@example.com,ada.wilson103@example.com,Standardized
+104,C-0103,country,u.k.,United Kingdom,Standardized
+104,C-0103,status,IN-ACTIVE,Inactive,Standardized
+104,C-0103,signup_date,06/02/2025,2025-02-06,Standardized
+105,C-0104,customer_id,c-0104,C-0104,Standardized
+105,C-0104,email,Ada.Brown104@example.com,ada.brown104@example.com,Standardized
+105,C-0104,country,USA,United States,Standardized
+105,C-0104,status,IN-ACTIVE,Inactive,Standardized
+105,C-0104,lifetime_value,"$2,111.77",2111.77,Standardized
+105,C-0104,signup_date,19/02/2026,2026-02-19,Standardized
+106,C-0105,customer_id,C- 0105,C-0105,Standardized
+106,C-0105,full_name,mia BROWN,Mia Brown,Standardized
+106,C-0105,email,Mia.Brown105@example.com,mia.brown105@example.com,Standardized
+106,C-0105,country,u.k.,United Kingdom,Standardized
+106,C-0105,status,active,Active,Standardized
+107,C-0106,customer_id,c-0106,C-0106,Standardized
+107,C-0106,email,Ethan.Martin106@example.com,ethan.martin106@example.com,Standardized
+107,C-0106,status,prospect,Prospect,Standardized
+108,C-0107,customer_id,c-0107,C-0107,Standardized
+108,C-0107,email,Emma.Kaya107@example.com,emma.kaya107@example.com,Standardized
+108,C-0107,status,active,Active,Standardized
+108,C-0107,signup_date,13-May-2025,2025-05-13,Standardized
+109,C-0108,customer_id,c-0108,C-0108,Standardized
+109,C-0108,email,Emma.Demir108@Example.COM,emma.demir108@example.com,Standardized
+109,C-0108,country,us,United States,Standardized
+109,C-0108,status,lead,Prospect,Standardized
+109,C-0108,lifetime_value,"$1,508.07",1508.07,Standardized
+109,C-0108,signup_date,09/02/2025,2025-02-09,Standardized
+110,C-0109,customer_id,c-0109,C-0109,Standardized
+110,C-0109,email,Ada.Martin109@example.com,ada.martin109@example.com,Standardized
+110,C-0109,status,prospect,Prospect,Standardized
+110,C-0109,signup_date,20-Jul-2025,2025-07-20,Standardized
+111,C-0110,customer_id,c-0110,C-0110,Standardized
+111,C-0110,full_name,liam MARTIN,Liam Martin,Standardized
+111,C-0110,email,Liam.Martin110@example.com,liam.martin110@example.com,Standardized
+111,C-0110,country,u.k.,United Kingdom,Standardized
+111,C-0110,status,IN-ACTIVE,Inactive,Standardized
+111,C-0110,signup_date,17/06/2025,2025-06-17,Standardized
+112,C-0111,customer_id,c-0111,C-0111,Standardized
+112,C-0111,email,Ethan.Stone111@example.com,ethan.stone111@example.com,Standardized
+112,C-0111,country,UK,United Kingdom,Standardized
+112,C-0111,signup_date,22/07/2026,2026-07-22,Standardized
+113,C-0112,customer_id,C- 0112,C-0112,Standardized
+113,C-0112,email,Ethan.Clark112@example.com,ethan.clark112@example.com,Standardized
+113,C-0112,country,u.k.,United Kingdom,Standardized
+113,C-0112,status,ACTIVE,Active,Standardized
+113,C-0112,lifetime_value,"$1,237.20",1237.20,Standardized
+113,C-0112,signup_date,13-Feb-2026,2026-02-13,Standardized
+114,C-0113,customer_id,c-0113,C-0113,Standardized
+114,C-0113,email,Ada.Demir113@example.com,ada.demir113@example.com,Standardized
+114,C-0113,status,lead,Prospect,Standardized
+114,C-0113,signup_date,22-Oct-2025,2025-10-22,Standardized
+115,C-0114,customer_id,c-0114,C-0114,Standardized
+115,C-0114,email,Lucas.Kaya114@Example.COM,lucas.kaya114@example.com,Standardized
+115,C-0114,country,u.k.,United Kingdom,Standardized
+115,C-0114,status,prospect,Prospect,Standardized
+115,C-0114,signup_date,18/02/2026,2026-02-18,Standardized
+116,C-0115,customer_id,c-0115,C-0115,Standardized
+116,C-0115,full_name,emma MARTIN,Emma Martin,Standardized
+116,C-0115,email,Emma.Martin115@example.com,emma.martin115@example.com,Standardized
+116,C-0115,status,IN-ACTIVE,Inactive,Standardized
+117,C-0116,customer_id,c-0116,C-0116,Standardized
+117,C-0116,email,Liam.Demir116@example.com,liam.demir116@example.com,Standardized
+117,C-0116,country,USA,United States,Standardized
+117,C-0116,status,active,Active,Standardized
+117,C-0116,lifetime_value,"$2,273.81",2273.81,Standardized
+118,C-0117,customer_id,c-0117,C-0117,Standardized
+118,C-0117,email,Lucas.Taylor117@example.com,lucas.taylor117@example.com,Standardized
+118,C-0117,country,USA,United States,Standardized
+118,C-0117,status,IN-ACTIVE,Inactive,Standardized
+118,C-0117,signup_date,26/08/2025,2025-08-26,Standardized
+119,C-0118,customer_id,c-0118,C-0118,Standardized
+119,C-0118,email,Sofia.Demir118@example.com,sofia.demir118@example.com,Standardized
+119,C-0118,country,FR,France,Standardized
+120,C-0119,customer_id,C- 0119,C-0119,Standardized
+120,C-0119,email,Oliver.Demir119@example.com,oliver.demir119@example.com,Standardized
+120,C-0119,country,u.k.,United Kingdom,Standardized
+120,C-0119,status,lead,Prospect,Standardized
+120,C-0119,signup_date,07/03/2025,2025-03-07,Standardized
+121,C-0120,customer_id,c-0120,C-0120,Standardized
+121,C-0120,full_name,ada YILMAZ,Ada Yilmaz,Standardized
+121,C-0120,email,Ada.Yilmaz120@Example.COM,ada.yilmaz120@example.com,Standardized
+121,C-0120,country,FR,France,Standardized
+121,C-0120,status,prospect,Prospect,Standardized
+121,C-0120,lifetime_value,$219.13,219.13,Standardized
+121,C-0120,signup_date,04/11/2025,2025-11-04,Standardized
+122,C-0121,customer_id,c-0121,C-0121,Standardized
+122,C-0121,email,Oliver.Martin121@example.com,oliver.martin121@example.com,Standardized
+122,C-0121,country,u.k.,United Kingdom,Standardized
+122,C-0121,status,lead,Prospect,Standardized
+122,C-0121,signup_date,05-Dec-2025,2025-12-05,Standardized
+123,C-0122,customer_id,c-0122,C-0122,Standardized
+123,C-0122,email,Emma.Kaya122@example.com,emma.kaya122@example.com,Standardized
+123,C-0122,country,FR,France,Standardized
+123,C-0122,status,lead,Prospect,Standardized
+123,C-0122,signup_date,19-May-2025,2025-05-19,Standardized
+124,C-0123,customer_id,c-0123,C-0123,Standardized
+124,C-0123,email,Lucas.Brown123@example.com,lucas.brown123@example.com,Standardized
+124,C-0123,status,active,Active,Standardized
+125,C-0124,customer_id,c-0124,C-0124,Standardized
+125,C-0124,email,Lucas.Yilmaz124@example.com,lucas.yilmaz124@example.com,Standardized
+125,C-0124,country,us,United States,Standardized
+125,C-0124,status,ACTIVE,Active,Standardized
+125,C-0124,lifetime_value,"$1,452.86",1452.86,Standardized
+126,C-0125,customer_id,c-0125,C-0125,Standardized
+126,C-0125,full_name,oliver YILMAZ,Oliver Yilmaz,Standardized
+126,C-0125,email,Oliver.Yilmaz125@example.com,oliver.yilmaz125@example.com,Standardized
+126,C-0125,signup_date,03-Nov-2025,2025-11-03,Standardized
+127,C-0126,customer_id,C- 0126,C-0126,Standardized
+127,C-0126,email,Emma.Taylor126@Example.COM,emma.taylor126@example.com,Standardized
+127,C-0126,country,DE,Germany,Standardized
+127,C-0126,status,active,Active,Standardized
+127,C-0126,signup_date,26/08/2025,2025-08-26,Standardized
+128,C-0127,customer_id,c-0127,C-0127,Standardized
+128,C-0127,email,Leyla.Yilmaz127@example.com,leyla.yilmaz127@example.com,Standardized
+128,C-0127,country,FR,France,Standardized
+128,C-0127,status,active,Active,Standardized
+128,C-0127,signup_date,27/08/2025,2025-08-27,Standardized
+129,C-0128,customer_id,c-0128,C-0128,Standardized
+129,C-0128,email,Lucas.Demir128@example.com,lucas.demir128@example.com,Standardized
+129,C-0128,country,us,United States,Standardized
+129,C-0128,status,ACTIVE,Active,Standardized
+129,C-0128,lifetime_value,"$3,750.85",3750.85,Standardized
+129,C-0128,signup_date,28-Feb-2026,2026-02-28,Standardized
+130,C-0129,customer_id,c-0129,C-0129,Standardized
+130,C-0129,email,Noah.Brown129@example.com,noah.brown129@example.com,Standardized
+130,C-0129,status,ACTIVE,Active,Standardized
+130,C-0129,signup_date,01-Dec-2025,2025-12-01,Standardized
+131,C-0130,customer_id,c-0130,C-0130,Standardized
+131,C-0130,full_name,lucas YILMAZ,Lucas Yilmaz,Standardized
+131,C-0130,email,Lucas.Yilmaz130@example.com,lucas.yilmaz130@example.com,Standardized
+131,C-0130,country,DE,Germany,Standardized
+131,C-0130,status,active,Active,Standardized
+132,C-0131,customer_id,c-0131,C-0131,Standardized
+132,C-0131,email,Sofia.Taylor131@example.com,sofia.taylor131@example.com,Standardized
+132,C-0131,country,Turkey,Türkiye,Standardized
+132,C-0131,status,active,Active,Standardized
+132,C-0131,signup_date,10/09/2025,2025-09-10,Standardized
+133,C-0132,customer_id,c-0132,C-0132,Standardized
+133,C-0132,email,Mia.Kaya132@Example.COM,mia.kaya132@example.com,Standardized
+133,C-0132,status,prospect,Prospect,Standardized
+133,C-0132,lifetime_value,"$1,711.28",1711.28,Standardized
+134,C-0133,customer_id,C- 0133,C-0133,Standardized
+134,C-0133,email,Emma.Martin133@example.com,emma.martin133@example.com,Standardized
+134,C-0133,country,USA,United States,Standardized
+134,C-0133,status,IN-ACTIVE,Inactive,Standardized
+135,C-0134,customer_id,c-0134,C-0134,Standardized
+135,C-0134,email,Ethan.Miller134@example.com,ethan.miller134@example.com,Standardized
+135,C-0134,country,USA,United States,Standardized
+135,C-0134,status,IN-ACTIVE,Inactive,Standardized
+135,C-0134,signup_date,11-Jan-2026,2026-01-11,Standardized
+136,C-0135,customer_id,c-0135,C-0135,Standardized
+136,C-0135,full_name,emma KAYA,Emma Kaya,Standardized
+136,C-0135,email,Emma.Kaya135@example.com,emma.kaya135@example.com,Standardized
+136,C-0135,status,prospect,Prospect,Standardized
+136,C-0135,signup_date,01-Jul-2025,2025-07-01,Standardized
+137,C-0136,customer_id,c-0136,C-0136,Standardized
+137,C-0136,email,Ethan.Wilson136@example.com,ethan.wilson136@example.com,Standardized
+137,C-0136,country,DE,Germany,Standardized
+137,C-0136,status,active,Active,Standardized
+137,C-0136,lifetime_value,"$2,908.25",2908.25,Standardized
+137,C-0136,signup_date,17-May-2025,2025-05-17,Standardized
+138,C-0137,customer_id,c-0137,C-0137,Standardized
+138,C-0137,email,Noah.Miller137@example.com,noah.miller137@example.com,Standardized
+138,C-0137,country,UK,United Kingdom,Standardized
+138,C-0137,status,prospect,Prospect,Standardized
+138,C-0137,signup_date,02/02/2026,2026-02-02,Standardized
+139,C-0138,customer_id,c-0138,C-0138,Standardized
+139,C-0138,email,Oliver.Taylor138@Example.COM,oliver.taylor138@example.com,Standardized
+139,C-0138,status,ACTIVE,Active,Standardized
+140,C-0139,customer_id,c-0139,C-0139,Standardized
+140,C-0139,email,Lucas.Clark139@example.com,lucas.clark139@example.com,Standardized
+140,C-0139,country,Turkey,Türkiye,Standardized
+140,C-0139,status,active,Active,Standardized
+141,C-0140,customer_id,C- 0140,C-0140,Standardized
+141,C-0140,full_name,ethan STONE,Ethan Stone,Standardized
+141,C-0140,email,Ethan.Stone140@example.com,ethan.stone140@example.com,Standardized
+141,C-0140,status,active,Active,Standardized
+141,C-0140,lifetime_value,$546.33,546.33,Standardized
+141,C-0140,signup_date,16-Jan-2026,2026-01-16,Standardized
+142,C-0141,customer_id,c-0141,C-0141,Standardized
+142,C-0141,email,Liam.Miller141@example.com,liam.miller141@example.com,Standardized
+142,C-0141,country,us,United States,Standardized
+142,C-0141,status,ACTIVE,Active,Standardized
+142,C-0141,signup_date,29-Jul-2025,2025-07-29,Standardized
+143,C-0142,customer_id,c-0142,C-0142,Standardized
+143,C-0142,email,Sofia.Martin142@example.com,sofia.martin142@example.com,Standardized
+143,C-0142,country,us,United States,Standardized
+143,C-0142,status,prospect,Prospect,Standardized
+143,C-0142,signup_date,26-Oct-2025,2025-10-26,Standardized
+144,C-0143,customer_id,c-0143,C-0143,Standardized
+144,C-0143,email,Noah.Brown143@example.com,noah.brown143@example.com,Standardized
+144,C-0143,status,lead,Prospect,Standardized
+144,C-0143,signup_date,07/09/2025,2025-09-07,Standardized
+145,C-0144,customer_id,c-0144,C-0144,Standardized
+145,C-0144,email,Mia.Clark144@Example.COM,mia.clark144@example.com,Standardized
+145,C-0144,country,DE,Germany,Standardized
+145,C-0144,status,active,Active,Standardized
+145,C-0144,lifetime_value,"$3,842.94",3842.94,Standardized
+145,C-0144,signup_date,09-Jun-2025,2025-06-09,Standardized
+146,C-0145,customer_id,c-0145,C-0145,Standardized
+146,C-0145,full_name,emma MARTIN,Emma Martin,Standardized
+146,C-0145,email,Emma.Martin145@example.com,emma.martin145@example.com,Standardized
+146,C-0145,status,active,Active,Standardized
+146,C-0145,signup_date,02-Jul-2026,2026-07-02,Standardized
+147,C-0146,customer_id,c-0146,C-0146,Standardized
+147,C-0146,email,Oliver.Demir146@example.com,oliver.demir146@example.com,Standardized
+147,C-0146,status,active,Active,Standardized
+148,C-0147,customer_id,C- 0147,C-0147,Standardized
+148,C-0147,email,Ethan.Stone147@example.com,ethan.stone147@example.com,Standardized
+148,C-0147,status,IN-ACTIVE,Inactive,Standardized
+148,C-0147,signup_date,29/09/2025,2025-09-29,Standardized
+149,C-0148,customer_id,c-0148,C-0148,Standardized
+149,C-0148,email,Lucas.Stone148@example.com,lucas.stone148@example.com,Standardized
+149,C-0148,country,DE,Germany,Standardized
+149,C-0148,status,prospect,Prospect,Standardized
+149,C-0148,lifetime_value,$116.06,116.06,Standardized
+150,C-0149,customer_id,c-0149,C-0149,Standardized
+150,C-0149,email,Ethan.Wilson149@example.com,ethan.wilson149@example.com,Standardized
+150,C-0149,status,ACTIVE,Active,Standardized
+150,C-0149,signup_date,07/09/2025,2025-09-07,Standardized
+151,C-0150,customer_id,c-0150,C-0150,Standardized
+151,C-0150,full_name,mia DEMIR,Mia Demir,Standardized
+151,C-0150,email,Mia.Demir150@Example.COM,mia.demir150@example.com,Standardized
+151,C-0150,country,DE,Germany,Standardized
+151,C-0150,status,IN-ACTIVE,Inactive,Standardized
+151,C-0150,signup_date,10/03/2025,2025-03-10,Standardized
+152,C-0151,customer_id,c-0151,C-0151,Standardized
+152,C-0151,email,Emma.Miller151@example.com,emma.miller151@example.com,Standardized
+152,C-0151,country,UK,United Kingdom,Standardized
+152,C-0151,status,ACTIVE,Active,Standardized
+152,C-0151,signup_date,06/06/2026,2026-06-06,Standardized
+153,C-0152,customer_id,c-0152,C-0152,Standardized
+153,C-0152,email,Mia.Yilmaz152@example.com,mia.yilmaz152@example.com,Standardized
+153,C-0152,country,UK,United Kingdom,Standardized
+153,C-0152,status,ACTIVE,Active,Standardized
+153,C-0152,lifetime_value,"$1,470.23",1470.23,Standardized
+154,C-0153,customer_id,c-0153,C-0153,Standardized
+154,C-0153,email,Ada.Brown153@example.com,ada.brown153@example.com,Standardized
+154,C-0153,country,FR,France,Standardized
+154,C-0153,status,active,Active,Standardized
+154,C-0153,signup_date,12/01/2025,2025-01-12,Standardized
+155,C-0154,customer_id,C- 0154,C-0154,Standardized
+155,C-0154,email,Ada.Miller154@example.com,ada.miller154@example.com,Standardized
+155,C-0154,status,lead,Prospect,Standardized
+155,C-0154,signup_date,25/07/2025,2025-07-25,Standardized
+156,C-0155,customer_id,c-0155,C-0155,Standardized
+156,C-0155,full_name,sofia STONE,Sofia Stone,Standardized
+156,C-0155,email,Sofia.Stone155@example.com,sofia.stone155@example.com,Standardized
+156,C-0155,country,DE,Germany,Standardized
+156,C-0155,status,ACTIVE,Active,Standardized
+156,C-0155,signup_date,21/09/2025,2025-09-21,Standardized
+157,C-0156,customer_id,c-0156,C-0156,Standardized
+157,C-0156,email,Noah.Stone156@Example.COM,noah.stone156@example.com,Standardized
+157,C-0156,country,u.k.,United Kingdom,Standardized
+157,C-0156,status,ACTIVE,Active,Standardized
+157,C-0156,lifetime_value,"$1,957.76",1957.76,Standardized
+157,C-0156,signup_date,22/02/2025,2025-02-22,Standardized
+158,C-0157,customer_id,c-0157,C-0157,Standardized
+158,C-0157,email,Liam.Kaya157@example.com,liam.kaya157@example.com,Standardized
+158,C-0157,status,active,Active,Standardized
+158,C-0157,signup_date,14-Mar-2025,2025-03-14,Standardized
+159,C-0158,customer_id,c-0158,C-0158,Standardized
+159,C-0158,email,Emma.Wilson158@example.com,emma.wilson158@example.com,Standardized
+159,C-0158,country,u.k.,United Kingdom,Standardized
+159,C-0158,status,ACTIVE,Active,Standardized
+159,C-0158,signup_date,30/10/2025,2025-10-30,Standardized
+160,C-0159,customer_id,c-0159,C-0159,Standardized
+160,C-0159,email,Lucas.Taylor159@example.com,lucas.taylor159@example.com,Standardized
+160,C-0159,country,us,United States,Standardized
+160,C-0159,status,active,Active,Standardized
+160,C-0159,signup_date,02-Jul-2026,2026-07-02,Standardized
+161,C-0160,customer_id,c-0160,C-0160,Standardized
+161,C-0160,full_name,emma STONE,Emma Stone,Standardized
+161,C-0160,email,Emma.Stone160@example.com,emma.stone160@example.com,Standardized
+161,C-0160,status,ACTIVE,Active,Standardized
+161,C-0160,lifetime_value,"$2,378.17",2378.17,Standardized
+161,C-0160,signup_date,10/05/2025,2025-05-10,Standardized
+162,C-0161,customer_id,C- 0161,C-0161,Standardized
+162,C-0161,email,Ada.Martin161@example.com,ada.martin161@example.com,Standardized
+162,C-0161,status,IN-ACTIVE,Inactive,Standardized
+163,C-0162,customer_id,c-0162,C-0162,Standardized
+163,C-0162,email,Lucas.Miller162@Example.COM,lucas.miller162@example.com,Standardized
+163,C-0162,country,DE,Germany,Standardized
+163,C-0162,status,ACTIVE,Active,Standardized
+163,C-0162,signup_date,20-May-2025,2025-05-20,Standardized
+164,C-0163,customer_id,c-0163,C-0163,Standardized
+164,C-0163,email,Lucas.Brown163@example.com,lucas.brown163@example.com,Standardized
+164,C-0163,country,Turkey,Türkiye,Standardized
+164,C-0163,status,lead,Prospect,Standardized
+165,C-0164,customer_id,c-0164,C-0164,Standardized
+165,C-0164,email,Noah.Kaya164@example.com,noah.kaya164@example.com,Standardized
+165,C-0164,lifetime_value,"$1,342.80",1342.80,Standardized
+166,C-0165,customer_id,c-0165,C-0165,Standardized
+166,C-0165,full_name,ada BROWN,Ada Brown,Standardized
+166,C-0165,email,Ada.Brown165@example.com,ada.brown165@example.com,Standardized
+166,C-0165,country,DE,Germany,Standardized
+166,C-0165,status,ACTIVE,Active,Standardized
+166,C-0165,signup_date,09/06/2025,2025-06-09,Standardized
+167,C-0166,customer_id,c-0166,C-0166,Standardized
+167,C-0166,email,Oliver.Martin166@example.com,oliver.martin166@example.com,Standardized
+167,C-0166,country,DE,Germany,Standardized
+167,C-0166,status,active,Active,Standardized
+167,C-0166,signup_date,09/03/2026,2026-03-09,Standardized
+168,C-0167,customer_id,c-0167,C-0167,Standardized
+168,C-0167,email,Emma.Brown167@example.com,emma.brown167@example.com,Standardized
+168,C-0167,country,Turkey,Türkiye,Standardized
+168,C-0167,status,active,Active,Standardized
+168,C-0167,signup_date,18/06/2026,2026-06-18,Standardized
+169,C-0168,customer_id,C- 0168,C-0168,Standardized
+169,C-0168,email,Noah.Clark168@Example.COM,noah.clark168@example.com,Standardized
+169,C-0168,status,ACTIVE,Active,Standardized
+169,C-0168,lifetime_value,"$1,802.98",1802.98,Standardized
+169,C-0168,signup_date,03/03/2026,2026-03-03,Standardized
+170,C-0169,customer_id,c-0169,C-0169,Standardized
+170,C-0169,email,Leyla.Miller169@example.com,leyla.miller169@example.com,Standardized
+170,C-0169,country,u.k.,United Kingdom,Standardized
+170,C-0169,status,IN-ACTIVE,Inactive,Standardized
+171,C-0170,customer_id,c-0170,C-0170,Standardized
+171,C-0170,full_name,mia TAYLOR,Mia Taylor,Standardized
+171,C-0170,email,Mia.Taylor170@example.com,mia.taylor170@example.com,Standardized
+171,C-0170,status,prospect,Prospect,Standardized
+171,C-0170,signup_date,06-Mar-2025,2025-03-06,Standardized
+172,C-0171,customer_id,c-0171,C-0171,Standardized
+172,C-0171,email,Oliver.Taylor171@example.com,oliver.taylor171@example.com,Standardized
+172,C-0171,status,active,Active,Standardized
+172,C-0171,signup_date,13-Apr-2026,2026-04-13,Standardized
+173,C-0172,customer_id,c-0172,C-0172,Standardized
+173,C-0172,email,Ethan.Wilson172@example.com,ethan.wilson172@example.com,Standardized
+173,C-0172,country,us,United States,Standardized
+173,C-0172,status,IN-ACTIVE,Inactive,Standardized
+173,C-0172,lifetime_value,$299.98,299.98,Standardized
+173,C-0172,signup_date,18-Mar-2026,2026-03-18,Standardized
+174,C-0173,customer_id,c-0173,C-0173,Standardized
+174,C-0173,email,Liam.Miller173@example.com,liam.miller173@example.com,Standardized
+174,C-0173,country,us,United States,Standardized
+174,C-0173,status,active,Active,Standardized
+174,C-0173,signup_date,01-Feb-2025,2025-02-01,Standardized
+175,C-0174,customer_id,c-0174,C-0174,Standardized
+175,C-0174,email,Ada.Kaya174@Example.COM,ada.kaya174@example.com,Standardized
+175,C-0174,status,lead,Prospect,Standardized
+176,C-0175,customer_id,C- 0175,C-0175,Standardized
+176,C-0175,full_name,liam TAYLOR,Liam Taylor,Standardized
+176,C-0175,email,Liam.Taylor175@example.com,liam.taylor175@example.com,Standardized
+176,C-0175,country,Turkey,Türkiye,Standardized
+176,C-0175,status,IN-ACTIVE,Inactive,Standardized
+176,C-0175,signup_date,04/04/2025,2025-04-04,Standardized
+177,C-0176,customer_id,c-0176,C-0176,Standardized
+177,C-0176,email,Emma.Wilson176@example.com,emma.wilson176@example.com,Standardized
+177,C-0176,status,IN-ACTIVE,Inactive,Standardized
+177,C-0176,lifetime_value,"$3,065.47",3065.47,Standardized
+177,C-0176,signup_date,18-Oct-2025,2025-10-18,Standardized
+178,C-0177,customer_id,c-0177,C-0177,Standardized
+178,C-0177,email,Leyla.Miller177@example.com,leyla.miller177@example.com,Standardized
+178,C-0177,country,UK,United Kingdom,Standardized
+178,C-0177,status,IN-ACTIVE,Inactive,Standardized
+179,C-0178,customer_id,c-0178,C-0178,Standardized
+179,C-0178,email,Emma.Brown178@example.com,emma.brown178@example.com,Standardized
+179,C-0178,country,u.k.,United Kingdom,Standardized
+179,C-0178,status,IN-ACTIVE,Inactive,Standardized
+180,C-0179,customer_id,c-0179,C-0179,Standardized
+180,C-0179,email,Leyla.Kaya179@example.com,leyla.kaya179@example.com,Standardized
+180,C-0179,country,u.k.,United Kingdom,Standardized
+181,C-0180,customer_id,c-0180,C-0180,Standardized
+181,C-0180,full_name,leyla MARTIN,Leyla Martin,Standardized
+181,C-0180,email,Leyla.Martin180@Example.COM,leyla.martin180@example.com,Standardized
+181,C-0180,country,UK,United Kingdom,Standardized
+181,C-0180,status,IN-ACTIVE,Inactive,Standardized
+181,C-0180,lifetime_value,"$1,187.37",1187.37,Standardized
+181,C-0180,signup_date,13-Jul-2025,2025-07-13,Standardized
+182,C-0181,customer_id,c-0181,C-0181,Standardized
+182,C-0181,email,Mia.Kaya181@example.com,mia.kaya181@example.com,Standardized
+182,C-0181,country,DE,Germany,Standardized
+182,C-0181,status,ACTIVE,Active,Standardized
+183,C-0182,customer_id,C- 0182,C-0182,Standardized
+183,C-0182,email,Sofia.Kaya182@example.com,sofia.kaya182@example.com,Standardized
+183,C-0182,country,us,United States,Standardized
+183,C-0182,status,prospect,Prospect,Standardized
+183,C-0182,signup_date,04/12/2025,2025-12-04,Standardized
+184,C-0183,customer_id,c-0183,C-0183,Standardized
+184,C-0183,email,Noah.Wilson183@example.com,noah.wilson183@example.com,Standardized
+184,C-0183,country,u.k.,United Kingdom,Standardized
+184,C-0183,status,active,Active,Standardized
+184,C-0183,signup_date,16-Apr-2025,2025-04-16,Standardized
+185,C-0184,customer_id,c-0184,C-0184,Standardized
+185,C-0184,email,Lucas.Brown184@example.com,lucas.brown184@example.com,Standardized
+185,C-0184,status,ACTIVE,Active,Standardized
+185,C-0184,lifetime_value,"$1,322.39",1322.39,Standardized
+185,C-0184,signup_date,19-Mar-2026,2026-03-19,Standardized
+186,C-0185,customer_id,c-0185,C-0185,Standardized
+186,C-0185,full_name,ada KAYA,Ada Kaya,Standardized
+186,C-0185,email,Ada.Kaya185@example.com,ada.kaya185@example.com,Standardized
+186,C-0185,status,lead,Prospect,Standardized
+186,C-0185,signup_date,11/06/2025,2025-06-11,Standardized
+187,C-0186,customer_id,c-0186,C-0186,Standardized
+187,C-0186,email,Ada.Taylor186@Example.COM,ada.taylor186@example.com,Standardized
+187,C-0186,country,USA,United States,Standardized
+187,C-0186,status,prospect,Prospect,Standardized
+187,C-0186,signup_date,13-Mar-2026,2026-03-13,Standardized
+188,C-0187,customer_id,c-0187,C-0187,Standardized
+188,C-0187,email,Mia.Demir187@example.com,mia.demir187@example.com,Standardized
+188,C-0187,country,us,United States,Standardized
+188,C-0187,status,IN-ACTIVE,Inactive,Standardized
+188,C-0187,signup_date,21/09/2025,2025-09-21,Standardized
+189,C-0188,customer_id,c-0188,C-0188,Standardized
+189,C-0188,email,Ethan.Kaya188@example.com,ethan.kaya188@example.com,Standardized
+189,C-0188,lifetime_value,$581.36,581.36,Standardized
+190,C-0189,customer_id,C- 0189,C-0189,Standardized
+190,C-0189,email,Noah.Stone189@example.com,noah.stone189@example.com,Standardized
+190,C-0189,country,FR,France,Standardized
+190,C-0189,status,IN-ACTIVE,Inactive,Standardized
+190,C-0189,signup_date,19/02/2026,2026-02-19,Standardized
+191,C-0190,customer_id,c-0190,C-0190,Standardized
+191,C-0190,full_name,lucas YILMAZ,Lucas Yilmaz,Standardized
+191,C-0190,email,Lucas.Yilmaz190@example.com,lucas.yilmaz190@example.com,Standardized
+191,C-0190,signup_date,09/03/2026,2026-03-09,Standardized
+192,C-0191,customer_id,c-0191,C-0191,Standardized
+192,C-0191,email,Liam.Martin191@example.com,liam.martin191@example.com,Standardized
+192,C-0191,country,Turkey,Türkiye,Standardized
+192,C-0191,status,prospect,Prospect,Standardized
+193,C-0192,customer_id,c-0192,C-0192,Standardized
+193,C-0192,email,Oliver.Miller192@Example.COM,oliver.miller192@example.com,Standardized
+193,C-0192,lifetime_value,"$2,466.91",2466.91,Standardized
+193,C-0192,signup_date,01-Jul-2025,2025-07-01,Standardized
+194,C-0193,customer_id,c-0193,C-0193,Standardized
+194,C-0193,email,Ada.Clark193@example.com,ada.clark193@example.com,Standardized
+194,C-0193,status,lead,Prospect,Standardized
+194,C-0193,signup_date,14/07/2025,2025-07-14,Standardized
+195,C-0194,customer_id,c-0194,C-0194,Standardized
+195,C-0194,email,Lucas.Clark194@example.com,lucas.clark194@example.com,Standardized
+195,C-0194,country,DE,Germany,Standardized
+195,C-0194,status,lead,Prospect,Standardized
+195,C-0194,signup_date,22/01/2026,2026-01-22,Standardized
+196,C-0195,customer_id,c-0195,C-0195,Standardized
+196,C-0195,full_name,sofia DEMIR,Sofia Demir,Standardized
+196,C-0195,email,Sofia.Demir195@example.com,sofia.demir195@example.com,Standardized
+196,C-0195,country,DE,Germany,Standardized
+196,C-0195,status,IN-ACTIVE,Inactive,Standardized
+196,C-0195,signup_date,26-May-2025,2025-05-26,Standardized
+197,C-0196,customer_id,C- 0196,C-0196,Standardized
+197,C-0196,email,Noah.Taylor196@example.com,noah.taylor196@example.com,Standardized
+197,C-0196,status,lead,Prospect,Standardized
+197,C-0196,lifetime_value,"$3,431.44",3431.44,Standardized
+197,C-0196,signup_date,28-Dec-2025,2025-12-28,Standardized
+198,C-0197,customer_id,c-0197,C-0197,Standardized
+198,C-0197,email,Ada.Demir197@example.com,ada.demir197@example.com,Standardized
+198,C-0197,country,USA,United States,Standardized
+199,C-0198,customer_id,c-0198,C-0198,Standardized
+199,C-0198,email,Noah.Brown198@Example.COM,noah.brown198@example.com,Standardized
+199,C-0198,country,us,United States,Standardized
+199,C-0198,status,prospect,Prospect,Standardized
+199,C-0198,signup_date,19-May-2026,2026-05-19,Standardized
+200,C-0199,customer_id,c-0199,C-0199,Standardized
+200,C-0199,email,Lucas.Martin199@example.com,lucas.martin199@example.com,Standardized
+200,C-0199,status,lead,Prospect,Standardized
+200,C-0199,signup_date,12/03/2026,2026-03-12,Standardized
+201,C-0200,customer_id,c-0200,C-0200,Standardized
+201,C-0200,full_name,noah YILMAZ,Noah Yilmaz,Standardized
+201,C-0200,email,Noah.Yilmaz200@example.com,noah.yilmaz200@example.com,Standardized
+201,C-0200,status,lead,Prospect,Standardized
+201,C-0200,lifetime_value,"$3,284.72",3284.72,Standardized
+201,C-0200,signup_date,02-Mar-2026,2026-03-02,Standardized
+202,C-0201,customer_id,c-0201,C-0201,Standardized
+202,C-0201,email,Ada.Stone201@example.com,ada.stone201@example.com,Standardized
+203,C-0202,customer_id,c-0202,C-0202,Standardized
+203,C-0202,email,Liam.Brown202@example.com,liam.brown202@example.com,Standardized
+203,C-0202,country,FR,France,Standardized
+203,C-0202,signup_date,13-May-2026,2026-05-13,Standardized
+204,C-0203,customer_id,C- 0203,C-0203,Standardized
+204,C-0203,email,Noah.Yilmaz203@example.com,noah.yilmaz203@example.com,Standardized
+204,C-0203,status,ACTIVE,Active,Standardized
+204,C-0203,signup_date,01-Jun-2025,2025-06-01,Standardized
+205,C-0204,customer_id,c-0204,C-0204,Standardized
+205,C-0204,email,Lucas.Yilmaz204@Example.COM,lucas.yilmaz204@example.com,Standardized
+205,C-0204,country,DE,Germany,Standardized
+205,C-0204,lifetime_value,$166.63,166.63,Standardized
+205,C-0204,signup_date,21/10/2025,2025-10-21,Standardized
+206,C-0205,customer_id,c-0205,C-0205,Standardized
+206,C-0205,full_name,ethan WILSON,Ethan Wilson,Standardized
+206,C-0205,email,Ethan.Wilson205@example.com,ethan.wilson205@example.com,Standardized
+206,C-0205,country,FR,France,Standardized
+207,C-0206,customer_id,c-0206,C-0206,Standardized
+207,C-0206,email,Oliver.Stone206@example.com,oliver.stone206@example.com,Standardized
+207,C-0206,country,FR,France,Standardized
+207,C-0206,status,ACTIVE,Active,Standardized
+207,C-0206,signup_date,21-Jun-2025,2025-06-21,Standardized
+208,C-0207,customer_id,c-0207,C-0207,Standardized
+208,C-0207,email,Sofia.Martin207@example.com,sofia.martin207@example.com,Standardized
+208,C-0207,country,Turkey,Türkiye,Standardized
+208,C-0207,status,active,Active,Standardized
+209,C-0208,customer_id,c-0208,C-0208,Standardized
+209,C-0208,email,Leyla.Demir208@example.com,leyla.demir208@example.com,Standardized
+209,C-0208,status,IN-ACTIVE,Inactive,Standardized
+209,C-0208,lifetime_value,$908.73,908.73,Standardized
+209,C-0208,signup_date,10/02/2025,2025-02-10,Standardized
+210,C-0209,customer_id,c-0209,C-0209,Standardized
+210,C-0209,email,Ethan.Stone209@example.com,ethan.stone209@example.com,Standardized
+210,C-0209,country,us,United States,Standardized
+210,C-0209,status,prospect,Prospect,Standardized
+211,C-0210,customer_id,C- 0210,C-0210,Standardized
+211,C-0210,full_name,leyla CLARK,Leyla Clark,Standardized
+211,C-0210,email,Leyla.Clark210@Example.COM,leyla.clark210@example.com,Standardized
+211,C-0210,country,USA,United States,Standardized
+211,C-0210,status,active,Active,Standardized
+211,C-0210,signup_date,04-Jul-2026,2026-07-04,Standardized
+212,C-0211,customer_id,c-0211,C-0211,Standardized
+212,C-0211,email,Ada.Taylor211@example.com,ada.taylor211@example.com,Standardized
+212,C-0211,country,DE,Germany,Standardized
+212,C-0211,status,active,Active,Standardized
+212,C-0211,signup_date,07-May-2026,2026-05-07,Standardized
+213,C-0212,customer_id,c-0212,C-0212,Standardized
+213,C-0212,email,Ada.Martin212@example.com,ada.martin212@example.com,Standardized
+213,C-0212,country,DE,Germany,Standardized
+213,C-0212,status,lead,Prospect,Standardized
+213,C-0212,lifetime_value,"$1,057.46",1057.46,Standardized
+214,C-0213,customer_id,c-0213,C-0213,Standardized
+214,C-0213,email,Ethan.Clark213@example.com,ethan.clark213@example.com,Standardized
+214,C-0213,country,USA,United States,Standardized
+214,C-0213,status,prospect,Prospect,Standardized
+215,C-0214,customer_id,c-0214,C-0214,Standardized
+215,C-0214,email,Mia.Wilson214@example.com,mia.wilson214@example.com,Standardized
+215,C-0214,country,USA,United States,Standardized
+215,C-0214,status,IN-ACTIVE,Inactive,Standardized
+216,C-0215,customer_id,c-0215,C-0215,Standardized
+216,C-0215,full_name,ada MILLER,Ada Miller,Standardized
+216,C-0215,email,Ada.Miller215@example.com,ada.miller215@example.com,Standardized
+216,C-0215,country,USA,United States,Standardized
+216,C-0215,status,active,Active,Standardized
+217,C-0216,customer_id,c-0216,C-0216,Standardized
+217,C-0216,email,Ethan.Clark216@Example.COM,ethan.clark216@example.com,Standardized
+217,C-0216,status,IN-ACTIVE,Inactive,Standardized
+217,C-0216,lifetime_value,$815.73,815.73,Standardized
+217,C-0216,signup_date,24-Jan-2025,2025-01-24,Standardized
+218,C-0217,customer_id,C- 0217,C-0217,Standardized
+218,C-0217,email,Emma.Wilson217@example.com,emma.wilson217@example.com,Standardized
+218,C-0217,country,us,United States,Standardized
+218,C-0217,status,active,Active,Standardized
+219,C-0218,customer_id,c-0218,C-0218,Standardized
+219,C-0218,email,Emma.Demir218@example.com,emma.demir218@example.com,Standardized
+219,C-0218,status,ACTIVE,Active,Standardized
+220,C-0219,customer_id,c-0219,C-0219,Standardized
+220,C-0219,email,Ethan.Taylor219@example.com,ethan.taylor219@example.com,Standardized
+220,C-0219,country,FR,France,Standardized
+220,C-0219,signup_date,29/06/2026,2026-06-29,Standardized
+221,C-0220,customer_id,c-0220,C-0220,Standardized
+221,C-0220,full_name,mia YILMAZ,Mia Yilmaz,Standardized
+221,C-0220,email,Mia.Yilmaz220@example.com,mia.yilmaz220@example.com,Standardized
+221,C-0220,country,FR,France,Standardized
+221,C-0220,status,lead,Prospect,Standardized
+221,C-0220,lifetime_value,"$4,168.38",4168.38,Standardized
+221,C-0220,signup_date,02-Dec-2025,2025-12-02,Standardized
+222,C-0221,customer_id,c-0221,C-0221,Standardized
+222,C-0221,email,Leyla.Martin221@example.com,leyla.martin221@example.com,Standardized
+222,C-0221,signup_date,01/04/2026,2026-04-01,Standardized
+223,C-0222,customer_id,c-0222,C-0222,Standardized
+223,C-0222,email,Sofia.Yilmaz222@Example.COM,sofia.yilmaz222@example.com,Standardized
+223,C-0222,status,lead,Prospect,Standardized
+223,C-0222,signup_date,06-Jun-2025,2025-06-06,Standardized
+224,C-0223,customer_id,c-0223,C-0223,Standardized
+224,C-0223,email,Emma.Wilson223@example.com,emma.wilson223@example.com,Standardized
+224,C-0223,status,active,Active,Standardized
+224,C-0223,signup_date,19-Jan-2026,2026-01-19,Standardized
+225,C-0224,customer_id,C- 0224,C-0224,Standardized
+225,C-0224,email,Oliver.Yilmaz224@example.com,oliver.yilmaz224@example.com,Standardized
+225,C-0224,country,DE,Germany,Standardized
+225,C-0224,status,lead,Prospect,Standardized
+225,C-0224,lifetime_value,$543.86,543.86,Standardized
+225,C-0224,signup_date,02/10/2025,2025-10-02,Standardized
+226,C-0225,customer_id,c-0225,C-0225,Standardized
+226,C-0225,full_name,noah STONE,Noah Stone,Standardized
+226,C-0225,email,Noah.Stone225@example.com,noah.stone225@example.com,Standardized
+226,C-0225,country,Turkey,Türkiye,Standardized
+226,C-0225,status,active,Active,Standardized
+226,C-0225,signup_date,05/05/2026,2026-05-05,Standardized
+227,C-0226,customer_id,c-0226,C-0226,Standardized
+227,C-0226,email,Noah.Martin226@example.com,noah.martin226@example.com,Standardized
+227,C-0226,country,USA,United States,Standardized
+227,C-0226,status,ACTIVE,Active,Standardized
+228,C-0227,customer_id,c-0227,C-0227,Standardized
+228,C-0227,email,Noah.Yilmaz227@example.com,noah.yilmaz227@example.com,Standardized
+228,C-0227,country,FR,France,Standardized
+228,C-0227,status,IN-ACTIVE,Inactive,Standardized
+228,C-0227,signup_date,15/02/2025,2025-02-15,Standardized
+229,C-0228,customer_id,c-0228,C-0228,Standardized
+229,C-0228,email,Ethan.Miller228@Example.COM,ethan.miller228@example.com,Standardized
+229,C-0228,lifetime_value,"$1,315.35",1315.35,Standardized
+229,C-0228,signup_date,10-Oct-2025,2025-10-10,Standardized
+230,C-0229,customer_id,c-0229,C-0229,Standardized
+230,C-0229,email,Noah.Taylor229@example.com,noah.taylor229@example.com,Standardized
+230,C-0229,signup_date,29/10/2025,2025-10-29,Standardized
+231,C-0230,customer_id,c-0230,C-0230,Standardized
+231,C-0230,full_name,oliver BROWN,Oliver Brown,Standardized
+231,C-0230,email,Oliver.Brown230@example.com,oliver.brown230@example.com,Standardized
+231,C-0230,status,IN-ACTIVE,Inactive,Standardized
+232,C-0231,customer_id,C- 0231,C-0231,Standardized
+232,C-0231,email,Mia.Yilmaz231@example.com,mia.yilmaz231@example.com,Standardized
+232,C-0231,status,IN-ACTIVE,Inactive,Standardized
+232,C-0231,signup_date,02-Aug-2025,2025-08-02,Standardized
+233,C-0232,customer_id,c-0232,C-0232,Standardized
+233,C-0232,email,Sofia.Wilson232@example.com,sofia.wilson232@example.com,Standardized
+233,C-0232,country,Turkey,Türkiye,Standardized
+233,C-0232,status,IN-ACTIVE,Inactive,Standardized
+233,C-0232,lifetime_value,"$2,740.98",2740.98,Standardized
+234,C-0233,customer_id,c-0233,C-0233,Standardized
+234,C-0233,email,Leyla.Demir233@example.com,leyla.demir233@example.com,Standardized
+234,C-0233,country,UK,United Kingdom,Standardized
+234,C-0233,signup_date,29-Dec-2025,2025-12-29,Standardized
+235,C-0234,customer_id,c-0234,C-0234,Standardized
+235,C-0234,email,Ada.Demir234@Example.COM,ada.demir234@example.com,Standardized
+235,C-0234,status,IN-ACTIVE,Inactive,Standardized
+236,C-0235,customer_id,c-0235,C-0235,Standardized
+236,C-0235,full_name,mia MARTIN,Mia Martin,Standardized
+236,C-0235,email,Mia.Martin235@example.com,mia.martin235@example.com,Standardized
+236,C-0235,country,u.k.,United Kingdom,Standardized
+236,C-0235,status,lead,Prospect,Standardized
+237,C-0236,customer_id,c-0236,C-0236,Standardized
+237,C-0236,email,Sofia.Demir236@example.com,sofia.demir236@example.com,Standardized
+237,C-0236,country,Turkey,Türkiye,Standardized
+237,C-0236,status,IN-ACTIVE,Inactive,Standardized
+237,C-0236,lifetime_value,"$2,493.10",2493.10,Standardized
+238,C-0237,customer_id,c-0237,C-0237,Standardized
+238,C-0237,email,Ada.Demir237@example.com,ada.demir237@example.com,Standardized
+238,C-0237,country,u.k.,United Kingdom,Standardized
+238,C-0237,status,prospect,Prospect,Standardized
+238,C-0237,signup_date,01-Nov-2025,2025-11-01,Standardized
+239,C-0238,customer_id,C- 0238,C-0238,Standardized
+239,C-0238,email,Oliver.Yilmaz238@example.com,oliver.yilmaz238@example.com,Standardized
+239,C-0238,country,u.k.,United Kingdom,Standardized
+239,C-0238,status,prospect,Prospect,Standardized
+239,C-0238,signup_date,17-May-2026,2026-05-17,Standardized
+240,C-0239,customer_id,c-0239,C-0239,Standardized
+240,C-0239,email,Ada.Stone239@example.com,ada.stone239@example.com,Standardized
+240,C-0239,country,USA,United States,Standardized
+240,C-0239,status,lead,Prospect,Standardized
+240,C-0239,signup_date,04-Feb-2025,2025-02-04,Standardized
+241,C-0240,customer_id,c-0240,C-0240,Standardized
+241,C-0240,full_name,ada KAYA,Ada Kaya,Standardized
+241,C-0240,email,Ada.Kaya240@Example.COM,ada.kaya240@example.com,Standardized
+241,C-0240,status,lead,Prospect,Standardized
+241,C-0240,lifetime_value,$298.59,298.59,Standardized
+241,C-0240,signup_date,29-Sep-2025,2025-09-29,Standardized
+242,C-0241,customer_id,c-0241,C-0241,Standardized
+242,C-0241,email,Liam.Wilson241@example.com,liam.wilson241@example.com,Standardized
+242,C-0241,country,USA,United States,Standardized
+242,C-0241,status,prospect,Prospect,Standardized
+242,C-0241,signup_date,17/07/2025,2025-07-17,Standardized
+243,C-0242,customer_id,c-0242,C-0242,Standardized
+243,C-0242,email,Emma.Stone242@example.com,emma.stone242@example.com,Standardized
+243,C-0242,country,DE,Germany,Standardized
+244,C-0243,customer_id,c-0243,C-0243,Standardized
+244,C-0243,email,Mia.Kaya243@example.com,mia.kaya243@example.com,Standardized
+244,C-0243,country,FR,France,Standardized
+244,C-0243,status,ACTIVE,Active,Standardized
+245,C-0244,customer_id,c-0244,C-0244,Standardized
+245,C-0244,email,Ada.Wilson244@example.com,ada.wilson244@example.com,Standardized
+245,C-0244,country,u.k.,United Kingdom,Standardized
+245,C-0244,status,ACTIVE,Active,Standardized
+245,C-0244,lifetime_value,"$3,472.58",3472.58,Standardized
+246,C-0245,customer_id,C- 0245,C-0245,Standardized
+246,C-0245,full_name,liam CLARK,Liam Clark,Standardized
+246,C-0245,email,Liam.Clark245@example.com,liam.clark245@example.com,Standardized
+246,C-0245,status,IN-ACTIVE,Inactive,Standardized
+247,C-0246,customer_id,c-0246,C-0246,Standardized
+247,C-0246,email,Mia.Wilson246@Example.COM,mia.wilson246@example.com,Standardized
+247,C-0246,country,us,United States,Standardized
+247,C-0246,status,lead,Prospect,Standardized
+247,C-0246,signup_date,29-Mar-2025,2025-03-29,Standardized
+248,C-0247,customer_id,c-0247,C-0247,Standardized
+248,C-0247,email,Lucas.Martin247@example.com,lucas.martin247@example.com,Standardized
+248,C-0247,country,UK,United Kingdom,Standardized
+248,C-0247,status,lead,Prospect,Standardized
+248,C-0247,signup_date,26-Feb-2026,2026-02-26,Standardized
+249,C-0248,customer_id,c-0248,C-0248,Standardized
+249,C-0248,email,Oliver.Demir248@example.com,oliver.demir248@example.com,Standardized
+249,C-0248,country,us,United States,Standardized
+249,C-0248,status,ACTIVE,Active,Standardized
+249,C-0248,lifetime_value,"$2,803.70",2803.70,Standardized
+250,C-0249,customer_id,c-0249,C-0249,Standardized
+250,C-0249,email,Leyla.Wilson249@example.com,leyla.wilson249@example.com,Standardized
+250,C-0249,status,lead,Prospect,Standardized
+250,C-0249,signup_date,21-Mar-2026,2026-03-21,Standardized
+251,C-0250,customer_id,c-0250,C-0250,Standardized
+251,C-0250,full_name,mia STONE,Mia Stone,Standardized
+251,C-0250,email,Mia.Stone250@example.com,mia.stone250@example.com,Standardized
+251,C-0250,status,prospect,Prospect,Standardized
+251,C-0250,signup_date,02-Mar-2026,2026-03-02,Standardized
+252,C-0251,customer_id,c-0251,C-0251,Standardized
+252,C-0251,email,Lucas.Clark251@example.com,lucas.clark251@example.com,Standardized
+252,C-0251,country,us,United States,Standardized
+252,C-0251,status,prospect,Prospect,Standardized
+253,C-0252,customer_id,C- 0252,C-0252,Standardized
+253,C-0252,email,Noah.Taylor252@Example.COM,noah.taylor252@example.com,Standardized
+253,C-0252,country,u.k.,United Kingdom,Standardized
+253,C-0252,status,prospect,Prospect,Standardized
+253,C-0252,lifetime_value,"$4,379.55",4379.55,Standardized
+254,C-0253,customer_id,c-0253,C-0253,Standardized
+254,C-0253,email,Leyla.Taylor253@example.com,leyla.taylor253@example.com,Standardized
+254,C-0253,country,FR,France,Standardized
+254,C-0253,status,prospect,Prospect,Standardized
+255,C-0254,customer_id,c-0254,C-0254,Standardized
+255,C-0254,email,Leyla.Clark254@example.com,leyla.clark254@example.com,Standardized
+255,C-0254,status,prospect,Prospect,Standardized
+256,C-0255,customer_id,c-0255,C-0255,Standardized
+256,C-0255,full_name,noah CLARK,Noah Clark,Standardized
+256,C-0255,email,Noah.Clark255@example.com,noah.clark255@example.com,Standardized
+256,C-0255,country,u.k.,United Kingdom,Standardized
+256,C-0255,status,ACTIVE,Active,Standardized
+256,C-0255,signup_date,13-Jan-2026,2026-01-13,Standardized
+257,C-0256,customer_id,c-0256,C-0256,Standardized
+257,C-0256,email,Leyla.Kaya256@example.com,leyla.kaya256@example.com,Standardized
+257,C-0256,country,u.k.,United Kingdom,Standardized
+257,C-0256,status,IN-ACTIVE,Inactive,Standardized
+257,C-0256,lifetime_value,"$1,030.96",1030.96,Standardized
+258,C-0257,customer_id,c-0257,C-0257,Standardized
+258,C-0257,email,Lucas.Taylor257@example.com,lucas.taylor257@example.com,Standardized
+258,C-0257,country,USA,United States,Standardized
+258,C-0257,status,ACTIVE,Active,Standardized
+258,C-0257,signup_date,23/03/2025,2025-03-23,Standardized
+259,C-0258,customer_id,c-0258,C-0258,Standardized
+259,C-0258,email,Lucas.Stone258@Example.COM,lucas.stone258@example.com,Standardized
+259,C-0258,country,FR,France,Standardized
+260,C-0259,customer_id,C- 0259,C-0259,Standardized
+260,C-0259,email,Sofia.Demir259@example.com,sofia.demir259@example.com,Standardized
+260,C-0259,country,USA,United States,Standardized
+260,C-0259,status,lead,Prospect,Standardized
+260,C-0259,signup_date,19/12/2025,2025-12-19,Standardized
+261,C-0260,customer_id,c-0260,C-0260,Standardized
+261,C-0260,full_name,lucas KAYA,Lucas Kaya,Standardized
+261,C-0260,email,Lucas.Kaya260@example.com,lucas.kaya260@example.com,Standardized
+261,C-0260,country,USA,United States,Standardized
+261,C-0260,status,prospect,Prospect,Standardized
+261,C-0260,lifetime_value,"$4,034.95",4034.95,Standardized
+262,C-0261,customer_id,c-0261,C-0261,Standardized
+262,C-0261,email,Emma.Wilson261@example.com,emma.wilson261@example.com,Standardized
+262,C-0261,country,DE,Germany,Standardized
+262,C-0261,status,lead,Prospect,Standardized
+262,C-0261,signup_date,16/02/2026,2026-02-16,Standardized
+263,C-0262,customer_id,c-0262,C-0262,Standardized
+263,C-0262,email,Noah.Stone262@example.com,noah.stone262@example.com,Standardized
+263,C-0262,status,lead,Prospect,Standardized
+263,C-0262,signup_date,09-Mar-2025,2025-03-09,Standardized
+264,C-0263,customer_id,c-0263,C-0263,Standardized
+264,C-0263,email,Sofia.Wilson263@example.com,sofia.wilson263@example.com,Standardized
+264,C-0263,country,FR,France,Standardized
+264,C-0263,status,active,Active,Standardized
+265,C-0264,customer_id,c-0264,C-0264,Standardized
+265,C-0264,email,Lucas.Kaya264@Example.COM,lucas.kaya264@example.com,Standardized
+265,C-0264,country,USA,United States,Standardized
+265,C-0264,status,ACTIVE,Active,Standardized
+265,C-0264,lifetime_value,"$3,300.57",3300.57,Standardized
+265,C-0264,signup_date,05-Aug-2025,2025-08-05,Standardized
+266,C-0265,customer_id,c-0265,C-0265,Standardized
+266,C-0265,full_name,mia STONE,Mia Stone,Standardized
+266,C-0265,email,Mia.Stone265@example.com,mia.stone265@example.com,Standardized
+266,C-0265,status,prospect,Prospect,Standardized
+266,C-0265,signup_date,18/05/2026,2026-05-18,Standardized
+267,C-0266,customer_id,C- 0266,C-0266,Standardized
+267,C-0266,email,Emma.Martin266@example.com,emma.martin266@example.com,Standardized
+267,C-0266,country,DE,Germany,Standardized
+267,C-0266,signup_date,14-May-2025,2025-05-14,Standardized
+268,C-0267,customer_id,c-0267,C-0267,Standardized
+268,C-0267,email,Ada.Miller267@example.com,ada.miller267@example.com,Standardized
+268,C-0267,country,u.k.,United Kingdom,Standardized
+268,C-0267,status,prospect,Prospect,Standardized
+269,C-0268,customer_id,c-0268,C-0268,Standardized
+269,C-0268,email,Emma.Clark268@example.com,emma.clark268@example.com,Standardized
+269,C-0268,country,us,United States,Standardized
+269,C-0268,status,ACTIVE,Active,Standardized
+269,C-0268,lifetime_value,"$3,129.46",3129.46,Standardized
+270,C-0269,customer_id,c-0269,C-0269,Standardized
+270,C-0269,email,Lucas.Clark269@example.com,lucas.clark269@example.com,Standardized
+270,C-0269,status,active,Active,Standardized
+270,C-0269,signup_date,04-Mar-2026,2026-03-04,Standardized
+271,C-0270,customer_id,c-0270,C-0270,Standardized
+271,C-0270,full_name,emma KAYA,Emma Kaya,Standardized
+271,C-0270,email,Emma.Kaya270@Example.COM,emma.kaya270@example.com,Standardized
+271,C-0270,signup_date,16/04/2026,2026-04-16,Standardized
+272,C-0271,customer_id,c-0271,C-0271,Standardized
+272,C-0271,email,Lucas.Stone271@example.com,lucas.stone271@example.com,Standardized
+272,C-0271,country,USA,United States,Standardized
+272,C-0271,status,prospect,Prospect,Standardized
+272,C-0271,signup_date,18-Jun-2026,2026-06-18,Standardized
+273,C-0272,customer_id,c-0272,C-0272,Standardized
+273,C-0272,email,Oliver.Clark272@example.com,oliver.clark272@example.com,Standardized
+273,C-0272,country,us,United States,Standardized
+273,C-0272,status,ACTIVE,Active,Standardized
+273,C-0272,lifetime_value,$460.69,460.69,Standardized
+273,C-0272,signup_date,21-Jan-2026,2026-01-21,Standardized
+274,C-0273,customer_id,C- 0273,C-0273,Standardized
+274,C-0273,email,Oliver.Stone273@example.com,oliver.stone273@example.com,Standardized
+274,C-0273,status,ACTIVE,Active,Standardized
+274,C-0273,signup_date,15/05/2026,2026-05-15,Standardized
+275,C-0274,customer_id,c-0274,C-0274,Standardized
+275,C-0274,email,Noah.Miller274@example.com,noah.miller274@example.com,Standardized
+275,C-0274,country,UK,United Kingdom,Standardized
+275,C-0274,status,prospect,Prospect,Standardized
+275,C-0274,signup_date,03-Aug-2025,2025-08-03,Standardized
+276,C-0275,customer_id,c-0275,C-0275,Standardized
+276,C-0275,full_name,ethan MARTIN,Ethan Martin,Standardized
+276,C-0275,email,Ethan.Martin275@example.com,ethan.martin275@example.com,Standardized
+276,C-0275,country,DE,Germany,Standardized
+276,C-0275,signup_date,13/04/2026,2026-04-13,Standardized
+277,C-0276,customer_id,c-0276,C-0276,Standardized
+277,C-0276,email,Lucas.Stone276@Example.COM,lucas.stone276@example.com,Standardized
+277,C-0276,country,u.k.,United Kingdom,Standardized
+277,C-0276,status,ACTIVE,Active,Standardized
+277,C-0276,lifetime_value,"$2,282.01",2282.01,Standardized
+278,C-0277,customer_id,c-0277,C-0277,Standardized
+278,C-0277,email,Ada.Demir277@example.com,ada.demir277@example.com,Standardized
+278,C-0277,status,IN-ACTIVE,Inactive,Standardized
+279,C-0278,customer_id,c-0278,C-0278,Standardized
+279,C-0278,email,Ethan.Kaya278@example.com,ethan.kaya278@example.com,Standardized
+279,C-0278,country,DE,Germany,Standardized
+279,C-0278,status,lead,Prospect,Standardized
+279,C-0278,signup_date,20/05/2025,2025-05-20,Standardized
+280,C-0279,customer_id,c-0279,C-0279,Standardized
+280,C-0279,email,Sofia.Taylor279@example.com,sofia.taylor279@example.com,Standardized
+280,C-0279,status,ACTIVE,Active,Standardized
+280,C-0279,signup_date,23/08/2025,2025-08-23,Standardized
+281,C-0280,customer_id,C- 0280,C-0280,Standardized
+281,C-0280,full_name,ethan STONE,Ethan Stone,Standardized
+281,C-0280,email,Ethan.Stone280@example.com,ethan.stone280@example.com,Standardized
+281,C-0280,lifetime_value,"$2,111.80",2111.80,Standardized
+281,C-0280,signup_date,05-Mar-2026,2026-03-05,Standardized
+282,C-0281,customer_id,c-0281,C-0281,Standardized
+282,C-0281,email,Mia.Stone281@example.com,mia.stone281@example.com,Standardized
+283,C-0282,customer_id,c-0282,C-0282,Standardized
+283,C-0282,email,Liam.Taylor282@Example.COM,liam.taylor282@example.com,Standardized
+283,C-0282,status,lead,Prospect,Standardized
+283,C-0282,signup_date,21/10/2025,2025-10-21,Standardized
+284,C-0283,customer_id,c-0283,C-0283,Standardized
+284,C-0283,email,Liam.Taylor283@example.com,liam.taylor283@example.com,Standardized
+284,C-0283,country,Turkey,Türkiye,Standardized
+284,C-0283,status,ACTIVE,Active,Standardized
+285,C-0284,customer_id,c-0284,C-0284,Standardized
+285,C-0284,email,Emma.Brown284@example.com,emma.brown284@example.com,Standardized
+285,C-0284,country,USA,United States,Standardized
+285,C-0284,status,prospect,Prospect,Standardized
+285,C-0284,lifetime_value,"$4,103.27",4103.27,Standardized
+286,C-0285,customer_id,c-0285,C-0285,Standardized
+286,C-0285,full_name,mia YILMAZ,Mia Yilmaz,Standardized
+286,C-0285,email,Mia.Yilmaz285@example.com,mia.yilmaz285@example.com,Standardized
+286,C-0285,country,USA,United States,Standardized
+286,C-0285,signup_date,26/05/2025,2025-05-26,Standardized
+287,C-0286,customer_id,c-0286,C-0286,Standardized
+287,C-0286,email,Emma.Brown286@example.com,emma.brown286@example.com,Standardized
+287,C-0286,country,UK,United Kingdom,Standardized
+287,C-0286,status,lead,Prospect,Standardized
+287,C-0286,signup_date,25/02/2025,2025-02-25,Standardized
+288,C-0287,customer_id,C- 0287,C-0287,Standardized
+288,C-0287,email,Liam.Yilmaz287@example.com,liam.yilmaz287@example.com,Standardized
+288,C-0287,country,u.k.,United Kingdom,Standardized
+288,C-0287,status,IN-ACTIVE,Inactive,Standardized
+288,C-0287,signup_date,02-Sep-2025,2025-09-02,Standardized
+289,C-0288,customer_id,c-0288,C-0288,Standardized
+289,C-0288,email,Ada.Miller288@Example.COM,ada.miller288@example.com,Standardized
+289,C-0288,country,us,United States,Standardized
+289,C-0288,status,prospect,Prospect,Standardized
+289,C-0288,lifetime_value,"$3,067.79",3067.79,Standardized
+290,C-0289,customer_id,c-0289,C-0289,Standardized
+290,C-0289,email,Noah.Clark289@example.com,noah.clark289@example.com,Standardized
+290,C-0289,status,active,Active,Standardized
+290,C-0289,signup_date,04-Jul-2025,2025-07-04,Standardized
+291,C-0290,customer_id,c-0290,C-0290,Standardized
+291,C-0290,full_name,noah YILMAZ,Noah Yilmaz,Standardized
+291,C-0290,email,Noah.Yilmaz290@example.com,noah.yilmaz290@example.com,Standardized
+291,C-0290,signup_date,12-Jul-2026,2026-07-12,Standardized
+292,C-0291,customer_id,c-0291,C-0291,Standardized
+292,C-0291,email,Ada.Brown291@example.com,ada.brown291@example.com,Standardized
+292,C-0291,country,FR,France,Standardized
+292,C-0291,signup_date,27-Mar-2026,2026-03-27,Standardized
+293,C-0292,customer_id,c-0292,C-0292,Standardized
+293,C-0292,email,Emma.Martin292@example.com,emma.martin292@example.com,Standardized
+293,C-0292,country,us,United States,Standardized
+293,C-0292,status,lead,Prospect,Standardized
+293,C-0292,lifetime_value,"$1,901.55",1901.55,Standardized
+293,C-0292,signup_date,20/03/2026,2026-03-20,Standardized
+294,C-0293,customer_id,c-0293,C-0293,Standardized
+294,C-0293,email,Ada.Stone293@example.com,ada.stone293@example.com,Standardized
+294,C-0293,country,USA,United States,Standardized
+294,C-0293,status,ACTIVE,Active,Standardized
+295,C-0294,customer_id,C- 0294,C-0294,Standardized
+295,C-0294,email,Ethan.Brown294@Example.COM,ethan.brown294@example.com,Standardized
+295,C-0294,signup_date,22-Jan-2026,2026-01-22,Standardized
+296,C-0295,customer_id,c-0295,C-0295,Standardized
+296,C-0295,full_name,noah DEMIR,Noah Demir,Standardized
+296,C-0295,email,Noah.Demir295@example.com,noah.demir295@example.com,Standardized
+296,C-0295,status,lead,Prospect,Standardized
+296,C-0295,signup_date,06/03/2026,2026-03-06,Standardized
+297,C-0296,customer_id,c-0296,C-0296,Standardized
+297,C-0296,email,Sofia.Clark296@example.com,sofia.clark296@example.com,Standardized
+297,C-0296,country,USA,United States,Standardized
+297,C-0296,status,active,Active,Standardized
+297,C-0296,lifetime_value,"$3,510.53",3510.53,Standardized
+297,C-0296,signup_date,26-Jun-2026,2026-06-26,Standardized
+298,C-0297,customer_id,c-0297,C-0297,Standardized
+298,C-0297,email,Lucas.Stone297@example.com,lucas.stone297@example.com,Standardized
+298,C-0297,status,lead,Prospect,Standardized
+299,C-0298,customer_id,c-0298,C-0298,Standardized
+299,C-0298,email,Oliver.Brown298@example.com,oliver.brown298@example.com,Standardized
+299,C-0298,country,u.k.,United Kingdom,Standardized
+299,C-0298,status,prospect,Prospect,Standardized
+299,C-0298,signup_date,08-Jul-2026,2026-07-08,Standardized
+300,C-0299,customer_id,c-0299,C-0299,Standardized
+300,C-0299,email,Lucas.Wilson299@example.com,lucas.wilson299@example.com,Standardized
+300,C-0299,status,lead,Prospect,Standardized
+301,C-0300,customer_id,c-0300,C-0300,Standardized
+301,C-0300,full_name,sofia TAYLOR,Sofia Taylor,Standardized
+301,C-0300,email,Sofia.Taylor300@Example.COM,sofia.taylor300@example.com,Standardized
+301,C-0300,country,us,United States,Standardized
+301,C-0300,status,active,Active,Standardized
+301,C-0300,lifetime_value,$902.73,902.73,Standardized
+302,C-0301,customer_id,C- 0301,C-0301,Standardized
+302,C-0301,email,Emma.Martin301@example.com,emma.martin301@example.com,Standardized
+302,C-0301,country,u.k.,United Kingdom,Standardized
+302,C-0301,status,active,Active,Standardized
+302,C-0301,signup_date,30/06/2026,2026-06-30,Standardized
+303,C-0302,customer_id,c-0302,C-0302,Standardized
+303,C-0302,email,Mia.Wilson302@example.com,mia.wilson302@example.com,Standardized
+303,C-0302,country,u.k.,United Kingdom,Standardized
+303,C-0302,status,lead,Prospect,Standardized
+303,C-0302,signup_date,26-Aug-2025,2025-08-26,Standardized
+304,C-0303,customer_id,c-0303,C-0303,Standardized
+304,C-0303,email,Ada.Yilmaz303@example.com,ada.yilmaz303@example.com,Standardized
+304,C-0303,country,FR,France,Standardized
+304,C-0303,status,IN-ACTIVE,Inactive,Standardized
+304,C-0303,signup_date,04-Feb-2025,2025-02-04,Standardized
+305,C-0304,customer_id,c-0304,C-0304,Standardized
+305,C-0304,email,Liam.Demir304@example.com,liam.demir304@example.com,Standardized
+305,C-0304,status,prospect,Prospect,Standardized
+305,C-0304,lifetime_value,$376.65,376.65,Standardized
+305,C-0304,signup_date,24/11/2025,2025-11-24,Standardized
+306,C-0305,customer_id,c-0305,C-0305,Standardized
+306,C-0305,full_name,liam KAYA,Liam Kaya,Standardized
+306,C-0305,email,Liam.Kaya305@example.com,liam.kaya305@example.com,Standardized
+306,C-0305,country,UK,United Kingdom,Standardized
+306,C-0305,status,IN-ACTIVE,Inactive,Standardized
+306,C-0305,signup_date,07-Aug-2025,2025-08-07,Standardized
+307,C-0306,customer_id,c-0306,C-0306,Standardized
+307,C-0306,email,Mia.Miller306@Example.COM,mia.miller306@example.com,Standardized
+307,C-0306,status,IN-ACTIVE,Inactive,Standardized
+307,C-0306,signup_date,06/02/2025,2025-02-06,Standardized
+308,C-0307,customer_id,c-0307,C-0307,Standardized
+308,C-0307,email,Noah.Clark307@example.com,noah.clark307@example.com,Standardized
+308,C-0307,country,Turkey,Türkiye,Standardized
+308,C-0307,status,ACTIVE,Active,Standardized
+308,C-0307,signup_date,15-Sep-2025,2025-09-15,Standardized
+309,C-0308,customer_id,C- 0308,C-0308,Standardized
+309,C-0308,email,Sofia.Brown308@example.com,sofia.brown308@example.com,Standardized
+309,C-0308,status,active,Active,Standardized
+309,C-0308,lifetime_value,$29.22,29.22,Standardized
+310,C-0309,customer_id,c-0309,C-0309,Standardized
+310,C-0309,email,Oliver.Brown309@example.com,oliver.brown309@example.com,Standardized
+310,C-0309,country,FR,France,Standardized
+310,C-0309,status,ACTIVE,Active,Standardized
+310,C-0309,signup_date,26/06/2026,2026-06-26,Standardized
+311,C-0310,customer_id,c-0310,C-0310,Standardized
+311,C-0310,full_name,ada BROWN,Ada Brown,Standardized
+311,C-0310,email,Ada.Brown310@example.com,ada.brown310@example.com,Standardized
+311,C-0310,country,USA,United States,Standardized
+311,C-0310,status,active,Active,Standardized
+311,C-0310,signup_date,11-Feb-2026,2026-02-11,Standardized
+312,C-0311,customer_id,c-0311,C-0311,Standardized
+312,C-0311,email,Ada.Martin311@example.com,ada.martin311@example.com,Standardized
+312,C-0311,country,us,United States,Standardized
+312,C-0311,status,active,Active,Standardized
+312,C-0311,signup_date,24/02/2026,2026-02-24,Standardized
+313,C-0312,customer_id,c-0312,C-0312,Standardized
+313,C-0312,email,Lucas.Miller312@Example.COM,lucas.miller312@example.com,Standardized
+313,C-0312,status,ACTIVE,Active,Standardized
+313,C-0312,lifetime_value,"$3,374.40",3374.40,Standardized
+314,C-0313,customer_id,c-0313,C-0313,Standardized
+314,C-0313,email,Mia.Brown313@example.com,mia.brown313@example.com,Standardized
+314,C-0313,country,FR,France,Standardized
+314,C-0313,signup_date,25/10/2025,2025-10-25,Standardized
+315,C-0314,customer_id,c-0314,C-0314,Standardized
+315,C-0314,email,Lucas.Martin314@example.com,lucas.martin314@example.com,Standardized
+315,C-0314,country,u.k.,United Kingdom,Standardized
+315,C-0314,status,lead,Prospect,Standardized
+316,C-0315,customer_id,C- 0315,C-0315,Standardized
+316,C-0315,full_name,ethan YILMAZ,Ethan Yilmaz,Standardized
+316,C-0315,email,Ethan.Yilmaz315@example.com,ethan.yilmaz315@example.com,Standardized
+316,C-0315,country,FR,France,Standardized
+316,C-0315,status,active,Active,Standardized
+316,C-0315,signup_date,28-Mar-2026,2026-03-28,Standardized
+317,C-0316,customer_id,c-0316,C-0316,Standardized
+317,C-0316,email,Mia.Wilson316@example.com,mia.wilson316@example.com,Standardized
+317,C-0316,country,u.k.,United Kingdom,Standardized
+317,C-0316,status,active,Active,Standardized
+317,C-0316,lifetime_value,"$2,039.61",2039.61,Standardized
+318,C-0317,customer_id,c-0317,C-0317,Standardized
+318,C-0317,email,Mia.Taylor317@example.com,mia.taylor317@example.com,Standardized
+318,C-0317,status,active,Active,Standardized
+318,C-0317,signup_date,23/06/2025,2025-06-23,Standardized
+319,C-0318,customer_id,c-0318,C-0318,Standardized
+319,C-0318,email,Leyla.Clark318@Example.COM,leyla.clark318@example.com,Standardized
+319,C-0318,country,FR,France,Standardized
+319,C-0318,status,ACTIVE,Active,Standardized
+320,C-0319,customer_id,c-0319,C-0319,Standardized
+320,C-0319,email,Emma.Brown319@example.com,emma.brown319@example.com,Standardized
+320,C-0319,country,FR,France,Standardized
+320,C-0319,status,active,Active,Standardized
+320,C-0319,signup_date,22/12/2025,2025-12-22,Standardized
+321,C-0320,customer_id,c-0320,C-0320,Standardized
+321,C-0320,full_name,liam MILLER,Liam Miller,Standardized
+321,C-0320,email,Liam.Miller320@example.com,liam.miller320@example.com,Standardized
+321,C-0320,country,FR,France,Standardized
+321,C-0320,status,ACTIVE,Active,Standardized
+321,C-0320,lifetime_value,"$2,121.36",2121.36,Standardized
+322,C-0321,customer_id,c-0321,C-0321,Standardized
+322,C-0321,email,Noah.Miller321@example.com,noah.miller321@example.com,Standardized
+323,C-0322,customer_id,C- 0322,C-0322,Standardized
+323,C-0322,email,Leyla.Yilmaz322@example.com,leyla.yilmaz322@example.com,Standardized
+323,C-0322,country,FR,France,Standardized
+323,C-0322,status,lead,Prospect,Standardized
+324,C-0323,customer_id,c-0323,C-0323,Standardized
+324,C-0323,email,Leyla.Kaya323@example.com,leyla.kaya323@example.com,Standardized
+324,C-0323,country,USA,United States,Standardized
+324,C-0323,status,prospect,Prospect,Standardized
+324,C-0323,signup_date,07/02/2025,2025-02-07,Standardized
+325,C-0324,customer_id,c-0324,C-0324,Standardized
+325,C-0324,email,Liam.Demir324@Example.COM,liam.demir324@example.com,Standardized
+325,C-0324,lifetime_value,"$3,779.78",3779.78,Standardized
+325,C-0324,signup_date,15-May-2025,2025-05-15,Standardized
+326,C-0325,customer_id,c-0325,C-0325,Standardized
+326,C-0325,full_name,emma YILMAZ,Emma Yilmaz,Standardized
+326,C-0325,email,Emma.Yilmaz325@example.com,emma.yilmaz325@example.com,Standardized
+326,C-0325,country,UK,United Kingdom,Standardized
+326,C-0325,status,prospect,Prospect,Standardized
+326,C-0325,signup_date,27-May-2026,2026-05-27,Standardized
+327,C-0326,customer_id,c-0326,C-0326,Standardized
+327,C-0326,email,Lucas.Demir326@example.com,lucas.demir326@example.com,Standardized
+327,C-0326,signup_date,28/09/2025,2025-09-28,Standardized
+328,C-0327,customer_id,c-0327,C-0327,Standardized
+328,C-0327,email,Lucas.Stone327@example.com,lucas.stone327@example.com,Standardized
+328,C-0327,country,us,United States,Standardized
+328,C-0327,status,prospect,Prospect,Standardized
+328,C-0327,signup_date,03/02/2026,2026-02-03,Standardized
+329,C-0328,customer_id,c-0328,C-0328,Standardized
+329,C-0328,email,Oliver.Kaya328@example.com,oliver.kaya328@example.com,Standardized
+329,C-0328,country,USA,United States,Standardized
+329,C-0328,status,IN-ACTIVE,Inactive,Standardized
+329,C-0328,lifetime_value,"$3,507.63",3507.63,Standardized
+330,C-0329,customer_id,C- 0329,C-0329,Standardized
+330,C-0329,email,Sofia.Clark329@example.com,sofia.clark329@example.com,Standardized
+330,C-0329,signup_date,19-Oct-2025,2025-10-19,Standardized
+331,C-0330,customer_id,c-0330,C-0330,Standardized
+331,C-0330,full_name,lucas MARTIN,Lucas Martin,Standardized
+331,C-0330,email,Lucas.Martin330@Example.COM,lucas.martin330@example.com,Standardized
+331,C-0330,country,DE,Germany,Standardized
+331,C-0330,status,lead,Prospect,Standardized
+331,C-0330,signup_date,09-Jul-2026,2026-07-09,Standardized
+332,C-0331,customer_id,c-0331,C-0331,Standardized
+332,C-0331,email,Ada.Kaya331@example.com,ada.kaya331@example.com,Standardized
+332,C-0331,country,USA,United States,Standardized
+332,C-0331,status,ACTIVE,Active,Standardized
+333,C-0332,customer_id,c-0332,C-0332,Standardized
+333,C-0332,email,Leyla.Brown332@example.com,leyla.brown332@example.com,Standardized
+333,C-0332,status,lead,Prospect,Standardized
+333,C-0332,lifetime_value,"$2,885.43",2885.43,Standardized
+334,C-0333,customer_id,c-0333,C-0333,Standardized
+334,C-0333,email,Emma.Yilmaz333@example.com,emma.yilmaz333@example.com,Standardized
+334,C-0333,country,FR,France,Standardized
+334,C-0333,status,ACTIVE,Active,Standardized
+334,C-0333,signup_date,17/11/2025,2025-11-17,Standardized
+335,C-0334,customer_id,c-0334,C-0334,Standardized
+335,C-0334,email,Lucas.Miller334@example.com,lucas.miller334@example.com,Standardized
+335,C-0334,country,FR,France,Standardized
+335,C-0334,status,lead,Prospect,Standardized
+335,C-0334,signup_date,18/06/2026,2026-06-18,Standardized
+336,C-0335,customer_id,c-0335,C-0335,Standardized
+336,C-0335,full_name,liam DEMIR,Liam Demir,Standardized
+336,C-0335,email,Liam.Demir335@example.com,liam.demir335@example.com,Standardized
+336,C-0335,country,UK,United Kingdom,Standardized
+336,C-0335,status,lead,Prospect,Standardized
+337,C-0336,customer_id,C- 0336,C-0336,Standardized
+337,C-0336,email,Noah.Stone336@Example.COM,noah.stone336@example.com,Standardized
+337,C-0336,country,DE,Germany,Standardized
+337,C-0336,status,ACTIVE,Active,Standardized
+337,C-0336,lifetime_value,"$4,008.73",4008.73,Standardized
+337,C-0336,signup_date,21/05/2026,2026-05-21,Standardized
+338,C-0337,customer_id,c-0337,C-0337,Standardized
+338,C-0337,email,Ada.Kaya337@example.com,ada.kaya337@example.com,Standardized
+338,C-0337,country,FR,France,Standardized
+338,C-0337,status,IN-ACTIVE,Inactive,Standardized
+338,C-0337,signup_date,26-May-2026,2026-05-26,Standardized
+339,C-0338,customer_id,c-0338,C-0338,Standardized
+339,C-0338,email,Ethan.Clark338@example.com,ethan.clark338@example.com,Standardized
+339,C-0338,country,USA,United States,Standardized
+339,C-0338,status,prospect,Prospect,Standardized
+339,C-0338,signup_date,09/04/2026,2026-04-09,Standardized
+340,C-0339,customer_id,c-0339,C-0339,Standardized
+340,C-0339,email,Emma.Martin339@example.com,emma.martin339@example.com,Standardized
+340,C-0339,status,prospect,Prospect,Standardized
+340,C-0339,signup_date,30-Jun-2025,2025-06-30,Standardized
+341,C-0340,customer_id,c-0340,C-0340,Standardized
+341,C-0340,full_name,emma MILLER,Emma Miller,Standardized
+341,C-0340,email,Emma.Miller340@example.com,emma.miller340@example.com,Standardized
+341,C-0340,status,lead,Prospect,Standardized
+341,C-0340,lifetime_value,"$1,562.90",1562.90,Standardized
+341,C-0340,signup_date,09/05/2025,2025-05-09,Standardized
+342,C-0341,customer_id,c-0341,C-0341,Standardized
+342,C-0341,email,Oliver.Clark341@example.com,oliver.clark341@example.com,Standardized
+342,C-0341,signup_date,04/11/2025,2025-11-04,Standardized
+343,C-0342,customer_id,c-0342,C-0342,Standardized
+343,C-0342,email,Emma.Miller342@Example.COM,emma.miller342@example.com,Standardized
+343,C-0342,country,UK,United Kingdom,Standardized
+343,C-0342,status,ACTIVE,Active,Standardized
+343,C-0342,signup_date,24/04/2025,2025-04-24,Standardized
+344,C-0343,customer_id,C- 0343,C-0343,Standardized
+344,C-0343,email,Sofia.Kaya343@example.com,sofia.kaya343@example.com,Standardized
+344,C-0343,country,FR,France,Standardized
+344,C-0343,status,IN-ACTIVE,Inactive,Standardized
+344,C-0343,signup_date,07-Dec-2025,2025-12-07,Standardized
+345,C-0344,customer_id,c-0344,C-0344,Standardized
+345,C-0344,email,Ada.Martin344@example.com,ada.martin344@example.com,Standardized
+345,C-0344,country,u.k.,United Kingdom,Standardized
+345,C-0344,status,lead,Prospect,Standardized
+345,C-0344,lifetime_value,"$3,528.26",3528.26,Standardized
+345,C-0344,signup_date,09/04/2026,2026-04-09,Standardized
+346,C-0345,customer_id,c-0345,C-0345,Standardized
+346,C-0345,full_name,ada KAYA,Ada Kaya,Standardized
+346,C-0345,email,Ada.Kaya345@example.com,ada.kaya345@example.com,Standardized
+346,C-0345,country,Turkey,Türkiye,Standardized
+346,C-0345,status,IN-ACTIVE,Inactive,Standardized
+346,C-0345,signup_date,21-Dec-2025,2025-12-21,Standardized
+347,C-0346,customer_id,c-0346,C-0346,Standardized
+347,C-0346,email,Mia.Stone346@example.com,mia.stone346@example.com,Standardized
+347,C-0346,country,DE,Germany,Standardized
+347,C-0346,status,prospect,Prospect,Standardized
+347,C-0346,signup_date,20-Oct-2025,2025-10-20,Standardized
+348,C-0347,customer_id,c-0347,C-0347,Standardized
+348,C-0347,email,Ethan.Taylor347@example.com,ethan.taylor347@example.com,Standardized
+348,C-0347,country,u.k.,United Kingdom,Standardized
+348,C-0347,signup_date,17-Dec-2025,2025-12-17,Standardized
+349,C-0348,customer_id,c-0348,C-0348,Standardized
+349,C-0348,email,Leyla.Yilmaz348@Example.COM,leyla.yilmaz348@example.com,Standardized
+349,C-0348,country,DE,Germany,Standardized
+349,C-0348,status,prospect,Prospect,Standardized
+349,C-0348,lifetime_value,"$3,640.23",3640.23,Standardized
+349,C-0348,signup_date,19-Sep-2025,2025-09-19,Standardized
+350,C-0349,customer_id,c-0349,C-0349,Standardized
+350,C-0349,email,Sofia.Brown349@example.com,sofia.brown349@example.com,Standardized
+350,C-0349,country,USA,United States,Standardized
+350,C-0349,status,ACTIVE,Active,Standardized
+351,C-0350,customer_id,C- 0350,C-0350,Standardized
+351,C-0350,full_name,lucas MILLER,Lucas Miller,Standardized
+351,C-0350,email,Lucas.Miller350@example.com,lucas.miller350@example.com,Standardized
+351,C-0350,country,FR,France,Standardized
+351,C-0350,status,ACTIVE,Active,Standardized
+352,C-0351,customer_id,c-0351,C-0351,Standardized
+352,C-0351,email,Oliver.Kaya351@example.com,oliver.kaya351@example.com,Standardized
+352,C-0351,country,Turkey,Türkiye,Standardized
+352,C-0351,status,lead,Prospect,Standardized
+352,C-0351,signup_date,24-Jun-2025,2025-06-24,Standardized
+353,C-0352,customer_id,c-0352,C-0352,Standardized
+353,C-0352,email,Sofia.Miller352@example.com,sofia.miller352@example.com,Standardized
+353,C-0352,lifetime_value,"$1,864.12",1864.12,Standardized
+354,C-0353,customer_id,c-0353,C-0353,Standardized
+354,C-0353,email,Ada.Miller353@example.com,ada.miller353@example.com,Standardized
+354,C-0353,status,active,Active,Standardized
+354,C-0353,signup_date,14/09/2025,2025-09-14,Standardized
+355,C-0354,customer_id,c-0354,C-0354,Standardized
+355,C-0354,email,Sofia.Wilson354@Example.COM,sofia.wilson354@example.com,Standardized
+355,C-0354,country,us,United States,Standardized
+355,C-0354,status,ACTIVE,Active,Standardized
+355,C-0354,signup_date,15/06/2026,2026-06-15,Standardized
+356,C-0355,customer_id,c-0355,C-0355,Standardized
+356,C-0355,full_name,sofia STONE,Sofia Stone,Standardized
+356,C-0355,email,Sofia.Stone355@example.com,sofia.stone355@example.com,Standardized
+356,C-0355,country,Turkey,Türkiye,Standardized
+356,C-0355,signup_date,20/02/2025,2025-02-20,Standardized
+357,C-0356,customer_id,c-0356,C-0356,Standardized
+357,C-0356,email,Mia.Miller356@example.com,mia.miller356@example.com,Standardized
+357,C-0356,country,USA,United States,Standardized
+357,C-0356,status,active,Active,Standardized
+357,C-0356,lifetime_value,"$4,279.48",4279.48,Standardized
+358,C-0357,customer_id,C- 0357,C-0357,Standardized
+358,C-0357,email,Mia.Wilson357@example.com,mia.wilson357@example.com,Standardized
+358,C-0357,country,DE,Germany,Standardized
+358,C-0357,status,IN-ACTIVE,Inactive,Standardized
+358,C-0357,signup_date,25/05/2026,2026-05-25,Standardized
+359,C-0358,customer_id,c-0358,C-0358,Standardized
+359,C-0358,email,Emma.Wilson358@example.com,emma.wilson358@example.com,Standardized
+359,C-0358,country,Turkey,Türkiye,Standardized
+359,C-0358,status,ACTIVE,Active,Standardized
+359,C-0358,signup_date,31-Dec-2025,2025-12-31,Standardized
+360,C-0359,customer_id,c-0359,C-0359,Standardized
+360,C-0359,email,Oliver.Martin359@example.com,oliver.martin359@example.com,Standardized
+360,C-0359,status,lead,Prospect,Standardized
+360,C-0359,signup_date,30-Aug-2025,2025-08-30,Standardized
+361,C-0360,customer_id,c-0360,C-0360,Standardized
+361,C-0360,full_name,liam YILMAZ,Liam Yilmaz,Standardized
+361,C-0360,email,Liam.Yilmaz360@Example.COM,liam.yilmaz360@example.com,Standardized
+361,C-0360,country,DE,Germany,Standardized
+361,C-0360,status,ACTIVE,Active,Standardized
+361,C-0360,lifetime_value,"$1,584.90",1584.90,Standardized
+362,C-0361,customer_id,c-0361,C-0361,Standardized
+362,C-0361,email,Leyla.Miller361@example.com,leyla.miller361@example.com,Standardized
+362,C-0361,country,FR,France,Standardized
+362,C-0361,status,active,Active,Standardized
+363,C-0362,customer_id,c-0362,C-0362,Standardized
+363,C-0362,email,Oliver.Wilson362@example.com,oliver.wilson362@example.com,Standardized
+363,C-0362,country,u.k.,United Kingdom,Standardized
+364,C-0363,customer_id,c-0363,C-0363,Standardized
+364,C-0363,email,Sofia.Kaya363@example.com,sofia.kaya363@example.com,Standardized
+364,C-0363,country,u.k.,United Kingdom,Standardized
+364,C-0363,status,lead,Prospect,Standardized
+364,C-0363,signup_date,28-May-2026,2026-05-28,Standardized
+365,C-0364,customer_id,C- 0364,C-0364,Standardized
+365,C-0364,email,Liam.Clark364@example.com,liam.clark364@example.com,Standardized
+365,C-0364,lifetime_value,"$3,713.21",3713.21,Standardized
+365,C-0364,signup_date,05/02/2026,2026-02-05,Standardized
+366,C-0365,customer_id,c-0365,C-0365,Standardized
+366,C-0365,full_name,oliver BROWN,Oliver Brown,Standardized
+366,C-0365,email,Oliver.Brown365@example.com,oliver.brown365@example.com,Standardized
+366,C-0365,country,Turkey,Türkiye,Standardized
+366,C-0365,status,active,Active,Standardized
+366,C-0365,signup_date,12-Feb-2025,2025-02-12,Standardized
+367,C-0366,customer_id,c-0366,C-0366,Standardized
+367,C-0366,email,Lucas.Brown366@Example.COM,lucas.brown366@example.com,Standardized
+367,C-0366,country,us,United States,Standardized
+368,C-0367,customer_id,c-0367,C-0367,Standardized
+368,C-0367,email,Leyla.Yilmaz367@example.com,leyla.yilmaz367@example.com,Standardized
+368,C-0367,country,u.k.,United Kingdom,Standardized
+368,C-0367,status,prospect,Prospect,Standardized
+368,C-0367,signup_date,30/10/2025,2025-10-30,Standardized
+369,C-0368,customer_id,c-0368,C-0368,Standardized
+369,C-0368,email,Ada.Martin368@example.com,ada.martin368@example.com,Standardized
+369,C-0368,country,UK,United Kingdom,Standardized
+369,C-0368,status,ACTIVE,Active,Standardized
+369,C-0368,lifetime_value,"$1,268.13",1268.13,Standardized
+369,C-0368,signup_date,17/07/2026,2026-07-17,Standardized
+370,C-0369,customer_id,c-0369,C-0369,Standardized
+370,C-0369,email,Leyla.Yilmaz369@example.com,leyla.yilmaz369@example.com,Standardized
+370,C-0369,status,ACTIVE,Active,Standardized
+371,C-0370,customer_id,c-0370,C-0370,Standardized
+371,C-0370,full_name,lucas KAYA,Lucas Kaya,Standardized
+371,C-0370,email,Lucas.Kaya370@example.com,lucas.kaya370@example.com,Standardized
+371,C-0370,country,us,United States,Standardized
+371,C-0370,status,prospect,Prospect,Standardized
+372,C-0371,customer_id,C- 0371,C-0371,Standardized
+372,C-0371,email,Mia.Taylor371@example.com,mia.taylor371@example.com,Standardized
+372,C-0371,country,DE,Germany,Standardized
+372,C-0371,status,IN-ACTIVE,Inactive,Standardized
+372,C-0371,signup_date,06/10/2025,2025-10-06,Standardized
+373,C-0372,customer_id,c-0372,C-0372,Standardized
+373,C-0372,email,Mia.Stone372@Example.COM,mia.stone372@example.com,Standardized
+373,C-0372,country,DE,Germany,Standardized
+373,C-0372,status,lead,Prospect,Standardized
+373,C-0372,lifetime_value,$590.32,590.32,Standardized
+374,C-0373,customer_id,c-0373,C-0373,Standardized
+374,C-0373,email,Oliver.Demir373@example.com,oliver.demir373@example.com,Standardized
+374,C-0373,country,u.k.,United Kingdom,Standardized
+374,C-0373,status,ACTIVE,Active,Standardized
+375,C-0374,customer_id,c-0374,C-0374,Standardized
+375,C-0374,email,Mia.Martin374@example.com,mia.martin374@example.com,Standardized
+375,C-0374,country,u.k.,United Kingdom,Standardized
+375,C-0374,signup_date,21/12/2025,2025-12-21,Standardized
+376,C-0375,customer_id,c-0375,C-0375,Standardized
+376,C-0375,full_name,leyla WILSON,Leyla Wilson,Standardized
+376,C-0375,email,Leyla.Wilson375@example.com,leyla.wilson375@example.com,Standardized
+376,C-0375,status,ACTIVE,Active,Standardized
+376,C-0375,signup_date,22/11/2025,2025-11-22,Standardized
+377,C-0376,customer_id,c-0376,C-0376,Standardized
+377,C-0376,email,Liam.Yilmaz376@example.com,liam.yilmaz376@example.com,Standardized
+377,C-0376,country,FR,France,Standardized
+377,C-0376,status,ACTIVE,Active,Standardized
+377,C-0376,lifetime_value,"$3,684.73",3684.73,Standardized
+377,C-0376,signup_date,13-Apr-2025,2025-04-13,Standardized
+378,C-0377,customer_id,c-0377,C-0377,Standardized
+378,C-0377,email,Ada.Kaya377@example.com,ada.kaya377@example.com,Standardized
+378,C-0377,country,FR,France,Standardized
+378,C-0377,signup_date,26/05/2026,2026-05-26,Standardized
+379,C-0378,customer_id,C- 0378,C-0378,Standardized
+379,C-0378,email,Sofia.Clark378@Example.COM,sofia.clark378@example.com,Standardized
+379,C-0378,country,DE,Germany,Standardized
+379,C-0378,status,active,Active,Standardized
+380,C-0379,customer_id,c-0379,C-0379,Standardized
+380,C-0379,email,Leyla.Wilson379@example.com,leyla.wilson379@example.com,Standardized
+380,C-0379,country,FR,France,Standardized
+380,C-0379,status,active,Active,Standardized
+381,C-0380,customer_id,c-0380,C-0380,Standardized
+381,C-0380,full_name,ada MILLER,Ada Miller,Standardized
+381,C-0380,email,Ada.Miller380@example.com,ada.miller380@example.com,Standardized
+381,C-0380,status,lead,Prospect,Standardized
+381,C-0380,lifetime_value,$422.32,422.32,Standardized
+381,C-0380,signup_date,10/12/2025,2025-12-10,Standardized
+382,C-0381,customer_id,c-0381,C-0381,Standardized
+382,C-0381,email,Liam.Taylor381@example.com,liam.taylor381@example.com,Standardized
+382,C-0381,status,active,Active,Standardized
+383,C-0382,customer_id,c-0382,C-0382,Standardized
+383,C-0382,email,Lucas.Stone382@example.com,lucas.stone382@example.com,Standardized
+383,C-0382,country,USA,United States,Standardized
+383,C-0382,status,prospect,Prospect,Standardized
+383,C-0382,signup_date,11-Mar-2025,2025-03-11,Standardized
+384,C-0383,customer_id,c-0383,C-0383,Standardized
+384,C-0383,email,Lucas.Yilmaz383@example.com,lucas.yilmaz383@example.com,Standardized
+384,C-0383,country,u.k.,United Kingdom,Standardized
+384,C-0383,status,lead,Prospect,Standardized
+384,C-0383,signup_date,26/08/2025,2025-08-26,Standardized
+385,C-0384,customer_id,c-0384,C-0384,Standardized
+385,C-0384,email,Emma.Martin384@Example.COM,emma.martin384@example.com,Standardized
+385,C-0384,country,DE,Germany,Standardized
+385,C-0384,status,lead,Prospect,Standardized
+385,C-0384,lifetime_value,"$1,792.59",1792.59,Standardized
+386,C-0385,customer_id,C- 0385,C-0385,Standardized
+386,C-0385,full_name,emma KAYA,Emma Kaya,Standardized
+386,C-0385,email,Emma.Kaya385@example.com,emma.kaya385@example.com,Standardized
+386,C-0385,country,UK,United Kingdom,Standardized
+386,C-0385,status,prospect,Prospect,Standardized
+386,C-0385,signup_date,03/05/2025,2025-05-03,Standardized
+387,C-0386,customer_id,c-0386,C-0386,Standardized
+387,C-0386,email,Ethan.Martin386@example.com,ethan.martin386@example.com,Standardized
+387,C-0386,status,active,Active,Standardized
+388,C-0387,customer_id,c-0387,C-0387,Standardized
+388,C-0387,email,Oliver.Clark387@example.com,oliver.clark387@example.com,Standardized
+388,C-0387,country,u.k.,United Kingdom,Standardized
+388,C-0387,status,active,Active,Standardized
+389,C-0388,customer_id,c-0388,C-0388,Standardized
+389,C-0388,email,Oliver.Brown388@example.com,oliver.brown388@example.com,Standardized
+389,C-0388,country,USA,United States,Standardized
+389,C-0388,status,IN-ACTIVE,Inactive,Standardized
+389,C-0388,lifetime_value,"$1,679.51",1679.51,Standardized
+389,C-0388,signup_date,17/11/2025,2025-11-17,Standardized
+390,C-0389,customer_id,c-0389,C-0389,Standardized
+390,C-0389,email,Oliver.Demir389@example.com,oliver.demir389@example.com,Standardized
+390,C-0389,country,us,United States,Standardized
+390,C-0389,signup_date,09-Mar-2026,2026-03-09,Standardized
+391,C-0390,customer_id,c-0390,C-0390,Standardized
+391,C-0390,full_name,lucas STONE,Lucas Stone,Standardized
+391,C-0390,email,Lucas.Stone390@Example.COM,lucas.stone390@example.com,Standardized
+391,C-0390,signup_date,14-Mar-2025,2025-03-14,Standardized
+392,C-0391,customer_id,c-0391,C-0391,Standardized
+392,C-0391,email,Oliver.Clark391@example.com,oliver.clark391@example.com,Standardized
+392,C-0391,country,us,United States,Standardized
+392,C-0391,status,prospect,Prospect,Standardized
+393,C-0392,customer_id,C- 0392,C-0392,Standardized
+393,C-0392,email,Lucas.Martin392@example.com,lucas.martin392@example.com,Standardized
+393,C-0392,status,IN-ACTIVE,Inactive,Standardized
+393,C-0392,lifetime_value,"$4,025.31",4025.31,Standardized
+394,C-0393,customer_id,c-0393,C-0393,Standardized
+394,C-0393,email,Emma.Demir393@example.com,emma.demir393@example.com,Standardized
+394,C-0393,status,IN-ACTIVE,Inactive,Standardized
+394,C-0393,signup_date,19-Apr-2025,2025-04-19,Standardized
+395,C-0394,customer_id,c-0394,C-0394,Standardized
+395,C-0394,email,Lucas.Martin394@example.com,lucas.martin394@example.com,Standardized
+395,C-0394,status,prospect,Prospect,Standardized
+395,C-0394,signup_date,21-Nov-2025,2025-11-21,Standardized
+396,C-0395,customer_id,c-0395,C-0395,Standardized
+396,C-0395,full_name,ethan DEMIR,Ethan Demir,Standardized
+396,C-0395,email,Ethan.Demir395@example.com,ethan.demir395@example.com,Standardized
+396,C-0395,country,us,United States,Standardized
+397,C-0396,customer_id,c-0396,C-0396,Standardized
+397,C-0396,email,Leyla.Taylor396@Example.COM,leyla.taylor396@example.com,Standardized
+397,C-0396,status,active,Active,Standardized
+397,C-0396,lifetime_value,$654.64,654.64,Standardized
+398,C-0397,customer_id,c-0397,C-0397,Standardized
+398,C-0397,email,Noah.Clark397@example.com,noah.clark397@example.com,Standardized
+398,C-0397,status,IN-ACTIVE,Inactive,Standardized
+399,C-0398,customer_id,c-0398,C-0398,Standardized
+399,C-0398,email,Ada.Demir398@example.com,ada.demir398@example.com,Standardized
+399,C-0398,country,Turkey,Türkiye,Standardized
+399,C-0398,status,lead,Prospect,Standardized
+399,C-0398,signup_date,21-Oct-2025,2025-10-21,Standardized
+400,C-0399,customer_id,C- 0399,C-0399,Standardized
+400,C-0399,email,Ada.Miller399@example.com,ada.miller399@example.com,Standardized
+400,C-0399,country,u.k.,United Kingdom,Standardized
+400,C-0399,status,prospect,Prospect,Standardized
+401,C-0400,customer_id,c-0400,C-0400,Standardized
+401,C-0400,full_name,noah YILMAZ,Noah Yilmaz,Standardized
+401,C-0400,email,Noah.Yilmaz400@example.com,noah.yilmaz400@example.com,Standardized
+401,C-0400,country,UK,United Kingdom,Standardized
+401,C-0400,status,lead,Prospect,Standardized
+401,C-0400,lifetime_value,"$1,780.18",1780.18,Standardized
+401,C-0400,signup_date,16/03/2026,2026-03-16,Standardized
+402,C-0401,customer_id,c-0401,C-0401,Standardized
+402,C-0401,email,Ethan.Yilmaz401@example.com,ethan.yilmaz401@example.com,Standardized
+402,C-0401,country,Turkey,Türkiye,Standardized
+402,C-0401,status,active,Active,Standardized
+402,C-0401,signup_date,23/04/2026,2026-04-23,Standardized
+403,C-0402,customer_id,c-0402,C-0402,Standardized
+403,C-0402,email,Liam.Wilson402@Example.COM,liam.wilson402@example.com,Standardized
+403,C-0402,country,us,United States,Standardized
+403,C-0402,status,ACTIVE,Active,Standardized
+403,C-0402,signup_date,13/06/2026,2026-06-13,Standardized
+404,C-0403,customer_id,c-0403,C-0403,Standardized
+404,C-0403,email,Liam.Kaya403@example.com,liam.kaya403@example.com,Standardized
+404,C-0403,country,Turkey,Türkiye,Standardized
+404,C-0403,status,prospect,Prospect,Standardized
+404,C-0403,signup_date,04/05/2026,2026-05-04,Standardized
+405,C-0404,customer_id,c-0404,C-0404,Standardized
+405,C-0404,email,Oliver.Martin404@example.com,oliver.martin404@example.com,Standardized
+405,C-0404,status,lead,Prospect,Standardized
+405,C-0404,lifetime_value,"$1,651.80",1651.80,Standardized
+405,C-0404,signup_date,21/11/2025,2025-11-21,Standardized
+406,C-0405,customer_id,c-0405,C-0405,Standardized
+406,C-0405,full_name,leyla MARTIN,Leyla Martin,Standardized
+406,C-0405,email,Leyla.Martin405@example.com,leyla.martin405@example.com,Standardized
+406,C-0405,country,DE,Germany,Standardized
+406,C-0405,signup_date,13-May-2026,2026-05-13,Standardized
+407,C-0406,customer_id,C- 0406,C-0406,Standardized
+407,C-0406,email,Mia.Yilmaz406@example.com,mia.yilmaz406@example.com,Standardized
+407,C-0406,country,u.k.,United Kingdom,Standardized
+407,C-0406,status,lead,Prospect,Standardized
+407,C-0406,signup_date,22/03/2025,2025-03-22,Standardized
+408,C-0407,customer_id,c-0407,C-0407,Standardized
+408,C-0407,email,Liam.Demir407@example.com,liam.demir407@example.com,Standardized
+408,C-0407,country,us,United States,Standardized
+408,C-0407,status,ACTIVE,Active,Standardized
+408,C-0407,signup_date,16-Aug-2025,2025-08-16,Standardized
+409,C-0408,customer_id,c-0408,C-0408,Standardized
+409,C-0408,email,Liam.Wilson408@Example.COM,liam.wilson408@example.com,Standardized
+409,C-0408,country,us,United States,Standardized
+409,C-0408,status,ACTIVE,Active,Standardized
+409,C-0408,lifetime_value,"$1,435.61",1435.61,Standardized
+410,C-0409,customer_id,c-0409,C-0409,Standardized
+410,C-0409,email,Noah.Clark409@example.com,noah.clark409@example.com,Standardized
+410,C-0409,country,FR,France,Standardized
+410,C-0409,status,lead,Prospect,Standardized
+411,C-0410,customer_id,c-0410,C-0410,Standardized
+411,C-0410,full_name,liam YILMAZ,Liam Yilmaz,Standardized
+411,C-0410,email,Liam.Yilmaz410@example.com,liam.yilmaz410@example.com,Standardized
+411,C-0410,country,USA,United States,Standardized
+411,C-0410,status,active,Active,Standardized
+411,C-0410,signup_date,11/11/2025,2025-11-11,Standardized
+412,C-0411,customer_id,c-0411,C-0411,Standardized
+412,C-0411,email,Lucas.Miller411@example.com,lucas.miller411@example.com,Standardized
+412,C-0411,status,IN-ACTIVE,Inactive,Standardized
+412,C-0411,signup_date,14-Jun-2026,2026-06-14,Standardized
+413,C-0412,customer_id,c-0412,C-0412,Standardized
+413,C-0412,email,Liam.Yilmaz412@example.com,liam.yilmaz412@example.com,Standardized
+413,C-0412,country,UK,United Kingdom,Standardized
+413,C-0412,status,ACTIVE,Active,Standardized
+413,C-0412,lifetime_value,"$2,420.05",2420.05,Standardized
+414,C-0413,customer_id,C- 0413,C-0413,Standardized
+414,C-0413,email,Ethan.Miller413@example.com,ethan.miller413@example.com,Standardized
+414,C-0413,status,active,Active,Standardized
+414,C-0413,signup_date,09-Jul-2026,2026-07-09,Standardized
+415,C-0414,customer_id,c-0414,C-0414,Standardized
+415,C-0414,email,Leyla.Martin414@Example.COM,leyla.martin414@example.com,Standardized
+415,C-0414,status,ACTIVE,Active,Standardized
+415,C-0414,signup_date,13/01/2026,2026-01-13,Standardized
+416,C-0415,customer_id,c-0415,C-0415,Standardized
+416,C-0415,full_name,emma DEMIR,Emma Demir,Standardized
+416,C-0415,email,Emma.Demir415@example.com,emma.demir415@example.com,Standardized
+416,C-0415,country,DE,Germany,Standardized
+416,C-0415,status,active,Active,Standardized
+416,C-0415,signup_date,20-Dec-2025,2025-12-20,Standardized
+417,C-0416,customer_id,c-0416,C-0416,Standardized
+417,C-0416,email,Liam.Stone416@example.com,liam.stone416@example.com,Standardized
+417,C-0416,status,prospect,Prospect,Standardized
+417,C-0416,lifetime_value,"$3,439.58",3439.58,Standardized
+417,C-0416,signup_date,04-Nov-2025,2025-11-04,Standardized
+418,C-0417,customer_id,c-0417,C-0417,Standardized
+418,C-0417,email,Ada.Taylor417@example.com,ada.taylor417@example.com,Standardized
+418,C-0417,status,prospect,Prospect,Standardized
+418,C-0417,signup_date,20-Jul-2025,2025-07-20,Standardized
+419,C-0418,customer_id,c-0418,C-0418,Standardized
+419,C-0418,email,Leyla.Yilmaz418@example.com,leyla.yilmaz418@example.com,Standardized
+419,C-0418,country,DE,Germany,Standardized
+419,C-0418,status,lead,Prospect,Standardized
+419,C-0418,signup_date,17/03/2025,2025-03-17,Standardized
+420,C-0419,customer_id,c-0419,C-0419,Standardized
+420,C-0419,email,Emma.Demir419@example.com,emma.demir419@example.com,Standardized
+420,C-0419,country,USA,United States,Standardized
+420,C-0419,status,IN-ACTIVE,Inactive,Standardized
+421,C-0420,customer_id,C- 0420,C-0420,Standardized
+421,C-0420,full_name,emma BROWN,Emma Brown,Standardized
+421,C-0420,email,Emma.Brown420@Example.COM,emma.brown420@example.com,Standardized
+421,C-0420,country,Turkey,Türkiye,Standardized
+421,C-0420,status,IN-ACTIVE,Inactive,Standardized
+421,C-0420,lifetime_value,"$2,557.03",2557.03,Standardized
+421,C-0420,signup_date,13/04/2025,2025-04-13,Standardized
+422,C-0421,customer_id,c-0421,C-0421,Standardized
+422,C-0421,email,Lucas.Wilson421@example.com,lucas.wilson421@example.com,Standardized
+422,C-0421,country,Turkey,Türkiye,Standardized
+422,C-0421,status,active,Active,Standardized
+422,C-0421,signup_date,09-May-2026,2026-05-09,Standardized
+423,C-0422,customer_id,c-0422,C-0422,Standardized
+423,C-0422,email,Ethan.Brown422@example.com,ethan.brown422@example.com,Standardized
+423,C-0422,country,DE,Germany,Standardized
+423,C-0422,status,IN-ACTIVE,Inactive,Standardized
+424,C-0423,customer_id,c-0423,C-0423,Standardized
+424,C-0423,email,Emma.Stone423@example.com,emma.stone423@example.com,Standardized
+424,C-0423,country,DE,Germany,Standardized
+424,C-0423,status,ACTIVE,Active,Standardized
+424,C-0423,signup_date,12/04/2026,2026-04-12,Standardized
+425,C-0424,customer_id,c-0424,C-0424,Standardized
+425,C-0424,email,Noah.Taylor424@example.com,noah.taylor424@example.com,Standardized
+425,C-0424,country,u.k.,United Kingdom,Standardized
+425,C-0424,status,ACTIVE,Active,Standardized
+425,C-0424,lifetime_value,"$3,112.07",3112.07,Standardized
+425,C-0424,signup_date,14/04/2026,2026-04-14,Standardized
+426,C-0425,customer_id,c-0425,C-0425,Standardized
+426,C-0425,full_name,mia CLARK,Mia Clark,Standardized
+426,C-0425,email,Mia.Clark425@example.com,mia.clark425@example.com,Standardized
+426,C-0425,status,active,Active,Standardized
+427,C-0426,customer_id,c-0426,C-0426,Standardized
+427,C-0426,email,Ethan.Stone426@Example.COM,ethan.stone426@example.com,Standardized
+427,C-0426,status,lead,Prospect,Standardized
+427,C-0426,signup_date,29-Dec-2025,2025-12-29,Standardized
+428,C-0427,customer_id,C- 0427,C-0427,Standardized
+428,C-0427,email,Noah.Taylor427@example.com,noah.taylor427@example.com,Standardized
+428,C-0427,status,lead,Prospect,Standardized
+428,C-0427,signup_date,10-Jul-2026,2026-07-10,Standardized
+429,C-0428,customer_id,c-0428,C-0428,Standardized
+429,C-0428,email,Mia.Demir428@example.com,mia.demir428@example.com,Standardized
+429,C-0428,country,USA,United States,Standardized
+429,C-0428,status,IN-ACTIVE,Inactive,Standardized
+429,C-0428,lifetime_value,"$4,137.11",4137.11,Standardized
+429,C-0428,signup_date,13/11/2025,2025-11-13,Standardized
+430,C-0429,customer_id,c-0429,C-0429,Standardized
+430,C-0429,email,Lucas.Taylor429@example.com,lucas.taylor429@example.com,Standardized
+430,C-0429,country,UK,United Kingdom,Standardized
+430,C-0429,status,IN-ACTIVE,Inactive,Standardized
+431,C-0430,customer_id,c-0430,C-0430,Standardized
+431,C-0430,full_name,ada CLARK,Ada Clark,Standardized
+431,C-0430,email,Ada.Clark430@example.com,ada.clark430@example.com,Standardized
+431,C-0430,country,USA,United States,Standardized
+431,C-0430,status,prospect,Prospect,Standardized
+432,C-0431,customer_id,c-0431,C-0431,Standardized
+432,C-0431,email,Mia.Wilson431@example.com,mia.wilson431@example.com,Standardized
+433,C-0432,customer_id,c-0432,C-0432,Standardized
+433,C-0432,email,Ada.Clark432@Example.COM,ada.clark432@example.com,Standardized
+433,C-0432,country,u.k.,United Kingdom,Standardized
+433,C-0432,status,IN-ACTIVE,Inactive,Standardized
+433,C-0432,lifetime_value,"$3,012.76",3012.76,Standardized
+433,C-0432,signup_date,29-Sep-2025,2025-09-29,Standardized
+434,C-0433,customer_id,c-0433,C-0433,Standardized
+434,C-0433,email,Lucas.Brown433@example.com,lucas.brown433@example.com,Standardized
+434,C-0433,country,u.k.,United Kingdom,Standardized
+435,C-0434,customer_id,C- 0434,C-0434,Standardized
+435,C-0434,email,Liam.Taylor434@example.com,liam.taylor434@example.com,Standardized
+435,C-0434,status,IN-ACTIVE,Inactive,Standardized
+435,C-0434,signup_date,02/05/2026,2026-05-02,Standardized
+436,C-0435,customer_id,c-0435,C-0435,Standardized
+436,C-0435,full_name,liam TAYLOR,Liam Taylor,Standardized
+436,C-0435,email,Liam.Taylor435@example.com,liam.taylor435@example.com,Standardized
+436,C-0435,status,prospect,Prospect,Standardized
+437,C-0436,customer_id,c-0436,C-0436,Standardized
+437,C-0436,email,Liam.Demir436@example.com,liam.demir436@example.com,Standardized
+437,C-0436,country,u.k.,United Kingdom,Standardized
+437,C-0436,status,prospect,Prospect,Standardized
+437,C-0436,lifetime_value,$271.44,271.44,Standardized
+437,C-0436,signup_date,14-Apr-2026,2026-04-14,Standardized
+438,C-0437,customer_id,c-0437,C-0437,Standardized
+438,C-0437,email,Oliver.Clark437@example.com,oliver.clark437@example.com,Standardized
+438,C-0437,country,DE,Germany,Standardized
+438,C-0437,signup_date,05/04/2025,2025-04-05,Standardized
+439,C-0438,customer_id,c-0438,C-0438,Standardized
+439,C-0438,email,Mia.Clark438@Example.COM,mia.clark438@example.com,Standardized
+439,C-0438,status,ACTIVE,Active,Standardized
+440,C-0439,customer_id,c-0439,C-0439,Standardized
+440,C-0439,email,Emma.Martin439@example.com,emma.martin439@example.com,Standardized
+440,C-0439,country,UK,United Kingdom,Standardized
+440,C-0439,status,prospect,Prospect,Standardized
+440,C-0439,signup_date,19-Jan-2026,2026-01-19,Standardized
+441,C-0440,customer_id,c-0440,C-0440,Standardized
+441,C-0440,full_name,liam DEMIR,Liam Demir,Standardized
+441,C-0440,email,Liam.Demir440@example.com,liam.demir440@example.com,Standardized
+441,C-0440,status,IN-ACTIVE,Inactive,Standardized
+441,C-0440,lifetime_value,"$2,133.06",2133.06,Standardized
+442,C-0441,customer_id,C- 0441,C-0441,Standardized
+442,C-0441,email,Ethan.Demir441@example.com,ethan.demir441@example.com,Standardized
+442,C-0441,status,ACTIVE,Active,Standardized
+443,C-0442,customer_id,c-0442,C-0442,Standardized
+443,C-0442,email,Ada.Miller442@example.com,ada.miller442@example.com,Standardized
+443,C-0442,country,DE,Germany,Standardized
+443,C-0442,status,ACTIVE,Active,Standardized
+443,C-0442,signup_date,04-Feb-2025,2025-02-04,Standardized
+444,C-0443,customer_id,c-0443,C-0443,Standardized
+444,C-0443,email,Oliver.Brown443@example.com,oliver.brown443@example.com,Standardized
+444,C-0443,country,UK,United Kingdom,Standardized
+444,C-0443,status,lead,Prospect,Standardized
+444,C-0443,signup_date,10/10/2025,2025-10-10,Standardized
+445,C-0444,customer_id,c-0444,C-0444,Standardized
+445,C-0444,email,Liam.Wilson444@Example.COM,liam.wilson444@example.com,Standardized
+445,C-0444,country,UK,United Kingdom,Standardized
+445,C-0444,lifetime_value,"$2,193.72",2193.72,Standardized
+445,C-0444,signup_date,02-Feb-2026,2026-02-02,Standardized
+446,C-0445,customer_id,c-0445,C-0445,Standardized
+446,C-0445,full_name,lucas YILMAZ,Lucas Yilmaz,Standardized
+446,C-0445,email,Lucas.Yilmaz445@example.com,lucas.yilmaz445@example.com,Standardized
+446,C-0445,country,Turkey,Türkiye,Standardized
+446,C-0445,status,IN-ACTIVE,Inactive,Standardized
+446,C-0445,signup_date,25-Mar-2025,2025-03-25,Standardized
+447,C-0446,customer_id,c-0446,C-0446,Standardized
+447,C-0446,email,Oliver.Wilson446@example.com,oliver.wilson446@example.com,Standardized
+447,C-0446,status,IN-ACTIVE,Inactive,Standardized
+448,C-0447,customer_id,c-0447,C-0447,Standardized
+448,C-0447,email,Mia.Clark447@example.com,mia.clark447@example.com,Standardized
+448,C-0447,country,us,United States,Standardized
+448,C-0447,status,IN-ACTIVE,Inactive,Standardized
+448,C-0447,signup_date,06/12/2025,2025-12-06,Standardized
+449,C-0448,customer_id,C- 0448,C-0448,Standardized
+449,C-0448,email,Lucas.Taylor448@example.com,lucas.taylor448@example.com,Standardized
+449,C-0448,lifetime_value,"$1,698.08",1698.08,Standardized
+450,C-0449,customer_id,c-0449,C-0449,Standardized
+450,C-0449,email,Noah.Kaya449@example.com,noah.kaya449@example.com,Standardized
+450,C-0449,status,lead,Prospect,Standardized
+450,C-0449,signup_date,18-Jan-2025,2025-01-18,Standardized
+451,C-0450,customer_id,c-0450,C-0450,Standardized
+451,C-0450,full_name,oliver MILLER,Oliver Miller,Standardized
+451,C-0450,email,Oliver.Miller450@Example.COM,oliver.miller450@example.com,Standardized
+451,C-0450,status,ACTIVE,Active,Standardized
+451,C-0450,signup_date,23-Aug-2025,2025-08-23,Standardized
+452,C-0451,customer_id,c-0451,C-0451,Standardized
+452,C-0451,email,Leyla.Brown451@example.com,leyla.brown451@example.com,Standardized
+452,C-0451,country,UK,United Kingdom,Standardized
+452,C-0451,status,IN-ACTIVE,Inactive,Standardized
+452,C-0451,signup_date,13-Jan-2026,2026-01-13,Standardized
+453,C-0452,customer_id,c-0452,C-0452,Standardized
+453,C-0452,email,Lucas.Kaya452@example.com,lucas.kaya452@example.com,Standardized
+453,C-0452,country,u.k.,United Kingdom,Standardized
+453,C-0452,status,lead,Prospect,Standardized
+453,C-0452,lifetime_value,"$1,812.69",1812.69,Standardized
+454,C-0453,customer_id,c-0453,C-0453,Standardized
+454,C-0453,email,Ada.Kaya453@example.com,ada.kaya453@example.com,Standardized
+454,C-0453,country,FR,France,Standardized
+454,C-0453,status,prospect,Prospect,Standardized
+455,C-0454,customer_id,c-0454,C-0454,Standardized
+455,C-0454,email,Ada.Clark454@example.com,ada.clark454@example.com,Standardized
+455,C-0454,country,USA,United States,Standardized
+455,C-0454,status,ACTIVE,Active,Standardized
+455,C-0454,signup_date,20-Jul-2025,2025-07-20,Standardized
+456,C-0455,customer_id,C- 0455,C-0455,Standardized
+456,C-0455,full_name,oliver YILMAZ,Oliver Yilmaz,Standardized
+456,C-0455,email,Oliver.Yilmaz455@example.com,oliver.yilmaz455@example.com,Standardized
+456,C-0455,status,ACTIVE,Active,Standardized
+456,C-0455,signup_date,07/06/2025,2025-06-07,Standardized
+457,C-0456,customer_id,c-0456,C-0456,Standardized
+457,C-0456,email,Sofia.Demir456@Example.COM,sofia.demir456@example.com,Standardized
+457,C-0456,country,us,United States,Standardized
+457,C-0456,status,ACTIVE,Active,Standardized
+457,C-0456,lifetime_value,"$1,110.15",1110.15,Standardized
+457,C-0456,signup_date,04-Sep-2025,2025-09-04,Standardized
+458,C-0457,customer_id,c-0457,C-0457,Standardized
+458,C-0457,email,Mia.Demir457@example.com,mia.demir457@example.com,Standardized
+458,C-0457,country,UK,United Kingdom,Standardized
+458,C-0457,status,IN-ACTIVE,Inactive,Standardized
+458,C-0457,signup_date,02-May-2026,2026-05-02,Standardized
+459,C-0458,customer_id,c-0458,C-0458,Standardized
+459,C-0458,email,Ada.Stone458@example.com,ada.stone458@example.com,Standardized
+459,C-0458,status,lead,Prospect,Standardized
+459,C-0458,signup_date,11/08/2025,2025-08-11,Standardized
+460,C-0459,customer_id,c-0459,C-0459,Standardized
+460,C-0459,email,Ada.Demir459@example.com,ada.demir459@example.com,Standardized
+460,C-0459,status,prospect,Prospect,Standardized
+460,C-0459,signup_date,25/12/2025,2025-12-25,Standardized
+461,C-0460,customer_id,c-0460,C-0460,Standardized
+461,C-0460,full_name,oliver MARTIN,Oliver Martin,Standardized
+461,C-0460,email,Oliver.Martin460@example.com,oliver.martin460@example.com,Standardized
+461,C-0460,country,us,United States,Standardized
+461,C-0460,status,active,Active,Standardized
+461,C-0460,lifetime_value,"$2,416.81",2416.81,Standardized
+462,C-0461,customer_id,c-0461,C-0461,Standardized
+462,C-0461,email,Lucas.Clark461@example.com,lucas.clark461@example.com,Standardized
+462,C-0461,country,us,United States,Standardized
+462,C-0461,status,active,Active,Standardized
+462,C-0461,signup_date,02/11/2025,2025-11-02,Standardized
+463,C-0462,customer_id,C- 0462,C-0462,Standardized
+463,C-0462,email,Lucas.Wilson462@Example.COM,lucas.wilson462@example.com,Standardized
+463,C-0462,country,us,United States,Standardized
+464,C-0463,customer_id,c-0463,C-0463,Standardized
+464,C-0463,email,Liam.Brown463@example.com,liam.brown463@example.com,Standardized
+464,C-0463,status,lead,Prospect,Standardized
+464,C-0463,signup_date,09/01/2025,2025-01-09,Standardized
+465,C-0464,customer_id,c-0464,C-0464,Standardized
+465,C-0464,email,Sofia.Clark464@example.com,sofia.clark464@example.com,Standardized
+465,C-0464,country,DE,Germany,Standardized
+465,C-0464,status,IN-ACTIVE,Inactive,Standardized
+465,C-0464,lifetime_value,$434.71,434.71,Standardized
+465,C-0464,signup_date,14/01/2025,2025-01-14,Standardized
+466,C-0465,customer_id,c-0465,C-0465,Standardized
+466,C-0465,full_name,sofia CLARK,Sofia Clark,Standardized
+466,C-0465,email,Sofia.Clark465@example.com,sofia.clark465@example.com,Standardized
+466,C-0465,country,FR,France,Standardized
+466,C-0465,status,ACTIVE,Active,Standardized
+466,C-0465,signup_date,07-Jan-2025,2025-01-07,Standardized
+467,C-0466,customer_id,c-0466,C-0466,Standardized
+467,C-0466,email,Mia.Kaya466@example.com,mia.kaya466@example.com,Standardized
+467,C-0466,status,lead,Prospect,Standardized
+467,C-0466,signup_date,13-Feb-2025,2025-02-13,Standardized
+468,C-0467,customer_id,c-0467,C-0467,Standardized
+468,C-0467,email,Leyla.Wilson467@example.com,leyla.wilson467@example.com,Standardized
+468,C-0467,country,USA,United States,Standardized
+468,C-0467,status,prospect,Prospect,Standardized
+468,C-0467,signup_date,28/06/2026,2026-06-28,Standardized
+469,C-0468,customer_id,c-0468,C-0468,Standardized
+469,C-0468,email,Leyla.Miller468@Example.COM,leyla.miller468@example.com,Standardized
+469,C-0468,status,lead,Prospect,Standardized
+469,C-0468,lifetime_value,"$3,965.60",3965.60,Standardized
+469,C-0468,signup_date,06/12/2025,2025-12-06,Standardized
+470,C-0469,customer_id,C- 0469,C-0469,Standardized
+470,C-0469,email,Ethan.Brown469@example.com,ethan.brown469@example.com,Standardized
+470,C-0469,status,IN-ACTIVE,Inactive,Standardized
+470,C-0469,signup_date,12/08/2025,2025-08-12,Standardized
+471,C-0470,customer_id,c-0470,C-0470,Standardized
+471,C-0470,full_name,emma TAYLOR,Emma Taylor,Standardized
+471,C-0470,email,Emma.Taylor470@example.com,emma.taylor470@example.com,Standardized
+471,C-0470,country,us,United States,Standardized
+471,C-0470,status,ACTIVE,Active,Standardized
+471,C-0470,signup_date,01/09/2025,2025-09-01,Standardized
+472,C-0471,customer_id,c-0471,C-0471,Standardized
+472,C-0471,email,Mia.Martin471@example.com,mia.martin471@example.com,Standardized
+472,C-0471,country,Turkey,Türkiye,Standardized
+472,C-0471,signup_date,22-Feb-2025,2025-02-22,Standardized
+473,C-0472,customer_id,c-0472,C-0472,Standardized
+473,C-0472,email,Sofia.Martin472@example.com,sofia.martin472@example.com,Standardized
+473,C-0472,status,prospect,Prospect,Standardized
+473,C-0472,lifetime_value,"$4,268.04",4268.04,Standardized
+473,C-0472,signup_date,20/06/2025,2025-06-20,Standardized
+474,C-0473,customer_id,c-0473,C-0473,Standardized
+474,C-0473,email,Ada.Martin473@example.com,ada.martin473@example.com,Standardized
+474,C-0473,country,Turkey,Türkiye,Standardized
+474,C-0473,status,IN-ACTIVE,Inactive,Standardized
+474,C-0473,signup_date,19/01/2025,2025-01-19,Standardized
+475,C-0474,customer_id,c-0474,C-0474,Standardized
+475,C-0474,email,Mia.Martin474@Example.COM,mia.martin474@example.com,Standardized
+475,C-0474,status,IN-ACTIVE,Inactive,Standardized
+475,C-0474,signup_date,20-Jan-2026,2026-01-20,Standardized
+476,C-0475,customer_id,c-0475,C-0475,Standardized
+476,C-0475,full_name,liam KAYA,Liam Kaya,Standardized
+476,C-0475,email,Liam.Kaya475@example.com,liam.kaya475@example.com,Standardized
+476,C-0475,country,UK,United Kingdom,Standardized
+476,C-0475,signup_date,07-Oct-2025,2025-10-07,Standardized
+477,C-0476,customer_id,C- 0476,C-0476,Standardized
+477,C-0476,email,Noah.Clark476@example.com,noah.clark476@example.com,Standardized
+477,C-0476,country,USA,United States,Standardized
+477,C-0476,status,lead,Prospect,Standardized
+477,C-0476,lifetime_value,$642.31,642.31,Standardized
+477,C-0476,signup_date,25/03/2025,2025-03-25,Standardized
+478,C-0477,customer_id,c-0477,C-0477,Standardized
+478,C-0477,email,Lucas.Clark477@example.com,lucas.clark477@example.com,Standardized
+478,C-0477,country,DE,Germany,Standardized
+478,C-0477,status,prospect,Prospect,Standardized
+478,C-0477,signup_date,24-Jul-2026,2026-07-24,Standardized
+479,C-0478,customer_id,c-0478,C-0478,Standardized
+479,C-0478,email,Mia.Demir478@example.com,mia.demir478@example.com,Standardized
+479,C-0478,country,USA,United States,Standardized
+479,C-0478,status,IN-ACTIVE,Inactive,Standardized
+480,C-0479,customer_id,c-0479,C-0479,Standardized
+480,C-0479,email,Lucas.Yilmaz479@example.com,lucas.yilmaz479@example.com,Standardized
+480,C-0479,country,us,United States,Standardized
+480,C-0479,status,active,Active,Standardized
+480,C-0479,signup_date,08-Feb-2025,2025-02-08,Standardized
+481,C-0480,customer_id,c-0480,C-0480,Standardized
+481,C-0480,full_name,ada TAYLOR,Ada Taylor,Standardized
+481,C-0480,email,Ada.Taylor480@Example.COM,ada.taylor480@example.com,Standardized
+481,C-0480,country,Turkey,Türkiye,Standardized
+481,C-0480,status,prospect,Prospect,Standardized
+481,C-0480,lifetime_value,"$4,454.05",4454.05,Standardized
+482,C-0481,customer_id,c-0481,C-0481,Standardized
+482,C-0481,email,Sofia.Stone481@example.com,sofia.stone481@example.com,Standardized
+482,C-0481,country,UK,United Kingdom,Standardized
+482,C-0481,status,active,Active,Standardized
+482,C-0481,signup_date,08-Oct-2025,2025-10-08,Standardized
+483,C-0482,customer_id,c-0482,C-0482,Standardized
+483,C-0482,email,Liam.Taylor482@example.com,liam.taylor482@example.com,Standardized
+483,C-0482,status,active,Active,Standardized
+483,C-0482,signup_date,20/02/2025,2025-02-20,Standardized
+484,C-0483,customer_id,C- 0483,C-0483,Standardized
+484,C-0483,email,Ethan.Wilson483@example.com,ethan.wilson483@example.com,Standardized
+484,C-0483,country,Turkey,Türkiye,Standardized
+484,C-0483,status,lead,Prospect,Standardized
+484,C-0483,signup_date,25-Mar-2026,2026-03-25,Standardized
+485,C-0484,customer_id,c-0484,C-0484,Standardized
+485,C-0484,email,Ada.Wilson484@example.com,ada.wilson484@example.com,Standardized
+485,C-0484,status,IN-ACTIVE,Inactive,Standardized
+485,C-0484,lifetime_value,"$1,660.90",1660.90,Standardized
+485,C-0484,signup_date,21-Jan-2025,2025-01-21,Standardized
+486,C-0485,customer_id,c-0485,C-0485,Standardized
+486,C-0485,full_name,ada CLARK,Ada Clark,Standardized
+486,C-0485,email,Ada.Clark485@example.com,ada.clark485@example.com,Standardized
+486,C-0485,country,FR,France,Standardized
+486,C-0485,status,prospect,Prospect,Standardized
+486,C-0485,signup_date,22-Aug-2025,2025-08-22,Standardized
+487,C-0486,customer_id,c-0486,C-0486,Standardized
+487,C-0486,email,Leyla.Kaya486@Example.COM,leyla.kaya486@example.com,Standardized
+487,C-0486,country,us,United States,Standardized
+487,C-0486,status,active,Active,Standardized
+487,C-0486,signup_date,09-Jan-2026,2026-01-09,Standardized
+488,C-0487,customer_id,c-0487,C-0487,Standardized
+488,C-0487,email,Emma.Stone487@example.com,emma.stone487@example.com,Standardized
+488,C-0487,country,DE,Germany,Standardized
+488,C-0487,status,lead,Prospect,Standardized
+489,C-0488,customer_id,c-0488,C-0488,Standardized
+489,C-0488,email,Oliver.Miller488@example.com,oliver.miller488@example.com,Standardized
+489,C-0488,country,Turkey,Türkiye,Standardized
+489,C-0488,lifetime_value,"$2,709.99",2709.99,Standardized
+490,C-0489,customer_id,c-0489,C-0489,Standardized
+490,C-0489,email,Ethan.Clark489@example.com,ethan.clark489@example.com,Standardized
+490,C-0489,country,DE,Germany,Standardized
+490,C-0489,signup_date,10-Jul-2026,2026-07-10,Standardized
+491,C-0490,customer_id,C- 0490,C-0490,Standardized
+491,C-0490,full_name,noah YILMAZ,Noah Yilmaz,Standardized
+491,C-0490,email,Noah.Yilmaz490@example.com,noah.yilmaz490@example.com,Standardized
+491,C-0490,country,DE,Germany,Standardized
+491,C-0490,signup_date,14-Jun-2026,2026-06-14,Standardized
+492,C-0491,customer_id,c-0491,C-0491,Standardized
+492,C-0491,email,Liam.Martin491@example.com,liam.martin491@example.com,Standardized
+492,C-0491,country,u.k.,United Kingdom,Standardized
+492,C-0491,status,lead,Prospect,Standardized
+492,C-0491,signup_date,11-Jun-2026,2026-06-11,Standardized
+493,C-0492,customer_id,c-0492,C-0492,Standardized
+493,C-0492,email,Mia.Miller492@Example.COM,mia.miller492@example.com,Standardized
+493,C-0492,country,UK,United Kingdom,Standardized
+493,C-0492,status,IN-ACTIVE,Inactive,Standardized
+493,C-0492,lifetime_value,$772.19,772.19,Standardized
+493,C-0492,signup_date,26/11/2025,2025-11-26,Standardized
+494,C-0493,customer_id,c-0493,C-0493,Standardized
+494,C-0493,email,Mia.Brown493@example.com,mia.brown493@example.com,Standardized
+494,C-0493,country,USA,United States,Standardized
+495,C-0494,customer_id,c-0494,C-0494,Standardized
+495,C-0494,email,Mia.Wilson494@example.com,mia.wilson494@example.com,Standardized
+495,C-0494,country,FR,France,Standardized
+495,C-0494,status,prospect,Prospect,Standardized
+495,C-0494,signup_date,05/02/2025,2025-02-05,Standardized
+496,C-0495,customer_id,c-0495,C-0495,Standardized
+496,C-0495,full_name,noah KAYA,Noah Kaya,Standardized
+496,C-0495,email,Noah.Kaya495@example.com,noah.kaya495@example.com,Standardized
+496,C-0495,status,IN-ACTIVE,Inactive,Standardized
+497,C-0496,customer_id,c-0496,C-0496,Standardized
+497,C-0496,email,Emma.Wilson496@example.com,emma.wilson496@example.com,Standardized
+497,C-0496,country,USA,United States,Standardized
+497,C-0496,status,prospect,Prospect,Standardized
+497,C-0496,lifetime_value,"$2,094.48",2094.48,Standardized
+497,C-0496,signup_date,03-Dec-2025,2025-12-03,Standardized
+498,C-0497,customer_id,C- 0497,C-0497,Standardized
+498,C-0497,email,Liam.Miller497@example.com,liam.miller497@example.com,Standardized
+498,C-0497,country,FR,France,Standardized
+499,C-0498,customer_id,c-0498,C-0498,Standardized
+499,C-0498,email,Oliver.Kaya498@Example.COM,oliver.kaya498@example.com,Standardized
+499,C-0498,status,lead,Prospect,Standardized
+499,C-0498,signup_date,22-Jul-2025,2025-07-22,Standardized
+500,C-0499,customer_id,c-0499,C-0499,Standardized
+500,C-0499,email,Noah.Clark499@example.com,noah.clark499@example.com,Standardized
+500,C-0499,country,DE,Germany,Standardized
+500,C-0499,signup_date,24-May-2026,2026-05-24,Standardized
+501,C-0500,customer_id,c-0500,C-0500,Standardized
+501,C-0500,full_name,mia DEMIR,Mia Demir,Standardized
+501,C-0500,email,Mia.Demir500@example.com,mia.demir500@example.com,Standardized
+501,C-0500,country,UK,United Kingdom,Standardized
+501,C-0500,status,IN-ACTIVE,Inactive,Standardized
+501,C-0500,lifetime_value,$228.93,228.93,Standardized
+501,C-0500,signup_date,28/10/2025,2025-10-28,Standardized
+502,C-0004,customer_id,c-0004,C-0004,Standardized
+502,C-0004,email,Ada.Clark4@example.com,ada.clark4@example.com,Standardized
+502,C-0004,status,ACTIVE,Active,Standardized
+502,C-0004,lifetime_value,"$1,202.60",1202.60,Standardized
+502,C-0004,signup_date,22-Jan-2025,2025-01-22,Standardized
+503,C-0007,customer_id,C- 0007,C-0007,Standardized
+503,C-0007,email,Emma.Kaya7@example.com,emma.kaya7@example.com,Standardized
+503,C-0007,status,IN-ACTIVE,Inactive,Standardized
+503,C-0007,signup_date,14/10/2025,2025-10-14,Standardized
+504,C-0010,customer_id,c-0010,C-0010,Standardized
+504,C-0010,full_name,lucas WILSON,Lucas Wilson,Standardized
+504,C-0010,email,Lucas.Wilson10@example.com,lucas.wilson10@example.com,Standardized
+504,C-0010,country,FR,France,Standardized
+504,C-0010,status,prospect,Prospect,Standardized
+504,C-0010,signup_date,11-Feb-2026,2026-02-11,Standardized
+505,C-0013,customer_id,c-0013,C-0013,Standardized
+505,C-0013,email,Liam.Taylor13@example.com,liam.taylor13@example.com,Standardized
+505,C-0013,country,DE,Germany,Standardized
+505,C-0013,status,ACTIVE,Active,Standardized
+505,C-0013,signup_date,02/09/2025,2025-09-02,Standardized
+506,C-0016,customer_id,c-0016,C-0016,Standardized
+506,C-0016,email,Liam.Martin16@example.com,liam.martin16@example.com,Standardized
+506,C-0016,status,prospect,Prospect,Standardized
+506,C-0016,lifetime_value,"$1,860.14",1860.14,Standardized
+507,C-0019,customer_id,c-0019,C-0019,Standardized
+507,C-0019,email,Lucas.Demir19@example.com,lucas.demir19@example.com,Standardized
+507,C-0019,country,Turkey,Türkiye,Standardized
+507,C-0019,status,lead,Prospect,Standardized
+508,C-0022,customer_id,c-0022,C-0022,Standardized
+508,C-0022,email,Noah.Brown22@example.com,noah.brown22@example.com,Standardized
+508,C-0022,country,us,United States,Standardized
+508,C-0022,status,ACTIVE,Active,Standardized
+508,C-0022,signup_date,02/07/2026,2026-07-02,Standardized
+509,C-0025,customer_id,c-0025,C-0025,Standardized
+509,C-0025,full_name,ada BROWN,Ada Brown,Standardized
+509,C-0025,email,Ada.Brown25@example.com,ada.brown25@example.com,Standardized
+509,C-0025,country,USA,United States,Standardized
+509,C-0025,status,lead,Prospect,Standardized
+509,C-0025,signup_date,28/07/2025,2025-07-28,Standardized
+510,C-0028,customer_id,C- 0028,C-0028,Standardized
+510,C-0028,email,Ada.Stone28@example.com,ada.stone28@example.com,Standardized
+510,C-0028,country,USA,United States,Standardized
+510,C-0028,status,IN-ACTIVE,Inactive,Standardized
+510,C-0028,lifetime_value,"$2,724.42",2724.42,Standardized
+511,C-0031,customer_id,c-0031,C-0031,Standardized
+511,C-0031,email,Ada.Yilmaz31@example.com,ada.yilmaz31@example.com,Standardized
+511,C-0031,country,FR,France,Standardized
+511,C-0031,status,prospect,Prospect,Standardized
+512,C-0034,customer_id,c-0034,C-0034,Standardized
+512,C-0034,email,Liam.Miller34@example.com,liam.miller34@example.com,Standardized
+512,C-0034,country,us,United States,Standardized
+512,C-0034,status,IN-ACTIVE,Inactive,Standardized
+512,C-0034,signup_date,20/02/2026,2026-02-20,Standardized
+513,C-0037,customer_id,c-0037,C-0037,Standardized
+513,C-0037,email,Emma.Wilson37@example.com,emma.wilson37@example.com,Standardized
+513,C-0037,country,USA,United States,Standardized
+513,C-0037,status,active,Active,Standardized
+513,C-0037,signup_date,01-Jan-2025,2025-01-01,Standardized
+514,C-0040,customer_id,c-0040,C-0040,Standardized
+514,C-0040,full_name,emma WILSON,Emma Wilson,Standardized
+514,C-0040,email,Emma.Wilson40@example.com,emma.wilson40@example.com,Standardized
+514,C-0040,country,USA,United States,Standardized
+514,C-0040,status,ACTIVE,Active,Standardized
+514,C-0040,lifetime_value,"$4,239.22",4239.22,Standardized
+514,C-0040,signup_date,26-Nov-2025,2025-11-26,Standardized
+515,C-0043,customer_id,c-0043,C-0043,Standardized
+515,C-0043,email,Mia.Kaya43@example.com,mia.kaya43@example.com,Standardized
+515,C-0043,country,Turkey,Türkiye,Standardized
+515,C-0043,status,ACTIVE,Active,Standardized
+515,C-0043,signup_date,04/05/2026,2026-05-04,Standardized
+516,C-0046,customer_id,c-0046,C-0046,Standardized
+516,C-0046,email,Liam.Demir46@example.com,liam.demir46@example.com,Standardized
+516,C-0046,country,u.k.,United Kingdom,Standardized
+516,C-0046,status,ACTIVE,Active,Standardized
+517,C-0049,customer_id,C- 0049,C-0049,Standardized
+517,C-0049,email,Oliver.Yilmaz49@example.com,oliver.yilmaz49@example.com,Standardized
+517,C-0049,country,DE,Germany,Standardized
+517,C-0049,status,lead,Prospect,Standardized
+518,C-0052,customer_id,c-0052,C-0052,Standardized
+518,C-0052,email,Mia.Stone52@example.com,mia.stone52@example.com,Standardized
+518,C-0052,status,ACTIVE,Active,Standardized
+518,C-0052,lifetime_value,"$3,549.51",3549.51,Standardized
+518,C-0052,signup_date,15-Jun-2025,2025-06-15,Standardized
+519,C-0055,customer_id,c-0055,C-0055,Standardized
+519,C-0055,full_name,liam BROWN,Liam Brown,Standardized
+519,C-0055,email,Liam.Brown55@example.com,liam.brown55@example.com,Standardized
+519,C-0055,signup_date,19-Aug-2025,2025-08-19,Standardized
+520,C-0058,customer_id,c-0058,C-0058,Standardized
+520,C-0058,email,Mia.Stone58@example.com,mia.stone58@example.com,Standardized
+520,C-0058,status,active,Active,Standardized
+520,C-0058,signup_date,18-Jul-2026,2026-07-18,Standardized
+521,C-0061,customer_id,c-0061,C-0061,Standardized
+521,C-0061,email,Oliver.Kaya61@example.com,oliver.kaya61@example.com,Standardized
+521,C-0061,country,us,United States,Standardized
+521,C-0061,signup_date,05-Jun-2026,2026-06-05,Standardized
+522,C-0064,customer_id,c-0064,C-0064,Standardized
+522,C-0064,email,Liam.Kaya64@example.com,liam.kaya64@example.com,Standardized
+522,C-0064,country,us,United States,Standardized
+522,C-0064,status,active,Active,Standardized
+522,C-0064,lifetime_value,$571.70,571.70,Standardized
+522,C-0064,signup_date,21-Feb-2025,2025-02-21,Standardized
+523,C-0067,customer_id,c-0067,C-0067,Standardized
+523,C-0067,email,Emma.Demir67@example.com,emma.demir67@example.com,Standardized
+523,C-0067,status,prospect,Prospect,Standardized
+523,C-0067,signup_date,31-May-2025,2025-05-31,Standardized
+524,BAD-001,status,lead,Prospect,Standardized
+524,BAD-001,signup_date,25-Jan-2025,2025-01-25,Standardized
+525,BAD-002,email,Noah.Martin12@Example.COM,noah.martin12@example.com,Standardized
+525,BAD-002,status,active,Active,Standardized
+525,BAD-002,lifetime_value,$461.60,461.60,Standardized
+526,BAD-003,email,Ada.Demir23@example.com,ada.demir23@example.com,Standardized
+526,BAD-003,status,IN-ACTIVE,Inactive,Standardized
+526,BAD-003,signup_date,10-Apr-2025,2025-04-10,Standardized
+527,BAD-004,email,Liam.Miller34@example.com,liam.miller34@example.com,Standardized
+527,BAD-004,country,us,United States,Standardized
+527,BAD-004,signup_date,20/02/2026,2026-02-20,Standardized
+528,BAD-005,full_name,ada MILLER,Ada Miller,Standardized
+528,BAD-005,email,Ada.Miller45@example.com,ada.miller45@example.com,Standardized
+528,BAD-005,country,us,United States,Standardized
+528,BAD-005,status,ACTIVE,Active,Standardized
+528,BAD-005,signup_date,14-Oct-2025,2025-10-14,Standardized
+529,BAD-006,email,Lucas.Stone56@example.com,lucas.stone56@example.com,Standardized
+529,BAD-006,country,Turkey,Türkiye,Standardized
+529,BAD-006,status,IN-ACTIVE,Inactive,Standardized
+529,BAD-006,lifetime_value,"$2,501.54",2501.54,Standardized
+529,BAD-006,signup_date,03-Sep-2025,2025-09-03,Standardized
+530,BAD-007,email,Emma.Demir67@example.com,emma.demir67@example.com,Standardized
+530,BAD-007,status,prospect,Prospect,Standardized
+530,BAD-007,signup_date,31-May-2025,2025-05-31,Standardized
+531,BAD-008,country,UK,United Kingdom,Standardized
+532,BAD-009,email,Mia.Demir89@example.com,mia.demir89@example.com,Standardized
+532,BAD-009,country,USA,United States,Standardized
+532,BAD-009,status,prospect,Prospect,Standardized
+533,BAD-010,full_name,lucas MILLER,Lucas Miller,Standardized
+533,BAD-010,email,Lucas.Miller100@example.com,lucas.miller100@example.com,Standardized
+533,BAD-010,status,prospect,Prospect,Standardized
+533,BAD-010,lifetime_value,"$4,438.38",4438.38,Standardized
+533,BAD-010,signup_date,06/07/2026,2026-07-06,Standardized
+534,BAD-011,email,Ethan.Stone111@example.com,ethan.stone111@example.com,Standardized
+534,BAD-011,country,UK,United Kingdom,Standardized
+534,BAD-011,signup_date,22/07/2026,2026-07-22,Standardized
+535,BAD-012,email,Emma.Kaya122@example.com,emma.kaya122@example.com,Standardized
+535,BAD-012,country,FR,France,Standardized
+535,BAD-012,status,lead,Prospect,Standardized
+535,BAD-012,signup_date,19-May-2025,2025-05-19,Standardized
+536,BAD-013,email,Emma.Martin133@example.com,emma.martin133@example.com,Standardized
+536,BAD-013,country,USA,United States,Standardized
+536,BAD-013,status,IN-ACTIVE,Inactive,Standardized
+537,BAD-014,email,Mia.Clark144@Example.COM,mia.clark144@example.com,Standardized
+537,BAD-014,country,DE,Germany,Standardized
+537,BAD-014,status,active,Active,Standardized
+537,BAD-014,signup_date,09-Jun-2025,2025-06-09,Standardized
+538,BAD-015,full_name,sofia STONE,Sofia Stone,Standardized
+538,BAD-015,country,DE,Germany,Standardized
+538,BAD-015,status,ACTIVE,Active,Standardized
+538,BAD-015,signup_date,21/09/2025,2025-09-21,Standardized
+539,BAD-016,email,Oliver.Martin166@example.com,oliver.martin166@example.com,Standardized
+539,BAD-016,country,DE,Germany,Standardized
+539,BAD-016,status,active,Active,Standardized
+540,BAD-017,email,Leyla.Miller177@example.com,leyla.miller177@example.com,Standardized
+540,BAD-017,status,IN-ACTIVE,Inactive,Standardized
+541,BAD-018,email,Ethan.Kaya188@example.com,ethan.kaya188@example.com,Standardized
+541,BAD-018,lifetime_value,$581.36,581.36,Standardized
+542,BAD-019,email,Lucas.Martin199@example.com,lucas.martin199@example.com,Standardized
+542,BAD-019,status,lead,Prospect,Standardized
+542,BAD-019,signup_date,12/03/2026,2026-03-12,Standardized
+543,BAD-020,email,Leyla.Clark210@Example.COM,leyla.clark210@example.com,Standardized
+543,BAD-020,country,USA,United States,Standardized
+543,BAD-020,status,active,Active,Standardized
+543,BAD-020,signup_date,04-Jul-2026,2026-07-04,Standardized
+544,BAD-021,email,Leyla.Martin221@example.com,leyla.martin221@example.com,Standardized
+544,BAD-021,signup_date,01/04/2026,2026-04-01,Standardized
+545,BAD-022,country,Turkey,Türkiye,Standardized
+545,BAD-022,status,IN-ACTIVE,Inactive,Standardized
+545,BAD-022,lifetime_value,"$2,740.98",2740.98,Standardized
+546,BAD-023,email,Mia.Kaya243@example.com,mia.kaya243@example.com,Standardized
+546,BAD-023,country,FR,France,Standardized
+546,BAD-023,status,ACTIVE,Active,Standardized
+547,BAD-024,email,Leyla.Clark254@example.com,leyla.clark254@example.com,Standardized
+547,BAD-024,status,prospect,Prospect,Standardized
+548,BAD-025,full_name,mia STONE,Mia Stone,Standardized
+548,BAD-025,email,Mia.Stone265@example.com,mia.stone265@example.com,Standardized
+548,BAD-025,signup_date,18/05/2026,2026-05-18,Standardized
+549,BAD-026,email,Lucas.Stone276@Example.COM,lucas.stone276@example.com,Standardized
+549,BAD-026,country,u.k.,United Kingdom,Standardized
+549,BAD-026,status,ACTIVE,Active,Standardized
+550,BAD-027,email,Liam.Yilmaz287@example.com,liam.yilmaz287@example.com,Standardized
+550,BAD-027,country,u.k.,United Kingdom,Standardized
+550,BAD-027,status,IN-ACTIVE,Inactive,Standardized
+550,BAD-027,signup_date,02-Sep-2025,2025-09-02,Standardized
+551,BAD-028,email,Oliver.Brown298@example.com,oliver.brown298@example.com,Standardized
+551,BAD-028,country,u.k.,United Kingdom,Standardized
+551,BAD-028,status,prospect,Prospect,Standardized
+551,BAD-028,signup_date,08-Jul-2026,2026-07-08,Standardized

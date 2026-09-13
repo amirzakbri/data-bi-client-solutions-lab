@@ -1,0 +1,8 @@
+control,status
+Revenue equals independently aggregated order totals,PASS
+Completed order count preserved,PASS
+All 240 customers survive left-join report,PASS
+Yearly customers use stable denominator,PASS
+July uses half-open boundary,PASS
+Corrected revenue is below inflated result,PASS
+All fact foreign keys resolve,PASS

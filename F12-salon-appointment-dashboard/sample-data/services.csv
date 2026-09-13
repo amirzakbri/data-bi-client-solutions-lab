@@ -1,0 +1,9 @@
+ServiceID,ServiceName,ServiceCategory,ListPrice,StandardMinutes
+SV01,Haircut & Style,Hair,55,60
+SV02,Blow Dry,Hair,32,40
+SV03,Full Color,Color,115,120
+SV04,Highlights,Color,145,150
+SV05,Manicure,Nails,30,45
+SV06,Gel Nails,Nails,48,75
+SV07,Facial,Beauty,70,60
+SV08,Brow Design,Beauty,25,30

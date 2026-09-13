@@ -1,0 +1,499 @@
+golden_customer_id,full_name,email,phone,address,city,country,postal_code,date_of_birth,source_record_count,source_system_count,combined_lifetime_value
+GC0001,Burak Miller,burak.miller2@yahoo.com,5932426206,68 Cumhuriyet Caddesi,Istanbul,TR,34340,1972-01-22,1,1,1953.24
+GC0002,Oliver Aydin,oliver.aydin3@gmail.com,5356902172,7 Cumhuriyet Cd,Antalya,TR,07100,1981-05-04,2,2,14982.12
+GC0003,Mehmet Tas,mehmet.tas6@outlook.com,5390147916,58 bagdat cd,Antalya,TR,07100,1991-06-20,1,1,4216.98
+GC0004,Deniz Arslan,deniz.arslan9@gmail.com,5997396951,134 Ataturk Cd,Istanbul,TR,34340,1988-08-16,2,2,11151.28
+GC0005,Kerem Smith,kerem.smith10@yahoo.com,5119164550,137 Barbaros Blv,Bursa,TR,16050,1990-07-01,2,2,3105.72
+GC0006,Sofia Smith,sofia.smith11@gmail.com,5276590650,95 Istiklal Caddesi,Istanbul,TR,34340,1998-10-20,3,3,600.18
+GC0007,Leyla Tas,leyla.tas13@gmail.com,5748482196,126 ataturk cd,Istanbul,TR,34340,1993-10-05,2,2,13626.06
+GC0008,Deniz Koc,deniz.koc16@gmail.com,5679634700,171 Bagdat Cd,Istanbul,TR,,1971-05-25,2,2,12568.60
+GC0009,Irem Aksoy,irem.aksoy19@yahoo.com,5146643408,78 Ataturk Cd,Berlin,DE,10115,1978-10-10,2,2,8873.10
+GC0010,Can Miller,can.miller20@proton.me,5612484530,131 Hauptstrasse,London,GB,SW1A,1977-06-09,2,2,694.58
+GC0011,Derya Erdogan,derya.erdogan21@proton.me,5525857866,50 Park Lane,London,GB,SW1A,1985-03-22,3,3,18193.89
+GC0012,Noah Erdogan,noah.erdogan24@gmail.com,5220133924,2 Cumhuriyet Cd,Berlin,DE,10115,1969-02-23,2,2,15732.48
+GC0013,Elif Tas,elif.tas25@proton.me,5279794897,70 Ataturk Cd,Antalya,TR,07100,1992-09-10,3,3,1758.06
+GC0014,Mert Polat,mert.polat26@yahoo.com,5648224975,30 Istiklal Cd,Ankara,TR,06510,1977-07-09,2,2,9079.52
+GC0015,Tolga Smtih,tolga.smith27@outlook.com,5318712284,19 Park Lane,Ankara,TR,06510,1979-07-30,3,3,22058.85
+GC0016,Oliver Celik,oliver.celik30@gmail.com,5572779967,129 Park Lane,Ankara,TR,06510,1969-08-19,3,3,1543.50
+GC0017,Emma Miller,emma.miller31@proton.me,5752321352,17 Barbaros Blv,Izmir,TR,35220,1976-10-29,2,2,10718.60
+GC0018,Elif Polat,elif.polat34@proton.me,5398570541,81 barbaros blv,Berlin,DE,10115,1972-12-30,2,2,3618.90
+GC0019,Ozan Demir,ozan.demir36@outlook.com,5675618598,115 Cumhuriyet Cd,London,GB,SW1A,1980-12-23,3,3,9316.38
+GC0020,Mia Aksoy,mia.aksoy37@gmail.com,5723368421,179 Bagdat Caddesi,Istanbul,TR,34340,1990-05-08,2,2,16404.76
+GC0021,Cereny Ildiz,ceren.yildiz39@yahoo.com,5341630539,135 Cumhuriyet Cd,Ankara,TR,06510,1997-05-05,3,3,9775.38
+GC0022,Deniz Polat,deniz.polat40@outlook.com,5561848965,168 Bagdat Caddesi,Istanbul,TR,34340,1988-01-16,2,2,8791.28
+GC0023,Can Smith,can.smith43@yahoo.com,5958365383,15 Cumhuriyet Cd,Ankara,TR,06510,1972-04-03,1,1,6824.90
+GC0024,Can Yilmaz,can.yilmaz44@yahoo.com,5648379209,166 Barbaros Blv,Ankara,TR,06510,1981-05-05,1,1,1806.50
+GC0025,Tolga Yilmaz,tolga.yilmaz45@yahoo.com,5330710805,61 cumhuriyet cd,Izmir,TR,35220,1973-07-04,2,2,2942.34
+GC0026,Arda Kilic,arda.kilic1@gmail.com,5538729454,29 Istiklal Cd,Izmir,TR,35220,1992-01-16,2,2,6644.54
+GC0027,Arda Sahın,arda.sahin4@proton.me,5468511507,118 Hauptstrasse,Berlin,DE,10115,1971-10-14,2,2,4057.08
+GC0028,Leyl Amiller,leyla.miller6@yahoo.com,5286020524,27 Istiklal Caddesi,London,GB,SW1A,1990-12-02,3,3,10752.75
+GC0029,Mia Smith,mia.smith7@gmail.com,5917514144,66 Barbaros Blv,Istanbul,TR,34340,1982-04-30,1,1,1407.96
+GC0030,Kerem Sahin,kerem.sahin8@gmail.com,5197077025,84 Bagdat Cd,Izmir,TR,35220,1991-03-12,2,2,16706.02
+GC0031,Zeynep Kaya,zeynep.kaya10@yahoo.com,5878949830,162 istiklal cd,Berlin,DE,10115,1969-08-05,2,2,13587.02
+GC0032,Irem Kaya,irem.kaya11@proton.me,5100818733,61 Bagdat Cd,Ankara,TR,06510,1972-04-24,2,2,15135.36
+GC0033,Emma Koc,emma.koc13@yahoo.com,5636700516,145 Barbaros Blv,Izmir,TR,35220,1989-03-27,1,1,1220.59
+GC0034,Irem Wilson,irem.wilson14@outlook.com,5828124053,7 ataturk cd,Antalya,TR,07100,1970-07-30,2,2,15648.16
+GC0035,Sofia Ozdemir,sofia.ozdemir15@gmail.com,5793577561,61 Park Lane,London,GB,SW1A,1976-09-30,3,3,19657.56
+GC0036,Derya Erdogan,derya.erdogan16@gmail.com,5629252554,134 Park Lane,Istanbul,TR,34340,2001-12-28,1,1,3415.25
+GC0037,Can Kılıc,can.kilic17@outlook.com,5158927888,142 Ataturk Caddesi,London,GB,SW1A,1981-12-23,2,2,1300.56
+GC0038,Mert Celik,mert.celik19@yahoo.com,5259026142,65 Istiklal Caddesi,Bursa,TR,16050,1968-04-11,3,3,21853.86
+GC0039,Ece Kaya,ece.kaya20@outlook.com,5201592120,48 Barbaros Blv,Bursa,TR,16050,2002-08-02,1,1,6498.14
+GC0040,Ceren Arslan,ceren.arslan21@proton.me,5482782777,97 Hauptstrasse,Antalya,TR,07100,1986-02-26,3,3,9197.91
+GC0041,Tolga Smith,tolga.smith26@outlook.com,5799403985,89 Hauptstrasse,London,GB,SW1A,1993-08-06,2,2,3408.30
+GC0042,Leyla Kilic,leyla.kilic30@yahoo.com,5654693585,98 Istiklal Cd,Antalya,TR,07100,1976-01-29,3,3,10830.87
+GC0043,Mia Koc,mia.koc31@proton.me,5878328046,136 Park Lane,London,GB,SW1A,1969-11-21,3,3,11697.15
+GC0044,Tolga Miller,tolga.miller33@yahoo.com,5892980446,92 istiklal cd,Izmir,TR,35220,1992-06-11,2,2,15787.42
+GC0045,Irem Yilmaz,irem.yilmaz34@gmail.com,5157737463,32 Bagdat Cd,Izmir,TR,35220,1996-12-26,1,1,5217.72
+GC0046,Ozan Taylor,ozan.taylor35@yahoo.com,5833401067,25 Istiklal Caddesi,Berlin,DE,10115,1968-02-01,3,3,14650.74
+GC0047,Deniz Wilson,deniz.wilson37@yahoo.com,5801857417,150 Park Lane,Antalya,TR,07100,1972-12-30,2,2,13722.14
+GC0048,Can Taylor,can.taylor38@yahoo.com,5395576139,62 Bagdat Cd,Berlin,DE,10115,2004-03-28,1,1,7684.30
+GC0049,Kerem Koc,kerem.koc39@proton.me,5353748292,26 Bagdat Cd,Ankara,TR,06510,1973-05-18,2,2,7482.06
+GC0050,Irem Demir,irem.demir40@outlook.com,5797150430,23 hauptstrasse,London,GB,SW1A,1967-09-11,2,2,14058.96
+GC0051,Irem Erdogan,irem.erdogan42@outlook.com,5518739050,55 Bagdat Cd,London,GB,SW1A,1976-02-25,3,3,22818.93
+GC0052,Emre Yildiz,emre.yildiz43@yahoo.com,5774346788,61 Barbaros Blv,Bursa,TR,16050,1985-04-23,2,2,16993.80
+GC0053,Irem Arslan,irem.arslan45@outlook.com,5464830163,136 Park Lane,London,GB,SW1A,1980-12-25,3,3,19806.24
+GC0054,Zeynep Sahin,zeynep.sahin46@proton.me,5177433247,144 Cumhuriyet Caddesi,Antalya,TR,07100,1973-10-19,3,3,18821.94
+GC0055,Ozan Koc,ozan.koc0@gmail.com,5140522536,111 Bagdat Cd,Izmir,TR,35220,1974-10-22,2,2,10831.98
+GC0056,Emre Arslan,emre.arslan1@gmail.com,5316392587,77 Bagdat Cd,Berlin,DE,10115,1987-11-02,2,2,4735.78
+GC0057,Can Celik,can.celik2@outlook.com,5861869642,59 Barbaros Blv,Bursa,TR,16050,1990-12-23,2,2,6055.30
+GC0058,Noah Celik,noah.celik3@yahoo.com,5748835436,164 Hauptstrasse,Berlin,DE,10115,1988-07-19,2,2,6139.06
+GC0059,Sofia Brown,sofia.brown5@yahoo.com,5426392865,136 Barbaros Blv,Istanbul,TR,34340,1983-10-07,3,3,7127.46
+GC0060,Mehmet Celik,mehmet.celik6@yahoo.com,5883605549,52 Barbaros Blv,Izmir,TR,35220,1968-01-22,3,3,13086.90
+GC0061,Ceren Demir,ceren.demir7@gmail.com,5475420228,11 Barbaros Blv,Izmir,TR,35220,1973-05-30,1,1,1449.33
+GC0062,Tolga Ozdemir,tolga.ozdemir8@outlook.com,5988802529,58 Barbaros Blv,Antalya,TR,07100,1997-11-13,2,2,4729.62
+GC0063,Mehmet Miller,mehmet.miller9@gmail.com,5531722274,7 bagdat cd,Izmir,TR,,1986-01-22,1,1,6474.92
+GC0064,Tolga Aydin,tolga.aydin11@gmail.com,5749030960,53 Cumhuriyet Caddesi,London,GB,,2002-07-10,1,1,4861.93
+GC0065,Lyela Erdogan,leyla.erdogan12@gmail.com,5645193833,38 Hauptstrasse,Antalya,TR,07100,1977-10-04,3,3,2721.24
+GC0066,Mia Arslan,mia.arslan13@yahoo.com,5345765809,140 Park Lane,Antalya,TR,07100,1970-04-07,1,1,8423.18
+GC0067,Emma Tas,emma.tas15@gmail.com,5317885307,174 Ataturk Cd,Izmir,TR,35220,1972-07-18,1,1,4839.88
+GC0068,Aylin Koc,aylin.koc18@gmail.com,5336217992,52 Ataturk Cd,Izmir,TR,35220,1974-08-19,2,2,1880.34
+GC0069,Mia Kaya,mia.kaya19@yahoo.com,5526827447,119 hauptstrasse,Izmir,TR,35220,2001-07-10,2,2,3936.34
+GC0070,Mia Wilson,mia.wilson20@proton.me,5547523680,7 Barbaros Blv,Antalya,TR,07100,1985-11-12,2,2,5876.24
+GC0071,Ceren Koc,ceren.koc21@gmail.com,5796164852,87 Hauptstrasse,Izmir,TR,35220,1985-08-04,2,2,14615.24
+GC0072,Aylin Kaya,aylin.kaya22@proton.me,5298351899,1 Cumhuriyet Caddesi,Bursa,TR,16050,1969-04-04,2,2,8475.38
+GC0073,Mehmet Wilson,mehmet.wilson23@proton.me,5409146080,60 Ataturk Cd,Istanbul,TR,34340,1981-05-05,2,2,11980.54
+GC0074,Oliver Yildiz,oliver.yildiz24@yahoo.com,5902664024,148 Cumhuriyet Cd,Berlin,DE,10115,1982-03-18,3,3,5005.20
+GC0075,Aylin Yilmaz,aylin.yilmaz27@proton.me,5723432687,41 Hauptstrasse,Antalya,TR,,1969-08-03,1,1,4371.75
+GC0076,Tolga Aydin,tolga.aydin31@yahoo.com,5553576712,21 Cumhuriyet Cd,Berlin,DE,10115,1982-07-30,1,1,1399.66
+GC0077,Leyla Wilson,leyla.wilson33@proton.me,5158365002,6 istiklal cd,London,GB,SW1A,1988-01-22,2,2,6859.24
+GC0078,Can Yilmaz,can.yilmaz34@outlook.com,5239152179,12 Istiklal Caddesi,Izmir,TR,35220,1989-07-05,3,3,11781.03
+GC0079,Emma Brown,emma.brown36@gmail.com,5178510412,129 Istiklal Cd,Berlin,DE,10115,1966-02-16,3,3,15988.80
+GC0080,Zeynep Yilmaz,zeynep.yilmaz37@outlook.com,5305966301,174 cumhuriyet cd,London,GB,SW1A,1972-01-05,2,2,5871.64
+GC0081,Ozan Polat,ozan.polat40@yahoo.com,5269962606,17 Park Lane,Izmir,TR,35220,1977-06-29,2,2,9886.52
+GC0082,Asli Celik,asli.celik44@gmail.com,5447817561,151 Barbaros Blv,Ankara,TR,06510,1981-03-23,3,3,11114.67
+GC0083,Emm Asmith,emma.smith0@outlook.com,5202702065,154 Park Lane,Ankara,TR,06510,1970-11-09,2,2,5879.78
+GC0084,Tolga Ozdemir,tolga.ozdemir1@gmail.com,5323955896,141 cumhuriyet cd,Bursa,TR,16050,1995-06-24,3,3,4776.03
+GC0085,Mehmetk Aya,mehmet.kaya2@outlook.com,5402797273,158 Hauptstrasse,Izmir,TR,35220,1971-03-02,2,2,8944.32
+GC0086,Burak Kaya,burak.kaya3@yahoo.com,5438032794,145 Park Lane,Bursa,TR,16050,1978-12-20,2,2,7432.90
+GC0087,Liama Rslan,liam.arslan4@outlook.com,5768172402,152 Bagdat Cd,Ankara,TR,06510,1979-10-11,3,3,9546.63
+GC0088,Sofia Arslan,sofia.arslan5@yahoo.com,5512115999,17 Cumhuriyet Cd,Izmir,TR,35220,1975-04-18,2,2,1639.26
+GC0089,Kerem Brown,kerem.brown6@gmail.com,5419803873,4 Istiklal Cd,Istanbul,TR,34340,1972-10-22,1,1,3219.39
+GC0090,Oliver Erdogan,oliver.erdogan7@proton.me,5765688676,168 Park Lane,Istanbul,TR,34340,1991-01-09,1,1,616.77
+GC0091,Ozan Yildiz,ozan.yildiz8@proton.me,5450473746,14 Hauptstrasse,Izmir,TR,35220,1970-02-14,2,2,15619.56
+GC0092,Emre Smith,emre.smith11@yahoo.com,5559359490,175 Barbaros Blv,London,GB,SW1A,2000-05-22,2,2,13112.82
+GC0093,Sofia Aydin,sofia.aydin13@outlook.com,5334903509,124 Park Lane,Berlin,DE,10115,1980-04-21,2,2,11149.42
+GC0094,Ece Koc,ece.koc15@yahoo.com,5650278001,160 Park Lane,Istanbul,TR,34340,1971-01-09,2,2,16391.60
+GC0095,Sofia Aksoy,sofia.aksoy17@gmail.com,5134463988,144 Hauptstrasse,Istanbul,TR,34340,1974-07-20,3,3,12663.39
+GC0096,Arda Celik,arda.celik19@proton.me,5348263339,43 Barbaros Blv,Izmir,TR,35220,1994-04-17,3,3,15993.90
+GC0097,Arda Brown,arda.brown20@gmail.com,5619953891,107 Hauptstrasse,London,GB,SW1A,1979-06-10,2,2,428.60
+GC0098,Zeynep Wilson,zeynep.wilson23@proton.me,5437650353,123 Cumhuriyet Cd,Ankara,TR,06510,2001-04-12,3,3,19138.80
+GC0099,Irem Yilmaz,irem.yilmaz24@gmail.com,5174926498,111 Bagdat Cd,Istanbul,TR,34340,1974-03-09,1,1,4948.69
+GC0100,Mehmet Aksoy,mehmet.aksoy26@outlook.com,5197932682,40 Barbaros Blv,Istanbul,TR,,2003-07-19,1,1,7560.43
+GC0101,Elıf Tas,elif.tas27@yahoo.com,5564286159,63 Barbaros Blv,Izmir,TR,35220,1987-02-01,2,2,4428.02
+GC0102,Burak Polat,burak.polat28@outlook.com,5423690479,43 Barbaros Blv,Istanbul,TR,34340,1994-05-08,2,2,4065.72
+GC0103,Kerem Celik,kerem.celik29@yahoo.com,5569253457,7 Ataturk Cd,Izmir,TR,35220,2002-08-24,2,2,3750.56
+GC0104,Mehmet Celik,mehmet.celik33@yahoo.com,5174388067,2 cumhuriyet cd,Ankara,TR,06510,1976-02-28,2,2,6752.90
+GC0105,Kerem Yildiz,kerem.yildiz35@proton.me,5290245504,42 Barbaros Blv,Bursa,TR,16050,1995-11-10,2,2,5808.56
+GC0106,Mert Kilic,mert.kilic36@yahoo.com,5725561937,44 Ataturk Cd,Ankara,TR,06510,2004-03-26,1,1,131.03
+GC0107,Derya Aydin,derya.aydin38@proton.me,5401051147,141 Bagdat Cd,Antalya,TR,07100,1995-05-21,3,3,8399.49
+GC0108,Sofia Erdogan,sofia.erdogan39@proton.me,5559675330,99 Bagdat Cd,Ankara,TR,06510,1966-03-22,2,2,16798.62
+GC0109,Mehmet Demir,mehmet.demir40@outlook.com,5880617769,22 bagdat cd,Ankara,TR,06510,1999-02-15,2,2,3240.02
+GC0110,Burak Ozdemir,burak.ozdemir41@outlook.com,5143355042,69 Park Lane,Izmir,TR,35220,2003-06-14,3,3,18201.51
+GC0111,Derya Kilic,derya.kilic43@proton.me,5986742181,76 Hauptstrasse,Izmir,TR,,2003-06-30,1,1,822.78
+GC0112,Zeynep Brown,zeynep.brown44@outlook.com,5698537286,128 bagdat cd,Istanbul,TR,34340,1975-08-06,2,2,2172.62
+GC0113,Selin Taylor,selin.taylor45@gmail.com,5770589913,44 barbaros blv,Berlin,DE,10115,1982-11-16,2,2,8531.82
+GC0114,Kerem Yilmaz,kerem.yilmaz46@outlook.com,5508132746,83 Istiklal Cd,Bursa,TR,16050,2002-12-02,2,2,2732.18
+GC0115,Can Yilmaz,can.yilmaz4@yahoo.com,5875976622,68 Istiklal Cd,London,GB,SW1A,1970-12-10,2,2,3823.62
+GC0116,Irem Celik,irem.celik5@gmail.com,5160533875,20 Bagdat Cd,Antalya,TR,07100,1986-11-24,2,2,13620.64
+GC0117,Mert Kilic,mert.kilic6@yahoo.com,5380616868,28 Istiklal Cd,Antalya,TR,07100,1965-02-22,3,3,5191.89
+GC0118,Elif Koc,elif.koc9@proton.me,5516993677,162 Ataturk Cd,Berlin,DE,10115,1993-09-15,2,2,6395.96
+GC0119,Selin Ozdemir,selin.ozdemir14@yahoo.com,5703147937,107 Bagdat Cd,Bursa,TR,16050,1993-07-23,2,2,7288.12
+GC0120,Oliver Kaya,oliver.kaya16@gmail.com,5672375952,89 Hauptstrasse,Istanbul,TR,34340,1999-12-12,2,2,4809.92
+GC0121,Derya Polat,derya.polat17@yahoo.com,5601134166,78 ataturk cd,Antalya,TR,07100,1991-06-16,2,2,695.00
+GC0122,Mert Koc,mert.koc18@proton.me,5693319423,142 Cumhuriyet Cd,Bursa,TR,16050,1978-08-21,1,1,3425.49
+GC0123,Tolga Wilson,tolga.wilson19@outlook.com,5723388554,17 Bagdat Cd,Ankara,TR,06510,1989-05-10,1,1,7747.41
+GC0124,Oliver Miller,oliver.miller22@gmail.com,5887774311,82 Cumhuriyet Caddesi,Antalya,TR,07100,1990-07-14,2,2,3641.82
+GC0125,Ozan Aksoy,ozan.aksoy25@gmail.com,5968273805,168 Istiklal Cd,Bursa,TR,16050,1994-02-04,1,1,3036.06
+GC0126,Ceren Celik,ceren.celik26@outlook.com,5896950924,14 Cumhuriyet Cd,Ankara,TR,06510,1972-12-15,1,1,131.04
+GC0127,Mehmet Aksoy,mehmet.aksoy28@proton.me,5644866049,166 Cumhuriyet Cd,Izmir,TR,35220,1966-06-28,2,2,8631.88
+GC0128,Ece Polat,ece.polat30@yahoo.com,5826237047,28 hauptstrasse,Istanbul,TR,34340,1984-09-21,2,2,3300.90
+GC0129,Kerem Miller,kerem.miller31@gmail.com,5967029143,13 Park Lane,Bursa,TR,16050,1966-09-23,1,1,4423.48
+GC0130,Mehmet Arslan,mehmet.arslan32@yahoo.com,5591565100,145 Hauptstrasse,London,GB,SW1A,2000-07-02,2,2,5392.46
+GC0131,Liam Ozdemir,liam.ozdemir34@yahoo.com,5592775447,53 Barbaros Blv,Antalya,TR,07100,1975-10-17,2,2,498.26
+GC0132,Tolga Smith,tolga.smith35@yahoo.com,5163734524,72 Hauptstrasse,Antalya,TR,07100,2002-09-15,3,3,15053.70
+GC0133,Derya Celik,derya.celik36@outlook.com,5785224144,161 Ataturk Caddesi,London,GB,SW1A,1973-10-31,2,2,9961.96
+GC0134,Tolga Demir,tolga.demir37@yahoo.com,5727349305,169 Cumhuriyet Cd,Izmir,TR,35220,1999-06-20,3,3,18108.63
+GC0135,Noah Yildiz,noah.yildiz39@outlook.com,5905289244,171 Ataturk Cd,Berlin,DE,10115,1977-09-20,2,2,10940.04
+GC0136,Ozan Koc,ozan.koc41@proton.me,5286566167,161 Barbaros Blv,London,GB,SW1A,1998-11-02,3,3,12010.29
+GC0137,Emma Taylor,emma.taylor42@proton.me,5433958190,169 Bagdat Cd,Bursa,TR,16050,1973-09-05,3,3,8956.44
+GC0138,Elif Tas,elif.tas43@outlook.com,5940732232,161 istiklal cd,Berlin,DE,10115,1991-01-28,1,1,7235.26
+GC0139,Mert Smith,mert.smith0@proton.me,5600065093,88 Cumhuriyet Cd,Antalya,TR,07100,1973-08-23,2,2,5236.44
+GC0140,Ozan Miller,ozan.miller1@yahoo.com,5178655327,160 Park Lane,London,GB,SW1A,1986-05-24,2,2,434.56
+GC0141,Derya Yildiz,derya.yildiz3@yahoo.com,5566283301,1 Barbaros Blv,Antalya,TR,07100,1966-10-19,2,2,1479.08
+GC0142,Lıam Koc,liam.koc4@gmail.com,5451087570,90 Park Lane,Berlin,DE,10115,1983-05-19,2,2,4425.68
+GC0143,Leyla Erdogan,leyla.erdogan5@proton.me,5997746298,113 Istiklal Cd,Istanbul,TR,34340,1999-07-08,1,1,3048.40
+GC0144,Elif Kilic,elif.kilic7@yahoo.com,5718432010,18 Istiklal Cd,Antalya,TR,07100,1981-11-09,2,2,4659.20
+GC0145,Derya Erdogan,derya.erdogan8@outlook.com,5704498694,6 Barbaros Blv,Berlin,DE,10115,1989-12-09,2,2,10624.02
+GC0146,Mehmet Yildiz,mehmet.yildiz9@outlook.com,5669244086,31 Hauptstrasse,Antalya,TR,07100,2002-02-04,2,2,1515.60
+GC0147,Derya Kilic,derya.kilic10@yahoo.com,5164690863,130 Istiklal Cd,Ankara,TR,06510,1980-01-06,2,2,1629.94
+GC0148,Leyla Kaya,leyla.kaya11@gmail.com,5736163081,170 Istiklal Caddesi,Berlin,DE,10115,1980-03-06,3,3,1873.05
+GC0149,Arda Ozdemir,arda.ozdemir12@proton.me,5541388138,127 Park Lane,Izmir,TR,35220,,2,2,8653.32
+GC0150,Mert Arslan,mert.arslan13@gmail.com,5961860758,14 cumhuriyet cd,Antalya,TR,07100,1972-01-03,1,1,4012.27
+GC0151,Derya Smith,derya.smith14@outlook.com,5660731647,82 Ataturk Cd,Istanbul,TR,34340,1983-04-22,2,2,4252.84
+GC0152,Mehmet Kaya,mehmet.kaya15@proton.me,5420097583,20 Cumhuriyet Cd,Berlin,DE,10115,1990-03-21,1,1,2576.37
+GC0153,Sofia Aydin,sofia.aydin17@gmail.com,5415642101,80 Cumhuriyet Cd,Izmir,TR,35220,1967-05-10,2,2,3321.52
+GC0154,Liam Taylor,liam.taylor18@gmail.com,5226391830,104 Istiklal Cd,Antalya,TR,07100,2002-04-28,2,2,10920.42
+GC0155,Sofia Aydin,sofia.aydin22@proton.me,5585630019,6 Istiklal Cd,London,GB,SW1A,1992-07-06,2,2,14979.72
+GC0156,Ece Aksoy,ece.aksoy23@outlook.com,5558551021,109 Istiklal Cd,Ankara,TR,06510,,1,1,2283.81
+GC0157,Can Koc,can.koc24@outlook.com,5649722827,95 Istiklal Caddesi,Izmir,TR,35220,2003-09-13,1,1,1423.80
+GC0158,Zeynep Demir,zeynep.demir25@yahoo.com,5335042181,20 Bagdat Cd,London,GB,,1987-02-12,1,1,7484.71
+GC0159,Mert Arslan,mert.arslan27@gmail.com,5760827266,45 Hauptstrasse,Berlin,DE,10115,1971-05-23,3,3,22476.84
+GC0160,Liam Wilson,liam.wilson28@proton.me,5934670473,19 Barbaros Blv,Bursa,TR,16050,1976-01-20,2,2,6797.06
+GC0161,Can Miller,can.miller29@gmail.com,5893300120,120 Istiklal Cd,Berlin,DE,10115,1967-03-09,1,1,7031.22
+GC0162,Aylin Yilmaz,aylin.yilmaz32@gmail.com,5454298082,146 Bagdat Cd,Istanbul,TR,34340,1983-06-18,2,2,8955.18
+GC0163,Ceren Smith,ceren.smith33@gmail.com,5474039791,145 Istiklal Caddesi,Ankara,TR,06510,1985-07-08,2,2,12714.60
+GC0164,Mia Wilson,mia.wilson36@outlook.com,5367383172,49 cumhuriyet cd,Ankara,TR,06510,1977-04-19,3,3,10624.14
+GC0165,Arda Miller,arda.miller37@proton.me,5480482817,65 Park Lane,Bursa,TR,16050,1975-03-01,2,2,5581.66
+GC0166,Ceren Koc,ceren.koc38@proton.me,5326417612,105 Istiklal Cd,Istanbul,TR,34340,1984-01-22,2,2,5282.18
+GC0167,Oliver Miller,oliver.miller39@yahoo.com,5692434685,46 Park Lane,Antalya,TR,07100,2001-12-21,2,2,726.04
+GC0168,Erme Aydin,emre.aydin41@yahoo.com,5487052306,32 Istiklal Cd,Berlin,DE,10115,1967-10-11,3,3,15267.66
+GC0169,Sofia Aydin,sofia.aydin42@yahoo.com,5308735063,101 Ataturk Caddesi,Antalya,TR,07100,1969-09-01,3,3,2283.57
+GC0170,Emma Miller,emma.miller43@gmail.com,5286469087,86 Barbaros Blv,Izmir,TR,35220,1992-07-16,2,2,10542.10
+GC0171,Oliver Yildiz,oliver.yildiz44@proton.me,5533844290,71 Istiklal Cd,Ankara,TR,06510,2002-02-18,2,2,8105.06
+GC0172,Deniz Kilic,deniz.kilic45@outlook.com,5305824867,26 Barbaros Blv,Izmir,TR,35220,1989-10-01,2,2,1401.74
+GC0173,Mia Taylor,mia.taylor0@yahoo.com,5739686373,23 istiklal cd,Antalya,TR,07100,1973-04-29,2,2,5858.46
+GC0174,Zeynep Aydin,zeynep.aydin1@gmail.com,5378943112,76 Barbaros Blv,Ankara,TR,06510,1981-06-10,2,2,16385.76
+GC0175,Deniz Yildiz,deniz.yildiz3@outlook.com,5545487222,22 Barbaros Blv,London,GB,SW1A,1991-04-13,2,2,9360.20
+GC0176,Can Koc,can.koc4@gmail.com,5200777384,178 Hauptstrasse,Bursa,TR,16050,1998-02-28,2,2,982.22
+GC0177,Asli Yildiz,asli.yildiz7@outlook.com,5670456165,153 Istiklal Caddesi,Bursa,TR,16050,1969-04-09,1,1,2774.94
+GC0178,Liam Brown,liam.brown9@yahoo.com,5492710027,8 park lane,London,GB,SW1A,1977-02-12,2,2,16838.20
+GC0179,Sofia Demir,sofia.demir14@outlook.com,5559805627,10 Cumhuriyet Caddesi,Istanbul,TR,34340,1979-08-05,3,3,16328.64
+GC0180,Asli Miller,asli.miller15@gmail.com,5137045476,67 Bagdat Caddesi,Berlin,DE,10115,1984-07-01,3,3,13241.16
+GC0181,Selin Erdogan,selin.erdogan17@outlook.com,5685112439,18 Cumhuriyet Cd,London,GB,SW1A,1968-03-27,1,1,5976.51
+GC0182,Emre Arslan,emre.arslan18@proton.me,5671901597,168 Istiklal Cd,Istanbul,TR,34340,1998-11-05,2,2,7893.32
+GC0183,Ece Demir,ece.demir21@outlook.com,5975316557,11 Hauptstrasse,Bursa,TR,16050,1996-04-03,2,2,1783.80
+GC0184,Lıam Yıldız,liam.yildiz25@gmail.com,5198514565,116 Hauptstrasse,Istanbul,TR,34340,1980-05-23,2,2,5807.32
+GC0185,Togla Polat,tolga.polat26@gmail.com,5368103026,38 Istiklal Cd,London,GB,SW1A,1987-09-02,3,3,25432.44
+GC0186,Ozan Yılmaz,ozan.yilmaz28@yahoo.com,5438551493,67 Ataturk Cd,London,GB,SW1A,1969-11-21,2,2,1520.44
+GC0187,Deniz Kilic,deniz.kilic29@gmail.com,5139872862,119 Hauptstrasse,Izmir,TR,35220,1970-07-18,1,1,3887.84
+GC0188,Mert Polat,mert.polat30@yahoo.com,5632768923,56 Istiklal Cd,Antalya,TR,07100,1980-10-05,2,2,8513.68
+GC0189,Mert Kaya,mert.kaya31@outlook.com,5742749713,122 Cumhuriyet Cd,Antalya,TR,07100,1979-04-05,2,2,14208.50
+GC0190,Derya Arslan,derya.arslan32@outlook.com,5349459660,125 Park Lane,Berlin,DE,10115,1970-06-26,2,2,1649.02
+GC0191,Liam Smith,liam.smith33@outlook.com,5244981432,8 Bagdat Cd,Istanbul,TR,34340,2004-05-13,3,3,4644.63
+GC0192,Leyla Yıldız,leyla.yildiz34@gmail.com,5556242419,6 Ataturk Cd,Izmir,TR,35220,1974-11-04,2,2,703.92
+GC0193,Elif Taylor,elif.taylor36@yahoo.com,5780060972,86 Cumhuriyet Cd,Berlin,DE,10115,2004-08-15,3,3,18011.76
+GC0194,Liam Erdogan,liam.erdogan38@outlook.com,5670658770,80 Cumhuriyet Cd,Izmir,TR,,,1,1,4025.51
+GC0195,Derya Tsa,derya.tas39@yahoo.com,5527303347,169 Ataturk Cd,London,GB,SW1A,1970-05-19,2,2,6376.02
+GC0196,Deniz Wilson,deniz.wilson42@yahoo.com,5756211254,157 Bagdat Cd,Istanbul,TR,34340,1981-07-04,3,3,1601.13
+GC0197,Arda Polat,arda.polat45@yahoo.com,5471739010,12 Istiklal Cd,Izmir,TR,35220,1993-03-24,2,2,8025.96
+GC0198,Asli Smith,asli.smith46@gmail.com,5699718936,111 Cumhuriyet Cd,Berlin,DE,10115,1971-05-08,2,2,11723.40
+GC0199,Liam Polat,liam.polat0@gmail.com,5418888265,39 Cumhuriyet Cd,London,GB,SW1A,1967-09-14,2,2,8614.08
+GC0200,Emmaa Ydin,emma.aydin1@proton.me,5934350217,143 Istiklal Caddesi,Izmir,TR,35220,1970-08-17,2,2,13352.24
+GC0201,Zeynep Polat,zeynep.polat2@outlook.com,5587542322,151 Ataturk Cd,Bursa,TR,16050,1972-05-06,3,3,10186.44
+GC0202,Mehmet Koc,mehmet.koc3@proton.me,5377024267,18 bagdat cd,Berlin,DE,10115,1977-05-01,1,1,1077.27
+GC0203,Can Taylor,can.taylor4@outlook.com,5770213119,155 Hauptstrasse,London,GB,SW1A,1993-01-15,2,2,2782.42
+GC0204,Emre Erdogan,emre.erdogan6@proton.me,5165383397,15 Park Lane,London,GB,SW1A,1969-01-29,2,2,15223.26
+GC0205,Deniz Tas,deniz.tas7@outlook.com,5445101541,132 ataturk cd,Istanbul,TR,34340,1989-03-06,3,3,4206.36
+GC0206,Tolga Ozdemir,tolga.ozdemir8@proton.me,5509779511,93 Hauptstrasse,London,GB,SW1A,1990-12-22,2,2,16005.96
+GC0207,Can Brown,can.brown9@outlook.com,5923608906,75 Cumhuriyet Cd,Istanbul,TR,34340,1967-02-28,2,2,6982.70
+GC0208,Can Aksoy,can.aksoy10@outlook.com,5804555175,140 cumhuriyet cd,London,GB,SW1A,2000-09-03,3,3,14949.60
+GC0209,Mehmet Miller,mehmet.miller11@yahoo.com,5951265517,119 Cumhuriyet Cd,Bursa,TR,16050,2000-10-30,2,2,9586.56
+GC0210,Asli Brwon,asli.brown12@outlook.com,5355800155,158 Barbaros Blv,Antalya,TR,07100,1971-05-13,2,2,16065.50
+GC0211,Leyla Arslan,leyla.arslan13@gmail.com,5753441742,39 Cumhuriyet Cd,London,GB,SW1A,1974-03-20,2,2,12474.26
+GC0212,Derya Aksoy,derya.aksoy14@proton.me,5353892384,135 park lane,Ankara,TR,06510,1966-04-16,1,1,6218.35
+GC0213,Mehmet Kilic,mehmet.kilic15@proton.me,5304748408,63 Cumhuriyet Cd,Bursa,TR,16050,1980-07-29,1,1,5798.65
+GC0214,Mia Brown,mia.brown19@yahoo.com,5134293271,77 Park Lane,Antalya,TR,07100,1995-10-13,3,3,14452.83
+GC0215,Emma Wilson,emma.wilson20@outlook.com,5707890545,25 Hauptstrasse,Izmir,TR,35220,2001-10-06,2,2,2747.60
+GC0216,Deniz Demir,deniz.demir26@yahoo.com,5565747831,41 Ataturk Cd,Bursa,TR,16050,1986-08-23,2,2,5709.08
+GC0217,Sofia Tas,sofia.tas28@outlook.com,5123547638,8 Istiklal Cd,Bursa,TR,16050,1982-06-15,3,3,10681.47
+GC0218,Emre Arslan,emre.arslan31@outlook.com,5855335596,140 Bagdat Cd,Izmir,TR,35220,1974-05-04,3,3,15402.48
+GC0219,Derya Koc,derya.koc32@proton.me,5388432588,2 barbaros blv,Bursa,TR,16050,1981-08-27,3,3,23570.55
+GC0220,Mia Kaya,mia.kaya33@proton.me,5884916156,55 Bagdat Cd,Bursa,TR,16050,1995-03-26,1,1,7447.35
+GC0221,Can Aksoy,can.aksoy36@gmail.com,5492103403,150 Park Lane,London,GB,SW1A,1968-05-06,2,2,16994.46
+GC0222,Ozan Aksoy,ozan.aksoy39@gmail.com,5898971213,44 Istiklal Cd,London,GB,SW1A,1986-10-24,2,2,12802.96
+GC0223,Emma Kaya,emma.kaya40@yahoo.com,5926076655,147 Cumhuriyet Cd,Bursa,TR,16050,1972-04-25,2,2,5667.36
+GC0224,Sofia Erdogan,sofia.erdogan41@outlook.com,5466161510,30 Cumhuriyet Cd,Berlin,DE,10115,1969-02-13,2,2,7974.00
+GC0225,Asli Yilmaz,asli.yilmaz42@yahoo.com,5690015645,77 Hauptstrasse,Istanbul,TR,34340,1979-05-17,3,3,20396.82
+GC0226,Derya Erdogan,derya.erdogan43@outlook.com,5518988005,114 Park Lane,Izmir,TR,35220,1973-05-02,3,3,1938.75
+GC0227,Liam Taylor,liam.taylor44@yahoo.com,5936336812,127 park lane,Izmir,TR,35220,1984-04-23,2,2,14396.82
+GC0228,Deniz Celik,deniz.celik45@yahoo.com,5830382106,11 Barbaros Blv,Antalya,TR,07100,,2,2,6605.56
+GC0229,Irem Koc,irem.koc46@gmail.com,5318191888,126 cumhuriyet cd,Bursa,TR,16050,1977-04-14,2,2,15567.70
+GC0230,Arda Celik,arda.celik0@gmail.com,5877611477,85 Park Lane,Ankara,TR,06510,1975-02-20,2,2,14294.52
+GC0231,Irem Yildiz,irem.yildiz1@outlook.com,5670740164,158 Hauptstrasse,Bursa,TR,16050,1986-09-09,2,2,14456.42
+GC0232,Aylin Taylor,aylin.taylor2@gmail.com,5615472135,73 Ataturk Caddesi,Antalya,TR,07100,1973-09-12,2,2,3286.02
+GC0233,Sofia Aksoy,sofia.aksoy3@yahoo.com,5913106678,154 Barbaros Blv,Berlin,DE,10115,1976-09-26,1,1,2215.59
+GC0234,Denız Polat,deniz.polat4@proton.me,5937601372,139 Hauptstrasse,Bursa,TR,16050,1995-10-31,3,3,3619.62
+GC0235,Noah Arslan,noah.arslan5@yahoo.com,5939078286,122 Bagdat Cd,Izmir,TR,35220,1994-09-07,2,2,12894.60
+GC0236,Zeynep Smith,zeynep.smith6@proton.me,5153271313,154 Istiklal Cd,Izmir,TR,35220,1988-09-12,2,2,5088.32
+GC0237,Kerem Polat,kerem.polat7@gmail.com,5775511887,68 Bagdat Cd,London,GB,SW1A,2000-10-13,2,2,15245.14
+GC0238,Emma Arslan,emma.arslan8@gmail.com,5926581187,16 Cumhuriyet Cd,Ankara,TR,06510,1965-08-26,2,2,8213.12
+GC0239,Emma Polat,emma.polat13@proton.me,5188730715,109 Hauptstrasse,Berlin,DE,10115,1972-05-06,3,3,23845.17
+GC0240,Noah Demir,noah.demir14@proton.me,5775256441,146 Cumhuriyet Cd,London,GB,SW1A,1975-11-27,1,1,2150.21
+GC0241,Creen Kaya,ceren.kaya15@gmail.com,5445983320,162 istiklal cd,Berlin,DE,10115,1965-01-19,3,3,18609.75
+GC0242,Asli Erodgan,asli.erdogan17@proton.me,5998166998,118 Cumhuriyet Cd,Ankara,TR,06510,2000-04-14,3,3,23550.18
+GC0243,Selin Kilic,selin.kilic18@outlook.com,5403751984,57 Barbaros Blv,Ankara,TR,06510,1987-04-27,1,1,6537.11
+GC0244,Oliver Koc,oliver.koc19@yahoo.com,5971429533,94 ataturk cd,Ankara,TR,06510,1978-09-02,3,3,14022.96
+GC0245,Sofia Wilson,sofia.wilson22@gmail.com,5458061803,131 Hauptstrasse,Berlin,DE,10115,1973-07-27,2,2,3261.84
+GC0246,Leyla Polat,leyla.polat24@outlook.com,5689615282,147 Bagdat Cd,Berlin,DE,10115,1985-05-07,1,1,6290.50
+GC0247,Leyla Arslan,leyla.arslan25@gmail.com,5840859563,20 Cumhuriyet Cd,Berlin,DE,10115,1987-11-27,2,2,8018.80
+GC0248,Arda Wilson,arda.wilson26@outlook.com,5622105272,148 Barbaros Blv,Ankara,TR,06510,1986-05-29,1,1,1330.08
+GC0249,Noah Polat,noah.polat27@gmail.com,5906807861,2 istiklal cd,Istanbul,TR,34340,1993-03-28,3,3,4357.08
+GC0250,Can Polat,can.polat28@gmail.com,5541092504,34 Hauptstrasse,Izmir,TR,35220,1988-05-06,1,1,1357.68
+GC0251,Tolga Kaya,tolga.kaya33@proton.me,5601662524,78 Cumhuriyet Cd,Istanbul,TR,34340,1995-06-16,1,1,6588.27
+GC0252,Liam Kilic,liam.kilic34@outlook.com,5850247046,78 Barbaros Blv,Antalya,TR,07100,2003-09-20,1,1,3486.33
+GC0253,Can Celik,can.celik35@outlook.com,5369089420,53 Ataturk Cd,Berlin,DE,10115,,2,2,9343.94
+GC0254,Mia Brown,mia.brown36@proton.me,5269645071,57 cumhuriyet cd,Bursa,TR,16050,1992-11-25,2,2,5902.92
+GC0255,Deniz Sahin,deniz.sahin37@gmail.com,5109205458,122 Istiklal Cd,Berlin,DE,10115,1980-10-25,2,2,6157.70
+GC0256,Oliver Yildiz,oliver.yildiz38@proton.me,5660500860,135 Barbaros Blv,Istanbul,TR,34340,1983-05-15,1,1,436.84
+GC0257,Mehmet Aydin,mehmet.aydin41@outlook.com,5582303231,102 Istiklal Cd,Ankara,TR,06510,1991-12-15,3,3,10456.50
+GC0258,Can Wilson,can.wilson42@yahoo.com,5159619709,119 Park Lane,Izmir,TR,35220,1996-01-05,2,2,1980.86
+GC0259,Ece Arslan,ece.arslan43@outlook.com,5403432090,127 Ataturk Cd,Berlin,DE,10115,1991-03-23,1,1,3924.33
+GC0260,Can Ozdemir,can.ozdemir44@yahoo.com,5176342005,21 Park Lane,Istanbul,TR,34340,1986-11-03,2,2,16876.38
+GC0261,Noah Bronw,noah.brown46@outlook.com,5932166444,40 Istiklal Cd,Istanbul,TR,34340,2003-10-09,2,2,7830.84
+GC0262,Arda Aydin,arda.aydin1@gmail.com,5485075597,125 Ataturk Cd,London,GB,SW1A,1984-07-24,2,2,4876.66
+GC0263,Kerem Sahin,kerem.sahin3@gmail.com,5495762247,3 Hauptstrasse,Ankara,TR,06510,1979-04-19,2,2,10979.70
+GC0264,Tolga Smith,tolga.smith4@gmail.com,5306420018,102 Park Lane,Ankara,TR,06510,1995-01-03,3,3,14403.00
+GC0265,Naoh Koc,noah.koc5@gmail.com,5884451986,29 Cumhuriyet Cd,London,GB,SW1A,1994-03-31,2,2,16813.84
+GC0266,Mehmet Taylor,mehmet.taylor8@outlook.com,5222668325,177 Istiklal Cd,Antalya,TR,07100,1972-04-09,2,2,10835.06
+GC0267,Can Polat,can.polat10@outlook.com,5237308093,98 Bagdat Cd,Izmir,TR,35220,1986-08-07,1,1,6721.07
+GC0268,Selin Koc,selin.koc12@proton.me,5411036507,22 Bagdat Caddesi,Ankara,TR,06510,1973-02-02,1,1,4223.44
+GC0269,Ozan Taylro,ozan.taylor13@yahoo.com,5385552134,53 Cumhuriyet Cd,Istanbul,TR,34340,1982-11-15,2,2,13689.50
+GC0270,Emre Smith,emre.smith14@yahoo.com,5961254783,147 Bagdat Cd,London,GB,SW1A,1969-10-21,2,2,15318.14
+GC0271,Mia Kilic,mia.kilic16@yahoo.com,5751444944,178 Park Lane,Berlin,DE,10115,1977-11-20,2,2,7677.30
+GC0272,Asli Taylor,asli.taylor17@proton.me,5727858281,99 Ataturk Cd,Ankara,TR,06510,2002-08-27,2,2,15140.92
+GC0273,Noah Demir,noah.demir20@proton.me,5933343974,45 Hauptstrasse,Izmir,TR,35220,1977-10-19,2,2,8478.94
+GC0274,Ceren Sahin,ceren.sahin23@gmail.com,5834315877,163 barbaros blv,Istanbul,TR,34340,1995-05-08,1,1,8091.41
+GC0275,Tolga Brown,tolga.brown26@outlook.com,5426905224,85 Istiklal Cd,Izmir,TR,35220,,2,2,11189.94
+GC0276,Noah Yilmaz,noah.yilmaz27@outlook.com,5119050166,55 Hauptstrasse,Ankara,TR,,1987-02-24,2,2,14466.62
+GC0277,Ozan Talyor,,,25 Istiklal Caddesi,Berlin,DE,10115,,1,1,280.51
+GC0278,Mıa Brown,,,77 park lane,Antalya,TR,07100,,1,1,422.76
+GC0279,Asli Brown,,,158 barbaros blv,Antalya,TR,07100,,1,1,375.90
+GC0280,Emma Kaya,,,74 Istiklal Caddesi,Izmir,TR,35220,,1,1,279.46
+GC0281,Mıa Wılson,,,49 cumhuriyet cd,Ankara,TR,06510,,1,1,277.14
+GC0282,Ceren Ozdemir,,,40 Barbaros Blv,London,GB,SW1A,,1,1,100.31
+GC0283,Burak Aydin,burak.aydin7@yahoo.com,5606399847,3 Bagdat Cd,Ankara,TR,06510,1972-04-28,2,2,901.12
+GC0284,Sofia Yilmaz,sofia.yilmaz8@outlook.com,5886095419,115 Cumhuriyet Caddesi,Istanbul,TR,34340,1973-11-20,2,2,5850.52
+GC0285,Adra Wilson,arda.wilson12@yahoo.com,5869505933,68 Ataturk Cd,Antalya,TR,07100,1967-04-03,2,2,11653.26
+GC0286,Liams Ahin,liam.sahin14@gmail.com,5807682967,54 Ataturk Cd,Antalya,TR,07100,1986-11-09,2,2,10731.54
+GC0287,Olive Rcelik,oliver.celik15@outlook.com,5247316173,119 Hauptstrasse,Bursa,TR,16050,2000-12-28,2,2,2054.60
+GC0288,Sofia Kyaa,sofia.kaya17@outlook.com,5814402528,154 Hauptstrasse,Istanbul,TR,,1967-12-20,1,1,3255.30
+GC0289,Sofıa Mıller,sofia.miller22@yahoo.com,5414016481,84 hauptstrasse,London,GB,SW1A,1965-07-10,2,2,3891.80
+GC0290,Liam Sahin,liam.sahin23@gmail.com,5839488573,105 Bagdat Cd,London,GB,SW1A,2001-01-22,2,2,6723.84
+GC0291,Mert Kilic,mert.kilic32@outlook.com,5963734918,179 Ataturk Cd,Istanbul,TR,,1995-09-20,1,1,8349.49
+GC0292,Leyla Koc,leyla.koc35@yahoo.com,5737765531,165 Barbaros Blv,Bursa,TR,16050,1965-06-29,1,1,5051.34
+GC0293,Liam Demir,liam.demir38@yahoo.com,5165890829,104 Park Lane,Antalya,TR,07100,1991-02-11,2,2,13588.08
+GC0294,Emrey Ilmaz,emre.yilmaz41@proton.me,5229184575,159 Ataturk Cd,Ankara,TR,06510,1996-05-24,2,2,10740.16
+GC0295,Ece Erdogan,ece.erdogan42@outlook.com,5895307872,39 Hauptstrasse,London,GB,SW1A,1965-09-28,2,2,15587.30
+GC0296,Liam Koc,liam.koc46@yahoo.com,5581799101,135 Istiklal Cd,Bursa,TR,16050,1977-08-15,2,2,15317.26
+GC0297,Ceren Demir,ceren.demir0@proton.me,5358509391,86 park lane,Istanbul,TR,34340,1981-09-03,2,2,13557.98
+GC0298,Deniz Brown,deniz.brown2@outlook.com,5408114604,26 Istiklal Cd,Antalya,TR,07100,1968-10-20,2,2,687.94
+GC0299,Liam Polat,,,52 Park Lane,Ankara,TR,06510,1982-01-10,1,1,460.51
+GC0300,Ozan Aydin,,,173 Istiklal Cd,Istanbul,TR,34340,1982-08-30,1,1,1819.18
+GC0301,Mia Smith,,,66 Barbaros Blv,Istanbul,TR,34340,1982-04-30,1,1,1407.96
+GC0302,Asli Aksoy,asli.aksoy9@gmail.com,5524033924,178 Park Lane,Bursa,TR,16050,1967-02-18,2,2,13390.64
+GC0303,Tolga Erdogan,tolga.erdogan23@yahoo.com,5583303009,76 hauptstrasse,Berlin,DE,10115,1987-10-01,2,2,960.94
+GC0304,Ceren Yildiz,ceren.yildiz24@gmail.com,5439058893,48 Barbaros Blv,Ankara,TR,06510,,1,1,7703.55
+GC0305,Liam Aydin,liam.aydin25@gmail.com,5710335008,5 Istiklal Cd,London,GB,SW1A,1980-04-20,1,1,4440.56
+GC0306,Elif Koc,,,62 Park Lane,Izmir,TR,35220,1992-11-11,1,1,6728.22
+GC0307,Mehmet Celik,mehmet.celik28@proton.me,5714060282,147 Bagdat Cd,Izmir,TR,35220,1972-02-02,2,2,9502.86
+GC0308,Ozan Yildiz,ozan.yildiz32@proton.me,5797763362,166 Bagdat Cd,London,GB,SW1A,1971-10-14,2,2,11079.48
+GC0309,Oliver Tas,oliver.tas36@yahoo.com,5305382099,125 Ataturk Cd,London,GB,SW1A,1980-09-26,1,1,1190.39
+GC0310,Mehmet Ozdemir,mehmet.ozdemir41@outlook.com,5211546929,143 hauptstrasse,London,GB,SW1A,1998-12-14,2,2,16851.02
+GC0311,Leyla Arslan,leyla.arslan4@proton.me,5734592873,51 Ataturk Cd,Bursa,TR,,1972-06-30,1,1,6871.02
+GC0312,Ceren Demir,,,11 Barbaros Blv,Izmir,TR,35220,1973-05-30,1,1,1449.33
+GC0313,Tolag Aydin,,,53 Cumhuriyet Caddesi,London,GB,,2002-07-10,1,1,4861.93
+GC0314,Mia Taylor,mia.taylor25@proton.me,5475589454,47 Bagdat Cd,Istanbul,TR,34340,1989-08-13,2,2,11090.80
+GC0315,Selin Aksoy,selin.aksoy28@outlook.com,5448660614,173 Park Lane,Berlin,DE,10115,1993-04-19,1,1,5895.02
+GC0316,Mia Demir,mia.demir29@outlook.com,5734901221,35 Barbaros Blv,Antalya,TR,07100,1966-10-04,1,1,640.16
+GC0317,Elif Yilmaz,elif.yilmaz30@proton.me,5362957821,47 bagdat cd,Berlin,DE,10115,1967-05-28,2,2,13042.34
+GC0318,Tolga Wilson,tolga.wilson32@gmail.com,5586380593,165 Bagdat Cd,Antalya,TR,,1966-04-21,1,1,2556.68
+GC0319,Ece Yılmaz,ece.yilmaz35@outlook.com,5668319825,63 Park Lane,Bursa,TR,16050,1991-01-23,2,2,7211.52
+GC0320,Sofia Smith,sofia.smith38@yahoo.com,5634195734,46 park lane,London,GB,SW1A,1981-01-27,2,2,4499.64
+GC0321,Arda Koc,arda.koc39@outlook.com,5646770544,148 cumhuriyet cd,Istanbul,TR,34340,1977-08-21,2,2,12720.38
+GC0322,Elif Smith,elif.smith42@yahoo.com,5635681982,32 Barbaros Blv,Izmir,TR,35220,1996-03-29,2,2,12374.22
+GC0323,Mehmet Aksoy,mehmet.aksoy43@gmail.com,5440500582,138 Istiklal Cd,Istanbul,TR,34340,1980-06-27,1,1,4456.35
+GC0324,Mert Smith,mert.smith45@proton.me,5655505096,92 Hauptstrasse,Istanbul,TR,34340,2002-12-05,2,2,4083.02
+GC0325,Iremc Elik,irem.celik46@outlook.com,5531988567,75 Bagdat Cd,Bursa,TR,16050,1990-04-19,2,2,16500.74
+GC0326,Keremb Rown,,,4 Istiklal Cd,Istanbul,TR,34340,1972-10-22,1,1,3219.39
+GC0327,Derya Edrogan,derya.erdogan9@outlook.com,5260186659,123 Istiklal Cd,London,GB,,2002-01-04,1,1,5990.59
+GC0328,Mert Polat,mert.polat12@gmail.com,5774295917,160 Barbaros Blv,Ankara,TR,06510,1981-10-30,2,2,1758.78
+GC0329,Emre Ylidiz,emre.yildiz14@proton.me,5758791047,137 Bagdat Cd,Berlin,DE,10115,1997-06-05,1,1,5277.87
+GC0330,Mi Ayildiz,mia.yildiz16@proton.me,5621761292,158 Cumhuriyet Cd,Berlin,DE,10115,1974-06-25,2,2,14640.94
+GC0331,Irem Miller,irem.miller18@outlook.com,5328775891,157 Park Lane,Bursa,TR,16050,1995-02-27,1,1,4617.23
+GC0332,Mert Arslan,mert.arslan21@outlook.com,5928253547,103 istiklal cd,London,GB,SW1A,1994-09-13,2,2,11905.18
+GC0333,Burak Kaya,burak.kaya22@gmail.com,5297799489,143 Bagdat Cd,Izmir,TR,35220,1967-03-05,1,1,3804.68
+GC0334,Aylin Ozdemir,aylin.ozdemir25@gmail.com,5496605603,151 hauptstrasse,London,GB,SW1A,1987-09-26,1,1,2145.04
+GC0335,Deniz Yildiz,deniz.yildiz30@proton.me,5762411740,12 Hauptstrasse,London,GB,SW1A,2004-04-25,2,2,15214.98
+GC0336,Leyal Kilic,leyla.kilic31@yahoo.com,5292288259,137 Istiklal Cd,Izmir,TR,35220,1984-11-01,1,1,4186.74
+GC0337,Can Erdogan,can.erdogan34@yahoo.com,5433689798,119 Ataturk Cd,Ankara,TR,06510,,1,1,7603.20
+GC0338,Asli Kilic,asli.kilic37@yahoo.com,5977379782,50 Hauptstrasse,Berlin,DE,10115,1978-11-01,2,2,625.34
+GC0339,Arda Tas,arda.tas42@proton.me,5916136095,78 bagdat cd,Istanbul,TR,34340,1996-04-22,2,2,4906.40
+GC0340,Derya Kilic,,,76 hauptstrasse,Izmir,TR,35220,2003-06-30,1,1,822.78
+GC0341,Arda Polat,arda.polat0@proton.me,5310760477,9 Hauptstrasse,Ankara,TR,06510,1967-10-15,2,2,8023.66
+GC0342,Emma Kaya,emma.kaya1@outlook.com,5316885338,74 Istiklal Caddesi,Izmir,TR,35220,1967-12-01,1,1,8036.13
+GC0343,Kerem Smith,kerem.smith2@proton.me,5642284467,57 Hauptstrasse,Ankara,TR,06510,1998-10-21,2,2,14711.22
+GC0344,Emma Sahin,emma.sahin3@outlook.com,5365367680,100 Park Lane,Istanbul,TR,34340,1991-11-13,2,2,8905.08
+GC0345,Noah Demir,noah.demir8@gmail.com,5395458550,169 Hauptstrasse,Ankara,TR,06510,1967-01-15,2,2,8299.20
+GC0346,Emre Smıth,emre.smith10@outlook.com,5674397671,122 Cumhuriyet Cd,Bursa,TR,16050,1970-07-01,1,1,2498.04
+GC0347,Can Miller,can.miller12@proton.me,5695379849,100 park lane,Ankara,TR,06510,1966-11-06,2,2,5803.76
+GC0348,Derya Ozdemir,derya.ozdemir13@outlook.com,5339856894,22 Barbaros Blv,Antalya,TR,07100,1965-08-07,2,2,8313.74
+GC0349,Can Wılson,can.wilson20@outlook.com,5910913163,22 Hauptstrasse,Ankara,TR,06510,1971-09-05,2,2,2748.98
+GC0350,Burak Yilmaz,burak.yilmaz21@gmail.com,5606258071,134 Hauptstrasse,Izmir,TR,35220,1973-08-15,1,1,8068.50
+GC0351,Cerenk Ilic,ceren.kilic23@outlook.com,5499411974,34 Ataturk Caddesi,Istanbul,TR,34340,1971-10-05,2,2,7068.94
+GC0352,Derya Arsaln,derya.arslan27@yahoo.com,5707983965,172 Barbaros Blv,Izmir,TR,35220,1966-05-13,2,2,608.34
+GC0353,Arda Wilson,arda.wilson29@proton.me,5685397868,33 cumhuriyet cd,Ankara,TR,06510,1984-04-16,2,2,16548.80
+GC0354,Derya Polat,derya.polat33@proton.me,5463741170,146 Cumhuriyet Cd,Ankara,TR,06510,1967-10-11,2,2,14206.58
+GC0355,Emma Aksoy,emma.aksoy38@gmail.com,5471365061,123 Cumhuriyet Cd,Ankara,TR,06510,2003-06-17,2,2,10838.06
+GC0356,Burak Koc,burak.koc45@proton.me,5949718995,69 Ataturk Cd,Istanbul,TR,34340,1971-10-19,2,2,2985.16
+GC0357,Mert Smith,,,88 Cumhuriyet Cd,Antalya,TR,07100,1973-08-23,1,1,2618.22
+GC0358,Ceren Erdogan,ceren.erdogan2@yahoo.com,5334138084,29 Cumhuriyet Cd,Ankara,TR,06510,1996-05-10,1,1,4177.00
+GC0359,Arda Koc,arda.koc16@gmail.com,5992035270,73 barbaros blv,Istanbul,TR,34340,1989-02-01,2,2,3011.84
+GC0360,Burak Miller,burak.miller19@yahoo.com,5864991912,39 Barbaros Blv,Antalya,TR,,1990-10-20,1,1,1111.65
+GC0361,Elif Celik,elif.celik20@proton.me,5489898805,107 Hauptstrasse,London,GB,SW1A,1972-03-30,1,1,2196.46
+GC0362,Tolga Yildiz,tolga.yildiz21@gmail.com,5879695825,37 bagdat cd,Istanbul,TR,34340,1972-10-13,1,1,4736.69
+GC0363,Aylin Demir,aylin.demir26@yahoo.com,5572647930,50 Barbaros Blv,Istanbul,TR,34340,1999-05-23,2,2,5263.42
+GC0364,Can Miller,,,120 Istiklal Caddesi,Berlin,DE,10115,1967-03-09,1,1,7031.22
+GC0365,Sofia Odzemir,sofia.ozdemir35@outlook.com,5307537218,88 Bagdat Cd,Istanbul,TR,34340,2000-11-21,2,2,11391.76
+GC0366,Irem Kilic,irem.kilic40@proton.me,5668132255,173 Park Lane,Antalya,TR,07100,1978-03-22,2,2,14088.94
+GC0367,Ardak Oc,arda.koc2@yahoo.com,5292348488,170 Bagdat Cd,Izmir,TR,35220,1995-06-30,1,1,2948.32
+GC0368,Mehmet Wilson,mehmet.wilson5@outlook.com,5971697356,16 Bagdat Cd,Ankara,TR,06510,1968-07-15,2,2,10967.12
+GC0369,Emma Kaya,emma.kaya8@outlook.com,5396725318,109 Hauptstrasse,Antalya,TR,07100,1991-12-25,2,2,7402.06
+GC0370,Eli Fozdemir,elif.ozdemir10@yahoo.com,5620615611,69 Park Lane,London,GB,SW1A,1971-06-28,2,2,11366.32
+GC0371,Ceren Ozdemır,ceren.ozdemir13@yahoo.com,5846674647,40 Barbaros Blv,London,GB,SW1A,1977-07-19,1,1,4236.66
+GC0372,Ca Naksoy,can.aksoy16@yahoo.com,5634044826,46 Ataturk Caddesi,Berlin,DE,10115,1965-05-31,2,2,3753.72
+GC0373,Denzi Koc,deniz.koc19@proton.me,5813638914,92 Cumhuriyet Cd,London,GB,SW1A,,1,1,6130.24
+GC0374,Can Kaya,can.kaya20@outlook.com,5216103332,66 Hauptstrasse,Istanbul,TR,34340,1996-12-10,2,2,12263.90
+GC0375,Noah Miller,noah.miller22@outlook.com,5735880457,82 Barbaros Blv,Istanbul,TR,34340,1982-06-23,1,1,5528.79
+GC0376,Zeynep Okc,zeynep.koc23@yahoo.com,5372244176,41 barbaros blv,London,GB,,1979-04-17,1,1,2864.10
+GC0377,Asli Smith,asli.smith24@gmail.com,5213711229,79 Cumhuriyet Caddesi,Ankara,TR,,1992-01-11,1,1,6549.69
+GC0378,Arda Smith,arda.smith27@yahoo.com,5558130326,56 Istiklal Cd,London,GB,SW1A,,2,2,13789.78
+GC0379,Emma Taylor,emma.taylor40@proton.me,5676740888,68 istiklal cd,Berlin,DE,10115,1987-06-28,2,2,8691.84
+GC0380,Mehmet Aydin,mehmet.aydin41@yahoo.com,5707168274,6 Park Lane,Bursa,TR,16050,2002-09-03,2,2,11662.04
+GC0381,Noah Ozdemir,noah.ozdemir43@proton.me,5144976064,121 Bagdat Cd,Bursa,TR,,1989-08-15,1,1,1644.20
+GC0382,Mia Sahin,mia.sahin44@gmail.com,5417946168,14 Hauptstrasse,Istanbul,TR,34340,1991-12-04,2,2,12152.62
+GC0383,Mehmet Koc,,,18 Bagdat Cd,Berlin,DE,10115,,1,1,1077.27
+GC0384,Buraka Ydin,burak.aydin5@yahoo.com,5752526391,159 Istiklal Cd,Istanbul,TR,34340,1986-03-13,1,1,6972.71
+GC0385,Arda Brown,arda.brown16@gmail.com,5981944143,177 Cumhuriyet Cd,Bursa,TR,16050,1969-08-07,1,1,6498.15
+GC0386,Aylin Taylor,aylin.taylor17@proton.me,5966450320,118 Barbaros Blv,Antalya,TR,07100,1995-10-26,2,2,13648.34
+GC0387,Mehmet Arslan,mehmet.arslan18@outlook.com,5487973135,144 Barbaros Blv,Antalya,TR,07100,1972-10-21,1,1,219.08
+GC0388,Asli Polat,asli.polat22@yahoo.com,5547159134,125 Bagdat Cd,Ankara,TR,06510,1994-06-02,2,2,16399.00
+GC0389,Mehmet Wilson,mehmet.wilson23@outlook.com,5361699384,17 Istiklal Caddesi,Izmir,TR,35220,1966-12-11,1,1,4433.91
+GC0390,Noah Erdogan,noah.erdogan29@proton.me,5472938579,170 Barbaros Blv,Berlin,DE,10115,1989-06-27,2,2,14325.68
+GC0391,Arda Yildiz,arda.yildiz34@yahoo.com,5802487169,36 Ataturk Cd,London,GB,SW1A,1986-02-06,2,2,2483.70
+GC0392,Arda Kilic,,,65 Park Lane,Bursa,TR,16050,1968-02-11,1,1,2655.11
+GC0393,Kerem Yilmaz,kerem.yilmaz38@gmail.com,5294596306,159 Istiklal Caddesi,Istanbul,TR,34340,1965-09-11,2,2,1289.66
+GC0394,Elif Miller,elif.miller9@yahoo.com,5565006997,179 Park Lane,Ankara,TR,06510,1975-05-20,1,1,3360.78
+GC0395,Kerem Taylor,kerem.taylor10@gmail.com,5378091108,155 Cumhuriyet Cd,Bursa,TR,16050,2003-04-11,2,2,4397.98
+GC0396,Emma Wilsno,emma.wilson11@proton.me,5315195905,108 Barbaros Blv,Izmir,TR,35220,1976-10-31,2,2,9055.64
+GC0397,Arda Demir,arda.demir12@outlook.com,5658961256,83 Bagdat Cd,Antalya,TR,07100,1968-04-04,1,1,5757.33
+GC0398,Leyla Wilson,leyla.wilson16@outlook.com,5761280650,147 Ataturk Caddesi,Bursa,TR,16050,1990-04-23,2,2,554.06
+GC0399,Sofia Tas,sofia.tas20@gmail.com,5643599643,15 bagdat cd,Berlin,DE,,,1,1,6055.62
+GC0400,Leyla Brown,leyla.brown21@proton.me,5258165331,150 Hauptstrasse,Bursa,TR,16050,1999-05-15,2,2,4005.92
+GC0401,Mert Ozdemir,mert.ozdemir23@gmail.com,5372857764,48 Hauptstrasse,London,GB,,1987-04-16,2,2,13655.08
+GC0402,Selin Arslan,,,162 Ataturk Caddesi,Izmir,TR,35220,1975-06-12,1,1,5573.20
+GC0403,Mıa Yıldız,mia.yildiz30@outlook.com,5676401604,95 Park Lane,Bursa,TR,16050,1995-08-12,1,1,4513.62
+GC0404,Kerem Kaya,kerem.kaya31@outlook.com,5229010575,143 Istiklal Cd,Antalya,TR,07100,1973-08-14,2,2,16882.76
+GC0405,Oliver Yildiz,,,135 Barbaros Blv,Istanbul,TR,34340,1983-05-15,1,1,436.84
+GC0406,Mehmet Kilic,mehmet.kilic39@yahoo.com,5278643764,160 Hauptstrasse,Istanbul,TR,34340,,1,1,779.34
+GC0407,Ece Smith,ece.smith40@proton.me,5854350840,124 barbaros blv,Istanbul,TR,34340,1985-08-20,2,2,16386.56
+GC0408,Zeynep Kaya,zeynep.kaya45@yahoo.com,5778907092,20 Cumhuriyet Cd,London,GB,,1993-08-11,1,1,3963.85
+GC0409,Sofia Polat,sofia.polat2@proton.me,5322132997,9 Bagdat Cd,Istanbul,TR,,1976-11-01,1,1,7045.89
+GC0410,Emre Yildiz,emre.yildiz6@gmail.com,5970950107,147 barbaros blv,London,GB,SW1A,2004-01-05,2,2,5883.12
+GC0411,Ozan Taylor,ozan.taylor7@gmail.com,5547819923,75 Park Lane,Ankara,TR,06510,1983-10-14,1,1,7731.28
+GC0412,Mehmet Brown,mehmet.brown9@yahoo.com,5551370870,128 Cumhuriyet Cd,Bursa,TR,16050,1993-06-14,2,2,11817.22
+GC0413,Ece Taylor,ece.taylor18@gmail.com,5768551227,12 Istiklal Caddesi,Bursa,TR,16050,1977-11-30,2,2,12503.48
+GC0414,Selin Kaya,,,38 Ataturk Cd,Istanbul,TR,34340,,1,1,171.20
+GC0415,Kerem Celik,kerem.celik21@outlook.com,5236848668,103 Barbaros Blv,Bursa,TR,16050,,1,1,5430.84
+GC0416,Elif Tas,elif.tas22@proton.me,5915943102,155 Bagdat Caddesi,Izmir,TR,35220,2003-03-09,1,1,8132.79
+GC0417,Derya Smıth,derya.smith24@outlook.com,5862209578,122 Cumhuriyet Cd,Ankara,TR,06510,1973-01-30,1,1,1643.76
+GC0418,Sofiat As,sofia.tas25@proton.me,5482681155,84 Hauptstrasse,Antalya,TR,07100,2003-07-26,2,2,3216.68
+GC0419,Derya Yildiz,,,1 barbaros blv,Antalya,TR,07100,,1,1,198.52
+GC0420,Sofıa Brown,,,19 Cumhuriyet Caddesi,Berlin,DE,10115,,1,1,387.94
+GC0421,Olvier Yildiz,,,148 cumhuriyet cd,Berlin,DE,10115,,1,1,373.22
+GC0422,Elif Demir,,5934181434,17 Bagdat Caddesi,Izmir,TR,35220,2002-01-24,1,1,7056.31
+GC0423,Mehmet Erdogan,mehmet.erdogan4@outlook.com,5772542995,178 Park Lane,Izmir,TR,35220,,1,1,2801.03
+GC0424,Mert Arslan,,5748473676,104 Cumhuriyet Cd,Istanbul,TR,34340,1976-07-16,1,1,8080.55
+GC0425,Leyla Ozdemir,leyla.ozdemir18@proton.me,5712076430,110 Barbaros Blv,Bursa,TR,16050,,1,1,1622.86
+GC0426,Mert Sahın,mert.sahin28@outlook.com,5910978260,88 Istiklal Cd,Izmir,TR,35220,1993-08-21,1,1,1104.62
+GC0427,Can Arslan,,5637876792,38 Ataturk Cd,Istanbul,TR,34340,1980-02-09,1,1,6231.25
+GC0428,Oliver Aksoy,oliver.aksoy33@outlook.com,5564418693,159 Cumhuriyet Caddesi,Berlin,DE,10115,,1,1,5005.88
+GC0429,Leyla Koc,,,165 Barbaros Blv,Bursa,TR,,1965-06-29,1,1,5051.34
+GC0430,Can Yilmaz,,,166 Barbaros Blv,Ankara,TR,06510,1981-05-05,1,1,1806.50
+GC0431,Liam Polat,liam.polat3@outlook.com,5485996765,52 Park Lane,Ankara,TR,06510,1982-01-10,1,1,460.51
+GC0432,Ozna Aydin,ozan.aydin5@yahoo.com,5152900161,173 Istiklal Caddesi,Istanbul,TR,34340,1982-08-30,1,1,1819.18
+GC0433,Emre Ats,emre.tas12@gmail.com,5433705500,16 Cumhuriyet Cd,Bursa,TR,16050,1995-07-31,1,1,5345.82
+GC0434,Aylin Sahin,aylin.sahin18@gmail.com,5966232775,68 Bagdat Caddesi,Berlin,DE,10115,2001-04-06,1,1,6789.57
+GC0435,Sofia Brwon,,5729462278,19 Cumhuriyet Cd,Berlin,DE,10115,2000-09-06,1,1,4050.70
+GC0436,Liam Aydin,,,5 Istiklal Cd,London,GB,SW1A,1980-04-20,1,1,4440.56
+GC0437,Elıf Koc,elif.koc27@gmail.com,5194656914,62 Park Lane,Izmir,TR,35220,,1,1,6728.22
+GC0438,Ece Wilson,,5913799382,65 Barbaros Blv,Ankara,TR,06510,2003-12-28,1,1,4059.57
+GC0439,Oliver Tas,,,125 Ataturk Cd,London,GB,SW1A,,1,1,1190.39
+GC0440,Mehmet Yildiz,mehmet.yildiz44@outlook.com,5548063621,158 Istiklal Caddesi,Izmir,TR,35220,1972-08-20,1,1,2289.01
+GC0441,Ceren Demır,,,11 Barbaros Blv,Izmir,TR,35220,1973-05-30,1,1,1449.33
+GC0442,Sfoia Polat,sofia.polat10@proton.me,5937586843,97 Cumhuriyet Cd,Izmir,TR,35220,1993-06-27,1,1,8096.66
+GC0443,Emre Brown,,5172436987,63 Hauptstrasse,London,GB,SW1A,1990-12-14,1,1,4621.04
+GC0444,Mert Aksoy,mert.aksoy16@proton.me,5787647978,14 Istiklal Caddesi,Istanbul,TR,34340,1985-01-21,1,1,7586.12
+GC0445,Emma Kaya,emma.kaya17@yahoo.com,5353959346,142 Barbaros Blv,Berlin,DE,10115,2003-11-07,1,1,5663.48
+GC0446,Ceren Kılıc,ceren.kilic26@gmail.com,5554723747,121 Ataturk Cd,Ankara,TR,,2000-02-12,1,1,4827.64
+GC0447,Mia Demir,,,35 Barbaros Blv,Antalya,TR,07100,1966-10-04,1,1,640.16
+GC0448,Deniz Demir,deniz.demir41@yahoo.com,5139722066,145 Barbaros Blv,London,GB,SW1A,1981-07-07,1,1,722.55
+GC0449,Derya Sahin,derya.sahin10@gmail.com,5501091629,157 Bagdat Caddesi,Antalya,TR,07100,1976-12-31,1,1,5059.59
+GC0450,Irem Yilmaz,,,111 Bagdat Caddesi,Istanbul,TR,34340,1974-03-09,1,1,4948.69
+GC0451,Noah Kilic,noah.kilic32@gmail.com,5107111572,155 Barbaros Blv,Bursa,TR,16050,2000-11-06,1,1,642.88
+GC0452,Mia Smith,mia.smith7@proton.me,5722903732,56 Hauptstrasse,Istanbul,TR,34340,1994-10-10,1,1,5168.43
+GC0453,Deniz Taylor,deniz.taylor11@proton.me,5127792469,67 Bagdat Cd,Antalya,TR,07100,1990-12-27,1,1,3403.40
+GC0454,Ece Wılson,ece.wilson15@gmail.com,5719768466,63 Bagdat Cd,Izmir,TR,35220,1994-11-24,1,1,1979.18
+GC0455,Mert Koc,,,142 Cumhuriyet Cd,Bursa,TR,16050,1978-08-21,1,1,3425.49
+GC0456,Noah Brown,noah.brown24@yahoo.com,5305225244,5 Barbaros Blv,Berlin,DE,10115,1968-03-01,1,1,221.64
+GC0457,Derya Celik,,,161 Ataturk Cd,London,GB,,1973-10-31,1,1,4980.98
+GC0458,Noah Yildiz,,,171 Ataturk Caddesi,Berlin,DE,10115,,1,1,5470.02
+GC0459,Mia Erdogan,mia.erdogan40@gmail.com,5448216351,91 Hauptstrasse,Antalya,TR,07100,1966-09-08,1,1,599.02
+GC0460,Elift As,,,161 Istiklal Cd,Berlin,DE,10115,1991-01-28,1,1,7235.26
+GC0461,Deniz Ozdemir,deniz.ozdemir44@proton.me,5660547363,77 Park Lane,Berlin,DE,10115,1990-06-22,1,1,3862.33
+GC0462,Mia Sahin,mia.sahin46@yahoo.com,5729886214,159 Bagdat Cd,Izmir,TR,35220,,1,1,6174.72
+GC0463,Liam Erdogan,liam.erdogan6@gmail.com,5768465590,148 Hauptstrasse,London,GB,SW1A,1971-04-27,1,1,690.88
+GC0464,Selin Brown,,,19 Istiklal Cd,Izmir,TR,,,1,1,3452.19
+GC0465,Liam Kilic,liam.kilic31@outlook.com,5881112517,52 Istiklal Caddesi,Antalya,TR,07100,1965-11-29,1,1,402.22
+GC0466,Can Polat,,5464932980,111 Park Lane,Izmir,TR,35220,2002-10-30,1,1,3605.19
+GC0467,Irem Wilson,irem.wilson46@gmail.com,5541445011,8 Barbaros Blv,Berlin,DE,10115,1976-06-18,1,1,8094.94
+GC0468,Elif Taylor,elif.taylor6@proton.me,5389405358,102 Bagdat Cd,Ankara,TR,06510,1967-06-05,1,1,1318.57
+GC0469,Mert Arslan,mert.arslan11@gmail.com,5705596064,29 Hauptstrasse,Istanbul,TR,34340,1998-04-23,1,1,5401.45
+GC0470,Deryaa Ydin,,5955245206,34 Barbaros Blv,Bursa,TR,16050,2002-09-20,1,1,459.54
+GC0471,Ceren Ozdemir,,,40 Barbaros Blv,London,GB,,1977-07-19,1,1,4236.66
+GC0472,Deni Zkoc,,,92 Cumhuriyet Cd,London,GB,,1976-01-20,1,1,6130.24
+GC0473,Ece Demir,,,11 Hauptstrasse,Bursa,TR,,1996-04-03,1,1,891.90
+GC0474,Tolga Sahin,tolga.sahin35@outlook.com,5173117737,36 istiklal cd,London,GB,SW1A,,1,1,3079.13
+GC0475,Arda Celık,arda.celik37@proton.me,5863810468,42 Cumhuriyet Cd,London,GB,SW1A,1970-03-12,1,1,6804.29
+GC0476,Burak Aydin,,,159 istiklal cd,Istanbul,TR,34340,1986-03-13,1,1,6972.71
+GC0477,Emre Celik,emre.celik21@yahoo.com,5503553613,32 Hauptstrasse,Istanbul,TR,,1988-08-20,1,1,573.42
+GC0478,Noah Miller,noah.miller24@gmail.com,5718088625,11 Park Lane,Bursa,TR,16050,1974-01-08,1,1,8124.61
+GC0479,Leyla Erdogan,leyla.erdogan25@yahoo.com,5101636292,27 Park Lane,Antalya,TR,07100,2000-12-04,1,1,8401.47
+GC0480,Liam Brown,,5815376288,41 Barbaros Blv,Berlin,DE,10115,1984-11-08,1,1,6280.79
+GC0481,Tolga Yilmaz,tolga.yilmaz30@gmail.com,5545629961,10 Istiklal Caddesi,Antalya,TR,07100,1970-07-01,1,1,7399.63
+GC0482,Arda Kılıc,,5199601482,65 Park Lane,Bursa,TR,,1968-02-11,1,1,2655.11
+GC0483,Noah Taylor,noah.taylor37@proton.me,5907221888,52 Bagdat Cd,Istanbul,TR,,2004-01-23,1,1,1837.97
+GC0484,Kerem Polat,,,68 Bagdat Cd,London,GB,SW1A,,1,1,7622.57
+GC0485,Selin Arslan,,5418835776,162 Ataturk Cd,Izmir,TR,,1975-06-12,1,1,5573.20
+GC0486,Sofia Wilson,sofia.wilson32@yahoo.com,5885729158,13 Istiklal Cd,Berlin,DE,10115,1988-12-14,1,1,1535.01
+GC0487,Canw Ilson,,,119 Park Lane,Izmir,TR,35220,1996-01-05,1,1,990.43
+GC0488,Zeynep Kilic,zeynep.kilic0@proton.me,5936735533,8 Park Lane,Ankara,TR,06510,1993-06-02,1,1,2635.28
+GC0489,Elif Taylor,,5474616539,151 Bagdat Cd,Istanbul,TR,34340,2002-10-08,1,1,5052.64
+GC0490,Selın Koc,,,22 Bagdat Caddesi,Ankara,TR,06510,1973-02-02,1,1,4223.44
+GC0491,Mıa Yıldız,mia.yildiz15@proton.me,5267039257,111 ataturk cd,Izmir,TR,35220,2002-04-30,1,1,428.10
+GC0492,Selin Kaya,selin.kaya19@gmail.com,5907470055,38 Ataturk Cd,Istanbul,TR,,,1,1,171.20
+GC0493,Olievr Celik,,,129 park lane,Ankara,TR,06510,,1,1,398.14
+GC0494,Oliver Aksoy,,,159 Cumhuriyet Caddesi,Berlin,DE,10115,,1,1,203.25
+GC0495,Denız Wılson,,,150 Park Lane,Antalya,TR,07100,,1,1,453.27
+GC0496,Emma Sahın,,,100 Park Lane,Istanbul,TR,34340,,1,1,378.44
+GC0497,Mert Arslan,,,14 Cumhuriyet Caddesi,Antalya,TR,07100,,1,1,85.64
+GC0498,Liam Brown,,,8 Park Lane,London,GB,SW1A,,1,1,367.83

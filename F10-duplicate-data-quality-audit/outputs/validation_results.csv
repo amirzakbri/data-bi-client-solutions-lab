@@ -1,0 +1,7 @@
+control,actual,expected,status
+Customer raw count,418,418,PASS
+Order raw count,906,906,PASS
+Clean customer key uniqueness,1,1,PASS
+Clean order key uniqueness,1,1,PASS
+Clean order orphan count,0,0,PASS
+Clean amount mismatches,0,0,PASS

@@ -1,0 +1,49 @@
+Order ID,Order Date,Product,Category,Channel,Region,Quantity,Unit Price,Discount,Revenue,Cost,Profit
+ORD-1241,2026-06-16,Cold Brew Bottle,Equipment,Wholesale,Ankara,6,24.96,0.15,127.3,75,52.3
+ORD-1242,2026-06-23,Filter Beans 1kg,Coffee,Retail Store,Bursa,3,20.8,0,62.4,35.4,27
+ORD-1243,2026-06-02,Cold Brew Bottle,Equipment,Online,Ankara,8,24.96,0,199.68,100,99.68
+ORD-1244,2026-06-09,Filter Beans 1kg,Coffee,Wholesale,Bursa,5,20.8,0,104,59,45
+ORD-1245,2026-06-16,Cold Brew Bottle,Equipment,Retail Store,Ankara,2,24.96,0,49.92,25,24.92
+ORD-1246,2026-06-23,Filter Beans 1kg,Coffee,Online,Bursa,7,20.8,0,145.6,82.6,63
+ORD-1247,2026-06-02,Cold Brew Bottle,Equipment,Wholesale,Ankara,4,24.96,0,99.84,50,49.84
+ORD-1248,2026-06-09,Filter Beans 1kg,Coffee,Retail Store,Bursa,1,20.8,0.1,18.72,11.8,6.92
+ORD-1249,2026-06-16,Cold Brew Bottle,Equipment,Online,Ankara,6,24.96,0,149.76,75,74.76
+ORD-1250,2026-06-23,Filter Beans 1kg,Coffee,Wholesale,Bursa,3,20.8,0,62.4,35.4,27
+ORD-1251,2026-06-02,Cold Brew Bottle,Equipment,Retail Store,Ankara,8,24.96,0,199.68,100,99.68
+ORD-1252,2026-06-09,Filter Beans 1kg,Coffee,Online,Bursa,5,20.8,0.15,88.4,59,29.4
+ORD-1253,2026-06-16,Cold Brew Bottle,Equipment,Wholesale,Ankara,2,24.96,0,49.92,25,24.92
+ORD-1254,2026-06-23,Filter Beans 1kg,Coffee,Retail Store,Bursa,7,20.8,0,145.6,82.6,63
+ORD-1255,2026-06-02,Cold Brew Bottle,Equipment,Online,Ankara,4,24.96,0.1,89.86,50,39.86
+ORD-1256,2026-06-09,Filter Beans 1kg,Coffee,Wholesale,Bursa,1,20.8,0,20.8,11.8,9
+ORD-1257,2026-06-16,Cold Brew Bottle,Equipment,Retail Store,Ankara,6,24.96,0,149.76,75,74.76
+ORD-1258,2026-06-23,Filter Beans 1kg,Coffee,Online,Bursa,3,20.8,0,62.4,35.4,27
+ORD-1259,2026-06-02,Cold Brew Bottle,Equipment,Wholesale,Ankara,8,24.96,0,199.68,100,99.68
+ORD-1260,2026-06-09,Filter Beans 1kg,Coffee,Retail Store,Bursa,5,20.8,0,104,59,45
+ORD-1261,2026-06-16,Cold Brew Bottle,Equipment,Online,Ankara,2,24.96,0,49.92,25,24.92
+ORD-1262,2026-06-23,Filter Beans 1kg,Coffee,Wholesale,Bursa,7,20.8,0.1,131.04,82.6,48.44
+ORD-1263,2026-06-02,Cold Brew Bottle,Equipment,Retail Store,Ankara,4,24.96,0.15,84.86,50,34.86
+ORD-1264,2026-06-09,Filter Beans 1kg,Coffee,Online,Bursa,1,20.8,0,20.8,11.8,9
+ORD-1265,2026-06-16,Cold Brew Bottle,Equipment,Wholesale,Ankara,6,24.96,0,149.76,75,74.76
+ORD-1266,2026-06-23,Filter Beans 1kg,Coffee,Retail Store,Bursa,3,20.8,0,62.4,35.4,27
+ORD-1267,2026-06-02,Cold Brew Bottle,Equipment,Online,Ankara,8,24.96,0,199.68,100,99.68
+ORD-1268,2026-06-09,Filter Beans 1kg,Coffee,Wholesale,Bursa,5,20.8,0,104,59,45
+ORD-1269,2026-06-16,Cold Brew Bottle,Equipment,Retail Store,Ankara,2,24.96,0.1,44.93,25,19.93
+ORD-1270,2026-06-23,Filter Beans 1kg,Coffee,Online,Bursa,7,20.8,0,145.6,82.6,63
+ORD-1271,2026-06-02,Cold Brew Bottle,Equipment,Wholesale,Ankara,4,24.96,0,99.84,50,49.84
+ORD-1272,2026-06-09,Filter Beans 1kg,Coffee,Retail Store,Bursa,1,20.8,0,20.8,11.8,9
+ORD-1273,2026-06-16,Cold Brew Bottle,Equipment,Online,Ankara,6,24.96,0,149.76,75,74.76
+ORD-1274,2026-06-23,Filter Beans 1kg,Coffee,Wholesale,Bursa,3,20.8,0.15,53.04,35.4,17.64
+ORD-1275,2026-06-02,Cold Brew Bottle,Equipment,Retail Store,Ankara,8,24.96,0,199.68,100,99.68
+ORD-1276,2026-06-09,Filter Beans 1kg,Coffee,Online,Bursa,5,20.8,0.1,93.6,59,34.6
+ORD-1277,2026-06-16,Cold Brew Bottle,Equipment,Wholesale,Ankara,2,24.96,0,49.92,25,24.92
+ORD-1278,2026-06-23,Filter Beans 1kg,Coffee,Retail Store,Bursa,7,20.8,0,145.6,82.6,63
+ORD-1279,2026-06-02,Cold Brew Bottle,Equipment,Online,Ankara,4,24.96,0,99.84,50,49.84
+ORD-1280,2026-06-09,Filter Beans 1kg,Coffee,Wholesale,Bursa,1,20.8,0,20.8,11.8,9
+ORD-1281,2026-06-16,Cold Brew Bottle,Equipment,Retail Store,Ankara,6,24.96,0,149.76,75,74.76
+ORD-1282,2026-06-23,Filter Beans 1kg,Coffee,Online,Bursa,3,20.8,0,62.4,35.4,27
+ORD-1283,2026-06-02,Cold Brew Bottle,Equipment,Wholesale,Ankara,8,24.96,0.1,179.71,100,79.71
+ORD-1284,2026-06-09,Filter Beans 1kg,Coffee,Retail Store,Bursa,5,20.8,0,104,59,45
+ORD-1285,2026-06-16,Cold Brew Bottle,Equipment,Online,Ankara,2,24.96,0.15,42.43,25,17.43
+ORD-1286,2026-06-23,Filter Beans 1kg,Coffee,Wholesale,Bursa,7,20.8,0,145.6,82.6,63
+ORD-1287,2026-06-02,Cold Brew Bottle,Equipment,Retail Store,Ankara,4,24.96,0,99.84,50,49.84
+ORD-1288,2026-06-09,Filter Beans 1kg,Coffee,Online,Bursa,1,20.8,0,20.8,11.8,9

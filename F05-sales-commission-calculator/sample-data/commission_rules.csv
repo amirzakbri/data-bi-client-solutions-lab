@@ -1,0 +1,7 @@
+Rule,Value,Description
+Tier 1 threshold,0.8,Quota attainment
+Tier 1 rate,0.03,Marginal rate through 80%
+Tier 2 rate,0.05,Marginal rate from 80% to 100%
+Accelerator rate,0.08,Marginal rate above 100%
+Product bonus rate,0.01,Eligible net credited revenue
+Payout approval,Approved,Only approved deals enter payout

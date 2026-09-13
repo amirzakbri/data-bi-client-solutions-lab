@@ -1,0 +1,13 @@
+{
+  "name": "Retail Model Rebuild",
+  "dataColors": [
+    "#1D4ED8",
+    "#14B8A6",
+    "#F59E0B",
+    "#EF4444",
+    "#64748B"
+  ],
+  "background": "#F8FAFC",
+  "foreground": "#0F172A",
+  "tableAccent": "#1D4ED8"
+}

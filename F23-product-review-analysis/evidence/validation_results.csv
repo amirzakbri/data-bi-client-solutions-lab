@@ -1,0 +1,11 @@
+control,passed,actual,expected,status
+source_row_reconciliation,True,3600.0,3600.0,PASS
+review_id_unique,True,3600.0,3600.0,PASS
+all_products_covered,True,30.0,30.0,PASS
+ratings_in_range,True,1.0,5.0,PASS
+sentiment_complete,True,3600.0,3600.0,PASS
+topic_complete,True,3600.0,3600.0,PASS
+negative_count_reconciles,True,682.0,682.0,PASS
+product_counts_reconcile,True,3600.0,3600.0,PASS
+priority_score_bounded,True,18.0,50.9,PASS
+no_formula_nulls,True,1.0,1.0,PASS

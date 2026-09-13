@@ -1,0 +1,7 @@
+delay_reason,late_shipments,late_share_pct,avg_late_hours
+Hub Congestion,162,27.5,32.3
+Carrier Capacity,151,25.6,23.5
+Weather,98,16.6,23.8
+Address Issue,97,16.4,22.1
+Customer Unavailable,42,7.1,25.2
+Vehicle Breakdown,40,6.8,33.3

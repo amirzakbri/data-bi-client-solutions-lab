@@ -1,0 +1,9 @@
+control,status,actual,expected
+Source records preserved,PASS,855,855
+Membership source IDs unique,PASS,855,855
+No cluster mixes true entities,PASS,0,0
+Auto-match pair precision >= 99%,PASS,1.0,0.99
+Auto-match pair recall >= 90%,PASS,0.913232,0.9
+Golden row count equals cluster count,PASS,498,498
+Golden values reconcile,PASS,3545720.23,3545720.23
+Review queue retained,PASS,92,>0

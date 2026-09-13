@@ -1,0 +1,1801 @@
+LeadID,CreatedDate,LeadSource,Campaign,LandingPage,Device,Country,FirstResponseHours,FunnelStage,Qualified,Opportunity,Converted,Revenue
+L-00001,2026-05-26,Paid Search,C05-PAI,Pricing,Desktop,Netherlands,2.1,Opportunity,1,1,0,0
+L-00002,2026-03-09,Paid Search,C03-PAI,Consultation,Mobile,United Kingdom,9.3,New Lead,0,0,0,0
+L-00003,2026-03-21,Email,C03-EMA,Consultation,Mobile,Netherlands,1.7,New Lead,0,0,0,0
+L-00004,2026-06-20,LinkedIn Ads,C06-LIN,Homepage,Desktop,Germany,1.7,New Lead,0,0,0,0
+L-00005,2026-02-07,Organic Search,C02-ORG,Case Studies,Mobile,Canada,22.7,New Lead,0,0,0,0
+L-00006,2026-03-25,Direct,C03-DIR,Case Studies,Desktop,United Kingdom,6.2,New Lead,0,0,0,0
+L-00007,2026-02-21,Email,C02-EMA,Case Studies,Desktop,United Kingdom,9.2,New Lead,0,0,0,0
+L-00008,2026-05-15,Organic Search,C05-ORG,Case Studies,Desktop,Germany,2.9,New Lead,0,0,0,0
+L-00009,2026-01-04,Email,C01-EMA,Webinar,Mobile,United States,7.5,New Lead,0,0,0,0
+L-00010,2026-01-08,Organic Search,C01-ORG,Case Studies,Desktop,Canada,34.4,Qualified,1,0,0,0
+L-00011,2026-01-13,Partner,C01-PAR,Homepage,Desktop,Australia,2.7,Qualified,1,0,0,0
+L-00012,2026-02-19,Direct,C02-DIR,Webinar,Desktop,United Kingdom,1.9,New Lead,0,0,0,0
+L-00013,2026-04-06,LinkedIn Ads,C04-LIN,Consultation,Mobile,Netherlands,4.2,New Lead,0,0,0,0
+L-00014,2026-04-25,Partner,C04-PAR,Case Studies,Desktop,Germany,7.9,Customer,1,1,1,6317.79
+L-00015,2026-06-20,Email,C06-EMA,Homepage,Desktop,United States,5.0,New Lead,0,0,0,0
+L-00016,2026-06-11,Organic Search,C06-ORG,Webinar,Desktop,Canada,1.4,New Lead,0,0,0,0
+L-00017,2026-04-14,Direct,C04-DIR,Webinar,Desktop,United States,17.3,New Lead,0,0,0,0
+L-00018,2026-05-10,Partner,C05-PAR,Consultation,Desktop,United Kingdom,2.3,Opportunity,1,1,0,0
+L-00019,2026-04-21,Paid Search,C04-PAI,Consultation,Mobile,Australia,5.8,Qualified,1,0,0,0
+L-00020,2026-03-21,Paid Search,C03-PAI,Pricing,Desktop,Canada,1.3,Qualified,1,0,0,0
+L-00021,2026-05-19,Partner,C05-PAR,Consultation,Desktop,United Kingdom,23.0,Qualified,1,0,0,0
+L-00022,2026-04-02,Partner,C04-PAR,Webinar,Desktop,Netherlands,4.7,New Lead,0,0,0,0
+L-00023,2026-06-25,Paid Search,C06-PAI,Case Studies,Desktop,Netherlands,2.3,New Lead,0,0,0,0
+L-00024,2026-05-07,Direct,C05-DIR,Case Studies,Mobile,Australia,43.9,New Lead,0,0,0,0
+L-00025,2026-02-25,Referral,C02-REF,Pricing,Desktop,United States,2.5,Customer,1,1,1,14190.9
+L-00026,2026-02-01,Direct,C02-DIR,Consultation,Mobile,Canada,3.9,New Lead,0,0,0,0
+L-00027,2026-05-13,Partner,C05-PAR,Case Studies,Desktop,Canada,4.2,Opportunity,1,1,0,0
+L-00028,2026-03-10,Partner,C03-PAR,Webinar,Desktop,Australia,6.0,Opportunity,1,1,0,0
+L-00029,2026-06-24,Organic Search,C06-ORG,Homepage,Mobile,Netherlands,2.1,Qualified,1,0,0,0
+L-00030,2026-03-31,Paid Search,C03-PAI,Consultation,Desktop,United States,4.4,Qualified,1,0,0,0
+L-00031,2026-04-18,LinkedIn Ads,C04-LIN,Homepage,Desktop,United Kingdom,19.6,New Lead,0,0,0,0
+L-00032,2026-04-18,Referral,C04-REF,Pricing,Desktop,Netherlands,2.6,Qualified,1,0,0,0
+L-00033,2026-01-06,Direct,C01-DIR,Webinar,Mobile,Canada,3.3,New Lead,0,0,0,0
+L-00034,2026-01-20,Organic Search,C01-ORG,Consultation,Mobile,Germany,12.1,New Lead,0,0,0,0
+L-00035,2026-06-22,Organic Search,C06-ORG,Consultation,Desktop,Canada,3.8,New Lead,0,0,0,0
+L-00036,2026-05-30,Organic Search,C05-ORG,Webinar,Mobile,United States,2.7,New Lead,0,0,0,0
+L-00037,2026-02-14,Direct,C02-DIR,Webinar,Desktop,United Kingdom,1.2,New Lead,0,0,0,0
+L-00038,2026-05-31,Partner,C05-PAR,Case Studies,Desktop,Netherlands,4.4,New Lead,0,0,0,0
+L-00039,2026-02-08,Referral,C02-REF,Consultation,Desktop,Australia,30.2,Opportunity,1,1,0,0
+L-00040,2026-04-22,Paid Search,C04-PAI,Webinar,Mobile,Netherlands,11.9,Opportunity,1,1,0,0
+L-00041,2026-04-16,LinkedIn Ads,C04-LIN,Pricing,Desktop,United Kingdom,1.9,Customer,1,1,1,11888.88
+L-00042,2026-03-24,Referral,C03-REF,Consultation,Desktop,Canada,0.6,New Lead,0,0,0,0
+L-00043,2026-06-24,Organic Search,C06-ORG,Case Studies,Desktop,United States,6.0,Qualified,1,0,0,0
+L-00044,2026-02-03,Organic Search,C02-ORG,Consultation,Mobile,United States,2.6,New Lead,0,0,0,0
+L-00045,2026-01-09,LinkedIn Ads,C01-LIN,Consultation,Desktop,United Kingdom,6.1,New Lead,0,0,0,0
+L-00046,2026-01-16,Organic Search,C01-ORG,Webinar,Mobile,Germany,2.9,New Lead,0,0,0,0
+L-00047,2026-03-26,Referral,C03-REF,Homepage,Mobile,Canada,3.5,Qualified,1,0,0,0
+L-00048,2026-01-12,Paid Search,C01-PAI,Webinar,Tablet,Netherlands,4.1,New Lead,0,0,0,0
+L-00049,2026-06-08,Direct,C06-DIR,Webinar,Desktop,Australia,5.8,New Lead,0,0,0,0
+L-00050,2026-01-28,LinkedIn Ads,C01-LIN,Case Studies,Mobile,Australia,14.5,New Lead,0,0,0,0
+L-00051,2026-04-05,LinkedIn Ads,C04-LIN,Consultation,Mobile,Australia,9.1,New Lead,0,0,0,0
+L-00052,2026-04-12,Email,C04-EMA,Case Studies,Mobile,Netherlands,3.6,New Lead,0,0,0,0
+L-00053,2026-01-17,Organic Search,C01-ORG,Pricing,Desktop,United Kingdom,4.5,Opportunity,1,1,0,0
+L-00054,2026-01-23,Email,C01-EMA,Homepage,Mobile,United States,4.9,Qualified,1,0,0,0
+L-00055,2026-06-05,LinkedIn Ads,C06-LIN,Homepage,Mobile,United Kingdom,14.6,New Lead,0,0,0,0
+L-00056,2026-04-06,Partner,C04-PAR,Homepage,Mobile,Netherlands,5.1,New Lead,0,0,0,0
+L-00057,2026-05-23,Partner,C05-PAR,Case Studies,Desktop,United Kingdom,5.1,New Lead,0,0,0,0
+L-00058,2026-03-21,LinkedIn Ads,C03-LIN,Homepage,Mobile,United Kingdom,8.2,Opportunity,1,1,0,0
+L-00059,2026-01-31,Direct,C01-DIR,Case Studies,Tablet,United Kingdom,2.7,New Lead,0,0,0,0
+L-00060,2026-04-12,Referral,C04-REF,Pricing,Mobile,Canada,6.1,Qualified,1,0,0,0
+L-00061,2026-04-24,Organic Search,C04-ORG,Case Studies,Tablet,Canada,12.5,Qualified,1,0,0,0
+L-00062,2026-06-04,LinkedIn Ads,C06-LIN,Webinar,Desktop,United Kingdom,6.9,Qualified,1,0,0,0
+L-00063,2026-03-20,Partner,C03-PAR,Homepage,Desktop,Australia,3.5,Opportunity,1,1,0,0
+L-00064,2026-06-07,LinkedIn Ads,C06-LIN,Consultation,Desktop,United Kingdom,6.3,New Lead,0,0,0,0
+L-00065,2026-03-25,Organic Search,C03-ORG,Consultation,Desktop,United Kingdom,6.4,New Lead,0,0,0,0
+L-00066,2026-03-22,Organic Search,C03-ORG,Consultation,Desktop,Netherlands,10.3,New Lead,0,0,0,0
+L-00067,2026-03-20,Paid Search,C03-PAI,Pricing,Desktop,Netherlands,3.6,Qualified,1,0,0,0
+L-00068,2026-02-16,Paid Search,C02-PAI,Case Studies,Desktop,Netherlands,14.4,Opportunity,1,1,0,0
+L-00069,2026-05-05,LinkedIn Ads,C05-LIN,Consultation,Desktop,United States,7.9,Opportunity,1,1,0,0
+L-00070,2026-04-25,Partner,C04-PAR,Homepage,Desktop,United States,11.1,Qualified,1,0,0,0
+L-00071,2026-03-16,Organic Search,C03-ORG,Homepage,Desktop,Germany,21.3,New Lead,0,0,0,0
+L-00072,2026-05-24,Paid Search,C05-PAI,Consultation,Desktop,United Kingdom,19.9,New Lead,0,0,0,0
+L-00073,2026-06-14,Organic Search,C06-ORG,Consultation,Desktop,United Kingdom,1.7,Qualified,1,0,0,0
+L-00074,2026-04-07,Paid Search,C04-PAI,Homepage,Desktop,United Kingdom,17.9,New Lead,0,0,0,0
+L-00075,2026-04-04,LinkedIn Ads,C04-LIN,Consultation,Desktop,United States,2.8,Customer,1,1,1,5176.75
+L-00076,2026-04-05,Paid Search,C04-PAI,Webinar,Desktop,Australia,2.9,New Lead,0,0,0,0
+L-00077,2026-01-17,LinkedIn Ads,C01-LIN,Case Studies,Mobile,United States,1.9,New Lead,0,0,0,0
+L-00078,2026-03-21,LinkedIn Ads,C03-LIN,Homepage,Desktop,United States,4.9,New Lead,0,0,0,0
+L-00079,2026-02-06,Referral,C02-REF,Consultation,Mobile,United Kingdom,2.5,Opportunity,1,1,0,0
+L-00080,2026-04-08,Email,C04-EMA,Case Studies,Desktop,United Kingdom,6.0,New Lead,0,0,0,0
+L-00081,2026-05-28,Direct,C05-DIR,Consultation,Mobile,Canada,2.0,New Lead,0,0,0,0
+L-00082,2026-04-15,Email,C04-EMA,Case Studies,Mobile,United Kingdom,1.8,Opportunity,1,1,0,0
+L-00083,2026-02-21,Paid Search,C02-PAI,Pricing,Mobile,Netherlands,3.1,New Lead,0,0,0,0
+L-00084,2026-03-30,LinkedIn Ads,C03-LIN,Homepage,Mobile,United States,7.8,Opportunity,1,1,0,0
+L-00085,2026-02-06,Partner,C02-PAR,Consultation,Desktop,Canada,7.2,Customer,1,1,1,7805.9
+L-00086,2026-01-05,Organic Search,C01-ORG,Webinar,Mobile,Australia,3.7,Opportunity,1,1,0,0
+L-00087,2026-03-15,Email,C03-EMA,Consultation,Desktop,United Kingdom,6.5,Qualified,1,0,0,0
+L-00088,2026-05-16,Organic Search,C05-ORG,Webinar,Desktop,United States,2.9,New Lead,0,0,0,0
+L-00089,2026-03-15,LinkedIn Ads,C03-LIN,Consultation,Mobile,United States,5.1,New Lead,0,0,0,0
+L-00090,2026-05-24,Referral,C05-REF,Webinar,Desktop,United States,16.2,Customer,1,1,1,14072.9
+L-00091,2026-01-13,Organic Search,C01-ORG,Consultation,Desktop,United Kingdom,25.4,Qualified,1,0,0,0
+L-00092,2026-04-16,Email,C04-EMA,Webinar,Desktop,Australia,9.9,New Lead,0,0,0,0
+L-00093,2026-03-30,Organic Search,C03-ORG,Consultation,Desktop,Germany,5.8,Opportunity,1,1,0,0
+L-00094,2026-01-10,Paid Search,C01-PAI,Pricing,Desktop,Netherlands,8.4,New Lead,0,0,0,0
+L-00095,2026-06-17,Paid Search,C06-PAI,Consultation,Mobile,Netherlands,1.2,New Lead,0,0,0,0
+L-00096,2026-03-24,Partner,C03-PAR,Homepage,Desktop,Australia,11.8,New Lead,0,0,0,0
+L-00097,2026-06-17,LinkedIn Ads,C06-LIN,Pricing,Desktop,Germany,31.3,New Lead,0,0,0,0
+L-00098,2026-04-22,Referral,C04-REF,Homepage,Desktop,Germany,27.9,New Lead,0,0,0,0
+L-00099,2026-03-15,Organic Search,C03-ORG,Consultation,Desktop,United States,5.7,Opportunity,1,1,0,0
+L-00100,2026-05-15,Paid Search,C05-PAI,Consultation,Desktop,Australia,4.8,New Lead,0,0,0,0
+L-00101,2026-02-07,LinkedIn Ads,C02-LIN,Webinar,Desktop,United States,4.4,New Lead,0,0,0,0
+L-00102,2026-03-11,Organic Search,C03-ORG,Consultation,Desktop,Netherlands,3.8,Qualified,1,0,0,0
+L-00103,2026-01-29,Partner,C01-PAR,Consultation,Desktop,United States,1.5,New Lead,0,0,0,0
+L-00104,2026-05-02,Organic Search,C05-ORG,Consultation,Desktop,Netherlands,3.2,Qualified,1,0,0,0
+L-00105,2026-05-11,Organic Search,C05-ORG,Case Studies,Desktop,United States,2.5,Qualified,1,0,0,0
+L-00106,2026-06-25,Organic Search,C06-ORG,Pricing,Mobile,Canada,7.7,New Lead,0,0,0,0
+L-00107,2026-03-11,Referral,C03-REF,Pricing,Desktop,Germany,9.1,Qualified,1,0,0,0
+L-00108,2026-06-09,Direct,C06-DIR,Consultation,Desktop,United States,10.5,New Lead,0,0,0,0
+L-00109,2026-01-11,LinkedIn Ads,C01-LIN,Pricing,Mobile,Canada,1.4,New Lead,0,0,0,0
+L-00110,2026-06-13,Paid Search,C06-PAI,Case Studies,Desktop,Canada,9.4,New Lead,0,0,0,0
+L-00111,2026-05-01,Partner,C05-PAR,Consultation,Desktop,Germany,2.5,Customer,1,1,1,14369.63
+L-00112,2026-03-08,Email,C03-EMA,Webinar,Desktop,Netherlands,2.6,Customer,1,1,1,11564.33
+L-00113,2026-03-03,Direct,C03-DIR,Case Studies,Mobile,Netherlands,1.8,New Lead,0,0,0,0
+L-00114,2026-05-14,Partner,C05-PAR,Pricing,Mobile,Germany,9.9,Customer,1,1,1,14775.88
+L-00115,2026-03-25,Organic Search,C03-ORG,Homepage,Desktop,Germany,6.4,New Lead,0,0,0,0
+L-00116,2026-05-28,Paid Search,C05-PAI,Homepage,Mobile,Canada,10.7,New Lead,0,0,0,0
+L-00117,2026-03-20,Partner,C03-PAR,Homepage,Mobile,Netherlands,3.1,New Lead,0,0,0,0
+L-00118,2026-05-19,Paid Search,C05-PAI,Pricing,Mobile,Germany,9.9,Opportunity,1,1,0,0
+L-00119,2026-05-30,LinkedIn Ads,C05-LIN,Case Studies,Desktop,Australia,3.5,Opportunity,1,1,0,0
+L-00120,2026-05-13,LinkedIn Ads,C05-LIN,Case Studies,Desktop,United States,3.4,New Lead,0,0,0,0
+L-00121,2026-04-30,Paid Search,C04-PAI,Pricing,Mobile,United States,4.2,New Lead,0,0,0,0
+L-00122,2026-03-29,LinkedIn Ads,C03-LIN,Consultation,Desktop,Germany,14.8,New Lead,0,0,0,0
+L-00123,2026-05-18,Referral,C05-REF,Webinar,Mobile,United Kingdom,1.4,New Lead,0,0,0,0
+L-00124,2026-01-25,Email,C01-EMA,Consultation,Desktop,Germany,7.2,New Lead,0,0,0,0
+L-00125,2026-04-05,Partner,C04-PAR,Pricing,Mobile,Australia,2.0,Qualified,1,0,0,0
+L-00126,2026-04-20,Email,C04-EMA,Webinar,Desktop,Germany,10.7,New Lead,0,0,0,0
+L-00127,2026-03-22,Paid Search,C03-PAI,Pricing,Tablet,Netherlands,2.3,New Lead,0,0,0,0
+L-00128,2026-06-09,Email,C06-EMA,Pricing,Mobile,Netherlands,5.4,New Lead,0,0,0,0
+L-00129,2026-06-25,Direct,C06-DIR,Pricing,Mobile,United Kingdom,15.1,Qualified,1,0,0,0
+L-00130,2026-04-27,Email,C04-EMA,Case Studies,Mobile,Germany,3.9,New Lead,0,0,0,0
+L-00131,2026-02-17,Paid Search,C02-PAI,Case Studies,Mobile,United Kingdom,4.0,New Lead,0,0,0,0
+L-00132,2026-02-20,Organic Search,C02-ORG,Consultation,Desktop,Australia,1.6,Qualified,1,0,0,0
+L-00133,2026-05-07,LinkedIn Ads,C05-LIN,Case Studies,Desktop,Netherlands,4.7,New Lead,0,0,0,0
+L-00134,2026-04-21,Direct,C04-DIR,Case Studies,Desktop,United States,12.6,New Lead,0,0,0,0
+L-00135,2026-04-13,LinkedIn Ads,C04-LIN,Homepage,Desktop,Australia,4.4,New Lead,0,0,0,0
+L-00136,2026-03-24,Email,C03-EMA,Homepage,Mobile,Canada,7.6,Qualified,1,0,0,0
+L-00137,2026-06-17,LinkedIn Ads,C06-LIN,Case Studies,Desktop,United States,13.5,New Lead,0,0,0,0
+L-00138,2026-01-15,Paid Search,C01-PAI,Pricing,Mobile,Netherlands,5.5,Customer,1,1,1,7179.67
+L-00139,2026-02-15,Partner,C02-PAR,Pricing,Desktop,Canada,4.9,Qualified,1,0,0,0
+L-00140,2026-03-16,Paid Search,C03-PAI,Webinar,Desktop,Netherlands,4.7,Opportunity,1,1,0,0
+L-00141,2026-01-27,Direct,C01-DIR,Pricing,Desktop,Netherlands,6.2,New Lead,0,0,0,0
+L-00142,2026-05-02,Organic Search,C05-ORG,Homepage,Desktop,United Kingdom,8.0,New Lead,0,0,0,0
+L-00143,2026-06-27,LinkedIn Ads,C06-LIN,Webinar,Desktop,Australia,4.7,Qualified,1,0,0,0
+L-00144,2026-03-09,Paid Search,C03-PAI,Pricing,Mobile,United States,3.9,New Lead,0,0,0,0
+L-00145,2026-06-20,LinkedIn Ads,C06-LIN,Pricing,Desktop,Netherlands,2.9,Customer,1,1,1,10010.91
+L-00146,2026-02-16,Direct,C02-DIR,Case Studies,Mobile,United States,3.1,New Lead,0,0,0,0
+L-00147,2026-03-28,Referral,C03-REF,Consultation,Mobile,Germany,9.9,New Lead,0,0,0,0
+L-00148,2026-05-15,Direct,C05-DIR,Consultation,Desktop,Germany,2.9,Opportunity,1,1,0,0
+L-00149,2026-04-15,LinkedIn Ads,C04-LIN,Pricing,Desktop,United States,1.0,Qualified,1,0,0,0
+L-00150,2026-06-10,Organic Search,C06-ORG,Homepage,Mobile,United States,4.2,New Lead,0,0,0,0
+L-00151,2026-02-10,LinkedIn Ads,C02-LIN,Webinar,Mobile,United States,13.0,New Lead,0,0,0,0
+L-00152,2026-01-15,Partner,C01-PAR,Consultation,Desktop,Canada,14.7,New Lead,0,0,0,0
+L-00153,2026-02-03,Referral,C02-REF,Consultation,Mobile,Germany,6.8,Opportunity,1,1,0,0
+L-00154,2026-06-11,Email,C06-EMA,Consultation,Desktop,United States,13.6,Customer,1,1,1,9003.46
+L-00155,2026-05-14,Direct,C05-DIR,Consultation,Desktop,Canada,7.1,Opportunity,1,1,0,0
+L-00156,2026-02-05,Paid Search,C02-PAI,Case Studies,Desktop,Germany,7.7,New Lead,0,0,0,0
+L-00157,2026-03-24,Direct,C03-DIR,Pricing,Mobile,Australia,5.5,New Lead,0,0,0,0
+L-00158,2026-04-30,Paid Search,C04-PAI,Webinar,Desktop,Australia,3.1,New Lead,0,0,0,0
+L-00159,2026-02-15,Paid Search,C02-PAI,Webinar,Tablet,Canada,2.0,New Lead,0,0,0,0
+L-00160,2026-03-05,Email,C03-EMA,Webinar,Desktop,Australia,10.8,New Lead,0,0,0,0
+L-00161,2026-05-19,Organic Search,C05-ORG,Homepage,Mobile,Germany,4.0,New Lead,0,0,0,0
+L-00162,2026-01-19,Referral,C01-REF,Homepage,Desktop,Germany,6.2,New Lead,0,0,0,0
+L-00163,2026-03-16,Direct,C03-DIR,Consultation,Desktop,Canada,9.5,New Lead,0,0,0,0
+L-00164,2026-04-01,Paid Search,C04-PAI,Homepage,Mobile,United Kingdom,4.6,New Lead,0,0,0,0
+L-00165,2026-01-17,Paid Search,C01-PAI,Consultation,Desktop,Canada,7.6,Qualified,1,0,0,0
+L-00166,2026-01-31,Organic Search,C01-ORG,Case Studies,Mobile,United States,4.7,Qualified,1,0,0,0
+L-00167,2026-03-10,Email,C03-EMA,Webinar,Mobile,United Kingdom,3.1,Qualified,1,0,0,0
+L-00168,2026-05-10,Organic Search,C05-ORG,Homepage,Tablet,Germany,5.7,Qualified,1,0,0,0
+L-00169,2026-05-16,LinkedIn Ads,C05-LIN,Consultation,Desktop,Australia,20.9,New Lead,0,0,0,0
+L-00170,2026-06-01,Paid Search,C06-PAI,Case Studies,Mobile,Australia,1.4,Customer,1,1,1,9737.76
+L-00171,2026-04-16,Paid Search,C04-PAI,Consultation,Desktop,Germany,1.1,New Lead,0,0,0,0
+L-00172,2026-01-16,Referral,C01-REF,Pricing,Mobile,Germany,5.4,Opportunity,1,1,0,0
+L-00173,2026-03-24,Partner,C03-PAR,Pricing,Desktop,Canada,3.0,Opportunity,1,1,0,0
+L-00174,2026-03-12,Referral,C03-REF,Case Studies,Mobile,United States,8.2,Customer,1,1,1,9501.85
+L-00175,2026-06-02,Organic Search,C06-ORG,Consultation,Desktop,Australia,3.9,Qualified,1,0,0,0
+L-00176,2026-01-16,Paid Search,C01-PAI,Consultation,Tablet,Canada,8.2,Opportunity,1,1,0,0
+L-00177,2026-01-30,Email,C01-EMA,Case Studies,Desktop,Netherlands,10.5,New Lead,0,0,0,0
+L-00178,2026-02-12,Partner,C02-PAR,Consultation,Mobile,Germany,3.3,New Lead,0,0,0,0
+L-00179,2026-03-09,Paid Search,C03-PAI,Homepage,Desktop,United States,3.1,New Lead,0,0,0,0
+L-00180,2026-03-04,Paid Search,C03-PAI,Webinar,Desktop,Germany,1.6,Qualified,1,0,0,0
+L-00181,2026-06-12,Paid Search,C06-PAI,Case Studies,Mobile,Netherlands,4.3,Opportunity,1,1,0,0
+L-00182,2026-01-18,Referral,C01-REF,Case Studies,Mobile,United Kingdom,2.1,Qualified,1,0,0,0
+L-00183,2026-02-22,Organic Search,C02-ORG,Case Studies,Desktop,United States,7.5,New Lead,0,0,0,0
+L-00184,2026-04-20,Referral,C04-REF,Pricing,Mobile,Germany,5.1,Qualified,1,0,0,0
+L-00185,2026-05-27,Direct,C05-DIR,Case Studies,Desktop,United Kingdom,5.7,New Lead,0,0,0,0
+L-00186,2026-04-08,LinkedIn Ads,C04-LIN,Consultation,Tablet,United States,3.6,Qualified,1,0,0,0
+L-00187,2026-04-03,Paid Search,C04-PAI,Webinar,Mobile,Australia,3.7,New Lead,0,0,0,0
+L-00188,2026-03-21,Referral,C03-REF,Homepage,Desktop,United Kingdom,6.3,New Lead,0,0,0,0
+L-00189,2026-05-13,Referral,C05-REF,Homepage,Mobile,Germany,4.0,New Lead,0,0,0,0
+L-00190,2026-04-05,Organic Search,C04-ORG,Homepage,Desktop,United Kingdom,3.4,New Lead,0,0,0,0
+L-00191,2026-02-02,LinkedIn Ads,C02-LIN,Pricing,Mobile,Netherlands,18.9,New Lead,0,0,0,0
+L-00192,2026-05-11,Partner,C05-PAR,Pricing,Desktop,Germany,7.8,Qualified,1,0,0,0
+L-00193,2026-03-17,Organic Search,C03-ORG,Case Studies,Mobile,United Kingdom,4.8,New Lead,0,0,0,0
+L-00194,2026-06-16,Paid Search,C06-PAI,Webinar,Mobile,United States,1.4,New Lead,0,0,0,0
+L-00195,2026-03-19,Partner,C03-PAR,Pricing,Desktop,United Kingdom,4.1,Opportunity,1,1,0,0
+L-00196,2026-06-30,Email,C06-EMA,Pricing,Mobile,Germany,6.4,Opportunity,1,1,0,0
+L-00197,2026-03-04,Paid Search,C03-PAI,Webinar,Desktop,Canada,11.0,New Lead,0,0,0,0
+L-00198,2026-02-11,Paid Search,C02-PAI,Webinar,Desktop,United States,22.6,New Lead,0,0,0,0
+L-00199,2026-02-18,Referral,C02-REF,Case Studies,Mobile,Australia,4.7,New Lead,0,0,0,0
+L-00200,2026-05-24,Partner,C05-PAR,Homepage,Desktop,United States,5.6,New Lead,0,0,0,0
+L-00201,2026-06-26,Paid Search,C06-PAI,Webinar,Mobile,Canada,4.1,New Lead,0,0,0,0
+L-00202,2026-04-18,LinkedIn Ads,C04-LIN,Pricing,Mobile,Australia,2.5,New Lead,0,0,0,0
+L-00203,2026-03-11,Organic Search,C03-ORG,Pricing,Desktop,Australia,5.1,Opportunity,1,1,0,0
+L-00204,2026-05-17,LinkedIn Ads,C05-LIN,Pricing,Desktop,United States,13.8,New Lead,0,0,0,0
+L-00205,2026-06-27,Partner,C06-PAR,Homepage,Mobile,Australia,8.2,New Lead,0,0,0,0
+L-00206,2026-01-31,Email,C01-EMA,Consultation,Mobile,Netherlands,7.5,New Lead,0,0,0,0
+L-00207,2026-03-02,Organic Search,C03-ORG,Consultation,Desktop,United Kingdom,3.0,Qualified,1,0,0,0
+L-00208,2026-04-23,Paid Search,C04-PAI,Consultation,Desktop,Germany,6.2,New Lead,0,0,0,0
+L-00209,2026-03-30,Referral,C03-REF,Pricing,Desktop,United Kingdom,6.5,New Lead,0,0,0,0
+L-00210,2026-05-02,Organic Search,C05-ORG,Consultation,Mobile,Canada,12.9,New Lead,0,0,0,0
+L-00211,2026-02-17,Email,C02-EMA,Homepage,Desktop,United Kingdom,1.4,Qualified,1,0,0,0
+L-00212,2026-01-28,Paid Search,C01-PAI,Homepage,Mobile,United Kingdom,4.1,New Lead,0,0,0,0
+L-00213,2026-05-17,Organic Search,C05-ORG,Case Studies,Desktop,United Kingdom,3.9,Opportunity,1,1,0,0
+L-00214,2026-06-15,Paid Search,C06-PAI,Homepage,Tablet,United Kingdom,3.9,New Lead,0,0,0,0
+L-00215,2026-05-06,Partner,C05-PAR,Homepage,Mobile,Australia,1.2,New Lead,0,0,0,0
+L-00216,2026-03-03,Organic Search,C03-ORG,Pricing,Desktop,Australia,1.7,Qualified,1,0,0,0
+L-00217,2026-03-01,Partner,C03-PAR,Pricing,Mobile,United States,10.9,New Lead,0,0,0,0
+L-00218,2026-01-20,Referral,C01-REF,Homepage,Desktop,Germany,3.5,Opportunity,1,1,0,0
+L-00219,2026-05-11,Referral,C05-REF,Homepage,Mobile,Canada,3.4,New Lead,0,0,0,0
+L-00220,2026-06-30,Organic Search,C06-ORG,Homepage,Desktop,Australia,4.1,Customer,1,1,1,15791.11
+L-00221,2026-06-08,Direct,C06-DIR,Webinar,Desktop,United States,4.9,New Lead,0,0,0,0
+L-00222,2026-02-28,Organic Search,C02-ORG,Pricing,Desktop,Netherlands,2.1,New Lead,0,0,0,0
+L-00223,2026-05-28,Direct,C05-DIR,Consultation,Mobile,Netherlands,1.7,New Lead,0,0,0,0
+L-00224,2026-05-11,Paid Search,C05-PAI,Consultation,Mobile,Germany,19.3,New Lead,0,0,0,0
+L-00225,2026-02-02,Direct,C02-DIR,Webinar,Mobile,United States,1.3,New Lead,0,0,0,0
+L-00226,2026-06-06,Organic Search,C06-ORG,Webinar,Desktop,Germany,15.9,New Lead,0,0,0,0
+L-00227,2026-01-18,Direct,C01-DIR,Homepage,Desktop,Germany,15.3,Qualified,1,0,0,0
+L-00228,2026-03-09,Paid Search,C03-PAI,Consultation,Desktop,United Kingdom,1.5,Opportunity,1,1,0,0
+L-00229,2026-05-18,Paid Search,C05-PAI,Case Studies,Tablet,United Kingdom,6.5,New Lead,0,0,0,0
+L-00230,2026-05-14,Organic Search,C05-ORG,Case Studies,Desktop,Australia,1.8,Opportunity,1,1,0,0
+L-00231,2026-04-13,Paid Search,C04-PAI,Consultation,Desktop,Canada,6.1,New Lead,0,0,0,0
+L-00232,2026-06-14,LinkedIn Ads,C06-LIN,Homepage,Desktop,Australia,2.3,New Lead,0,0,0,0
+L-00233,2026-05-31,Paid Search,C05-PAI,Homepage,Desktop,Canada,7.2,Customer,1,1,1,8473.24
+L-00234,2026-03-05,Email,C03-EMA,Consultation,Desktop,Australia,1.5,Qualified,1,0,0,0
+L-00235,2026-01-17,LinkedIn Ads,C01-LIN,Case Studies,Desktop,Germany,4.6,Opportunity,1,1,0,0
+L-00236,2026-01-06,Organic Search,C01-ORG,Consultation,Desktop,United States,29.8,New Lead,0,0,0,0
+L-00237,2026-02-14,Partner,C02-PAR,Homepage,Mobile,Germany,7.8,Qualified,1,0,0,0
+L-00238,2026-03-02,Email,C03-EMA,Consultation,Desktop,Germany,5.1,New Lead,0,0,0,0
+L-00239,2026-05-11,Paid Search,C05-PAI,Homepage,Desktop,United Kingdom,2.9,New Lead,0,0,0,0
+L-00240,2026-02-07,Direct,C02-DIR,Case Studies,Mobile,Australia,3.7,Qualified,1,0,0,0
+L-00241,2026-06-19,Email,C06-EMA,Pricing,Desktop,Germany,10.1,New Lead,0,0,0,0
+L-00242,2026-06-30,Email,C06-EMA,Consultation,Mobile,Australia,13.6,Opportunity,1,1,0,0
+L-00243,2026-03-03,Organic Search,C03-ORG,Webinar,Mobile,Netherlands,7.8,Qualified,1,0,0,0
+L-00244,2026-01-04,Organic Search,C01-ORG,Consultation,Desktop,Canada,6.2,Qualified,1,0,0,0
+L-00245,2026-01-21,Referral,C01-REF,Pricing,Desktop,Netherlands,20.6,Opportunity,1,1,0,0
+L-00246,2026-04-09,Direct,C04-DIR,Case Studies,Mobile,Germany,18.5,New Lead,0,0,0,0
+L-00247,2026-06-07,Paid Search,C06-PAI,Case Studies,Desktop,United States,1.0,New Lead,0,0,0,0
+L-00248,2026-05-13,Email,C05-EMA,Consultation,Mobile,Germany,3.0,New Lead,0,0,0,0
+L-00249,2026-06-06,Email,C06-EMA,Pricing,Desktop,Canada,13.7,Qualified,1,0,0,0
+L-00250,2026-04-25,Referral,C04-REF,Case Studies,Mobile,Germany,16.1,New Lead,0,0,0,0
+L-00251,2026-06-01,Organic Search,C06-ORG,Case Studies,Mobile,Canada,4.6,New Lead,0,0,0,0
+L-00252,2026-04-18,Organic Search,C04-ORG,Case Studies,Mobile,Australia,11.5,New Lead,0,0,0,0
+L-00253,2026-03-08,Direct,C03-DIR,Webinar,Mobile,Netherlands,5.0,New Lead,0,0,0,0
+L-00254,2026-02-22,Paid Search,C02-PAI,Pricing,Desktop,United States,3.8,Qualified,1,0,0,0
+L-00255,2026-04-07,Organic Search,C04-ORG,Homepage,Desktop,Netherlands,7.1,Opportunity,1,1,0,0
+L-00256,2026-02-24,Referral,C02-REF,Pricing,Mobile,Netherlands,8.2,Opportunity,1,1,0,0
+L-00257,2026-03-08,Referral,C03-REF,Case Studies,Tablet,Netherlands,9.3,Qualified,1,0,0,0
+L-00258,2026-01-10,Direct,C01-DIR,Homepage,Desktop,Australia,3.4,Qualified,1,0,0,0
+L-00259,2026-05-31,Organic Search,C05-ORG,Homepage,Mobile,Germany,5.0,New Lead,0,0,0,0
+L-00260,2026-02-07,Organic Search,C02-ORG,Homepage,Desktop,United States,10.6,New Lead,0,0,0,0
+L-00261,2026-04-07,Organic Search,C04-ORG,Homepage,Mobile,Germany,3.7,New Lead,0,0,0,0
+L-00262,2026-06-28,Referral,C06-REF,Pricing,Desktop,Netherlands,9.2,Qualified,1,0,0,0
+L-00263,2026-04-10,Organic Search,C04-ORG,Case Studies,Mobile,United Kingdom,5.4,New Lead,0,0,0,0
+L-00264,2026-01-19,Organic Search,C01-ORG,Case Studies,Desktop,Australia,5.1,New Lead,0,0,0,0
+L-00265,2026-04-12,Direct,C04-DIR,Consultation,Mobile,Canada,1.6,Qualified,1,0,0,0
+L-00266,2026-05-16,Paid Search,C05-PAI,Webinar,Desktop,United States,3.1,New Lead,0,0,0,0
+L-00267,2026-05-24,Partner,C05-PAR,Case Studies,Desktop,Germany,5.6,Qualified,1,0,0,0
+L-00268,2026-03-04,Organic Search,C03-ORG,Pricing,Desktop,Canada,3.3,New Lead,0,0,0,0
+L-00269,2026-01-01,Paid Search,C01-PAI,Pricing,Tablet,Germany,7.9,New Lead,0,0,0,0
+L-00270,2026-06-05,Paid Search,C06-PAI,Consultation,Desktop,Germany,8.0,New Lead,0,0,0,0
+L-00271,2026-05-03,Partner,C05-PAR,Homepage,Tablet,Germany,7.6,New Lead,0,0,0,0
+L-00272,2026-01-07,Organic Search,C01-ORG,Pricing,Mobile,Germany,7.8,Qualified,1,0,0,0
+L-00273,2026-02-14,Email,C02-EMA,Webinar,Mobile,Canada,8.2,Opportunity,1,1,0,0
+L-00274,2026-05-25,Paid Search,C05-PAI,Case Studies,Mobile,Canada,9.3,Qualified,1,0,0,0
+L-00275,2026-03-28,Organic Search,C03-ORG,Consultation,Mobile,Netherlands,9.6,New Lead,0,0,0,0
+L-00276,2026-04-12,LinkedIn Ads,C04-LIN,Webinar,Desktop,Netherlands,7.4,New Lead,0,0,0,0
+L-00277,2026-04-17,Email,C04-EMA,Consultation,Tablet,Netherlands,9.6,New Lead,0,0,0,0
+L-00278,2026-03-18,Paid Search,C03-PAI,Homepage,Desktop,Canada,13.1,Opportunity,1,1,0,0
+L-00279,2026-05-21,LinkedIn Ads,C05-LIN,Homepage,Mobile,United States,2.4,New Lead,0,0,0,0
+L-00280,2026-01-03,LinkedIn Ads,C01-LIN,Homepage,Mobile,United Kingdom,6.5,New Lead,0,0,0,0
+L-00281,2026-04-05,Paid Search,C04-PAI,Pricing,Desktop,Germany,10.8,Qualified,1,0,0,0
+L-00282,2026-05-13,Email,C05-EMA,Webinar,Mobile,Canada,2.1,New Lead,0,0,0,0
+L-00283,2026-06-24,Direct,C06-DIR,Homepage,Desktop,United Kingdom,5.6,New Lead,0,0,0,0
+L-00284,2026-03-10,Paid Search,C03-PAI,Case Studies,Desktop,Canada,4.5,New Lead,0,0,0,0
+L-00285,2026-05-19,Organic Search,C05-ORG,Webinar,Desktop,Australia,3.1,New Lead,0,0,0,0
+L-00286,2026-01-31,Direct,C01-DIR,Case Studies,Mobile,United Kingdom,4.3,New Lead,0,0,0,0
+L-00287,2026-03-13,Paid Search,C03-PAI,Webinar,Tablet,United Kingdom,1.7,New Lead,0,0,0,0
+L-00288,2026-03-09,Direct,C03-DIR,Consultation,Mobile,Canada,4.5,Opportunity,1,1,0,0
+L-00289,2026-02-03,Paid Search,C02-PAI,Pricing,Mobile,Australia,4.1,New Lead,0,0,0,0
+L-00290,2026-03-20,Organic Search,C03-ORG,Case Studies,Mobile,United States,11.3,New Lead,0,0,0,0
+L-00291,2026-03-30,Referral,C03-REF,Homepage,Mobile,United States,4.7,Customer,1,1,1,6649.29
+L-00292,2026-03-01,Partner,C03-PAR,Case Studies,Mobile,Germany,3.9,Customer,1,1,1,8360.57
+L-00293,2026-02-18,Email,C02-EMA,Consultation,Desktop,United Kingdom,3.5,New Lead,0,0,0,0
+L-00294,2026-03-27,Partner,C03-PAR,Consultation,Mobile,Canada,11.0,New Lead,0,0,0,0
+L-00295,2026-04-25,Organic Search,C04-ORG,Homepage,Desktop,United States,2.9,Qualified,1,0,0,0
+L-00296,2026-03-19,Email,C03-EMA,Pricing,Desktop,Germany,2.7,Qualified,1,0,0,0
+L-00297,2026-06-26,LinkedIn Ads,C06-LIN,Homepage,Desktop,Germany,3.7,New Lead,0,0,0,0
+L-00298,2026-05-02,Direct,C05-DIR,Case Studies,Desktop,United Kingdom,1.7,New Lead,0,0,0,0
+L-00299,2026-01-21,Partner,C01-PAR,Homepage,Desktop,Netherlands,35.2,New Lead,0,0,0,0
+L-00300,2026-03-23,Referral,C03-REF,Webinar,Desktop,Canada,2.0,Qualified,1,0,0,0
+L-00301,2026-01-17,Email,C01-EMA,Pricing,Mobile,Germany,3.3,New Lead,0,0,0,0
+L-00302,2026-03-29,Paid Search,C03-PAI,Pricing,Desktop,Netherlands,13.3,New Lead,0,0,0,0
+L-00303,2026-05-12,Email,C05-EMA,Consultation,Desktop,United Kingdom,23.4,New Lead,0,0,0,0
+L-00304,2026-05-30,Partner,C05-PAR,Homepage,Mobile,United Kingdom,46.3,Opportunity,1,1,0,0
+L-00305,2026-03-13,Paid Search,C03-PAI,Webinar,Desktop,United States,5.2,Qualified,1,0,0,0
+L-00306,2026-05-30,Paid Search,C05-PAI,Consultation,Mobile,Australia,1.2,Qualified,1,0,0,0
+L-00307,2026-01-07,Paid Search,C01-PAI,Homepage,Desktop,Australia,3.0,New Lead,0,0,0,0
+L-00308,2026-03-20,Organic Search,C03-ORG,Consultation,Desktop,United Kingdom,4.7,Opportunity,1,1,0,0
+L-00309,2026-02-23,Organic Search,C02-ORG,Webinar,Mobile,Netherlands,5.8,Opportunity,1,1,0,0
+L-00310,2026-01-14,Organic Search,C01-ORG,Webinar,Mobile,United Kingdom,20.5,New Lead,0,0,0,0
+L-00311,2026-02-10,Referral,C02-REF,Webinar,Desktop,Australia,1.9,New Lead,0,0,0,0
+L-00312,2026-05-23,Paid Search,C05-PAI,Pricing,Desktop,Canada,20.8,Opportunity,1,1,0,0
+L-00313,2026-04-13,Referral,C04-REF,Homepage,Mobile,Canada,5.2,New Lead,0,0,0,0
+L-00314,2026-04-15,LinkedIn Ads,C04-LIN,Pricing,Mobile,Australia,19.4,New Lead,0,0,0,0
+L-00315,2026-01-16,LinkedIn Ads,C01-LIN,Webinar,Mobile,United States,1.1,New Lead,0,0,0,0
+L-00316,2026-06-09,Referral,C06-REF,Pricing,Mobile,United States,5.6,Opportunity,1,1,0,0
+L-00317,2026-04-03,Direct,C04-DIR,Pricing,Desktop,Canada,5.8,Opportunity,1,1,0,0
+L-00318,2026-01-10,Paid Search,C01-PAI,Case Studies,Tablet,Germany,11.4,Qualified,1,0,0,0
+L-00319,2026-01-07,Paid Search,C01-PAI,Case Studies,Mobile,United Kingdom,4.9,New Lead,0,0,0,0
+L-00320,2026-06-07,Paid Search,C06-PAI,Homepage,Mobile,Germany,3.2,New Lead,0,0,0,0
+L-00321,2026-03-29,Direct,C03-DIR,Case Studies,Desktop,Germany,12.7,New Lead,0,0,0,0
+L-00322,2026-04-21,Direct,C04-DIR,Webinar,Mobile,Canada,9.4,New Lead,0,0,0,0
+L-00323,2026-03-30,LinkedIn Ads,C03-LIN,Webinar,Desktop,Canada,2.1,New Lead,0,0,0,0
+L-00324,2026-04-20,Direct,C04-DIR,Case Studies,Tablet,Germany,2.8,Qualified,1,0,0,0
+L-00325,2026-03-02,Organic Search,C03-ORG,Homepage,Desktop,Netherlands,1.7,Qualified,1,0,0,0
+L-00326,2026-02-18,Organic Search,C02-ORG,Consultation,Desktop,Germany,9.9,Opportunity,1,1,0,0
+L-00327,2026-01-12,Partner,C01-PAR,Homepage,Mobile,Germany,2.7,Qualified,1,0,0,0
+L-00328,2026-02-06,Referral,C02-REF,Consultation,Desktop,Germany,3.5,New Lead,0,0,0,0
+L-00329,2026-01-12,Paid Search,C01-PAI,Consultation,Desktop,Germany,6.1,Customer,1,1,1,7087.66
+L-00330,2026-03-16,Paid Search,C03-PAI,Pricing,Desktop,Netherlands,14.0,Qualified,1,0,0,0
+L-00331,2026-06-13,LinkedIn Ads,C06-LIN,Homepage,Desktop,Germany,8.4,New Lead,0,0,0,0
+L-00332,2026-06-16,Referral,C06-REF,Homepage,Mobile,Australia,13.1,New Lead,0,0,0,0
+L-00333,2026-01-08,Partner,C01-PAR,Pricing,Mobile,Canada,6.3,Opportunity,1,1,0,0
+L-00334,2026-03-10,Organic Search,C03-ORG,Homepage,Desktop,United Kingdom,1.7,New Lead,0,0,0,0
+L-00335,2026-02-02,Email,C02-EMA,Pricing,Tablet,United States,2.3,Qualified,1,0,0,0
+L-00336,2026-03-24,Paid Search,C03-PAI,Webinar,Desktop,Germany,2.1,Customer,1,1,1,9376.07
+L-00337,2026-06-25,Direct,C06-DIR,Pricing,Mobile,United States,5.7,Opportunity,1,1,0,0
+L-00338,2026-04-07,Direct,C04-DIR,Webinar,Tablet,Canada,2.2,New Lead,0,0,0,0
+L-00339,2026-06-22,Partner,C06-PAR,Webinar,Desktop,Australia,18.4,New Lead,0,0,0,0
+L-00340,2026-04-03,Email,C04-EMA,Consultation,Desktop,Canada,2.3,Qualified,1,0,0,0
+L-00341,2026-04-09,Partner,C04-PAR,Pricing,Desktop,Canada,6.4,Qualified,1,0,0,0
+L-00342,2026-04-18,Paid Search,C04-PAI,Pricing,Desktop,Netherlands,2.6,New Lead,0,0,0,0
+L-00343,2026-01-19,LinkedIn Ads,C01-LIN,Homepage,Desktop,United Kingdom,14.2,New Lead,0,0,0,0
+L-00344,2026-04-24,Email,C04-EMA,Homepage,Mobile,Germany,4.8,Qualified,1,0,0,0
+L-00345,2026-06-12,Paid Search,C06-PAI,Homepage,Desktop,Australia,2.4,Opportunity,1,1,0,0
+L-00346,2026-06-10,Partner,C06-PAR,Homepage,Desktop,Germany,1.1,Qualified,1,0,0,0
+L-00347,2026-01-10,Email,C01-EMA,Homepage,Mobile,Netherlands,7.4,New Lead,0,0,0,0
+L-00348,2026-02-14,Organic Search,C02-ORG,Webinar,Desktop,Netherlands,18.9,New Lead,0,0,0,0
+L-00349,2026-05-24,Paid Search,C05-PAI,Pricing,Mobile,Germany,4.3,Qualified,1,0,0,0
+L-00350,2026-06-12,Referral,C06-REF,Pricing,Mobile,United Kingdom,29.1,New Lead,0,0,0,0
+L-00351,2026-03-12,Direct,C03-DIR,Consultation,Desktop,Canada,10.9,New Lead,0,0,0,0
+L-00352,2026-03-22,Organic Search,C03-ORG,Consultation,Tablet,United Kingdom,1.4,New Lead,0,0,0,0
+L-00353,2026-02-10,Partner,C02-PAR,Pricing,Desktop,United States,1.4,New Lead,0,0,0,0
+L-00354,2026-06-09,Referral,C06-REF,Homepage,Mobile,Australia,8.0,Qualified,1,0,0,0
+L-00355,2026-03-02,Paid Search,C03-PAI,Homepage,Tablet,Australia,1.9,New Lead,0,0,0,0
+L-00356,2026-05-08,Paid Search,C05-PAI,Pricing,Desktop,Australia,8.3,New Lead,0,0,0,0
+L-00357,2026-06-13,Direct,C06-DIR,Case Studies,Desktop,Netherlands,15.7,Qualified,1,0,0,0
+L-00358,2026-02-22,LinkedIn Ads,C02-LIN,Consultation,Desktop,Netherlands,2.0,Qualified,1,0,0,0
+L-00359,2026-01-13,Referral,C01-REF,Consultation,Desktop,Netherlands,5.9,Opportunity,1,1,0,0
+L-00360,2026-03-05,Email,C03-EMA,Homepage,Mobile,Netherlands,25.5,Qualified,1,0,0,0
+L-00361,2026-01-31,Paid Search,C01-PAI,Homepage,Desktop,United Kingdom,15.8,Opportunity,1,1,0,0
+L-00362,2026-04-12,Organic Search,C04-ORG,Pricing,Tablet,Canada,0.8,Qualified,1,0,0,0
+L-00363,2026-06-14,Organic Search,C06-ORG,Homepage,Desktop,Canada,5.7,New Lead,0,0,0,0
+L-00364,2026-05-25,Email,C05-EMA,Case Studies,Tablet,Netherlands,6.1,Qualified,1,0,0,0
+L-00365,2026-03-20,Partner,C03-PAR,Consultation,Tablet,Canada,2.1,Customer,1,1,1,5024.87
+L-00366,2026-05-24,LinkedIn Ads,C05-LIN,Consultation,Mobile,Germany,17.2,Opportunity,1,1,0,0
+L-00367,2026-01-19,Organic Search,C01-ORG,Homepage,Mobile,Germany,14.6,Qualified,1,0,0,0
+L-00368,2026-06-01,Organic Search,C06-ORG,Consultation,Desktop,Netherlands,4.1,Opportunity,1,1,0,0
+L-00369,2026-02-20,LinkedIn Ads,C02-LIN,Homepage,Desktop,Canada,4.4,New Lead,0,0,0,0
+L-00370,2026-05-22,Direct,C05-DIR,Homepage,Mobile,United Kingdom,22.0,New Lead,0,0,0,0
+L-00371,2026-01-24,Referral,C01-REF,Pricing,Desktop,Germany,3.3,New Lead,0,0,0,0
+L-00372,2026-02-15,Referral,C02-REF,Consultation,Mobile,Germany,1.3,New Lead,0,0,0,0
+L-00373,2026-01-16,Email,C01-EMA,Consultation,Mobile,Australia,10.8,Qualified,1,0,0,0
+L-00374,2026-06-20,Organic Search,C06-ORG,Homepage,Desktop,United Kingdom,6.0,Qualified,1,0,0,0
+L-00375,2026-05-29,LinkedIn Ads,C05-LIN,Webinar,Mobile,United States,5.2,Qualified,1,0,0,0
+L-00376,2026-06-23,Referral,C06-REF,Consultation,Desktop,Netherlands,9.6,Opportunity,1,1,0,0
+L-00377,2026-05-19,Referral,C05-REF,Homepage,Desktop,Germany,5.4,Opportunity,1,1,0,0
+L-00378,2026-03-14,Organic Search,C03-ORG,Pricing,Mobile,United States,7.0,New Lead,0,0,0,0
+L-00379,2026-03-21,Organic Search,C03-ORG,Pricing,Tablet,Australia,29.2,Opportunity,1,1,0,0
+L-00380,2026-06-11,Paid Search,C06-PAI,Homepage,Mobile,United States,3.5,New Lead,0,0,0,0
+L-00381,2026-05-23,Email,C05-EMA,Consultation,Desktop,Canada,4.9,New Lead,0,0,0,0
+L-00382,2026-01-03,Organic Search,C01-ORG,Pricing,Desktop,Germany,1.0,Qualified,1,0,0,0
+L-00383,2026-05-21,Partner,C05-PAR,Case Studies,Mobile,United Kingdom,10.8,New Lead,0,0,0,0
+L-00384,2026-01-04,Direct,C01-DIR,Consultation,Desktop,Germany,11.2,New Lead,0,0,0,0
+L-00385,2026-01-05,Organic Search,C01-ORG,Case Studies,Desktop,United States,10.0,Qualified,1,0,0,0
+L-00386,2026-01-21,Email,C01-EMA,Consultation,Mobile,United Kingdom,4.2,New Lead,0,0,0,0
+L-00387,2026-04-10,Email,C04-EMA,Consultation,Mobile,Australia,5.3,New Lead,0,0,0,0
+L-00388,2026-03-25,Paid Search,C03-PAI,Pricing,Mobile,Germany,8.6,New Lead,0,0,0,0
+L-00389,2026-02-22,Organic Search,C02-ORG,Case Studies,Desktop,United Kingdom,3.5,Opportunity,1,1,0,0
+L-00390,2026-04-27,Organic Search,C04-ORG,Webinar,Desktop,Germany,4.1,Qualified,1,0,0,0
+L-00391,2026-04-28,Organic Search,C04-ORG,Homepage,Desktop,Australia,3.3,Qualified,1,0,0,0
+L-00392,2026-06-28,Organic Search,C06-ORG,Consultation,Desktop,Germany,12.0,New Lead,0,0,0,0
+L-00393,2026-01-18,Paid Search,C01-PAI,Pricing,Desktop,Australia,3.2,New Lead,0,0,0,0
+L-00394,2026-05-10,Referral,C05-REF,Pricing,Desktop,Australia,2.5,Qualified,1,0,0,0
+L-00395,2026-05-23,Partner,C05-PAR,Case Studies,Desktop,Canada,2.6,New Lead,0,0,0,0
+L-00396,2026-04-04,Organic Search,C04-ORG,Consultation,Desktop,Australia,3.2,New Lead,0,0,0,0
+L-00397,2026-01-03,Direct,C01-DIR,Consultation,Desktop,Australia,3.7,Qualified,1,0,0,0
+L-00398,2026-05-31,Partner,C05-PAR,Webinar,Desktop,Canada,1.7,Customer,1,1,1,9755.44
+L-00399,2026-02-26,Organic Search,C02-ORG,Webinar,Desktop,United Kingdom,3.6,Qualified,1,0,0,0
+L-00400,2026-05-20,Paid Search,C05-PAI,Case Studies,Mobile,Australia,5.1,New Lead,0,0,0,0
+L-00401,2026-04-07,Paid Search,C04-PAI,Pricing,Desktop,United States,4.9,New Lead,0,0,0,0
+L-00402,2026-06-03,Paid Search,C06-PAI,Homepage,Mobile,Netherlands,11.9,New Lead,0,0,0,0
+L-00403,2026-04-22,Email,C04-EMA,Homepage,Mobile,Netherlands,6.2,New Lead,0,0,0,0
+L-00404,2026-05-24,Paid Search,C05-PAI,Homepage,Mobile,Canada,5.8,Opportunity,1,1,0,0
+L-00405,2026-02-22,Paid Search,C02-PAI,Homepage,Mobile,United States,10.5,New Lead,0,0,0,0
+L-00406,2026-02-21,Organic Search,C02-ORG,Consultation,Mobile,Germany,8.0,Opportunity,1,1,0,0
+L-00407,2026-04-11,LinkedIn Ads,C04-LIN,Homepage,Desktop,Australia,7.0,New Lead,0,0,0,0
+L-00408,2026-04-30,Paid Search,C04-PAI,Webinar,Desktop,Canada,2.7,New Lead,0,0,0,0
+L-00409,2026-03-30,Referral,C03-REF,Webinar,Desktop,United Kingdom,5.5,New Lead,0,0,0,0
+L-00410,2026-01-30,Organic Search,C01-ORG,Webinar,Desktop,Canada,2.8,New Lead,0,0,0,0
+L-00411,2026-04-02,Referral,C04-REF,Homepage,Desktop,United States,5.9,New Lead,0,0,0,0
+L-00412,2026-01-01,Organic Search,C01-ORG,Homepage,Mobile,Netherlands,6.7,New Lead,0,0,0,0
+L-00413,2026-01-29,Organic Search,C01-ORG,Case Studies,Desktop,Netherlands,77.9,New Lead,0,0,0,0
+L-00414,2026-04-24,Email,C04-EMA,Homepage,Desktop,Australia,1.4,New Lead,0,0,0,0
+L-00415,2026-04-15,Organic Search,C04-ORG,Case Studies,Desktop,Australia,2.8,New Lead,0,0,0,0
+L-00416,2026-05-04,Direct,C05-DIR,Pricing,Desktop,Netherlands,4.7,Qualified,1,0,0,0
+L-00417,2026-06-06,Organic Search,C06-ORG,Webinar,Desktop,Canada,2.5,New Lead,0,0,0,0
+L-00418,2026-03-27,LinkedIn Ads,C03-LIN,Pricing,Mobile,United States,6.7,New Lead,0,0,0,0
+L-00419,2026-03-17,Email,C03-EMA,Pricing,Mobile,Australia,3.4,Opportunity,1,1,0,0
+L-00420,2026-05-08,Paid Search,C05-PAI,Case Studies,Desktop,Netherlands,2.1,Qualified,1,0,0,0
+L-00421,2026-06-11,Organic Search,C06-ORG,Case Studies,Desktop,Netherlands,8.0,New Lead,0,0,0,0
+L-00422,2026-03-28,Direct,C03-DIR,Case Studies,Desktop,Netherlands,1.7,Qualified,1,0,0,0
+L-00423,2026-05-07,Organic Search,C05-ORG,Pricing,Mobile,Germany,6.0,Qualified,1,0,0,0
+L-00424,2026-04-03,Referral,C04-REF,Case Studies,Mobile,Australia,3.7,New Lead,0,0,0,0
+L-00425,2026-05-16,Partner,C05-PAR,Homepage,Desktop,Canada,7.2,New Lead,0,0,0,0
+L-00426,2026-01-21,Paid Search,C01-PAI,Homepage,Mobile,Germany,5.7,New Lead,0,0,0,0
+L-00427,2026-02-10,Organic Search,C02-ORG,Webinar,Desktop,United States,2.0,New Lead,0,0,0,0
+L-00428,2026-04-05,Email,C04-EMA,Homepage,Desktop,Germany,2.3,New Lead,0,0,0,0
+L-00429,2026-02-14,Partner,C02-PAR,Case Studies,Desktop,United Kingdom,2.5,Opportunity,1,1,0,0
+L-00430,2026-01-29,Paid Search,C01-PAI,Consultation,Mobile,Germany,1.9,New Lead,0,0,0,0
+L-00431,2026-03-08,Paid Search,C03-PAI,Case Studies,Desktop,Australia,10.3,New Lead,0,0,0,0
+L-00432,2026-01-18,LinkedIn Ads,C01-LIN,Case Studies,Mobile,United States,3.8,New Lead,0,0,0,0
+L-00433,2026-03-27,Paid Search,C03-PAI,Webinar,Mobile,Germany,2.6,Qualified,1,0,0,0
+L-00434,2026-02-27,Organic Search,C02-ORG,Pricing,Desktop,Canada,4.7,Qualified,1,0,0,0
+L-00435,2026-06-07,Email,C06-EMA,Case Studies,Mobile,Netherlands,3.7,New Lead,0,0,0,0
+L-00436,2026-02-06,Email,C02-EMA,Homepage,Desktop,United Kingdom,8.4,Opportunity,1,1,0,0
+L-00437,2026-04-09,Referral,C04-REF,Webinar,Desktop,United Kingdom,1.4,Qualified,1,0,0,0
+L-00438,2026-02-14,Paid Search,C02-PAI,Pricing,Desktop,Canada,3.9,Opportunity,1,1,0,0
+L-00439,2026-05-01,Paid Search,C05-PAI,Case Studies,Desktop,United States,4.1,Customer,1,1,1,15342.34
+L-00440,2026-06-26,Email,C06-EMA,Homepage,Mobile,Germany,7.5,New Lead,0,0,0,0
+L-00441,2026-06-27,Organic Search,C06-ORG,Consultation,Desktop,Germany,3.9,Qualified,1,0,0,0
+L-00442,2026-02-19,Email,C02-EMA,Consultation,Desktop,United States,6.5,New Lead,0,0,0,0
+L-00443,2026-03-20,Email,C03-EMA,Pricing,Desktop,Canada,4.6,Qualified,1,0,0,0
+L-00444,2026-03-31,Email,C03-EMA,Pricing,Desktop,Netherlands,10.5,New Lead,0,0,0,0
+L-00445,2026-02-22,Paid Search,C02-PAI,Pricing,Desktop,United States,3.9,Opportunity,1,1,0,0
+L-00446,2026-04-23,Referral,C04-REF,Case Studies,Mobile,Australia,5.2,Qualified,1,0,0,0
+L-00447,2026-06-08,Organic Search,C06-ORG,Consultation,Desktop,United States,32.8,New Lead,0,0,0,0
+L-00448,2026-01-16,LinkedIn Ads,C01-LIN,Homepage,Desktop,Germany,4.8,New Lead,0,0,0,0
+L-00449,2026-01-17,Organic Search,C01-ORG,Consultation,Mobile,Canada,3.3,New Lead,0,0,0,0
+L-00450,2026-05-11,LinkedIn Ads,C05-LIN,Pricing,Desktop,United Kingdom,12.1,New Lead,0,0,0,0
+L-00451,2026-02-19,Paid Search,C02-PAI,Pricing,Mobile,Netherlands,1.1,New Lead,0,0,0,0
+L-00452,2026-04-18,Direct,C04-DIR,Webinar,Mobile,Canada,4.1,New Lead,0,0,0,0
+L-00453,2026-02-25,LinkedIn Ads,C02-LIN,Homepage,Desktop,United States,4.5,Opportunity,1,1,0,0
+L-00454,2026-02-11,Organic Search,C02-ORG,Case Studies,Desktop,Netherlands,4.7,Opportunity,1,1,0,0
+L-00455,2026-03-11,Organic Search,C03-ORG,Webinar,Desktop,United Kingdom,16.9,New Lead,0,0,0,0
+L-00456,2026-05-31,Partner,C05-PAR,Homepage,Mobile,Australia,5.2,Opportunity,1,1,0,0
+L-00457,2026-05-31,Paid Search,C05-PAI,Homepage,Desktop,Germany,2.8,New Lead,0,0,0,0
+L-00458,2026-01-13,Organic Search,C01-ORG,Pricing,Desktop,United Kingdom,12.7,Qualified,1,0,0,0
+L-00459,2026-02-23,Referral,C02-REF,Homepage,Mobile,Netherlands,4.8,New Lead,0,0,0,0
+L-00460,2026-03-31,Paid Search,C03-PAI,Pricing,Mobile,Canada,74.9,New Lead,0,0,0,0
+L-00461,2026-01-24,Email,C01-EMA,Webinar,Mobile,Germany,3.4,New Lead,0,0,0,0
+L-00462,2026-03-16,Direct,C03-DIR,Homepage,Desktop,Australia,10.1,Opportunity,1,1,0,0
+L-00463,2026-04-06,Organic Search,C04-ORG,Case Studies,Desktop,United States,3.8,New Lead,0,0,0,0
+L-00464,2026-05-27,Referral,C05-REF,Homepage,Mobile,United Kingdom,4.7,Customer,1,1,1,9494.0
+L-00465,2026-06-11,Email,C06-EMA,Consultation,Mobile,Netherlands,10.3,New Lead,0,0,0,0
+L-00466,2026-04-18,Organic Search,C04-ORG,Case Studies,Mobile,Netherlands,13.0,New Lead,0,0,0,0
+L-00467,2026-04-17,Direct,C04-DIR,Webinar,Mobile,Australia,3.5,Qualified,1,0,0,0
+L-00468,2026-06-08,Direct,C06-DIR,Pricing,Mobile,Netherlands,4.0,Opportunity,1,1,0,0
+L-00469,2026-02-09,Email,C02-EMA,Pricing,Mobile,United Kingdom,4.7,Qualified,1,0,0,0
+L-00470,2026-05-31,Organic Search,C05-ORG,Webinar,Mobile,Canada,22.1,New Lead,0,0,0,0
+L-00471,2026-01-03,LinkedIn Ads,C01-LIN,Homepage,Desktop,United Kingdom,4.1,New Lead,0,0,0,0
+L-00472,2026-06-21,Partner,C06-PAR,Case Studies,Mobile,Germany,6.9,New Lead,0,0,0,0
+L-00473,2026-02-19,Organic Search,C02-ORG,Homepage,Desktop,Australia,4.6,New Lead,0,0,0,0
+L-00474,2026-04-08,Organic Search,C04-ORG,Webinar,Desktop,Canada,5.6,Qualified,1,0,0,0
+L-00475,2026-05-30,LinkedIn Ads,C05-LIN,Consultation,Mobile,Netherlands,34.6,Opportunity,1,1,0,0
+L-00476,2026-04-12,Organic Search,C04-ORG,Pricing,Mobile,Netherlands,2.3,Qualified,1,0,0,0
+L-00477,2026-05-27,LinkedIn Ads,C05-LIN,Pricing,Desktop,Netherlands,20.7,Qualified,1,0,0,0
+L-00478,2026-03-15,Organic Search,C03-ORG,Pricing,Mobile,United Kingdom,2.1,Customer,1,1,1,8205.16
+L-00479,2026-04-02,Organic Search,C04-ORG,Case Studies,Desktop,United States,6.5,Qualified,1,0,0,0
+L-00480,2026-01-17,LinkedIn Ads,C01-LIN,Homepage,Mobile,United Kingdom,11.4,Customer,1,1,1,5706.45
+L-00481,2026-02-04,Paid Search,C02-PAI,Webinar,Tablet,United States,4.6,New Lead,0,0,0,0
+L-00482,2026-06-14,Paid Search,C06-PAI,Consultation,Mobile,United States,10.0,New Lead,0,0,0,0
+L-00483,2026-02-10,Organic Search,C02-ORG,Homepage,Desktop,United States,0.7,New Lead,0,0,0,0
+L-00484,2026-04-11,LinkedIn Ads,C04-LIN,Homepage,Mobile,Netherlands,7.5,New Lead,0,0,0,0
+L-00485,2026-04-28,Direct,C04-DIR,Consultation,Mobile,Canada,4.7,New Lead,0,0,0,0
+L-00486,2026-03-27,Direct,C03-DIR,Consultation,Desktop,Canada,2.8,New Lead,0,0,0,0
+L-00487,2026-02-25,Organic Search,C02-ORG,Pricing,Desktop,Netherlands,1.0,New Lead,0,0,0,0
+L-00488,2026-06-30,Paid Search,C06-PAI,Webinar,Desktop,United Kingdom,23.1,New Lead,0,0,0,0
+L-00489,2026-04-11,Email,C04-EMA,Case Studies,Desktop,United States,3.6,Qualified,1,0,0,0
+L-00490,2026-05-11,Referral,C05-REF,Pricing,Mobile,Netherlands,1.7,New Lead,0,0,0,0
+L-00491,2026-03-24,Organic Search,C03-ORG,Webinar,Desktop,Germany,2.5,Opportunity,1,1,0,0
+L-00492,2026-06-23,Direct,C06-DIR,Pricing,Mobile,Australia,5.1,Qualified,1,0,0,0
+L-00493,2026-05-21,Email,C05-EMA,Pricing,Desktop,Australia,3.1,Qualified,1,0,0,0
+L-00494,2026-01-02,Organic Search,C01-ORG,Homepage,Desktop,Netherlands,4.2,New Lead,0,0,0,0
+L-00495,2026-01-30,Email,C01-EMA,Pricing,Desktop,Australia,11.7,New Lead,0,0,0,0
+L-00496,2026-01-07,Organic Search,C01-ORG,Consultation,Desktop,Canada,5.8,Customer,1,1,1,13690.94
+L-00497,2026-05-12,Paid Search,C05-PAI,Webinar,Mobile,Australia,3.1,New Lead,0,0,0,0
+L-00498,2026-05-11,Organic Search,C05-ORG,Pricing,Mobile,Canada,4.0,Opportunity,1,1,0,0
+L-00499,2026-06-30,Organic Search,C06-ORG,Consultation,Mobile,Canada,8.0,Opportunity,1,1,0,0
+L-00500,2026-01-16,Email,C01-EMA,Pricing,Desktop,Canada,2.5,Opportunity,1,1,0,0
+L-00501,2026-05-20,Organic Search,C05-ORG,Homepage,Mobile,Germany,3.4,Qualified,1,0,0,0
+L-00502,2026-03-23,Email,C03-EMA,Consultation,Desktop,Netherlands,5.8,New Lead,0,0,0,0
+L-00503,2026-06-11,Referral,C06-REF,Homepage,Mobile,Netherlands,3.3,New Lead,0,0,0,0
+L-00504,2026-06-07,Paid Search,C06-PAI,Homepage,Desktop,United Kingdom,26.2,Qualified,1,0,0,0
+L-00505,2026-05-04,LinkedIn Ads,C05-LIN,Homepage,Mobile,United States,7.9,New Lead,0,0,0,0
+L-00506,2026-01-04,Direct,C01-DIR,Pricing,Mobile,Netherlands,3.7,Opportunity,1,1,0,0
+L-00507,2026-01-24,Organic Search,C01-ORG,Case Studies,Desktop,Australia,7.2,New Lead,0,0,0,0
+L-00508,2026-06-20,Organic Search,C06-ORG,Homepage,Desktop,Netherlands,2.9,Opportunity,1,1,0,0
+L-00509,2026-02-08,Organic Search,C02-ORG,Homepage,Desktop,Germany,5.9,Opportunity,1,1,0,0
+L-00510,2026-02-10,Organic Search,C02-ORG,Consultation,Mobile,Australia,12.5,New Lead,0,0,0,0
+L-00511,2026-01-09,Direct,C01-DIR,Webinar,Desktop,United Kingdom,2.3,Qualified,1,0,0,0
+L-00512,2026-01-17,Paid Search,C01-PAI,Consultation,Mobile,Germany,9.5,New Lead,0,0,0,0
+L-00513,2026-01-29,Organic Search,C01-ORG,Homepage,Desktop,United Kingdom,5.3,Qualified,1,0,0,0
+L-00514,2026-04-01,Organic Search,C04-ORG,Pricing,Desktop,United Kingdom,14.5,New Lead,0,0,0,0
+L-00515,2026-05-24,Paid Search,C05-PAI,Pricing,Mobile,Australia,11.5,New Lead,0,0,0,0
+L-00516,2026-06-09,Partner,C06-PAR,Case Studies,Desktop,Canada,2.4,Customer,1,1,1,15100.3
+L-00517,2026-05-26,Organic Search,C05-ORG,Webinar,Mobile,Australia,14.0,New Lead,0,0,0,0
+L-00518,2026-05-21,Organic Search,C05-ORG,Homepage,Mobile,United States,5.6,Opportunity,1,1,0,0
+L-00519,2026-06-18,Paid Search,C06-PAI,Consultation,Desktop,United Kingdom,22.9,New Lead,0,0,0,0
+L-00520,2026-03-20,Referral,C03-REF,Consultation,Mobile,United States,2.0,New Lead,0,0,0,0
+L-00521,2026-05-27,Paid Search,C05-PAI,Consultation,Desktop,Netherlands,2.9,New Lead,0,0,0,0
+L-00522,2026-01-20,Paid Search,C01-PAI,Consultation,Desktop,Australia,1.9,New Lead,0,0,0,0
+L-00523,2026-01-30,Organic Search,C01-ORG,Homepage,Desktop,Germany,4.9,New Lead,0,0,0,0
+L-00524,2026-06-03,Email,C06-EMA,Webinar,Desktop,Australia,5.3,New Lead,0,0,0,0
+L-00525,2026-06-02,Referral,C06-REF,Homepage,Mobile,Australia,8.7,New Lead,0,0,0,0
+L-00526,2026-03-25,Referral,C03-REF,Homepage,Mobile,Australia,4.0,New Lead,0,0,0,0
+L-00527,2026-02-27,Referral,C02-REF,Pricing,Mobile,Australia,4.2,New Lead,0,0,0,0
+L-00528,2026-05-19,LinkedIn Ads,C05-LIN,Pricing,Mobile,United Kingdom,10.0,New Lead,0,0,0,0
+L-00529,2026-01-22,Paid Search,C01-PAI,Homepage,Desktop,Netherlands,17.9,New Lead,0,0,0,0
+L-00530,2026-06-17,LinkedIn Ads,C06-LIN,Webinar,Mobile,United Kingdom,3.6,New Lead,0,0,0,0
+L-00531,2026-03-30,Paid Search,C03-PAI,Case Studies,Desktop,United States,5.1,Customer,1,1,1,10187.95
+L-00532,2026-04-18,Organic Search,C04-ORG,Homepage,Mobile,United Kingdom,14.1,New Lead,0,0,0,0
+L-00533,2026-05-06,Direct,C05-DIR,Consultation,Desktop,Netherlands,11.8,New Lead,0,0,0,0
+L-00534,2026-02-06,Direct,C02-DIR,Case Studies,Mobile,Canada,4.2,New Lead,0,0,0,0
+L-00535,2026-04-11,Organic Search,C04-ORG,Case Studies,Desktop,United Kingdom,5.4,New Lead,0,0,0,0
+L-00536,2026-02-13,Referral,C02-REF,Consultation,Mobile,Canada,5.6,New Lead,0,0,0,0
+L-00537,2026-03-12,Direct,C03-DIR,Homepage,Mobile,Germany,1.9,New Lead,0,0,0,0
+L-00538,2026-01-13,Referral,C01-REF,Webinar,Mobile,United States,1.8,New Lead,0,0,0,0
+L-00539,2026-04-10,Paid Search,C04-PAI,Consultation,Desktop,United Kingdom,5.5,New Lead,0,0,0,0
+L-00540,2026-02-14,LinkedIn Ads,C02-LIN,Homepage,Desktop,Australia,3.0,Opportunity,1,1,0,0
+L-00541,2026-03-27,Email,C03-EMA,Consultation,Mobile,Netherlands,6.4,Opportunity,1,1,0,0
+L-00542,2026-02-12,Organic Search,C02-ORG,Consultation,Desktop,United Kingdom,7.4,Qualified,1,0,0,0
+L-00543,2026-02-25,Paid Search,C02-PAI,Case Studies,Mobile,Netherlands,16.2,New Lead,0,0,0,0
+L-00544,2026-01-13,Organic Search,C01-ORG,Case Studies,Mobile,United Kingdom,9.4,New Lead,0,0,0,0
+L-00545,2026-05-24,LinkedIn Ads,C05-LIN,Webinar,Mobile,United Kingdom,5.0,New Lead,0,0,0,0
+L-00546,2026-02-28,Referral,C02-REF,Webinar,Mobile,Australia,4.8,Qualified,1,0,0,0
+L-00547,2026-01-14,Direct,C01-DIR,Pricing,Desktop,United States,1.8,New Lead,0,0,0,0
+L-00548,2026-03-15,Direct,C03-DIR,Case Studies,Tablet,United States,4.2,New Lead,0,0,0,0
+L-00549,2026-04-23,Organic Search,C04-ORG,Webinar,Desktop,United Kingdom,2.1,New Lead,0,0,0,0
+L-00550,2026-01-07,Direct,C01-DIR,Consultation,Mobile,United Kingdom,8.7,New Lead,0,0,0,0
+L-00551,2026-01-07,Referral,C01-REF,Homepage,Desktop,Netherlands,8.4,New Lead,0,0,0,0
+L-00552,2026-05-10,Paid Search,C05-PAI,Webinar,Mobile,United Kingdom,6.7,New Lead,0,0,0,0
+L-00553,2026-03-08,Organic Search,C03-ORG,Webinar,Desktop,Canada,15.9,New Lead,0,0,0,0
+L-00554,2026-06-05,Referral,C06-REF,Homepage,Tablet,Netherlands,5.6,Opportunity,1,1,0,0
+L-00555,2026-05-02,Paid Search,C05-PAI,Webinar,Mobile,Netherlands,2.2,Qualified,1,0,0,0
+L-00556,2026-04-26,LinkedIn Ads,C04-LIN,Consultation,Mobile,Netherlands,2.1,Customer,1,1,1,14253.2
+L-00557,2026-03-15,Organic Search,C03-ORG,Case Studies,Mobile,United States,12.8,Opportunity,1,1,0,0
+L-00558,2026-01-19,LinkedIn Ads,C01-LIN,Homepage,Mobile,United Kingdom,1.8,Opportunity,1,1,0,0
+L-00559,2026-02-11,Email,C02-EMA,Webinar,Mobile,Germany,6.3,Qualified,1,0,0,0
+L-00560,2026-05-15,Direct,C05-DIR,Case Studies,Desktop,Australia,6.8,New Lead,0,0,0,0
+L-00561,2026-05-27,Direct,C05-DIR,Case Studies,Mobile,United Kingdom,4.7,Qualified,1,0,0,0
+L-00562,2026-03-05,Organic Search,C03-ORG,Consultation,Desktop,Canada,2.3,Customer,1,1,1,11653.22
+L-00563,2026-06-27,Referral,C06-REF,Homepage,Desktop,Canada,3.4,Customer,1,1,1,15863.26
+L-00564,2026-04-27,Organic Search,C04-ORG,Case Studies,Mobile,Australia,3.3,Qualified,1,0,0,0
+L-00565,2026-02-26,Paid Search,C02-PAI,Consultation,Desktop,Germany,8.9,Qualified,1,0,0,0
+L-00566,2026-06-05,Organic Search,C06-ORG,Homepage,Mobile,United States,1.9,New Lead,0,0,0,0
+L-00567,2026-03-26,Paid Search,C03-PAI,Case Studies,Mobile,Germany,4.0,Customer,1,1,1,14069.93
+L-00568,2026-02-09,Paid Search,C02-PAI,Pricing,Mobile,United States,4.0,Opportunity,1,1,0,0
+L-00569,2026-05-20,Paid Search,C05-PAI,Consultation,Desktop,Australia,9.0,Qualified,1,0,0,0
+L-00570,2026-01-18,Referral,C01-REF,Homepage,Desktop,United Kingdom,2.6,New Lead,0,0,0,0
+L-00571,2026-01-13,Direct,C01-DIR,Pricing,Desktop,United States,5.7,New Lead,0,0,0,0
+L-00572,2026-05-11,Partner,C05-PAR,Pricing,Desktop,Germany,3.3,Opportunity,1,1,0,0
+L-00573,2026-01-30,Direct,C01-DIR,Homepage,Desktop,Netherlands,2.6,New Lead,0,0,0,0
+L-00574,2026-06-04,Paid Search,C06-PAI,Case Studies,Mobile,United Kingdom,6.1,New Lead,0,0,0,0
+L-00575,2026-01-22,Paid Search,C01-PAI,Pricing,Mobile,Australia,15.7,New Lead,0,0,0,0
+L-00576,2026-04-17,Organic Search,C04-ORG,Consultation,Mobile,Australia,4.7,Qualified,1,0,0,0
+L-00577,2026-04-15,Organic Search,C04-ORG,Consultation,Desktop,Canada,8.7,Qualified,1,0,0,0
+L-00578,2026-05-31,Referral,C05-REF,Case Studies,Desktop,Australia,3.3,Qualified,1,0,0,0
+L-00579,2026-06-11,Paid Search,C06-PAI,Webinar,Mobile,Netherlands,1.9,New Lead,0,0,0,0
+L-00580,2026-03-09,Direct,C03-DIR,Case Studies,Mobile,United Kingdom,1.7,Opportunity,1,1,0,0
+L-00581,2026-06-04,Organic Search,C06-ORG,Webinar,Desktop,Netherlands,10.3,New Lead,0,0,0,0
+L-00582,2026-05-26,Paid Search,C05-PAI,Case Studies,Desktop,United States,12.0,New Lead,0,0,0,0
+L-00583,2026-05-26,Referral,C05-REF,Pricing,Mobile,Netherlands,8.9,Qualified,1,0,0,0
+L-00584,2026-03-17,Organic Search,C03-ORG,Webinar,Mobile,United States,1.9,New Lead,0,0,0,0
+L-00585,2026-03-16,Email,C03-EMA,Pricing,Desktop,Australia,7.6,Opportunity,1,1,0,0
+L-00586,2026-04-17,Referral,C04-REF,Pricing,Desktop,Canada,17.0,Qualified,1,0,0,0
+L-00587,2026-03-15,Paid Search,C03-PAI,Case Studies,Desktop,Australia,8.4,Qualified,1,0,0,0
+L-00588,2026-05-31,Partner,C05-PAR,Consultation,Desktop,United States,5.7,Qualified,1,0,0,0
+L-00589,2026-05-09,LinkedIn Ads,C05-LIN,Consultation,Desktop,Australia,2.1,Qualified,1,0,0,0
+L-00590,2026-03-20,Partner,C03-PAR,Consultation,Mobile,Netherlands,2.3,New Lead,0,0,0,0
+L-00591,2026-01-24,Referral,C01-REF,Case Studies,Mobile,Canada,1.1,New Lead,0,0,0,0
+L-00592,2026-01-19,Organic Search,C01-ORG,Homepage,Desktop,United Kingdom,6.6,New Lead,0,0,0,0
+L-00593,2026-01-23,Direct,C01-DIR,Pricing,Desktop,Germany,4.1,Qualified,1,0,0,0
+L-00594,2026-04-08,Organic Search,C04-ORG,Homepage,Desktop,Canada,9.2,New Lead,0,0,0,0
+L-00595,2026-05-10,Paid Search,C05-PAI,Case Studies,Mobile,Australia,20.7,New Lead,0,0,0,0
+L-00596,2026-05-14,Referral,C05-REF,Webinar,Desktop,United Kingdom,3.3,New Lead,0,0,0,0
+L-00597,2026-03-27,Organic Search,C03-ORG,Case Studies,Desktop,Germany,4.1,New Lead,0,0,0,0
+L-00598,2026-03-01,Direct,C03-DIR,Case Studies,Mobile,Canada,2.6,New Lead,0,0,0,0
+L-00599,2026-04-24,Paid Search,C04-PAI,Consultation,Desktop,United Kingdom,5.1,New Lead,0,0,0,0
+L-00600,2026-05-08,Paid Search,C05-PAI,Case Studies,Mobile,United Kingdom,3.4,Customer,1,1,1,13509.29
+L-00601,2026-03-14,Referral,C03-REF,Consultation,Mobile,United Kingdom,3.5,Customer,1,1,1,12608.08
+L-00602,2026-01-29,Organic Search,C01-ORG,Consultation,Mobile,Australia,4.0,New Lead,0,0,0,0
+L-00603,2026-05-19,Organic Search,C05-ORG,Homepage,Desktop,United States,19.7,New Lead,0,0,0,0
+L-00604,2026-06-18,Organic Search,C06-ORG,Webinar,Desktop,Australia,1.3,New Lead,0,0,0,0
+L-00605,2026-01-03,Organic Search,C01-ORG,Consultation,Mobile,Australia,7.7,New Lead,0,0,0,0
+L-00606,2026-04-21,Referral,C04-REF,Case Studies,Desktop,Australia,7.2,Customer,1,1,1,16177.18
+L-00607,2026-06-10,Partner,C06-PAR,Homepage,Mobile,United States,9.3,New Lead,0,0,0,0
+L-00608,2026-01-19,Referral,C01-REF,Case Studies,Mobile,Australia,1.3,New Lead,0,0,0,0
+L-00609,2026-04-15,Organic Search,C04-ORG,Case Studies,Desktop,United Kingdom,14.1,New Lead,0,0,0,0
+L-00610,2026-04-16,Referral,C04-REF,Homepage,Desktop,Germany,7.1,New Lead,0,0,0,0
+L-00611,2026-06-27,Direct,C06-DIR,Case Studies,Desktop,Canada,1.5,New Lead,0,0,0,0
+L-00612,2026-06-20,Direct,C06-DIR,Homepage,Desktop,Australia,7.1,New Lead,0,0,0,0
+L-00613,2026-02-12,Direct,C02-DIR,Homepage,Tablet,Netherlands,2.8,Qualified,1,0,0,0
+L-00614,2026-03-09,Organic Search,C03-ORG,Case Studies,Desktop,United Kingdom,7.2,New Lead,0,0,0,0
+L-00615,2026-04-20,LinkedIn Ads,C04-LIN,Case Studies,Desktop,Canada,0.8,New Lead,0,0,0,0
+L-00616,2026-03-20,Email,C03-EMA,Consultation,Desktop,Germany,14.0,New Lead,0,0,0,0
+L-00617,2026-06-13,Organic Search,C06-ORG,Case Studies,Mobile,Australia,9.0,New Lead,0,0,0,0
+L-00618,2026-02-17,Paid Search,C02-PAI,Pricing,Desktop,Germany,1.6,New Lead,0,0,0,0
+L-00619,2026-03-10,Organic Search,C03-ORG,Case Studies,Desktop,Canada,5.2,New Lead,0,0,0,0
+L-00620,2026-03-28,Partner,C03-PAR,Webinar,Mobile,Canada,4.0,Customer,1,1,1,8572.27
+L-00621,2026-03-16,Direct,C03-DIR,Pricing,Mobile,United Kingdom,1.2,New Lead,0,0,0,0
+L-00622,2026-01-04,Referral,C01-REF,Case Studies,Desktop,Netherlands,5.4,New Lead,0,0,0,0
+L-00623,2026-06-06,Paid Search,C06-PAI,Consultation,Tablet,Germany,3.4,Opportunity,1,1,0,0
+L-00624,2026-03-10,Email,C03-EMA,Pricing,Desktop,United States,6.3,New Lead,0,0,0,0
+L-00625,2026-01-11,Email,C01-EMA,Pricing,Mobile,Germany,6.7,Qualified,1,0,0,0
+L-00626,2026-05-26,Organic Search,C05-ORG,Case Studies,Desktop,Australia,6.4,New Lead,0,0,0,0
+L-00627,2026-03-08,Paid Search,C03-PAI,Consultation,Mobile,Netherlands,5.8,New Lead,0,0,0,0
+L-00628,2026-06-07,Organic Search,C06-ORG,Homepage,Mobile,Canada,6.6,New Lead,0,0,0,0
+L-00629,2026-03-29,Organic Search,C03-ORG,Consultation,Desktop,Canada,3.7,New Lead,0,0,0,0
+L-00630,2026-06-04,Paid Search,C06-PAI,Case Studies,Mobile,Netherlands,1.8,Qualified,1,0,0,0
+L-00631,2026-02-08,Email,C02-EMA,Consultation,Desktop,Canada,15.1,Customer,1,1,1,8640.1
+L-00632,2026-04-18,Paid Search,C04-PAI,Homepage,Mobile,United Kingdom,3.2,New Lead,0,0,0,0
+L-00633,2026-01-27,LinkedIn Ads,C01-LIN,Homepage,Mobile,United Kingdom,2.2,New Lead,0,0,0,0
+L-00634,2026-04-01,Direct,C04-DIR,Case Studies,Desktop,United States,6.8,New Lead,0,0,0,0
+L-00635,2026-04-05,Organic Search,C04-ORG,Webinar,Desktop,United Kingdom,1.4,Qualified,1,0,0,0
+L-00636,2026-02-18,Organic Search,C02-ORG,Homepage,Desktop,United Kingdom,15.6,New Lead,0,0,0,0
+L-00637,2026-03-16,Organic Search,C03-ORG,Pricing,Mobile,Canada,3.7,New Lead,0,0,0,0
+L-00638,2026-05-31,Organic Search,C05-ORG,Case Studies,Desktop,Germany,3.2,New Lead,0,0,0,0
+L-00639,2026-04-11,Partner,C04-PAR,Consultation,Desktop,United Kingdom,6.2,New Lead,0,0,0,0
+L-00640,2026-01-16,Organic Search,C01-ORG,Consultation,Mobile,United States,5.4,New Lead,0,0,0,0
+L-00641,2026-01-28,Paid Search,C01-PAI,Consultation,Mobile,United States,9.8,Qualified,1,0,0,0
+L-00642,2026-01-08,Paid Search,C01-PAI,Webinar,Desktop,United Kingdom,3.5,New Lead,0,0,0,0
+L-00643,2026-01-03,Organic Search,C01-ORG,Pricing,Desktop,Germany,2.5,New Lead,0,0,0,0
+L-00644,2026-05-23,Paid Search,C05-PAI,Pricing,Desktop,United States,3.8,Qualified,1,0,0,0
+L-00645,2026-04-23,LinkedIn Ads,C04-LIN,Pricing,Mobile,Australia,10.7,Customer,1,1,1,8749.12
+L-00646,2026-01-23,Paid Search,C01-PAI,Pricing,Mobile,Netherlands,1.8,Customer,1,1,1,8216.2
+L-00647,2026-04-27,Referral,C04-REF,Homepage,Mobile,United States,3.3,New Lead,0,0,0,0
+L-00648,2026-04-15,Organic Search,C04-ORG,Homepage,Tablet,Canada,1.8,New Lead,0,0,0,0
+L-00649,2026-04-03,Organic Search,C04-ORG,Pricing,Desktop,Germany,1.4,Opportunity,1,1,0,0
+L-00650,2026-01-06,Organic Search,C01-ORG,Case Studies,Desktop,Netherlands,7.2,Opportunity,1,1,0,0
+L-00651,2026-05-20,Organic Search,C05-ORG,Webinar,Desktop,United Kingdom,2.3,New Lead,0,0,0,0
+L-00652,2026-02-03,Email,C02-EMA,Case Studies,Desktop,Germany,4.4,New Lead,0,0,0,0
+L-00653,2026-02-12,Direct,C02-DIR,Pricing,Desktop,Australia,2.2,Qualified,1,0,0,0
+L-00654,2026-06-06,Direct,C06-DIR,Webinar,Desktop,Netherlands,13.6,New Lead,0,0,0,0
+L-00655,2026-05-05,Organic Search,C05-ORG,Webinar,Desktop,Canada,5.4,New Lead,0,0,0,0
+L-00656,2026-04-12,Paid Search,C04-PAI,Consultation,Mobile,United States,1.8,New Lead,0,0,0,0
+L-00657,2026-02-26,Partner,C02-PAR,Homepage,Mobile,Australia,3.1,Customer,1,1,1,13874.66
+L-00658,2026-04-12,Paid Search,C04-PAI,Webinar,Tablet,Australia,2.6,New Lead,0,0,0,0
+L-00659,2026-04-08,LinkedIn Ads,C04-LIN,Case Studies,Desktop,United States,1.6,New Lead,0,0,0,0
+L-00660,2026-05-01,Organic Search,C05-ORG,Homepage,Mobile,Netherlands,4.5,New Lead,0,0,0,0
+L-00661,2026-01-19,Direct,C01-DIR,Webinar,Desktop,Canada,16.7,Qualified,1,0,0,0
+L-00662,2026-01-22,Organic Search,C01-ORG,Webinar,Desktop,Germany,2.8,New Lead,0,0,0,0
+L-00663,2026-05-19,Paid Search,C05-PAI,Pricing,Mobile,Netherlands,5.1,Opportunity,1,1,0,0
+L-00664,2026-04-26,Paid Search,C04-PAI,Homepage,Tablet,Canada,5.2,New Lead,0,0,0,0
+L-00665,2026-01-29,Direct,C01-DIR,Consultation,Desktop,Australia,2.4,Qualified,1,0,0,0
+L-00666,2026-03-17,Referral,C03-REF,Case Studies,Desktop,United Kingdom,13.6,Opportunity,1,1,0,0
+L-00667,2026-05-24,Organic Search,C05-ORG,Consultation,Tablet,Netherlands,2.5,New Lead,0,0,0,0
+L-00668,2026-03-12,Paid Search,C03-PAI,Consultation,Mobile,Netherlands,4.4,Opportunity,1,1,0,0
+L-00669,2026-01-25,Email,C01-EMA,Pricing,Desktop,Germany,15.6,Qualified,1,0,0,0
+L-00670,2026-02-11,LinkedIn Ads,C02-LIN,Consultation,Mobile,Australia,11.3,New Lead,0,0,0,0
+L-00671,2026-03-26,Partner,C03-PAR,Homepage,Mobile,Netherlands,3.6,Qualified,1,0,0,0
+L-00672,2026-06-15,Paid Search,C06-PAI,Webinar,Desktop,Netherlands,9.0,New Lead,0,0,0,0
+L-00673,2026-02-03,Direct,C02-DIR,Webinar,Desktop,United States,4.0,New Lead,0,0,0,0
+L-00674,2026-02-16,Referral,C02-REF,Pricing,Desktop,United Kingdom,8.4,New Lead,0,0,0,0
+L-00675,2026-06-25,Referral,C06-REF,Consultation,Desktop,Germany,7.8,Qualified,1,0,0,0
+L-00676,2026-02-16,LinkedIn Ads,C02-LIN,Pricing,Desktop,Germany,4.2,New Lead,0,0,0,0
+L-00677,2026-03-02,Paid Search,C03-PAI,Homepage,Desktop,Canada,5.2,Qualified,1,0,0,0
+L-00678,2026-03-02,LinkedIn Ads,C03-LIN,Webinar,Desktop,United Kingdom,7.8,New Lead,0,0,0,0
+L-00679,2026-01-06,Organic Search,C01-ORG,Consultation,Desktop,United States,0.6,Customer,1,1,1,14555.29
+L-00680,2026-04-17,Organic Search,C04-ORG,Homepage,Mobile,Netherlands,6.1,New Lead,0,0,0,0
+L-00681,2026-06-12,Organic Search,C06-ORG,Homepage,Desktop,Germany,2.3,New Lead,0,0,0,0
+L-00682,2026-01-11,Organic Search,C01-ORG,Webinar,Mobile,Canada,7.1,New Lead,0,0,0,0
+L-00683,2026-01-17,Paid Search,C01-PAI,Case Studies,Mobile,United States,3.7,Opportunity,1,1,0,0
+L-00684,2026-05-01,Organic Search,C05-ORG,Consultation,Mobile,Canada,2.2,New Lead,0,0,0,0
+L-00685,2026-04-24,Referral,C04-REF,Homepage,Desktop,United Kingdom,7.5,Qualified,1,0,0,0
+L-00686,2026-03-19,Partner,C03-PAR,Consultation,Mobile,Germany,5.9,New Lead,0,0,0,0
+L-00687,2026-03-27,LinkedIn Ads,C03-LIN,Homepage,Mobile,Netherlands,12.8,New Lead,0,0,0,0
+L-00688,2026-01-29,Direct,C01-DIR,Pricing,Desktop,Canada,3.1,New Lead,0,0,0,0
+L-00689,2026-05-28,Partner,C05-PAR,Pricing,Mobile,United States,1.6,New Lead,0,0,0,0
+L-00690,2026-01-09,Referral,C01-REF,Consultation,Mobile,United Kingdom,10.7,New Lead,0,0,0,0
+L-00691,2026-06-09,Organic Search,C06-ORG,Webinar,Mobile,United Kingdom,4.1,New Lead,0,0,0,0
+L-00692,2026-06-07,Organic Search,C06-ORG,Case Studies,Desktop,Australia,35.6,New Lead,0,0,0,0
+L-00693,2026-01-18,Organic Search,C01-ORG,Homepage,Desktop,United States,3.1,New Lead,0,0,0,0
+L-00694,2026-04-12,Organic Search,C04-ORG,Webinar,Mobile,Australia,5.1,New Lead,0,0,0,0
+L-00695,2026-03-27,Referral,C03-REF,Case Studies,Desktop,Germany,1.7,Customer,1,1,1,13836.68
+L-00696,2026-02-07,Referral,C02-REF,Pricing,Desktop,Australia,10.7,New Lead,0,0,0,0
+L-00697,2026-03-11,Paid Search,C03-PAI,Case Studies,Desktop,United States,6.5,Opportunity,1,1,0,0
+L-00698,2026-04-25,LinkedIn Ads,C04-LIN,Case Studies,Desktop,Germany,3.7,New Lead,0,0,0,0
+L-00699,2026-05-05,Email,C05-EMA,Case Studies,Desktop,United States,13.2,New Lead,0,0,0,0
+L-00700,2026-03-08,Direct,C03-DIR,Homepage,Mobile,United Kingdom,4.0,New Lead,0,0,0,0
+L-00701,2026-03-07,Email,C03-EMA,Case Studies,Tablet,United Kingdom,1.7,Opportunity,1,1,0,0
+L-00702,2026-04-24,Paid Search,C04-PAI,Consultation,Desktop,Germany,12.6,New Lead,0,0,0,0
+L-00703,2026-03-27,LinkedIn Ads,C03-LIN,Pricing,Desktop,Australia,2.0,New Lead,0,0,0,0
+L-00704,2026-03-26,Paid Search,C03-PAI,Homepage,Desktop,Australia,2.6,New Lead,0,0,0,0
+L-00705,2026-06-25,Organic Search,C06-ORG,Case Studies,Mobile,Australia,5.4,New Lead,0,0,0,0
+L-00706,2026-04-27,Paid Search,C04-PAI,Pricing,Mobile,Canada,2.9,New Lead,0,0,0,0
+L-00707,2026-03-25,Paid Search,C03-PAI,Consultation,Mobile,Netherlands,4.2,Opportunity,1,1,0,0
+L-00708,2026-05-21,LinkedIn Ads,C05-LIN,Homepage,Tablet,United Kingdom,5.1,New Lead,0,0,0,0
+L-00709,2026-01-04,Paid Search,C01-PAI,Pricing,Desktop,Australia,7.5,Qualified,1,0,0,0
+L-00710,2026-05-15,Referral,C05-REF,Case Studies,Desktop,Canada,7.6,Qualified,1,0,0,0
+L-00711,2026-02-14,Organic Search,C02-ORG,Webinar,Desktop,Australia,19.9,Qualified,1,0,0,0
+L-00712,2026-01-02,Email,C01-EMA,Homepage,Mobile,Germany,5.5,Qualified,1,0,0,0
+L-00713,2026-05-12,Partner,C05-PAR,Case Studies,Desktop,Canada,2.2,Qualified,1,0,0,0
+L-00714,2026-03-13,Paid Search,C03-PAI,Webinar,Mobile,Australia,2.7,New Lead,0,0,0,0
+L-00715,2026-04-01,LinkedIn Ads,C04-LIN,Pricing,Desktop,United Kingdom,2.2,Qualified,1,0,0,0
+L-00716,2026-03-21,Organic Search,C03-ORG,Consultation,Mobile,Canada,7.0,New Lead,0,0,0,0
+L-00717,2026-05-31,LinkedIn Ads,C05-LIN,Homepage,Desktop,Canada,7.0,Qualified,1,0,0,0
+L-00718,2026-05-26,LinkedIn Ads,C05-LIN,Webinar,Mobile,United Kingdom,3.9,Qualified,1,0,0,0
+L-00719,2026-06-14,Organic Search,C06-ORG,Case Studies,Desktop,United Kingdom,2.5,Qualified,1,0,0,0
+L-00720,2026-02-06,Email,C02-EMA,Case Studies,Mobile,United Kingdom,6.7,Customer,1,1,1,15131.6
+L-00721,2026-04-24,Organic Search,C04-ORG,Homepage,Mobile,United States,5.0,New Lead,0,0,0,0
+L-00722,2026-01-15,LinkedIn Ads,C01-LIN,Consultation,Desktop,Canada,4.5,New Lead,0,0,0,0
+L-00723,2026-06-20,LinkedIn Ads,C06-LIN,Pricing,Desktop,Canada,5.8,New Lead,0,0,0,0
+L-00724,2026-02-08,Organic Search,C02-ORG,Homepage,Mobile,Canada,8.9,Qualified,1,0,0,0
+L-00725,2026-04-30,Organic Search,C04-ORG,Homepage,Mobile,Netherlands,6.1,Qualified,1,0,0,0
+L-00726,2026-05-08,Email,C05-EMA,Webinar,Mobile,Germany,7.5,New Lead,0,0,0,0
+L-00727,2026-03-21,Paid Search,C03-PAI,Webinar,Mobile,United States,9.1,Opportunity,1,1,0,0
+L-00728,2026-03-14,Organic Search,C03-ORG,Webinar,Desktop,United Kingdom,3.2,New Lead,0,0,0,0
+L-00729,2026-06-19,Direct,C06-DIR,Consultation,Mobile,Netherlands,2.1,New Lead,0,0,0,0
+L-00730,2026-02-03,Paid Search,C02-PAI,Case Studies,Mobile,Australia,22.2,New Lead,0,0,0,0
+L-00731,2026-03-12,Paid Search,C03-PAI,Consultation,Desktop,Australia,2.2,Opportunity,1,1,0,0
+L-00732,2026-06-04,Organic Search,C06-ORG,Consultation,Mobile,Canada,22.7,New Lead,0,0,0,0
+L-00733,2026-06-04,Partner,C06-PAR,Consultation,Desktop,United States,3.5,Qualified,1,0,0,0
+L-00734,2026-01-29,Paid Search,C01-PAI,Pricing,Mobile,United Kingdom,4.9,Opportunity,1,1,0,0
+L-00735,2026-01-28,LinkedIn Ads,C01-LIN,Pricing,Desktop,United Kingdom,2.7,New Lead,0,0,0,0
+L-00736,2026-02-05,Paid Search,C02-PAI,Webinar,Desktop,United Kingdom,4.4,New Lead,0,0,0,0
+L-00737,2026-06-25,LinkedIn Ads,C06-LIN,Homepage,Mobile,United Kingdom,3.1,New Lead,0,0,0,0
+L-00738,2026-02-15,LinkedIn Ads,C02-LIN,Webinar,Mobile,Australia,2.5,New Lead,0,0,0,0
+L-00739,2026-05-20,Partner,C05-PAR,Homepage,Desktop,United Kingdom,5.0,Qualified,1,0,0,0
+L-00740,2026-04-30,Email,C04-EMA,Pricing,Tablet,Canada,4.7,Customer,1,1,1,8013.61
+L-00741,2026-01-25,Paid Search,C01-PAI,Pricing,Mobile,United States,2.4,Qualified,1,0,0,0
+L-00742,2026-01-11,Referral,C01-REF,Consultation,Desktop,United Kingdom,5.7,Qualified,1,0,0,0
+L-00743,2026-01-12,Email,C01-EMA,Case Studies,Tablet,Netherlands,3.7,Qualified,1,0,0,0
+L-00744,2026-04-26,Partner,C04-PAR,Consultation,Tablet,Netherlands,7.3,Opportunity,1,1,0,0
+L-00745,2026-06-27,Email,C06-EMA,Pricing,Desktop,Germany,6.2,New Lead,0,0,0,0
+L-00746,2026-06-21,Partner,C06-PAR,Homepage,Mobile,Canada,0.9,New Lead,0,0,0,0
+L-00747,2026-02-28,Direct,C02-DIR,Homepage,Mobile,Netherlands,25.1,New Lead,0,0,0,0
+L-00748,2026-05-03,LinkedIn Ads,C05-LIN,Consultation,Desktop,Australia,13.2,Qualified,1,0,0,0
+L-00749,2026-06-19,Referral,C06-REF,Consultation,Desktop,Netherlands,3.4,Qualified,1,0,0,0
+L-00750,2026-01-06,Referral,C01-REF,Homepage,Mobile,United States,3.8,Customer,1,1,1,15322.87
+L-00751,2026-01-25,Organic Search,C01-ORG,Pricing,Mobile,Germany,17.7,New Lead,0,0,0,0
+L-00752,2026-05-01,Paid Search,C05-PAI,Homepage,Desktop,Australia,1.9,New Lead,0,0,0,0
+L-00753,2026-02-22,LinkedIn Ads,C02-LIN,Webinar,Mobile,Canada,9.9,New Lead,0,0,0,0
+L-00754,2026-05-04,Referral,C05-REF,Pricing,Desktop,Australia,15.7,Qualified,1,0,0,0
+L-00755,2026-06-01,Partner,C06-PAR,Pricing,Desktop,Germany,7.3,Qualified,1,0,0,0
+L-00756,2026-05-10,Organic Search,C05-ORG,Webinar,Mobile,Germany,10.7,New Lead,0,0,0,0
+L-00757,2026-03-18,Organic Search,C03-ORG,Pricing,Desktop,United Kingdom,1.9,Qualified,1,0,0,0
+L-00758,2026-06-13,LinkedIn Ads,C06-LIN,Homepage,Desktop,Australia,9.5,New Lead,0,0,0,0
+L-00759,2026-05-25,Partner,C05-PAR,Pricing,Desktop,Netherlands,10.3,Qualified,1,0,0,0
+L-00760,2026-04-03,Organic Search,C04-ORG,Case Studies,Desktop,Australia,3.7,Opportunity,1,1,0,0
+L-00761,2026-03-15,LinkedIn Ads,C03-LIN,Consultation,Desktop,Australia,13.8,Customer,1,1,1,12560.36
+L-00762,2026-03-26,LinkedIn Ads,C03-LIN,Webinar,Desktop,United Kingdom,2.0,New Lead,0,0,0,0
+L-00763,2026-05-07,Organic Search,C05-ORG,Homepage,Mobile,Netherlands,4.3,New Lead,0,0,0,0
+L-00764,2026-03-02,Paid Search,C03-PAI,Case Studies,Desktop,United States,5.6,Qualified,1,0,0,0
+L-00765,2026-01-15,Paid Search,C01-PAI,Pricing,Mobile,Canada,4.3,New Lead,0,0,0,0
+L-00766,2026-01-03,Organic Search,C01-ORG,Consultation,Desktop,Netherlands,6.6,Opportunity,1,1,0,0
+L-00767,2026-02-04,Paid Search,C02-PAI,Pricing,Desktop,United States,10.1,Qualified,1,0,0,0
+L-00768,2026-02-14,Paid Search,C02-PAI,Pricing,Mobile,Netherlands,5.7,New Lead,0,0,0,0
+L-00769,2026-06-13,Email,C06-EMA,Pricing,Mobile,Germany,3.5,New Lead,0,0,0,0
+L-00770,2026-02-15,Direct,C02-DIR,Case Studies,Desktop,Canada,4.8,New Lead,0,0,0,0
+L-00771,2026-04-29,Partner,C04-PAR,Consultation,Desktop,Germany,7.2,Qualified,1,0,0,0
+L-00772,2026-02-09,Email,C02-EMA,Pricing,Desktop,Netherlands,8.8,Customer,1,1,1,7312.81
+L-00773,2026-05-20,Partner,C05-PAR,Homepage,Mobile,Netherlands,0.9,New Lead,0,0,0,0
+L-00774,2026-06-29,Paid Search,C06-PAI,Consultation,Desktop,Netherlands,1.3,Qualified,1,0,0,0
+L-00775,2026-06-23,Email,C06-EMA,Pricing,Desktop,Germany,12.8,Opportunity,1,1,0,0
+L-00776,2026-04-02,Organic Search,C04-ORG,Consultation,Desktop,Canada,4.3,New Lead,0,0,0,0
+L-00777,2026-04-16,Paid Search,C04-PAI,Case Studies,Mobile,Germany,5.0,Qualified,1,0,0,0
+L-00778,2026-01-08,LinkedIn Ads,C01-LIN,Case Studies,Mobile,Canada,5.0,New Lead,0,0,0,0
+L-00779,2026-01-14,Referral,C01-REF,Pricing,Desktop,Canada,7.4,Opportunity,1,1,0,0
+L-00780,2026-03-27,LinkedIn Ads,C03-LIN,Webinar,Mobile,United States,6.0,Qualified,1,0,0,0
+L-00781,2026-04-06,Partner,C04-PAR,Homepage,Desktop,Germany,5.5,New Lead,0,0,0,0
+L-00782,2026-02-05,Direct,C02-DIR,Consultation,Mobile,Netherlands,1.6,New Lead,0,0,0,0
+L-00783,2026-03-26,Paid Search,C03-PAI,Webinar,Desktop,Australia,8.8,New Lead,0,0,0,0
+L-00784,2026-01-06,LinkedIn Ads,C01-LIN,Homepage,Mobile,United States,2.5,New Lead,0,0,0,0
+L-00785,2026-04-29,Direct,C04-DIR,Consultation,Mobile,Australia,10.7,New Lead,0,0,0,0
+L-00786,2026-03-25,Email,C03-EMA,Homepage,Desktop,Germany,8.7,New Lead,0,0,0,0
+L-00787,2026-05-22,Partner,C05-PAR,Consultation,Desktop,United States,10.1,Customer,1,1,1,11905.22
+L-00788,2026-05-29,Referral,C05-REF,Homepage,Mobile,United States,6.5,New Lead,0,0,0,0
+L-00789,2026-03-21,LinkedIn Ads,C03-LIN,Consultation,Desktop,Germany,3.8,New Lead,0,0,0,0
+L-00790,2026-02-15,Email,C02-EMA,Webinar,Mobile,Canada,3.9,New Lead,0,0,0,0
+L-00791,2026-06-02,LinkedIn Ads,C06-LIN,Pricing,Mobile,Netherlands,7.9,New Lead,0,0,0,0
+L-00792,2026-04-24,Referral,C04-REF,Homepage,Mobile,Germany,10.2,New Lead,0,0,0,0
+L-00793,2026-01-26,Organic Search,C01-ORG,Homepage,Mobile,United States,11.3,Qualified,1,0,0,0
+L-00794,2026-04-17,Paid Search,C04-PAI,Homepage,Desktop,United States,2.5,New Lead,0,0,0,0
+L-00795,2026-05-04,Direct,C05-DIR,Case Studies,Desktop,Germany,6.2,Customer,1,1,1,6443.78
+L-00796,2026-05-11,Organic Search,C05-ORG,Webinar,Mobile,Germany,5.5,New Lead,0,0,0,0
+L-00797,2026-06-10,Email,C06-EMA,Homepage,Mobile,Australia,7.4,New Lead,0,0,0,0
+L-00798,2026-05-27,Paid Search,C05-PAI,Consultation,Mobile,United States,2.6,New Lead,0,0,0,0
+L-00799,2026-06-07,Referral,C06-REF,Homepage,Mobile,Netherlands,3.9,Customer,1,1,1,10420.69
+L-00800,2026-03-22,Partner,C03-PAR,Consultation,Desktop,Canada,3.6,Opportunity,1,1,0,0
+L-00801,2026-04-13,LinkedIn Ads,C04-LIN,Consultation,Mobile,Germany,3.1,New Lead,0,0,0,0
+L-00802,2026-01-16,Direct,C01-DIR,Pricing,Desktop,Canada,4.9,Opportunity,1,1,0,0
+L-00803,2026-05-30,Paid Search,C05-PAI,Consultation,Desktop,Australia,7.5,New Lead,0,0,0,0
+L-00804,2026-03-14,Partner,C03-PAR,Case Studies,Mobile,Germany,1.6,New Lead,0,0,0,0
+L-00805,2026-04-29,Paid Search,C04-PAI,Homepage,Tablet,Australia,4.6,New Lead,0,0,0,0
+L-00806,2026-01-30,Paid Search,C01-PAI,Consultation,Desktop,Germany,2.3,New Lead,0,0,0,0
+L-00807,2026-04-21,Partner,C04-PAR,Pricing,Mobile,Netherlands,10.6,New Lead,0,0,0,0
+L-00808,2026-06-08,Organic Search,C06-ORG,Homepage,Desktop,Canada,4.6,New Lead,0,0,0,0
+L-00809,2026-02-05,Organic Search,C02-ORG,Pricing,Desktop,Australia,2.9,Opportunity,1,1,0,0
+L-00810,2026-06-13,Paid Search,C06-PAI,Consultation,Desktop,Netherlands,7.1,Opportunity,1,1,0,0
+L-00811,2026-05-23,Referral,C05-REF,Consultation,Desktop,Canada,2.6,Opportunity,1,1,0,0
+L-00812,2026-02-06,Organic Search,C02-ORG,Case Studies,Mobile,Germany,8.1,Opportunity,1,1,0,0
+L-00813,2026-02-15,Organic Search,C02-ORG,Pricing,Desktop,Canada,3.6,Opportunity,1,1,0,0
+L-00814,2026-05-12,Paid Search,C05-PAI,Consultation,Desktop,Australia,6.6,Opportunity,1,1,0,0
+L-00815,2026-04-10,Paid Search,C04-PAI,Case Studies,Desktop,United States,33.1,New Lead,0,0,0,0
+L-00816,2026-03-24,Paid Search,C03-PAI,Homepage,Desktop,Germany,16.4,New Lead,0,0,0,0
+L-00817,2026-05-10,Paid Search,C05-PAI,Homepage,Desktop,Australia,3.1,Customer,1,1,1,13524.42
+L-00818,2026-04-05,Organic Search,C04-ORG,Pricing,Mobile,Netherlands,3.1,New Lead,0,0,0,0
+L-00819,2026-04-01,Direct,C04-DIR,Consultation,Mobile,Australia,2.4,Customer,1,1,1,6083.75
+L-00820,2026-02-12,Organic Search,C02-ORG,Consultation,Mobile,Canada,8.0,New Lead,0,0,0,0
+L-00821,2026-05-28,Paid Search,C05-PAI,Webinar,Mobile,Australia,7.5,New Lead,0,0,0,0
+L-00822,2026-03-10,Organic Search,C03-ORG,Case Studies,Desktop,United States,3.9,Customer,1,1,1,7133.5
+L-00823,2026-02-21,LinkedIn Ads,C02-LIN,Consultation,Desktop,Germany,3.6,New Lead,0,0,0,0
+L-00824,2026-06-01,Organic Search,C06-ORG,Pricing,Mobile,United Kingdom,8.1,Qualified,1,0,0,0
+L-00825,2026-02-22,Organic Search,C02-ORG,Homepage,Mobile,Germany,10.5,Qualified,1,0,0,0
+L-00826,2026-03-01,Paid Search,C03-PAI,Case Studies,Desktop,United Kingdom,5.3,Qualified,1,0,0,0
+L-00827,2026-01-30,Paid Search,C01-PAI,Case Studies,Mobile,Germany,5.6,New Lead,0,0,0,0
+L-00828,2026-04-02,LinkedIn Ads,C04-LIN,Webinar,Mobile,United States,3.7,New Lead,0,0,0,0
+L-00829,2026-02-10,Direct,C02-DIR,Webinar,Desktop,Germany,3.5,New Lead,0,0,0,0
+L-00830,2026-03-10,Paid Search,C03-PAI,Consultation,Desktop,Germany,3.5,New Lead,0,0,0,0
+L-00831,2026-04-20,Paid Search,C04-PAI,Pricing,Mobile,Australia,6.7,New Lead,0,0,0,0
+L-00832,2026-06-18,LinkedIn Ads,C06-LIN,Pricing,Mobile,Canada,2.7,Qualified,1,0,0,0
+L-00833,2026-05-10,Partner,C05-PAR,Homepage,Desktop,Australia,24.9,Qualified,1,0,0,0
+L-00834,2026-05-18,Referral,C05-REF,Pricing,Tablet,Germany,6.1,Customer,1,1,1,12059.39
+L-00835,2026-06-14,Partner,C06-PAR,Consultation,Desktop,United States,8.7,Qualified,1,0,0,0
+L-00836,2026-01-29,LinkedIn Ads,C01-LIN,Homepage,Tablet,United States,2.3,New Lead,0,0,0,0
+L-00837,2026-04-02,Organic Search,C04-ORG,Consultation,Mobile,Germany,0.8,New Lead,0,0,0,0
+L-00838,2026-03-07,Organic Search,C03-ORG,Case Studies,Mobile,Australia,1.8,Qualified,1,0,0,0
+L-00839,2026-02-06,Organic Search,C02-ORG,Case Studies,Mobile,Canada,4.5,New Lead,0,0,0,0
+L-00840,2026-05-20,Direct,C05-DIR,Consultation,Desktop,Netherlands,7.0,New Lead,0,0,0,0
+L-00841,2026-02-14,Organic Search,C02-ORG,Pricing,Mobile,Canada,9.7,New Lead,0,0,0,0
+L-00842,2026-05-02,Organic Search,C05-ORG,Pricing,Mobile,Canada,2.1,Opportunity,1,1,0,0
+L-00843,2026-05-02,Paid Search,C05-PAI,Homepage,Desktop,United Kingdom,6.8,Opportunity,1,1,0,0
+L-00844,2026-01-17,Referral,C01-REF,Consultation,Desktop,Netherlands,3.2,Qualified,1,0,0,0
+L-00845,2026-03-15,Paid Search,C03-PAI,Homepage,Desktop,United Kingdom,7.1,New Lead,0,0,0,0
+L-00846,2026-02-25,Direct,C02-DIR,Consultation,Mobile,United Kingdom,2.5,New Lead,0,0,0,0
+L-00847,2026-03-29,Organic Search,C03-ORG,Homepage,Mobile,Netherlands,7.6,Qualified,1,0,0,0
+L-00848,2026-05-21,Paid Search,C05-PAI,Case Studies,Mobile,United States,4.4,Opportunity,1,1,0,0
+L-00849,2026-02-28,LinkedIn Ads,C02-LIN,Consultation,Mobile,Netherlands,7.8,Customer,1,1,1,6017.71
+L-00850,2026-04-14,Referral,C04-REF,Consultation,Mobile,Germany,17.5,New Lead,0,0,0,0
+L-00851,2026-02-27,Organic Search,C02-ORG,Consultation,Desktop,Canada,1.1,New Lead,0,0,0,0
+L-00852,2026-03-24,LinkedIn Ads,C03-LIN,Webinar,Mobile,Germany,16.6,Qualified,1,0,0,0
+L-00853,2026-03-31,Direct,C03-DIR,Case Studies,Mobile,Germany,5.4,New Lead,0,0,0,0
+L-00854,2026-01-17,Organic Search,C01-ORG,Homepage,Mobile,United States,3.5,New Lead,0,0,0,0
+L-00855,2026-02-17,Referral,C02-REF,Pricing,Mobile,United Kingdom,5.5,New Lead,0,0,0,0
+L-00856,2026-01-11,Direct,C01-DIR,Case Studies,Desktop,Australia,4.1,Qualified,1,0,0,0
+L-00857,2026-05-10,Partner,C05-PAR,Pricing,Desktop,Netherlands,2.2,New Lead,0,0,0,0
+L-00858,2026-06-22,Email,C06-EMA,Case Studies,Desktop,United States,5.9,Qualified,1,0,0,0
+L-00859,2026-01-27,Partner,C01-PAR,Consultation,Desktop,United States,16.3,Qualified,1,0,0,0
+L-00860,2026-05-02,Referral,C05-REF,Homepage,Mobile,Germany,4.4,New Lead,0,0,0,0
+L-00861,2026-01-09,LinkedIn Ads,C01-LIN,Webinar,Desktop,United Kingdom,2.0,New Lead,0,0,0,0
+L-00862,2026-04-04,Organic Search,C04-ORG,Pricing,Desktop,Germany,5.8,New Lead,0,0,0,0
+L-00863,2026-03-11,Referral,C03-REF,Webinar,Mobile,United States,2.7,New Lead,0,0,0,0
+L-00864,2026-02-08,Organic Search,C02-ORG,Homepage,Desktop,Netherlands,3.2,Qualified,1,0,0,0
+L-00865,2026-06-12,LinkedIn Ads,C06-LIN,Webinar,Mobile,Germany,7.9,New Lead,0,0,0,0
+L-00866,2026-06-16,Paid Search,C06-PAI,Pricing,Desktop,Canada,1.6,Qualified,1,0,0,0
+L-00867,2026-01-07,Paid Search,C01-PAI,Pricing,Desktop,Netherlands,4.3,Opportunity,1,1,0,0
+L-00868,2026-04-18,Email,C04-EMA,Consultation,Desktop,Canada,11.8,Opportunity,1,1,0,0
+L-00869,2026-04-18,LinkedIn Ads,C04-LIN,Case Studies,Desktop,Canada,7.8,New Lead,0,0,0,0
+L-00870,2026-04-26,Direct,C04-DIR,Webinar,Desktop,United States,3.3,New Lead,0,0,0,0
+L-00871,2026-01-30,LinkedIn Ads,C01-LIN,Pricing,Mobile,Canada,30.9,New Lead,0,0,0,0
+L-00872,2026-03-28,LinkedIn Ads,C03-LIN,Homepage,Desktop,Germany,3.7,New Lead,0,0,0,0
+L-00873,2026-01-20,Paid Search,C01-PAI,Homepage,Desktop,Canada,5.8,Customer,1,1,1,12358.66
+L-00874,2026-03-14,Paid Search,C03-PAI,Consultation,Mobile,Canada,6.8,Opportunity,1,1,0,0
+L-00875,2026-01-25,Organic Search,C01-ORG,Webinar,Mobile,Canada,6.2,Qualified,1,0,0,0
+L-00876,2026-06-22,LinkedIn Ads,C06-LIN,Homepage,Mobile,Australia,3.4,New Lead,0,0,0,0
+L-00877,2026-06-12,Organic Search,C06-ORG,Case Studies,Mobile,Australia,8.9,New Lead,0,0,0,0
+L-00878,2026-03-03,Organic Search,C03-ORG,Webinar,Mobile,Netherlands,2.9,New Lead,0,0,0,0
+L-00879,2026-06-28,Paid Search,C06-PAI,Case Studies,Desktop,United States,4.0,New Lead,0,0,0,0
+L-00880,2026-02-28,Paid Search,C02-PAI,Case Studies,Mobile,Germany,2.5,New Lead,0,0,0,0
+L-00881,2026-05-11,Direct,C05-DIR,Case Studies,Desktop,Canada,7.8,New Lead,0,0,0,0
+L-00882,2026-03-29,Organic Search,C03-ORG,Homepage,Desktop,Canada,5.2,New Lead,0,0,0,0
+L-00883,2026-03-27,Paid Search,C03-PAI,Case Studies,Desktop,Australia,7.7,Qualified,1,0,0,0
+L-00884,2026-06-21,Partner,C06-PAR,Consultation,Mobile,Canada,7.1,Opportunity,1,1,0,0
+L-00885,2026-03-17,LinkedIn Ads,C03-LIN,Pricing,Mobile,Australia,4.0,New Lead,0,0,0,0
+L-00886,2026-05-28,Organic Search,C05-ORG,Case Studies,Desktop,United States,12.6,Qualified,1,0,0,0
+L-00887,2026-06-24,Organic Search,C06-ORG,Case Studies,Desktop,United States,1.9,Qualified,1,0,0,0
+L-00888,2026-05-06,Paid Search,C05-PAI,Consultation,Desktop,Canada,3.6,Opportunity,1,1,0,0
+L-00889,2026-03-28,Organic Search,C03-ORG,Pricing,Desktop,United States,7.9,Customer,1,1,1,11406.96
+L-00890,2026-01-10,Organic Search,C01-ORG,Homepage,Desktop,United States,3.3,New Lead,0,0,0,0
+L-00891,2026-03-11,Partner,C03-PAR,Consultation,Desktop,Netherlands,2.4,Customer,1,1,1,5971.57
+L-00892,2026-02-04,LinkedIn Ads,C02-LIN,Webinar,Tablet,Netherlands,5.5,Qualified,1,0,0,0
+L-00893,2026-01-06,Email,C01-EMA,Webinar,Desktop,Germany,9.2,New Lead,0,0,0,0
+L-00894,2026-05-07,LinkedIn Ads,C05-LIN,Case Studies,Desktop,Canada,6.7,New Lead,0,0,0,0
+L-00895,2026-01-30,Paid Search,C01-PAI,Webinar,Mobile,Australia,6.3,New Lead,0,0,0,0
+L-00896,2026-03-23,Direct,C03-DIR,Homepage,Desktop,Australia,6.3,New Lead,0,0,0,0
+L-00897,2026-03-09,Paid Search,C03-PAI,Case Studies,Desktop,Australia,9.9,New Lead,0,0,0,0
+L-00898,2026-04-27,Partner,C04-PAR,Homepage,Desktop,Canada,5.8,New Lead,0,0,0,0
+L-00899,2026-03-27,LinkedIn Ads,C03-LIN,Homepage,Desktop,United Kingdom,5.1,Opportunity,1,1,0,0
+L-00900,2026-06-14,Organic Search,C06-ORG,Consultation,Desktop,Netherlands,5.6,Customer,1,1,1,8560.14
+L-00901,2026-03-25,Referral,C03-REF,Case Studies,Desktop,Canada,9.3,Customer,1,1,1,12322.88
+L-00902,2026-03-12,Referral,C03-REF,Case Studies,Desktop,United Kingdom,5.2,New Lead,0,0,0,0
+L-00903,2026-06-08,LinkedIn Ads,C06-LIN,Homepage,Desktop,Netherlands,1.9,New Lead,0,0,0,0
+L-00904,2026-06-23,Paid Search,C06-PAI,Homepage,Desktop,Australia,6.7,New Lead,0,0,0,0
+L-00905,2026-01-22,LinkedIn Ads,C01-LIN,Pricing,Desktop,United Kingdom,2.6,New Lead,0,0,0,0
+L-00906,2026-03-21,Email,C03-EMA,Homepage,Desktop,United States,4.8,New Lead,0,0,0,0
+L-00907,2026-05-26,Paid Search,C05-PAI,Pricing,Desktop,Netherlands,8.1,New Lead,0,0,0,0
+L-00908,2026-03-20,Partner,C03-PAR,Pricing,Mobile,United States,5.7,Qualified,1,0,0,0
+L-00909,2026-05-19,LinkedIn Ads,C05-LIN,Homepage,Desktop,Netherlands,6.2,New Lead,0,0,0,0
+L-00910,2026-01-09,Paid Search,C01-PAI,Case Studies,Desktop,United States,2.8,New Lead,0,0,0,0
+L-00911,2026-02-05,Referral,C02-REF,Webinar,Mobile,Netherlands,22.5,New Lead,0,0,0,0
+L-00912,2026-02-03,Email,C02-EMA,Case Studies,Mobile,Netherlands,5.8,New Lead,0,0,0,0
+L-00913,2026-01-09,Organic Search,C01-ORG,Homepage,Mobile,Australia,4.6,New Lead,0,0,0,0
+L-00914,2026-05-09,Referral,C05-REF,Homepage,Desktop,Netherlands,3.3,New Lead,0,0,0,0
+L-00915,2026-04-05,Paid Search,C04-PAI,Case Studies,Mobile,United States,2.6,New Lead,0,0,0,0
+L-00916,2026-04-29,Paid Search,C04-PAI,Homepage,Desktop,Germany,3.3,New Lead,0,0,0,0
+L-00917,2026-06-23,LinkedIn Ads,C06-LIN,Webinar,Mobile,Australia,1.8,Qualified,1,0,0,0
+L-00918,2026-06-30,Paid Search,C06-PAI,Case Studies,Tablet,United Kingdom,6.1,Qualified,1,0,0,0
+L-00919,2026-05-31,Paid Search,C05-PAI,Pricing,Desktop,Germany,8.0,New Lead,0,0,0,0
+L-00920,2026-03-26,Organic Search,C03-ORG,Homepage,Desktop,Netherlands,2.9,New Lead,0,0,0,0
+L-00921,2026-05-04,Direct,C05-DIR,Webinar,Mobile,United Kingdom,3.6,New Lead,0,0,0,0
+L-00922,2026-06-18,LinkedIn Ads,C06-LIN,Webinar,Desktop,Australia,1.5,New Lead,0,0,0,0
+L-00923,2026-02-08,Organic Search,C02-ORG,Webinar,Desktop,United Kingdom,4.5,Opportunity,1,1,0,0
+L-00924,2026-01-08,LinkedIn Ads,C01-LIN,Homepage,Desktop,Netherlands,1.8,New Lead,0,0,0,0
+L-00925,2026-04-09,Direct,C04-DIR,Homepage,Desktop,Australia,6.0,New Lead,0,0,0,0
+L-00926,2026-03-23,Partner,C03-PAR,Webinar,Mobile,Netherlands,6.5,New Lead,0,0,0,0
+L-00927,2026-06-06,Email,C06-EMA,Pricing,Desktop,Germany,19.2,Customer,1,1,1,4253.87
+L-00928,2026-03-30,Paid Search,C03-PAI,Homepage,Desktop,Germany,4.6,New Lead,0,0,0,0
+L-00929,2026-04-15,Paid Search,C04-PAI,Case Studies,Desktop,United States,23.4,Opportunity,1,1,0,0
+L-00930,2026-05-24,Referral,C05-REF,Pricing,Desktop,Germany,1.3,Qualified,1,0,0,0
+L-00931,2026-05-26,Organic Search,C05-ORG,Case Studies,Desktop,Canada,3.8,Qualified,1,0,0,0
+L-00932,2026-01-01,Direct,C01-DIR,Case Studies,Desktop,Germany,3.8,Qualified,1,0,0,0
+L-00933,2026-02-01,Organic Search,C02-ORG,Homepage,Mobile,Netherlands,5.7,Qualified,1,0,0,0
+L-00934,2026-01-24,Paid Search,C01-PAI,Webinar,Desktop,Australia,7.8,New Lead,0,0,0,0
+L-00935,2026-01-31,Organic Search,C01-ORG,Homepage,Desktop,Germany,7.1,New Lead,0,0,0,0
+L-00936,2026-05-06,Organic Search,C05-ORG,Consultation,Mobile,Germany,4.8,Customer,1,1,1,13293.32
+L-00937,2026-01-15,Email,C01-EMA,Consultation,Desktop,Germany,6.1,New Lead,0,0,0,0
+L-00938,2026-05-14,Organic Search,C05-ORG,Homepage,Mobile,United States,1.7,Qualified,1,0,0,0
+L-00939,2026-01-08,Organic Search,C01-ORG,Consultation,Mobile,Netherlands,5.2,Qualified,1,0,0,0
+L-00940,2026-02-05,LinkedIn Ads,C02-LIN,Case Studies,Desktop,United Kingdom,6.0,New Lead,0,0,0,0
+L-00941,2026-02-07,Paid Search,C02-PAI,Webinar,Mobile,Canada,9.5,New Lead,0,0,0,0
+L-00942,2026-04-03,Direct,C04-DIR,Homepage,Desktop,Canada,6.7,New Lead,0,0,0,0
+L-00943,2026-02-13,Email,C02-EMA,Case Studies,Mobile,Germany,12.1,Qualified,1,0,0,0
+L-00944,2026-05-06,Organic Search,C05-ORG,Consultation,Desktop,United Kingdom,3.6,New Lead,0,0,0,0
+L-00945,2026-04-19,Paid Search,C04-PAI,Pricing,Desktop,United States,15.6,Opportunity,1,1,0,0
+L-00946,2026-02-18,Email,C02-EMA,Consultation,Desktop,United Kingdom,6.5,Qualified,1,0,0,0
+L-00947,2026-04-07,LinkedIn Ads,C04-LIN,Homepage,Desktop,Netherlands,7.4,New Lead,0,0,0,0
+L-00948,2026-01-29,Direct,C01-DIR,Homepage,Desktop,Germany,6.8,New Lead,0,0,0,0
+L-00949,2026-01-26,Direct,C01-DIR,Webinar,Tablet,Germany,7.2,New Lead,0,0,0,0
+L-00950,2026-04-05,Paid Search,C04-PAI,Case Studies,Tablet,Canada,9.7,New Lead,0,0,0,0
+L-00951,2026-04-28,Referral,C04-REF,Homepage,Tablet,United Kingdom,2.3,New Lead,0,0,0,0
+L-00952,2026-06-15,LinkedIn Ads,C06-LIN,Consultation,Tablet,Germany,6.1,Qualified,1,0,0,0
+L-00953,2026-04-11,Paid Search,C04-PAI,Pricing,Desktop,United Kingdom,8.1,Qualified,1,0,0,0
+L-00954,2026-04-06,Organic Search,C04-ORG,Case Studies,Desktop,Canada,4.2,Qualified,1,0,0,0
+L-00955,2026-05-01,Partner,C05-PAR,Homepage,Mobile,Australia,4.1,Qualified,1,0,0,0
+L-00956,2026-03-30,Email,C03-EMA,Homepage,Mobile,Germany,24.1,New Lead,0,0,0,0
+L-00957,2026-01-05,LinkedIn Ads,C01-LIN,Homepage,Mobile,Netherlands,8.9,Opportunity,1,1,0,0
+L-00958,2026-06-12,Direct,C06-DIR,Consultation,Mobile,United Kingdom,2.4,Customer,1,1,1,15738.05
+L-00959,2026-06-27,Organic Search,C06-ORG,Homepage,Desktop,Australia,4.7,Opportunity,1,1,0,0
+L-00960,2026-02-25,Referral,C02-REF,Consultation,Mobile,Netherlands,5.6,Qualified,1,0,0,0
+L-00961,2026-05-10,Organic Search,C05-ORG,Case Studies,Desktop,Germany,2.2,New Lead,0,0,0,0
+L-00962,2026-06-21,Paid Search,C06-PAI,Consultation,Mobile,Netherlands,16.4,Qualified,1,0,0,0
+L-00963,2026-03-23,Organic Search,C03-ORG,Case Studies,Mobile,Germany,4.0,New Lead,0,0,0,0
+L-00964,2026-05-11,LinkedIn Ads,C05-LIN,Webinar,Mobile,Canada,11.0,New Lead,0,0,0,0
+L-00965,2026-04-13,Email,C04-EMA,Pricing,Tablet,Australia,9.6,Qualified,1,0,0,0
+L-00966,2026-02-04,Organic Search,C02-ORG,Homepage,Desktop,United States,6.9,New Lead,0,0,0,0
+L-00967,2026-02-27,Organic Search,C02-ORG,Consultation,Desktop,Australia,2.4,Customer,1,1,1,7426.57
+L-00968,2026-04-29,LinkedIn Ads,C04-LIN,Pricing,Desktop,Netherlands,5.0,New Lead,0,0,0,0
+L-00969,2026-04-27,Email,C04-EMA,Case Studies,Desktop,Australia,6.8,Qualified,1,0,0,0
+L-00970,2026-02-10,Paid Search,C02-PAI,Pricing,Desktop,Netherlands,3.9,New Lead,0,0,0,0
+L-00971,2026-01-13,Email,C01-EMA,Webinar,Mobile,Germany,4.1,Qualified,1,0,0,0
+L-00972,2026-01-12,Partner,C01-PAR,Homepage,Desktop,United Kingdom,1.5,New Lead,0,0,0,0
+L-00973,2026-03-01,Direct,C03-DIR,Webinar,Desktop,Netherlands,15.1,New Lead,0,0,0,0
+L-00974,2026-01-04,Organic Search,C01-ORG,Homepage,Desktop,Canada,3.6,New Lead,0,0,0,0
+L-00975,2026-01-26,Organic Search,C01-ORG,Webinar,Desktop,United Kingdom,4.2,New Lead,0,0,0,0
+L-00976,2026-05-16,Paid Search,C05-PAI,Webinar,Desktop,Australia,2.7,New Lead,0,0,0,0
+L-00977,2026-05-08,Referral,C05-REF,Homepage,Desktop,Australia,1.8,New Lead,0,0,0,0
+L-00978,2026-03-14,Referral,C03-REF,Webinar,Mobile,Netherlands,5.6,New Lead,0,0,0,0
+L-00979,2026-04-11,LinkedIn Ads,C04-LIN,Webinar,Mobile,Germany,1.1,New Lead,0,0,0,0
+L-00980,2026-04-20,Direct,C04-DIR,Homepage,Mobile,Netherlands,2.7,New Lead,0,0,0,0
+L-00981,2026-05-22,Referral,C05-REF,Homepage,Mobile,Australia,6.2,Qualified,1,0,0,0
+L-00982,2026-01-06,Direct,C01-DIR,Homepage,Mobile,Netherlands,5.5,Customer,1,1,1,15312.11
+L-00983,2026-03-18,Organic Search,C03-ORG,Case Studies,Desktop,Germany,5.1,Qualified,1,0,0,0
+L-00984,2026-04-21,Organic Search,C04-ORG,Pricing,Tablet,Canada,6.3,Opportunity,1,1,0,0
+L-00985,2026-04-20,Paid Search,C04-PAI,Webinar,Desktop,Australia,9.3,New Lead,0,0,0,0
+L-00986,2026-01-31,Paid Search,C01-PAI,Case Studies,Mobile,Canada,5.6,Qualified,1,0,0,0
+L-00987,2026-04-26,Partner,C04-PAR,Webinar,Desktop,United Kingdom,2.7,Qualified,1,0,0,0
+L-00988,2026-02-03,Organic Search,C02-ORG,Pricing,Desktop,Germany,1.2,New Lead,0,0,0,0
+L-00989,2026-06-24,Paid Search,C06-PAI,Case Studies,Tablet,United States,6.2,New Lead,0,0,0,0
+L-00990,2026-03-21,Organic Search,C03-ORG,Webinar,Mobile,Germany,23.0,New Lead,0,0,0,0
+L-00991,2026-02-14,Partner,C02-PAR,Webinar,Mobile,Canada,1.6,New Lead,0,0,0,0
+L-00992,2026-01-04,Partner,C01-PAR,Case Studies,Mobile,United Kingdom,2.6,New Lead,0,0,0,0
+L-00993,2026-05-01,LinkedIn Ads,C05-LIN,Pricing,Mobile,United States,6.7,New Lead,0,0,0,0
+L-00994,2026-02-21,Referral,C02-REF,Consultation,Mobile,Netherlands,2.1,New Lead,0,0,0,0
+L-00995,2026-04-21,Paid Search,C04-PAI,Consultation,Mobile,Canada,2.8,New Lead,0,0,0,0
+L-00996,2026-01-20,Organic Search,C01-ORG,Webinar,Desktop,United Kingdom,7.6,New Lead,0,0,0,0
+L-00997,2026-02-14,LinkedIn Ads,C02-LIN,Pricing,Desktop,Netherlands,4.5,Qualified,1,0,0,0
+L-00998,2026-01-07,Email,C01-EMA,Consultation,Mobile,Australia,6.1,Customer,1,1,1,12580.87
+L-00999,2026-05-06,Paid Search,C05-PAI,Consultation,Desktop,Germany,3.6,New Lead,0,0,0,0
+L-01000,2026-04-14,LinkedIn Ads,C04-LIN,Homepage,Desktop,United Kingdom,5.7,New Lead,0,0,0,0
+L-01001,2026-04-21,Direct,C04-DIR,Homepage,Desktop,Australia,5.7,New Lead,0,0,0,0
+L-01002,2026-04-25,Paid Search,C04-PAI,Homepage,Desktop,Canada,14.2,New Lead,0,0,0,0
+L-01003,2026-05-01,Referral,C05-REF,Homepage,Desktop,Canada,5.1,New Lead,0,0,0,0
+L-01004,2026-02-13,Partner,C02-PAR,Homepage,Mobile,Australia,2.7,New Lead,0,0,0,0
+L-01005,2026-03-26,Organic Search,C03-ORG,Pricing,Mobile,United States,4.6,New Lead,0,0,0,0
+L-01006,2026-01-29,Organic Search,C01-ORG,Pricing,Desktop,Germany,2.0,Qualified,1,0,0,0
+L-01007,2026-05-01,Email,C05-EMA,Pricing,Desktop,United States,3.2,Qualified,1,0,0,0
+L-01008,2026-03-10,Organic Search,C03-ORG,Consultation,Desktop,Australia,2.5,Customer,1,1,1,12248.75
+L-01009,2026-02-20,Partner,C02-PAR,Webinar,Desktop,Canada,7.0,New Lead,0,0,0,0
+L-01010,2026-04-18,Referral,C04-REF,Webinar,Desktop,Germany,8.4,New Lead,0,0,0,0
+L-01011,2026-05-02,Email,C05-EMA,Homepage,Mobile,Germany,5.7,Qualified,1,0,0,0
+L-01012,2026-05-01,Paid Search,C05-PAI,Case Studies,Desktop,Germany,2.5,New Lead,0,0,0,0
+L-01013,2026-04-10,Email,C04-EMA,Consultation,Desktop,United Kingdom,4.8,New Lead,0,0,0,0
+L-01014,2026-04-18,Paid Search,C04-PAI,Consultation,Desktop,Germany,20.9,New Lead,0,0,0,0
+L-01015,2026-01-31,Referral,C01-REF,Case Studies,Desktop,Canada,20.0,New Lead,0,0,0,0
+L-01016,2026-04-13,Organic Search,C04-ORG,Consultation,Desktop,United States,5.9,New Lead,0,0,0,0
+L-01017,2026-04-05,Organic Search,C04-ORG,Consultation,Mobile,Australia,2.7,Qualified,1,0,0,0
+L-01018,2026-06-14,Paid Search,C06-PAI,Homepage,Mobile,Canada,3.4,Opportunity,1,1,0,0
+L-01019,2026-06-22,Paid Search,C06-PAI,Consultation,Mobile,United Kingdom,5.2,New Lead,0,0,0,0
+L-01020,2026-02-18,Paid Search,C02-PAI,Case Studies,Desktop,Germany,8.4,New Lead,0,0,0,0
+L-01021,2026-02-27,Organic Search,C02-ORG,Homepage,Tablet,United States,6.2,New Lead,0,0,0,0
+L-01022,2026-06-16,Partner,C06-PAR,Webinar,Desktop,United Kingdom,2.1,Qualified,1,0,0,0
+L-01023,2026-06-22,Referral,C06-REF,Webinar,Desktop,Netherlands,7.5,Qualified,1,0,0,0
+L-01024,2026-01-04,LinkedIn Ads,C01-LIN,Pricing,Desktop,Germany,2.3,New Lead,0,0,0,0
+L-01025,2026-01-18,Email,C01-EMA,Case Studies,Tablet,Germany,8.9,New Lead,0,0,0,0
+L-01026,2026-03-06,Organic Search,C03-ORG,Pricing,Mobile,Australia,8.3,New Lead,0,0,0,0
+L-01027,2026-06-02,Direct,C06-DIR,Consultation,Desktop,Germany,1.3,New Lead,0,0,0,0
+L-01028,2026-04-18,LinkedIn Ads,C04-LIN,Case Studies,Desktop,United States,0.7,Opportunity,1,1,0,0
+L-01029,2026-01-12,Direct,C01-DIR,Consultation,Mobile,Germany,5.2,New Lead,0,0,0,0
+L-01030,2026-04-20,Paid Search,C04-PAI,Case Studies,Desktop,Netherlands,1.6,New Lead,0,0,0,0
+L-01031,2026-06-02,Direct,C06-DIR,Homepage,Desktop,United States,14.4,Opportunity,1,1,0,0
+L-01032,2026-02-16,Email,C02-EMA,Webinar,Mobile,Germany,4.9,New Lead,0,0,0,0
+L-01033,2026-03-09,Paid Search,C03-PAI,Webinar,Desktop,Canada,3.9,New Lead,0,0,0,0
+L-01034,2026-04-23,LinkedIn Ads,C04-LIN,Webinar,Mobile,Canada,7.0,New Lead,0,0,0,0
+L-01035,2026-03-28,Organic Search,C03-ORG,Consultation,Mobile,Germany,3.6,Qualified,1,0,0,0
+L-01036,2026-04-07,Organic Search,C04-ORG,Homepage,Desktop,Germany,2.9,Customer,1,1,1,12381.79
+L-01037,2026-01-05,Paid Search,C01-PAI,Homepage,Mobile,Germany,33.9,Opportunity,1,1,0,0
+L-01038,2026-06-19,Organic Search,C06-ORG,Case Studies,Mobile,Netherlands,2.3,Qualified,1,0,0,0
+L-01039,2026-01-19,Direct,C01-DIR,Pricing,Desktop,Australia,4.5,Opportunity,1,1,0,0
+L-01040,2026-01-22,Organic Search,C01-ORG,Pricing,Desktop,Netherlands,6.1,Opportunity,1,1,0,0
+L-01041,2026-03-23,Paid Search,C03-PAI,Pricing,Desktop,Germany,13.3,New Lead,0,0,0,0
+L-01042,2026-03-20,Email,C03-EMA,Webinar,Mobile,Australia,1.7,New Lead,0,0,0,0
+L-01043,2026-02-14,Organic Search,C02-ORG,Homepage,Mobile,United States,2.0,New Lead,0,0,0,0
+L-01044,2026-02-21,Organic Search,C02-ORG,Webinar,Desktop,Australia,6.4,Qualified,1,0,0,0
+L-01045,2026-01-26,Partner,C01-PAR,Case Studies,Mobile,Germany,3.9,Qualified,1,0,0,0
+L-01046,2026-01-22,Direct,C01-DIR,Pricing,Desktop,Canada,11.1,New Lead,0,0,0,0
+L-01047,2026-01-05,LinkedIn Ads,C01-LIN,Case Studies,Mobile,Canada,9.9,New Lead,0,0,0,0
+L-01048,2026-03-23,Email,C03-EMA,Homepage,Desktop,United States,3.3,New Lead,0,0,0,0
+L-01049,2026-03-23,Paid Search,C03-PAI,Case Studies,Desktop,United Kingdom,24.6,Qualified,1,0,0,0
+L-01050,2026-01-22,LinkedIn Ads,C01-LIN,Pricing,Desktop,United Kingdom,10.9,New Lead,0,0,0,0
+L-01051,2026-05-29,Organic Search,C05-ORG,Webinar,Desktop,Netherlands,3.9,New Lead,0,0,0,0
+L-01052,2026-06-30,Paid Search,C06-PAI,Pricing,Mobile,Germany,7.3,Qualified,1,0,0,0
+L-01053,2026-02-04,Paid Search,C02-PAI,Consultation,Mobile,United Kingdom,7.5,New Lead,0,0,0,0
+L-01054,2026-04-27,LinkedIn Ads,C04-LIN,Pricing,Mobile,Netherlands,3.5,New Lead,0,0,0,0
+L-01055,2026-06-25,Partner,C06-PAR,Homepage,Desktop,Canada,4.7,New Lead,0,0,0,0
+L-01056,2026-04-11,Paid Search,C04-PAI,Webinar,Desktop,Australia,1.9,New Lead,0,0,0,0
+L-01057,2026-03-06,Referral,C03-REF,Pricing,Mobile,Australia,4.8,Customer,1,1,1,13609.55
+L-01058,2026-02-01,Referral,C02-REF,Pricing,Mobile,United States,6.8,New Lead,0,0,0,0
+L-01059,2026-01-23,Direct,C01-DIR,Webinar,Desktop,Australia,5.6,New Lead,0,0,0,0
+L-01060,2026-06-21,Direct,C06-DIR,Consultation,Mobile,United States,4.9,New Lead,0,0,0,0
+L-01061,2026-01-13,Paid Search,C01-PAI,Webinar,Mobile,United Kingdom,5.3,New Lead,0,0,0,0
+L-01062,2026-03-19,Organic Search,C03-ORG,Case Studies,Desktop,United States,10.4,New Lead,0,0,0,0
+L-01063,2026-01-12,Direct,C01-DIR,Consultation,Mobile,Germany,3.4,New Lead,0,0,0,0
+L-01064,2026-03-27,Organic Search,C03-ORG,Pricing,Desktop,Germany,4.7,Qualified,1,0,0,0
+L-01065,2026-04-14,Organic Search,C04-ORG,Homepage,Desktop,Australia,5.7,Opportunity,1,1,0,0
+L-01066,2026-06-11,Organic Search,C06-ORG,Pricing,Desktop,Germany,22.4,Opportunity,1,1,0,0
+L-01067,2026-02-04,Direct,C02-DIR,Pricing,Desktop,Australia,5.8,Customer,1,1,1,9868.74
+L-01068,2026-01-19,Organic Search,C01-ORG,Case Studies,Mobile,Germany,2.9,New Lead,0,0,0,0
+L-01069,2026-06-07,Email,C06-EMA,Homepage,Mobile,Netherlands,6.6,New Lead,0,0,0,0
+L-01070,2026-03-21,Paid Search,C03-PAI,Homepage,Tablet,United States,4.2,Qualified,1,0,0,0
+L-01071,2026-01-27,Paid Search,C01-PAI,Pricing,Tablet,United States,2.0,New Lead,0,0,0,0
+L-01072,2026-04-13,Partner,C04-PAR,Webinar,Mobile,Canada,21.4,New Lead,0,0,0,0
+L-01073,2026-04-30,Direct,C04-DIR,Case Studies,Mobile,Germany,22.9,New Lead,0,0,0,0
+L-01074,2026-04-07,Organic Search,C04-ORG,Homepage,Desktop,Netherlands,1.9,New Lead,0,0,0,0
+L-01075,2026-01-01,Direct,C01-DIR,Webinar,Mobile,United Kingdom,5.8,New Lead,0,0,0,0
+L-01076,2026-04-04,LinkedIn Ads,C04-LIN,Consultation,Desktop,Canada,3.1,New Lead,0,0,0,0
+L-01077,2026-03-23,Paid Search,C03-PAI,Homepage,Mobile,Germany,36.4,New Lead,0,0,0,0
+L-01078,2026-05-25,Paid Search,C05-PAI,Homepage,Desktop,Canada,3.1,Customer,1,1,1,11277.04
+L-01079,2026-03-22,Direct,C03-DIR,Homepage,Desktop,Germany,3.4,New Lead,0,0,0,0
+L-01080,2026-05-13,Direct,C05-DIR,Case Studies,Desktop,United States,9.9,Qualified,1,0,0,0
+L-01081,2026-05-26,Organic Search,C05-ORG,Pricing,Desktop,United States,2.8,New Lead,0,0,0,0
+L-01082,2026-04-18,Paid Search,C04-PAI,Case Studies,Mobile,United Kingdom,4.6,New Lead,0,0,0,0
+L-01083,2026-01-05,Organic Search,C01-ORG,Pricing,Desktop,Germany,2.2,New Lead,0,0,0,0
+L-01084,2026-01-27,LinkedIn Ads,C01-LIN,Pricing,Mobile,United States,13.2,New Lead,0,0,0,0
+L-01085,2026-06-11,Organic Search,C06-ORG,Pricing,Desktop,United Kingdom,4.5,Qualified,1,0,0,0
+L-01086,2026-06-07,Organic Search,C06-ORG,Consultation,Tablet,Netherlands,0.7,New Lead,0,0,0,0
+L-01087,2026-06-15,LinkedIn Ads,C06-LIN,Homepage,Desktop,United Kingdom,9.3,New Lead,0,0,0,0
+L-01088,2026-06-25,Referral,C06-REF,Case Studies,Desktop,Australia,4.9,Customer,1,1,1,12028.72
+L-01089,2026-05-30,Organic Search,C05-ORG,Pricing,Desktop,Netherlands,12.1,New Lead,0,0,0,0
+L-01090,2026-05-29,Partner,C05-PAR,Homepage,Desktop,United States,3.6,Customer,1,1,1,13252.04
+L-01091,2026-06-30,Referral,C06-REF,Webinar,Mobile,Netherlands,5.7,New Lead,0,0,0,0
+L-01092,2026-06-10,LinkedIn Ads,C06-LIN,Consultation,Desktop,Germany,1.4,New Lead,0,0,0,0
+L-01093,2026-01-07,Referral,C01-REF,Homepage,Desktop,Canada,3.7,Opportunity,1,1,0,0
+L-01094,2026-01-13,Paid Search,C01-PAI,Consultation,Mobile,United Kingdom,13.6,New Lead,0,0,0,0
+L-01095,2026-05-30,Email,C05-EMA,Pricing,Mobile,Canada,9.4,Opportunity,1,1,0,0
+L-01096,2026-01-30,Direct,C01-DIR,Case Studies,Desktop,United States,5.1,New Lead,0,0,0,0
+L-01097,2026-03-21,Email,C03-EMA,Consultation,Desktop,Netherlands,6.6,New Lead,0,0,0,0
+L-01098,2026-04-21,Paid Search,C04-PAI,Webinar,Desktop,United Kingdom,2.4,New Lead,0,0,0,0
+L-01099,2026-04-25,Organic Search,C04-ORG,Webinar,Desktop,United States,3.2,New Lead,0,0,0,0
+L-01100,2026-06-27,Paid Search,C06-PAI,Pricing,Mobile,Netherlands,4.5,Customer,1,1,1,8622.7
+L-01101,2026-04-11,Partner,C04-PAR,Consultation,Desktop,Netherlands,7.9,Opportunity,1,1,0,0
+L-01102,2026-02-16,Partner,C02-PAR,Consultation,Mobile,Australia,9.0,Opportunity,1,1,0,0
+L-01103,2026-01-02,Paid Search,C01-PAI,Homepage,Mobile,Germany,3.3,New Lead,0,0,0,0
+L-01104,2026-05-30,Organic Search,C05-ORG,Homepage,Desktop,United Kingdom,8.6,New Lead,0,0,0,0
+L-01105,2026-06-30,Organic Search,C06-ORG,Pricing,Desktop,Australia,7.5,Qualified,1,0,0,0
+L-01106,2026-01-05,Partner,C01-PAR,Homepage,Desktop,United States,11.0,New Lead,0,0,0,0
+L-01107,2026-05-21,Organic Search,C05-ORG,Webinar,Desktop,Australia,9.3,New Lead,0,0,0,0
+L-01108,2026-02-16,Direct,C02-DIR,Pricing,Mobile,Germany,2.3,New Lead,0,0,0,0
+L-01109,2026-01-10,Referral,C01-REF,Pricing,Desktop,Australia,8.4,Opportunity,1,1,0,0
+L-01110,2026-01-24,Referral,C01-REF,Consultation,Desktop,United Kingdom,9.4,Qualified,1,0,0,0
+L-01111,2026-03-23,Direct,C03-DIR,Homepage,Desktop,Canada,6.7,Qualified,1,0,0,0
+L-01112,2026-03-23,Paid Search,C03-PAI,Pricing,Mobile,Canada,14.9,Qualified,1,0,0,0
+L-01113,2026-03-20,Referral,C03-REF,Consultation,Mobile,Germany,2.5,Qualified,1,0,0,0
+L-01114,2026-03-31,LinkedIn Ads,C03-LIN,Case Studies,Mobile,Canada,2.3,New Lead,0,0,0,0
+L-01115,2026-02-28,Direct,C02-DIR,Pricing,Desktop,Australia,5.9,New Lead,0,0,0,0
+L-01116,2026-06-07,LinkedIn Ads,C06-LIN,Consultation,Desktop,Germany,2.0,New Lead,0,0,0,0
+L-01117,2026-05-04,Paid Search,C05-PAI,Consultation,Mobile,Canada,1.8,New Lead,0,0,0,0
+L-01118,2026-01-15,Organic Search,C01-ORG,Homepage,Mobile,United Kingdom,8.3,New Lead,0,0,0,0
+L-01119,2026-04-26,Paid Search,C04-PAI,Homepage,Desktop,Canada,3.6,New Lead,0,0,0,0
+L-01120,2026-01-25,Paid Search,C01-PAI,Webinar,Desktop,United Kingdom,5.4,New Lead,0,0,0,0
+L-01121,2026-03-14,Direct,C03-DIR,Case Studies,Desktop,Australia,4.5,New Lead,0,0,0,0
+L-01122,2026-01-09,Email,C01-EMA,Case Studies,Mobile,Australia,2.6,New Lead,0,0,0,0
+L-01123,2026-02-09,Direct,C02-DIR,Pricing,Desktop,United Kingdom,2.0,New Lead,0,0,0,0
+L-01124,2026-06-15,LinkedIn Ads,C06-LIN,Consultation,Mobile,United Kingdom,3.3,New Lead,0,0,0,0
+L-01125,2026-06-12,Organic Search,C06-ORG,Pricing,Mobile,United States,13.6,New Lead,0,0,0,0
+L-01126,2026-06-12,Direct,C06-DIR,Case Studies,Mobile,Netherlands,5.4,Opportunity,1,1,0,0
+L-01127,2026-02-10,LinkedIn Ads,C02-LIN,Consultation,Mobile,Australia,4.3,New Lead,0,0,0,0
+L-01128,2026-03-21,Referral,C03-REF,Consultation,Mobile,Australia,8.3,Opportunity,1,1,0,0
+L-01129,2026-06-08,Paid Search,C06-PAI,Webinar,Desktop,United States,6.2,Customer,1,1,1,9229.12
+L-01130,2026-03-14,Paid Search,C03-PAI,Pricing,Mobile,Canada,4.2,Opportunity,1,1,0,0
+L-01131,2026-06-01,LinkedIn Ads,C06-LIN,Pricing,Desktop,United States,3.0,New Lead,0,0,0,0
+L-01132,2026-03-16,Paid Search,C03-PAI,Consultation,Desktop,Germany,19.6,New Lead,0,0,0,0
+L-01133,2026-05-24,Direct,C05-DIR,Homepage,Desktop,United Kingdom,3.6,New Lead,0,0,0,0
+L-01134,2026-05-05,LinkedIn Ads,C05-LIN,Case Studies,Desktop,Germany,9.9,New Lead,0,0,0,0
+L-01135,2026-06-18,Organic Search,C06-ORG,Case Studies,Desktop,United Kingdom,16.0,Qualified,1,0,0,0
+L-01136,2026-03-29,Organic Search,C03-ORG,Homepage,Desktop,Australia,3.3,Customer,1,1,1,4611.59
+L-01137,2026-06-18,Direct,C06-DIR,Homepage,Mobile,Canada,2.1,New Lead,0,0,0,0
+L-01138,2026-01-22,LinkedIn Ads,C01-LIN,Consultation,Desktop,United Kingdom,7.5,Qualified,1,0,0,0
+L-01139,2026-02-08,Paid Search,C02-PAI,Pricing,Desktop,Australia,1.2,Qualified,1,0,0,0
+L-01140,2026-04-02,Organic Search,C04-ORG,Homepage,Mobile,Australia,2.0,New Lead,0,0,0,0
+L-01141,2026-04-28,Partner,C04-PAR,Homepage,Desktop,Netherlands,10.3,Customer,1,1,1,13456.4
+L-01142,2026-04-30,LinkedIn Ads,C04-LIN,Consultation,Desktop,United Kingdom,7.0,New Lead,0,0,0,0
+L-01143,2026-04-23,Direct,C04-DIR,Case Studies,Desktop,Canada,1.1,New Lead,0,0,0,0
+L-01144,2026-05-15,Paid Search,C05-PAI,Webinar,Desktop,United Kingdom,7.6,Qualified,1,0,0,0
+L-01145,2026-03-07,Referral,C03-REF,Pricing,Desktop,Australia,27.5,New Lead,0,0,0,0
+L-01146,2026-05-07,Organic Search,C05-ORG,Webinar,Mobile,Netherlands,6.1,New Lead,0,0,0,0
+L-01147,2026-06-10,Organic Search,C06-ORG,Case Studies,Desktop,Canada,23.8,Qualified,1,0,0,0
+L-01148,2026-02-14,Referral,C02-REF,Case Studies,Desktop,United States,13.4,New Lead,0,0,0,0
+L-01149,2026-06-22,Email,C06-EMA,Homepage,Desktop,Netherlands,2.5,New Lead,0,0,0,0
+L-01150,2026-05-28,Direct,C05-DIR,Homepage,Desktop,Netherlands,6.6,New Lead,0,0,0,0
+L-01151,2026-05-13,LinkedIn Ads,C05-LIN,Webinar,Mobile,United Kingdom,11.9,New Lead,0,0,0,0
+L-01152,2026-02-24,Paid Search,C02-PAI,Case Studies,Tablet,Netherlands,3.8,New Lead,0,0,0,0
+L-01153,2026-03-31,Organic Search,C03-ORG,Homepage,Mobile,Australia,0.7,New Lead,0,0,0,0
+L-01154,2026-05-14,Paid Search,C05-PAI,Case Studies,Mobile,Australia,3.8,New Lead,0,0,0,0
+L-01155,2026-04-04,Direct,C04-DIR,Consultation,Desktop,Australia,9.1,New Lead,0,0,0,0
+L-01156,2026-01-17,Organic Search,C01-ORG,Consultation,Mobile,United Kingdom,10.9,New Lead,0,0,0,0
+L-01157,2026-01-24,Paid Search,C01-PAI,Case Studies,Desktop,United States,1.0,Qualified,1,0,0,0
+L-01158,2026-02-14,Organic Search,C02-ORG,Case Studies,Desktop,Germany,25.0,New Lead,0,0,0,0
+L-01159,2026-06-20,Referral,C06-REF,Consultation,Desktop,United Kingdom,23.8,Opportunity,1,1,0,0
+L-01160,2026-03-27,Partner,C03-PAR,Webinar,Mobile,United States,4.4,New Lead,0,0,0,0
+L-01161,2026-03-29,Organic Search,C03-ORG,Consultation,Mobile,Australia,4.5,Opportunity,1,1,0,0
+L-01162,2026-02-09,Direct,C02-DIR,Pricing,Mobile,Netherlands,5.5,New Lead,0,0,0,0
+L-01163,2026-01-12,LinkedIn Ads,C01-LIN,Webinar,Mobile,Australia,6.4,New Lead,0,0,0,0
+L-01164,2026-05-05,Paid Search,C05-PAI,Consultation,Desktop,Australia,3.4,New Lead,0,0,0,0
+L-01165,2026-06-02,Paid Search,C06-PAI,Consultation,Mobile,United Kingdom,5.0,New Lead,0,0,0,0
+L-01166,2026-06-14,Paid Search,C06-PAI,Homepage,Desktop,Australia,2.4,New Lead,0,0,0,0
+L-01167,2026-03-06,Referral,C03-REF,Consultation,Mobile,United Kingdom,3.2,Customer,1,1,1,6357.71
+L-01168,2026-04-09,Paid Search,C04-PAI,Pricing,Mobile,United States,1.6,New Lead,0,0,0,0
+L-01169,2026-02-10,Email,C02-EMA,Webinar,Tablet,United States,7.5,Qualified,1,0,0,0
+L-01170,2026-06-11,Referral,C06-REF,Homepage,Desktop,Germany,5.1,Qualified,1,0,0,0
+L-01171,2026-01-26,Paid Search,C01-PAI,Homepage,Desktop,Australia,9.5,New Lead,0,0,0,0
+L-01172,2026-01-01,LinkedIn Ads,C01-LIN,Pricing,Desktop,Canada,8.0,New Lead,0,0,0,0
+L-01173,2026-05-07,Partner,C05-PAR,Case Studies,Desktop,Australia,8.0,New Lead,0,0,0,0
+L-01174,2026-05-01,Referral,C05-REF,Pricing,Desktop,United Kingdom,6.5,Opportunity,1,1,0,0
+L-01175,2026-03-28,Direct,C03-DIR,Pricing,Desktop,United States,2.8,New Lead,0,0,0,0
+L-01176,2026-03-17,Paid Search,C03-PAI,Webinar,Desktop,United States,13.9,Opportunity,1,1,0,0
+L-01177,2026-05-17,Paid Search,C05-PAI,Case Studies,Mobile,Germany,39.7,New Lead,0,0,0,0
+L-01178,2026-03-26,Direct,C03-DIR,Case Studies,Desktop,Australia,7.6,Qualified,1,0,0,0
+L-01179,2026-04-09,Paid Search,C04-PAI,Homepage,Desktop,United Kingdom,6.1,New Lead,0,0,0,0
+L-01180,2026-02-18,Email,C02-EMA,Webinar,Mobile,United Kingdom,4.4,Opportunity,1,1,0,0
+L-01181,2026-01-02,Paid Search,C01-PAI,Pricing,Mobile,United States,2.6,New Lead,0,0,0,0
+L-01182,2026-02-17,Partner,C02-PAR,Webinar,Desktop,Australia,6.4,New Lead,0,0,0,0
+L-01183,2026-03-29,Paid Search,C03-PAI,Pricing,Mobile,Germany,10.6,New Lead,0,0,0,0
+L-01184,2026-03-03,Organic Search,C03-ORG,Case Studies,Mobile,Germany,10.3,Opportunity,1,1,0,0
+L-01185,2026-03-10,LinkedIn Ads,C03-LIN,Homepage,Desktop,Australia,4.8,New Lead,0,0,0,0
+L-01186,2026-05-26,Referral,C05-REF,Consultation,Mobile,Australia,1.5,Qualified,1,0,0,0
+L-01187,2026-01-14,Organic Search,C01-ORG,Pricing,Desktop,United States,6.1,Opportunity,1,1,0,0
+L-01188,2026-05-11,Referral,C05-REF,Homepage,Desktop,United Kingdom,3.5,New Lead,0,0,0,0
+L-01189,2026-02-07,Organic Search,C02-ORG,Consultation,Mobile,Australia,6.3,Opportunity,1,1,0,0
+L-01190,2026-04-23,Direct,C04-DIR,Pricing,Mobile,Canada,1.5,Opportunity,1,1,0,0
+L-01191,2026-03-19,Referral,C03-REF,Webinar,Desktop,Canada,4.6,New Lead,0,0,0,0
+L-01192,2026-03-12,Paid Search,C03-PAI,Webinar,Mobile,United States,6.4,New Lead,0,0,0,0
+L-01193,2026-06-18,Paid Search,C06-PAI,Consultation,Desktop,Canada,3.7,New Lead,0,0,0,0
+L-01194,2026-03-07,Organic Search,C03-ORG,Homepage,Desktop,Canada,6.8,New Lead,0,0,0,0
+L-01195,2026-06-21,Email,C06-EMA,Webinar,Desktop,United States,16.2,New Lead,0,0,0,0
+L-01196,2026-05-25,LinkedIn Ads,C05-LIN,Consultation,Mobile,Germany,2.0,New Lead,0,0,0,0
+L-01197,2026-06-21,LinkedIn Ads,C06-LIN,Case Studies,Desktop,Australia,2.7,New Lead,0,0,0,0
+L-01198,2026-05-23,Organic Search,C05-ORG,Consultation,Mobile,Netherlands,7.3,New Lead,0,0,0,0
+L-01199,2026-06-12,Organic Search,C06-ORG,Homepage,Desktop,Germany,3.4,New Lead,0,0,0,0
+L-01200,2026-03-23,Email,C03-EMA,Pricing,Desktop,Australia,5.6,New Lead,0,0,0,0
+L-01201,2026-04-08,LinkedIn Ads,C04-LIN,Homepage,Mobile,Germany,6.9,Qualified,1,0,0,0
+L-01202,2026-06-13,Direct,C06-DIR,Webinar,Mobile,Australia,3.5,New Lead,0,0,0,0
+L-01203,2026-04-01,Organic Search,C04-ORG,Pricing,Desktop,Netherlands,13.3,Opportunity,1,1,0,0
+L-01204,2026-01-07,Organic Search,C01-ORG,Pricing,Desktop,Netherlands,4.2,New Lead,0,0,0,0
+L-01205,2026-01-07,Organic Search,C01-ORG,Consultation,Desktop,Canada,3.1,New Lead,0,0,0,0
+L-01206,2026-05-15,Organic Search,C05-ORG,Consultation,Desktop,United States,2.6,Opportunity,1,1,0,0
+L-01207,2026-01-15,Referral,C01-REF,Webinar,Mobile,Australia,2.2,Customer,1,1,1,15608.34
+L-01208,2026-04-20,LinkedIn Ads,C04-LIN,Consultation,Mobile,Australia,4.0,New Lead,0,0,0,0
+L-01209,2026-04-29,LinkedIn Ads,C04-LIN,Pricing,Mobile,Germany,7.2,New Lead,0,0,0,0
+L-01210,2026-03-12,Email,C03-EMA,Consultation,Mobile,United States,4.7,Qualified,1,0,0,0
+L-01211,2026-06-25,Referral,C06-REF,Webinar,Mobile,Germany,13.1,Qualified,1,0,0,0
+L-01212,2026-05-13,Referral,C05-REF,Webinar,Mobile,Canada,1.0,New Lead,0,0,0,0
+L-01213,2026-04-17,Direct,C04-DIR,Consultation,Desktop,United States,0.6,Opportunity,1,1,0,0
+L-01214,2026-02-25,Email,C02-EMA,Pricing,Mobile,United Kingdom,4.1,Qualified,1,0,0,0
+L-01215,2026-04-22,Paid Search,C04-PAI,Pricing,Desktop,Canada,4.2,Customer,1,1,1,8694.0
+L-01216,2026-01-25,Email,C01-EMA,Pricing,Mobile,Germany,6.6,Customer,1,1,1,11484.61
+L-01217,2026-04-18,LinkedIn Ads,C04-LIN,Webinar,Mobile,United Kingdom,4.9,New Lead,0,0,0,0
+L-01218,2026-01-05,Direct,C01-DIR,Homepage,Desktop,Australia,12.1,Customer,1,1,1,13768.85
+L-01219,2026-04-19,Referral,C04-REF,Case Studies,Desktop,Australia,23.0,New Lead,0,0,0,0
+L-01220,2026-05-31,LinkedIn Ads,C05-LIN,Consultation,Mobile,Australia,21.3,New Lead,0,0,0,0
+L-01221,2026-06-07,Paid Search,C06-PAI,Webinar,Desktop,Australia,1.5,Opportunity,1,1,0,0
+L-01222,2026-01-26,Organic Search,C01-ORG,Homepage,Mobile,Germany,3.7,New Lead,0,0,0,0
+L-01223,2026-06-25,Organic Search,C06-ORG,Case Studies,Mobile,United Kingdom,14.5,New Lead,0,0,0,0
+L-01224,2026-04-26,Direct,C04-DIR,Pricing,Desktop,Australia,3.5,New Lead,0,0,0,0
+L-01225,2026-05-20,Email,C05-EMA,Case Studies,Desktop,United States,4.1,New Lead,0,0,0,0
+L-01226,2026-05-08,Email,C05-EMA,Consultation,Mobile,Germany,2.6,Customer,1,1,1,5977.0
+L-01227,2026-04-11,Referral,C04-REF,Case Studies,Desktop,Australia,4.8,New Lead,0,0,0,0
+L-01228,2026-02-21,Direct,C02-DIR,Case Studies,Mobile,Netherlands,0.5,New Lead,0,0,0,0
+L-01229,2026-02-06,Email,C02-EMA,Consultation,Desktop,Canada,2.7,Opportunity,1,1,0,0
+L-01230,2026-01-17,Email,C01-EMA,Consultation,Desktop,United Kingdom,9.5,New Lead,0,0,0,0
+L-01231,2026-02-07,Paid Search,C02-PAI,Case Studies,Mobile,Canada,6.9,Qualified,1,0,0,0
+L-01232,2026-05-22,Referral,C05-REF,Homepage,Desktop,United States,4.8,Customer,1,1,1,13096.81
+L-01233,2026-04-13,Referral,C04-REF,Case Studies,Mobile,United States,8.5,Qualified,1,0,0,0
+L-01234,2026-05-14,Referral,C05-REF,Case Studies,Desktop,Australia,8.5,Opportunity,1,1,0,0
+L-01235,2026-03-09,Paid Search,C03-PAI,Webinar,Desktop,Netherlands,14.9,New Lead,0,0,0,0
+L-01236,2026-04-15,Paid Search,C04-PAI,Homepage,Desktop,Australia,4.2,New Lead,0,0,0,0
+L-01237,2026-02-12,LinkedIn Ads,C02-LIN,Homepage,Desktop,Germany,9.0,New Lead,0,0,0,0
+L-01238,2026-02-20,Referral,C02-REF,Webinar,Desktop,United Kingdom,1.8,New Lead,0,0,0,0
+L-01239,2026-05-17,LinkedIn Ads,C05-LIN,Consultation,Desktop,Australia,3.4,New Lead,0,0,0,0
+L-01240,2026-05-28,Paid Search,C05-PAI,Pricing,Mobile,Canada,3.9,New Lead,0,0,0,0
+L-01241,2026-05-19,Paid Search,C05-PAI,Case Studies,Desktop,Germany,1.6,Opportunity,1,1,0,0
+L-01242,2026-06-14,Referral,C06-REF,Homepage,Mobile,Canada,18.8,Qualified,1,0,0,0
+L-01243,2026-04-15,Email,C04-EMA,Case Studies,Mobile,United States,11.2,New Lead,0,0,0,0
+L-01244,2026-03-03,Paid Search,C03-PAI,Webinar,Mobile,Australia,3.0,New Lead,0,0,0,0
+L-01245,2026-03-02,Organic Search,C03-ORG,Homepage,Mobile,Australia,2.5,New Lead,0,0,0,0
+L-01246,2026-01-24,Organic Search,C01-ORG,Consultation,Desktop,Netherlands,4.6,Customer,1,1,1,15754.06
+L-01247,2026-04-03,Referral,C04-REF,Homepage,Desktop,Germany,3.4,Opportunity,1,1,0,0
+L-01248,2026-01-12,Referral,C01-REF,Consultation,Desktop,United Kingdom,3.7,New Lead,0,0,0,0
+L-01249,2026-05-29,Email,C05-EMA,Consultation,Desktop,United Kingdom,4.8,Opportunity,1,1,0,0
+L-01250,2026-02-15,Partner,C02-PAR,Pricing,Desktop,United States,3.5,New Lead,0,0,0,0
+L-01251,2026-02-18,Direct,C02-DIR,Webinar,Mobile,Australia,29.5,Qualified,1,0,0,0
+L-01252,2026-05-20,Organic Search,C05-ORG,Case Studies,Tablet,United Kingdom,6.0,New Lead,0,0,0,0
+L-01253,2026-06-23,Paid Search,C06-PAI,Pricing,Mobile,Netherlands,4.6,Customer,1,1,1,12334.71
+L-01254,2026-06-23,Paid Search,C06-PAI,Pricing,Desktop,Netherlands,1.9,New Lead,0,0,0,0
+L-01255,2026-06-19,Direct,C06-DIR,Homepage,Tablet,Germany,6.0,Qualified,1,0,0,0
+L-01256,2026-06-11,Organic Search,C06-ORG,Case Studies,Desktop,Australia,3.7,New Lead,0,0,0,0
+L-01257,2026-03-29,Direct,C03-DIR,Case Studies,Mobile,United Kingdom,7.5,New Lead,0,0,0,0
+L-01258,2026-03-11,Partner,C03-PAR,Webinar,Desktop,Germany,6.3,New Lead,0,0,0,0
+L-01259,2026-05-17,LinkedIn Ads,C05-LIN,Pricing,Desktop,Germany,6.4,New Lead,0,0,0,0
+L-01260,2026-03-24,LinkedIn Ads,C03-LIN,Homepage,Desktop,United States,10.7,New Lead,0,0,0,0
+L-01261,2026-05-24,Direct,C05-DIR,Webinar,Desktop,Germany,8.6,New Lead,0,0,0,0
+L-01262,2026-06-11,Email,C06-EMA,Case Studies,Desktop,Netherlands,5.6,Customer,1,1,1,11622.88
+L-01263,2026-02-08,LinkedIn Ads,C02-LIN,Homepage,Mobile,Canada,7.1,New Lead,0,0,0,0
+L-01264,2026-01-20,Direct,C01-DIR,Homepage,Desktop,United Kingdom,3.2,Opportunity,1,1,0,0
+L-01265,2026-04-02,Direct,C04-DIR,Case Studies,Desktop,Australia,2.2,Qualified,1,0,0,0
+L-01266,2026-04-15,Organic Search,C04-ORG,Case Studies,Desktop,United States,1.9,Qualified,1,0,0,0
+L-01267,2026-05-14,Paid Search,C05-PAI,Pricing,Mobile,Netherlands,14.7,Opportunity,1,1,0,0
+L-01268,2026-06-21,Paid Search,C06-PAI,Pricing,Desktop,United States,5.0,Qualified,1,0,0,0
+L-01269,2026-03-14,Organic Search,C03-ORG,Case Studies,Desktop,Australia,1.2,Qualified,1,0,0,0
+L-01270,2026-04-24,Organic Search,C04-ORG,Case Studies,Mobile,United Kingdom,5.7,New Lead,0,0,0,0
+L-01271,2026-01-12,Direct,C01-DIR,Homepage,Desktop,United Kingdom,2.2,New Lead,0,0,0,0
+L-01272,2026-03-29,Paid Search,C03-PAI,Consultation,Mobile,Australia,4.4,New Lead,0,0,0,0
+L-01273,2026-03-03,Direct,C03-DIR,Webinar,Desktop,Germany,7.3,New Lead,0,0,0,0
+L-01274,2026-06-14,Email,C06-EMA,Pricing,Desktop,Canada,7.0,Qualified,1,0,0,0
+L-01275,2026-03-19,Organic Search,C03-ORG,Case Studies,Desktop,Netherlands,7.1,New Lead,0,0,0,0
+L-01276,2026-03-26,Organic Search,C03-ORG,Consultation,Desktop,Germany,11.8,New Lead,0,0,0,0
+L-01277,2026-02-12,Direct,C02-DIR,Homepage,Mobile,United Kingdom,1.4,Qualified,1,0,0,0
+L-01278,2026-05-11,Organic Search,C05-ORG,Homepage,Desktop,Australia,4.4,New Lead,0,0,0,0
+L-01279,2026-04-13,Organic Search,C04-ORG,Pricing,Desktop,Australia,11.9,Qualified,1,0,0,0
+L-01280,2026-03-10,Paid Search,C03-PAI,Homepage,Desktop,Canada,6.2,Opportunity,1,1,0,0
+L-01281,2026-05-31,LinkedIn Ads,C05-LIN,Consultation,Desktop,United Kingdom,10.4,Opportunity,1,1,0,0
+L-01282,2026-03-08,Organic Search,C03-ORG,Consultation,Desktop,United States,4.3,New Lead,0,0,0,0
+L-01283,2026-05-13,LinkedIn Ads,C05-LIN,Homepage,Desktop,Australia,1.9,Qualified,1,0,0,0
+L-01284,2026-01-21,Organic Search,C01-ORG,Webinar,Desktop,Canada,6.1,New Lead,0,0,0,0
+L-01285,2026-03-13,Organic Search,C03-ORG,Consultation,Desktop,Canada,3.3,New Lead,0,0,0,0
+L-01286,2026-02-21,Organic Search,C02-ORG,Consultation,Desktop,Canada,2.3,Qualified,1,0,0,0
+L-01287,2026-04-03,Paid Search,C04-PAI,Webinar,Desktop,Canada,1.8,Opportunity,1,1,0,0
+L-01288,2026-03-23,Organic Search,C03-ORG,Consultation,Mobile,United States,27.4,New Lead,0,0,0,0
+L-01289,2026-03-01,LinkedIn Ads,C03-LIN,Homepage,Desktop,Canada,7.1,Opportunity,1,1,0,0
+L-01290,2026-04-10,Paid Search,C04-PAI,Consultation,Mobile,Netherlands,12.0,New Lead,0,0,0,0
+L-01291,2026-02-01,Organic Search,C02-ORG,Webinar,Mobile,United States,4.2,New Lead,0,0,0,0
+L-01292,2026-03-05,Paid Search,C03-PAI,Case Studies,Mobile,Germany,6.3,New Lead,0,0,0,0
+L-01293,2026-03-04,LinkedIn Ads,C03-LIN,Homepage,Desktop,Germany,1.1,New Lead,0,0,0,0
+L-01294,2026-02-02,Partner,C02-PAR,Case Studies,Mobile,Australia,4.4,Opportunity,1,1,0,0
+L-01295,2026-03-15,Organic Search,C03-ORG,Homepage,Desktop,Germany,4.3,New Lead,0,0,0,0
+L-01296,2026-03-07,Referral,C03-REF,Homepage,Desktop,Netherlands,2.1,New Lead,0,0,0,0
+L-01297,2026-03-24,Paid Search,C03-PAI,Consultation,Desktop,Canada,5.1,New Lead,0,0,0,0
+L-01298,2026-03-15,Email,C03-EMA,Consultation,Mobile,United Kingdom,12.0,New Lead,0,0,0,0
+L-01299,2026-01-02,Referral,C01-REF,Consultation,Mobile,Germany,31.5,New Lead,0,0,0,0
+L-01300,2026-06-11,Organic Search,C06-ORG,Consultation,Desktop,Germany,5.7,Customer,1,1,1,10940.75
+L-01301,2026-04-06,Organic Search,C04-ORG,Homepage,Desktop,Canada,8.6,New Lead,0,0,0,0
+L-01302,2026-05-12,Organic Search,C05-ORG,Consultation,Mobile,Germany,7.3,New Lead,0,0,0,0
+L-01303,2026-01-25,LinkedIn Ads,C01-LIN,Consultation,Mobile,Australia,8.7,New Lead,0,0,0,0
+L-01304,2026-04-15,Organic Search,C04-ORG,Consultation,Mobile,United States,7.0,New Lead,0,0,0,0
+L-01305,2026-04-29,Organic Search,C04-ORG,Pricing,Desktop,United Kingdom,4.7,Opportunity,1,1,0,0
+L-01306,2026-03-12,Organic Search,C03-ORG,Consultation,Mobile,United Kingdom,22.2,New Lead,0,0,0,0
+L-01307,2026-01-03,Direct,C01-DIR,Webinar,Desktop,Australia,8.6,New Lead,0,0,0,0
+L-01308,2026-04-25,Organic Search,C04-ORG,Case Studies,Desktop,United Kingdom,4.2,Qualified,1,0,0,0
+L-01309,2026-06-30,Paid Search,C06-PAI,Consultation,Desktop,Germany,5.9,Qualified,1,0,0,0
+L-01310,2026-05-27,Organic Search,C05-ORG,Consultation,Desktop,United States,1.1,Customer,1,1,1,11342.28
+L-01311,2026-05-04,Paid Search,C05-PAI,Webinar,Desktop,Australia,8.8,New Lead,0,0,0,0
+L-01312,2026-05-30,Paid Search,C05-PAI,Homepage,Mobile,Netherlands,7.9,Qualified,1,0,0,0
+L-01313,2026-03-21,Organic Search,C03-ORG,Case Studies,Mobile,Canada,8.4,New Lead,0,0,0,0
+L-01314,2026-01-20,Paid Search,C01-PAI,Consultation,Tablet,Canada,9.2,New Lead,0,0,0,0
+L-01315,2026-04-16,Direct,C04-DIR,Case Studies,Desktop,Netherlands,10.9,Qualified,1,0,0,0
+L-01316,2026-03-01,Paid Search,C03-PAI,Pricing,Mobile,United Kingdom,2.6,New Lead,0,0,0,0
+L-01317,2026-02-05,Paid Search,C02-PAI,Homepage,Desktop,Netherlands,2.0,New Lead,0,0,0,0
+L-01318,2026-03-25,Paid Search,C03-PAI,Case Studies,Desktop,Australia,7.9,Opportunity,1,1,0,0
+L-01319,2026-05-26,Paid Search,C05-PAI,Case Studies,Desktop,Australia,2.7,New Lead,0,0,0,0
+L-01320,2026-01-14,Paid Search,C01-PAI,Case Studies,Desktop,United Kingdom,8.5,Opportunity,1,1,0,0
+L-01321,2026-04-04,Organic Search,C04-ORG,Pricing,Mobile,Netherlands,6.2,New Lead,0,0,0,0
+L-01322,2026-01-17,Email,C01-EMA,Homepage,Desktop,Canada,8.3,New Lead,0,0,0,0
+L-01323,2026-06-28,Paid Search,C06-PAI,Pricing,Desktop,Netherlands,18.7,Opportunity,1,1,0,0
+L-01324,2026-04-24,LinkedIn Ads,C04-LIN,Homepage,Desktop,Germany,7.4,Qualified,1,0,0,0
+L-01325,2026-03-18,Direct,C03-DIR,Homepage,Mobile,Germany,6.2,Qualified,1,0,0,0
+L-01326,2026-01-29,Organic Search,C01-ORG,Consultation,Desktop,United States,8.4,New Lead,0,0,0,0
+L-01327,2026-05-01,Email,C05-EMA,Case Studies,Mobile,United States,1.2,Opportunity,1,1,0,0
+L-01328,2026-06-07,Organic Search,C06-ORG,Homepage,Mobile,United Kingdom,7.6,New Lead,0,0,0,0
+L-01329,2026-03-17,Email,C03-EMA,Webinar,Mobile,United States,3.3,New Lead,0,0,0,0
+L-01330,2026-05-09,Organic Search,C05-ORG,Consultation,Tablet,Australia,1.7,New Lead,0,0,0,0
+L-01331,2026-03-15,Referral,C03-REF,Consultation,Mobile,Netherlands,2.6,Customer,1,1,1,9536.63
+L-01332,2026-06-09,Organic Search,C06-ORG,Homepage,Mobile,United States,10.0,Qualified,1,0,0,0
+L-01333,2026-01-18,Direct,C01-DIR,Webinar,Desktop,United Kingdom,2.5,New Lead,0,0,0,0
+L-01334,2026-05-11,Organic Search,C05-ORG,Homepage,Desktop,United Kingdom,13.9,Opportunity,1,1,0,0
+L-01335,2026-02-12,Direct,C02-DIR,Homepage,Mobile,United States,8.5,Opportunity,1,1,0,0
+L-01336,2026-06-22,Paid Search,C06-PAI,Consultation,Mobile,Germany,3.7,Qualified,1,0,0,0
+L-01337,2026-04-24,Organic Search,C04-ORG,Case Studies,Desktop,United States,10.3,New Lead,0,0,0,0
+L-01338,2026-03-08,Paid Search,C03-PAI,Consultation,Desktop,Canada,1.1,Opportunity,1,1,0,0
+L-01339,2026-03-29,Paid Search,C03-PAI,Homepage,Desktop,Australia,4.1,New Lead,0,0,0,0
+L-01340,2026-03-18,LinkedIn Ads,C03-LIN,Consultation,Mobile,United States,9.4,Customer,1,1,1,16392.09
+L-01341,2026-02-22,Paid Search,C02-PAI,Consultation,Desktop,Canada,10.1,New Lead,0,0,0,0
+L-01342,2026-02-01,Referral,C02-REF,Consultation,Desktop,Netherlands,1.3,Qualified,1,0,0,0
+L-01343,2026-02-18,Partner,C02-PAR,Webinar,Mobile,Germany,28.5,New Lead,0,0,0,0
+L-01344,2026-01-03,LinkedIn Ads,C01-LIN,Pricing,Mobile,Netherlands,17.4,New Lead,0,0,0,0
+L-01345,2026-02-28,Paid Search,C02-PAI,Case Studies,Mobile,Australia,7.5,New Lead,0,0,0,0
+L-01346,2026-04-26,Organic Search,C04-ORG,Homepage,Mobile,Germany,6.1,New Lead,0,0,0,0
+L-01347,2026-01-05,Email,C01-EMA,Homepage,Desktop,United Kingdom,2.1,Customer,1,1,1,14673.21
+L-01348,2026-06-12,Paid Search,C06-PAI,Consultation,Mobile,Germany,2.3,New Lead,0,0,0,0
+L-01349,2026-05-22,Paid Search,C05-PAI,Pricing,Mobile,Canada,4.8,New Lead,0,0,0,0
+L-01350,2026-05-10,LinkedIn Ads,C05-LIN,Homepage,Desktop,Australia,7.6,New Lead,0,0,0,0
+L-01351,2026-04-23,Organic Search,C04-ORG,Pricing,Mobile,Australia,11.2,New Lead,0,0,0,0
+L-01352,2026-03-28,Referral,C03-REF,Pricing,Desktop,United Kingdom,6.1,Qualified,1,0,0,0
+L-01353,2026-06-19,Paid Search,C06-PAI,Homepage,Desktop,United States,3.2,New Lead,0,0,0,0
+L-01354,2026-05-23,Referral,C05-REF,Consultation,Desktop,Australia,2.8,New Lead,0,0,0,0
+L-01355,2026-01-12,Paid Search,C01-PAI,Pricing,Mobile,Netherlands,7.3,Qualified,1,0,0,0
+L-01356,2026-06-01,LinkedIn Ads,C06-LIN,Pricing,Desktop,Netherlands,14.9,New Lead,0,0,0,0
+L-01357,2026-03-31,Organic Search,C03-ORG,Pricing,Tablet,United Kingdom,1.7,Opportunity,1,1,0,0
+L-01358,2026-01-19,LinkedIn Ads,C01-LIN,Homepage,Desktop,United Kingdom,3.6,Qualified,1,0,0,0
+L-01359,2026-04-07,Referral,C04-REF,Webinar,Tablet,Canada,8.2,New Lead,0,0,0,0
+L-01360,2026-02-23,Referral,C02-REF,Webinar,Desktop,Netherlands,18.3,Qualified,1,0,0,0
+L-01361,2026-02-07,Email,C02-EMA,Consultation,Mobile,Germany,3.7,Opportunity,1,1,0,0
+L-01362,2026-04-23,Organic Search,C04-ORG,Homepage,Mobile,Canada,2.1,New Lead,0,0,0,0
+L-01363,2026-03-04,Partner,C03-PAR,Homepage,Mobile,Germany,4.2,New Lead,0,0,0,0
+L-01364,2026-01-21,Partner,C01-PAR,Consultation,Desktop,United States,10.2,Opportunity,1,1,0,0
+L-01365,2026-02-14,LinkedIn Ads,C02-LIN,Consultation,Desktop,Canada,7.0,Customer,1,1,1,6913.84
+L-01366,2026-02-10,Direct,C02-DIR,Webinar,Desktop,Australia,6.4,Qualified,1,0,0,0
+L-01367,2026-05-06,Paid Search,C05-PAI,Homepage,Desktop,Germany,2.5,Qualified,1,0,0,0
+L-01368,2026-06-27,Organic Search,C06-ORG,Homepage,Mobile,Canada,7.5,New Lead,0,0,0,0
+L-01369,2026-05-14,Paid Search,C05-PAI,Homepage,Mobile,United States,8.7,New Lead,0,0,0,0
+L-01370,2026-01-29,Paid Search,C01-PAI,Case Studies,Desktop,Germany,6.6,New Lead,0,0,0,0
+L-01371,2026-03-22,LinkedIn Ads,C03-LIN,Pricing,Mobile,Germany,2.2,New Lead,0,0,0,0
+L-01372,2026-01-22,LinkedIn Ads,C01-LIN,Webinar,Tablet,United States,3.1,New Lead,0,0,0,0
+L-01373,2026-02-11,Paid Search,C02-PAI,Case Studies,Mobile,Netherlands,3.0,New Lead,0,0,0,0
+L-01374,2026-01-11,LinkedIn Ads,C01-LIN,Webinar,Desktop,Australia,3.6,New Lead,0,0,0,0
+L-01375,2026-04-29,Paid Search,C04-PAI,Case Studies,Desktop,Netherlands,3.1,Qualified,1,0,0,0
+L-01376,2026-01-27,Email,C01-EMA,Webinar,Mobile,Australia,12.0,New Lead,0,0,0,0
+L-01377,2026-03-02,Organic Search,C03-ORG,Webinar,Mobile,United Kingdom,4.5,New Lead,0,0,0,0
+L-01378,2026-05-12,Direct,C05-DIR,Webinar,Mobile,Australia,59.9,New Lead,0,0,0,0
+L-01379,2026-06-27,Organic Search,C06-ORG,Case Studies,Desktop,Australia,4.6,New Lead,0,0,0,0
+L-01380,2026-06-28,Direct,C06-DIR,Webinar,Mobile,Germany,1.7,New Lead,0,0,0,0
+L-01381,2026-02-12,LinkedIn Ads,C02-LIN,Consultation,Desktop,Australia,2.9,New Lead,0,0,0,0
+L-01382,2026-03-29,Paid Search,C03-PAI,Case Studies,Desktop,United States,13.3,Qualified,1,0,0,0
+L-01383,2026-02-05,Organic Search,C02-ORG,Pricing,Desktop,Canada,16.9,New Lead,0,0,0,0
+L-01384,2026-02-27,Referral,C02-REF,Pricing,Desktop,Canada,6.0,Customer,1,1,1,4744.76
+L-01385,2026-01-27,Direct,C01-DIR,Webinar,Desktop,Netherlands,3.0,New Lead,0,0,0,0
+L-01386,2026-06-20,Organic Search,C06-ORG,Homepage,Mobile,Netherlands,1.4,New Lead,0,0,0,0
+L-01387,2026-04-02,Organic Search,C04-ORG,Homepage,Desktop,United Kingdom,2.6,New Lead,0,0,0,0
+L-01388,2026-04-03,Paid Search,C04-PAI,Case Studies,Desktop,United States,15.4,New Lead,0,0,0,0
+L-01389,2026-06-21,LinkedIn Ads,C06-LIN,Consultation,Desktop,Canada,6.5,New Lead,0,0,0,0
+L-01390,2026-02-02,Referral,C02-REF,Pricing,Desktop,United States,2.1,Customer,1,1,1,6097.19
+L-01391,2026-05-27,Organic Search,C05-ORG,Case Studies,Desktop,Germany,1.2,Opportunity,1,1,0,0
+L-01392,2026-04-21,Organic Search,C04-ORG,Consultation,Mobile,United Kingdom,2.3,New Lead,0,0,0,0
+L-01393,2026-02-06,Organic Search,C02-ORG,Homepage,Desktop,Australia,3.5,New Lead,0,0,0,0
+L-01394,2026-06-01,Organic Search,C06-ORG,Webinar,Desktop,Australia,8.1,New Lead,0,0,0,0
+L-01395,2026-02-14,Direct,C02-DIR,Consultation,Desktop,Germany,6.0,New Lead,0,0,0,0
+L-01396,2026-04-13,LinkedIn Ads,C04-LIN,Pricing,Tablet,Germany,5.1,Qualified,1,0,0,0
+L-01397,2026-04-05,Organic Search,C04-ORG,Consultation,Desktop,United Kingdom,12.3,New Lead,0,0,0,0
+L-01398,2026-05-29,Organic Search,C05-ORG,Homepage,Mobile,United Kingdom,13.0,New Lead,0,0,0,0
+L-01399,2026-05-06,Paid Search,C05-PAI,Case Studies,Mobile,Australia,4.1,New Lead,0,0,0,0
+L-01400,2026-04-22,LinkedIn Ads,C04-LIN,Webinar,Desktop,United States,1.4,New Lead,0,0,0,0
+L-01401,2026-04-27,Referral,C04-REF,Pricing,Desktop,Germany,2.8,Qualified,1,0,0,0
+L-01402,2026-01-31,Email,C01-EMA,Webinar,Desktop,Netherlands,5.0,New Lead,0,0,0,0
+L-01403,2026-03-03,Organic Search,C03-ORG,Consultation,Desktop,Australia,2.7,New Lead,0,0,0,0
+L-01404,2026-04-19,Organic Search,C04-ORG,Case Studies,Desktop,Australia,1.7,Qualified,1,0,0,0
+L-01405,2026-06-27,Paid Search,C06-PAI,Consultation,Tablet,United Kingdom,5.0,Customer,1,1,1,11803.56
+L-01406,2026-01-09,Paid Search,C01-PAI,Case Studies,Desktop,Germany,2.7,Opportunity,1,1,0,0
+L-01407,2026-02-17,Organic Search,C02-ORG,Homepage,Desktop,Germany,3.2,Opportunity,1,1,0,0
+L-01408,2026-05-31,Organic Search,C05-ORG,Pricing,Desktop,Germany,11.9,Customer,1,1,1,12683.85
+L-01409,2026-05-02,Referral,C05-REF,Consultation,Desktop,United Kingdom,8.9,Qualified,1,0,0,0
+L-01410,2026-04-09,Paid Search,C04-PAI,Webinar,Desktop,United States,9.3,New Lead,0,0,0,0
+L-01411,2026-02-20,Direct,C02-DIR,Consultation,Desktop,Australia,21.7,New Lead,0,0,0,0
+L-01412,2026-01-11,Paid Search,C01-PAI,Case Studies,Desktop,United States,6.5,Customer,1,1,1,15442.58
+L-01413,2026-04-22,Referral,C04-REF,Consultation,Mobile,Canada,0.5,Opportunity,1,1,0,0
+L-01414,2026-04-17,Direct,C04-DIR,Pricing,Mobile,United Kingdom,2.1,Opportunity,1,1,0,0
+L-01415,2026-01-01,Paid Search,C01-PAI,Pricing,Desktop,Netherlands,3.7,New Lead,0,0,0,0
+L-01416,2026-05-26,Partner,C05-PAR,Webinar,Desktop,Germany,4.2,New Lead,0,0,0,0
+L-01417,2026-03-01,Referral,C03-REF,Consultation,Desktop,United States,5.8,Customer,1,1,1,9977.09
+L-01418,2026-03-30,LinkedIn Ads,C03-LIN,Pricing,Desktop,United States,30.5,New Lead,0,0,0,0
+L-01419,2026-01-06,Organic Search,C01-ORG,Consultation,Desktop,Canada,3.0,New Lead,0,0,0,0
+L-01420,2026-02-27,Organic Search,C02-ORG,Consultation,Mobile,Germany,4.3,Qualified,1,0,0,0
+L-01421,2026-05-24,Email,C05-EMA,Pricing,Desktop,Australia,8.4,Qualified,1,0,0,0
+L-01422,2026-05-27,Organic Search,C05-ORG,Pricing,Desktop,Canada,6.5,New Lead,0,0,0,0
+L-01423,2026-01-01,Referral,C01-REF,Webinar,Desktop,Australia,6.4,Qualified,1,0,0,0
+L-01424,2026-06-15,LinkedIn Ads,C06-LIN,Consultation,Mobile,United States,1.8,Qualified,1,0,0,0
+L-01425,2026-06-13,Organic Search,C06-ORG,Consultation,Desktop,Germany,4.3,New Lead,0,0,0,0
+L-01426,2026-01-04,LinkedIn Ads,C01-LIN,Webinar,Desktop,Netherlands,5.6,New Lead,0,0,0,0
+L-01427,2026-04-24,Partner,C04-PAR,Homepage,Desktop,United States,7.2,Qualified,1,0,0,0
+L-01428,2026-06-12,LinkedIn Ads,C06-LIN,Homepage,Desktop,Germany,9.8,New Lead,0,0,0,0
+L-01429,2026-05-02,Email,C05-EMA,Webinar,Desktop,Australia,7.2,New Lead,0,0,0,0
+L-01430,2026-02-13,Organic Search,C02-ORG,Consultation,Desktop,Australia,4.5,New Lead,0,0,0,0
+L-01431,2026-06-11,Partner,C06-PAR,Homepage,Desktop,Australia,3.0,Qualified,1,0,0,0
+L-01432,2026-01-04,Organic Search,C01-ORG,Homepage,Desktop,Netherlands,19.3,New Lead,0,0,0,0
+L-01433,2026-03-31,Paid Search,C03-PAI,Homepage,Desktop,Australia,9.1,Qualified,1,0,0,0
+L-01434,2026-03-02,LinkedIn Ads,C03-LIN,Pricing,Mobile,Germany,7.6,Customer,1,1,1,15787.65
+L-01435,2026-04-17,Direct,C04-DIR,Pricing,Desktop,United Kingdom,13.3,New Lead,0,0,0,0
+L-01436,2026-01-23,Email,C01-EMA,Consultation,Desktop,Netherlands,5.7,New Lead,0,0,0,0
+L-01437,2026-04-10,Partner,C04-PAR,Pricing,Mobile,Germany,4.7,Opportunity,1,1,0,0
+L-01438,2026-03-26,LinkedIn Ads,C03-LIN,Consultation,Mobile,Germany,1.5,New Lead,0,0,0,0
+L-01439,2026-06-18,Paid Search,C06-PAI,Homepage,Desktop,Canada,1.5,New Lead,0,0,0,0
+L-01440,2026-04-21,Organic Search,C04-ORG,Consultation,Desktop,Canada,2.3,New Lead,0,0,0,0
+L-01441,2026-05-10,Paid Search,C05-PAI,Pricing,Desktop,United States,3.2,Customer,1,1,1,5378.82
+L-01442,2026-04-14,Organic Search,C04-ORG,Consultation,Mobile,Netherlands,7.6,New Lead,0,0,0,0
+L-01443,2026-05-02,Paid Search,C05-PAI,Webinar,Desktop,United Kingdom,1.7,New Lead,0,0,0,0
+L-01444,2026-04-25,Referral,C04-REF,Pricing,Desktop,Australia,5.6,Opportunity,1,1,0,0
+L-01445,2026-06-04,Paid Search,C06-PAI,Pricing,Mobile,Netherlands,5.7,Qualified,1,0,0,0
+L-01446,2026-04-04,Partner,C04-PAR,Consultation,Desktop,United Kingdom,5.0,Qualified,1,0,0,0
+L-01447,2026-05-02,Organic Search,C05-ORG,Consultation,Mobile,Netherlands,30.4,New Lead,0,0,0,0
+L-01448,2026-02-08,Partner,C02-PAR,Pricing,Mobile,Netherlands,3.0,Customer,1,1,1,9902.05
+L-01449,2026-04-04,Email,C04-EMA,Pricing,Desktop,Australia,2.2,Qualified,1,0,0,0
+L-01450,2026-03-03,Organic Search,C03-ORG,Homepage,Mobile,Canada,4.7,Qualified,1,0,0,0
+L-01451,2026-03-30,Organic Search,C03-ORG,Consultation,Tablet,Canada,2.2,New Lead,0,0,0,0
+L-01452,2026-05-15,Organic Search,C05-ORG,Homepage,Desktop,Netherlands,5.9,Qualified,1,0,0,0
+L-01453,2026-02-25,Email,C02-EMA,Pricing,Tablet,Germany,7.2,New Lead,0,0,0,0
+L-01454,2026-05-09,Organic Search,C05-ORG,Consultation,Mobile,United States,2.7,New Lead,0,0,0,0
+L-01455,2026-04-11,Organic Search,C04-ORG,Pricing,Desktop,United States,3.1,Opportunity,1,1,0,0
+L-01456,2026-04-05,LinkedIn Ads,C04-LIN,Case Studies,Desktop,Netherlands,3.3,New Lead,0,0,0,0
+L-01457,2026-03-25,Organic Search,C03-ORG,Pricing,Mobile,Canada,2.8,New Lead,0,0,0,0
+L-01458,2026-05-12,Organic Search,C05-ORG,Homepage,Desktop,Germany,9.0,New Lead,0,0,0,0
+L-01459,2026-05-13,Partner,C05-PAR,Homepage,Desktop,Germany,3.9,Qualified,1,0,0,0
+L-01460,2026-03-30,Direct,C03-DIR,Webinar,Desktop,United Kingdom,2.9,New Lead,0,0,0,0
+L-01461,2026-06-04,Paid Search,C06-PAI,Homepage,Mobile,United Kingdom,10.1,Qualified,1,0,0,0
+L-01462,2026-06-11,Email,C06-EMA,Consultation,Mobile,Germany,3.7,Customer,1,1,1,8914.69
+L-01463,2026-03-31,Referral,C03-REF,Homepage,Tablet,Germany,16.8,New Lead,0,0,0,0
+L-01464,2026-01-06,LinkedIn Ads,C01-LIN,Consultation,Desktop,United Kingdom,8.0,New Lead,0,0,0,0
+L-01465,2026-03-23,Email,C03-EMA,Case Studies,Desktop,United States,0.8,Qualified,1,0,0,0
+L-01466,2026-05-27,Organic Search,C05-ORG,Homepage,Mobile,Canada,3.2,New Lead,0,0,0,0
+L-01467,2026-02-06,Paid Search,C02-PAI,Case Studies,Desktop,United Kingdom,13.0,New Lead,0,0,0,0
+L-01468,2026-01-20,LinkedIn Ads,C01-LIN,Homepage,Mobile,Germany,13.5,New Lead,0,0,0,0
+L-01469,2026-06-27,Paid Search,C06-PAI,Homepage,Mobile,United States,4.0,New Lead,0,0,0,0
+L-01470,2026-05-05,Organic Search,C05-ORG,Webinar,Desktop,Germany,15.0,New Lead,0,0,0,0
+L-01471,2026-06-14,Paid Search,C06-PAI,Consultation,Desktop,United Kingdom,8.0,New Lead,0,0,0,0
+L-01472,2026-02-12,Paid Search,C02-PAI,Case Studies,Mobile,Netherlands,4.8,New Lead,0,0,0,0
+L-01473,2026-05-18,Direct,C05-DIR,Pricing,Desktop,Netherlands,7.0,Opportunity,1,1,0,0
+L-01474,2026-04-19,Direct,C04-DIR,Consultation,Mobile,Canada,10.7,New Lead,0,0,0,0
+L-01475,2026-05-29,Organic Search,C05-ORG,Case Studies,Desktop,United Kingdom,12.9,New Lead,0,0,0,0
+L-01476,2026-03-06,Direct,C03-DIR,Pricing,Desktop,United Kingdom,8.9,Qualified,1,0,0,0
+L-01477,2026-02-18,Organic Search,C02-ORG,Pricing,Desktop,United Kingdom,3.6,Qualified,1,0,0,0
+L-01478,2026-05-04,LinkedIn Ads,C05-LIN,Case Studies,Desktop,Germany,17.0,Customer,1,1,1,6194.98
+L-01479,2026-06-23,Paid Search,C06-PAI,Pricing,Tablet,United States,8.8,Opportunity,1,1,0,0
+L-01480,2026-06-15,Paid Search,C06-PAI,Consultation,Mobile,United States,4.5,New Lead,0,0,0,0
+L-01481,2026-04-04,Organic Search,C04-ORG,Pricing,Mobile,Germany,9.2,New Lead,0,0,0,0
+L-01482,2026-03-10,Email,C03-EMA,Case Studies,Mobile,United States,4.4,New Lead,0,0,0,0
+L-01483,2026-02-18,Organic Search,C02-ORG,Pricing,Mobile,Australia,5.4,Opportunity,1,1,0,0
+L-01484,2026-01-29,Direct,C01-DIR,Consultation,Desktop,Australia,1.7,New Lead,0,0,0,0
+L-01485,2026-06-06,Direct,C06-DIR,Webinar,Desktop,United States,2.9,Qualified,1,0,0,0
+L-01486,2026-01-28,LinkedIn Ads,C01-LIN,Homepage,Mobile,United Kingdom,1.8,Qualified,1,0,0,0
+L-01487,2026-04-10,LinkedIn Ads,C04-LIN,Pricing,Desktop,Germany,3.3,New Lead,0,0,0,0
+L-01488,2026-01-23,Paid Search,C01-PAI,Webinar,Desktop,Germany,3.1,New Lead,0,0,0,0
+L-01489,2026-02-25,Organic Search,C02-ORG,Case Studies,Tablet,Australia,14.1,Opportunity,1,1,0,0
+L-01490,2026-01-02,Organic Search,C01-ORG,Consultation,Desktop,Canada,10.7,New Lead,0,0,0,0
+L-01491,2026-03-08,Paid Search,C03-PAI,Consultation,Tablet,Canada,12.2,New Lead,0,0,0,0
+L-01492,2026-03-29,LinkedIn Ads,C03-LIN,Consultation,Mobile,Australia,12.3,Opportunity,1,1,0,0
+L-01493,2026-05-17,Paid Search,C05-PAI,Case Studies,Mobile,Netherlands,6.1,Customer,1,1,1,9307.35
+L-01494,2026-03-21,Paid Search,C03-PAI,Case Studies,Desktop,Australia,3.8,Qualified,1,0,0,0
+L-01495,2026-01-24,Email,C01-EMA,Homepage,Desktop,Australia,2.4,New Lead,0,0,0,0
+L-01496,2026-01-08,Email,C01-EMA,Homepage,Desktop,Netherlands,4.6,Qualified,1,0,0,0
+L-01497,2026-04-27,Referral,C04-REF,Consultation,Mobile,Germany,2.5,Qualified,1,0,0,0
+L-01498,2026-02-07,Organic Search,C02-ORG,Pricing,Mobile,Netherlands,3.3,Opportunity,1,1,0,0
+L-01499,2026-04-30,Direct,C04-DIR,Pricing,Mobile,United States,2.0,New Lead,0,0,0,0
+L-01500,2026-04-18,Paid Search,C04-PAI,Case Studies,Desktop,United Kingdom,5.6,New Lead,0,0,0,0
+L-01501,2026-03-18,Email,C03-EMA,Webinar,Desktop,United States,5.3,Customer,1,1,1,11117.22
+L-01502,2026-05-12,Direct,C05-DIR,Pricing,Desktop,United Kingdom,18.3,Qualified,1,0,0,0
+L-01503,2026-06-26,Organic Search,C06-ORG,Homepage,Mobile,Germany,5.0,Opportunity,1,1,0,0
+L-01504,2026-01-23,Email,C01-EMA,Consultation,Mobile,United States,6.0,Customer,1,1,1,13572.7
+L-01505,2026-03-08,Paid Search,C03-PAI,Consultation,Desktop,Netherlands,5.7,New Lead,0,0,0,0
+L-01506,2026-04-17,LinkedIn Ads,C04-LIN,Webinar,Mobile,Canada,4.1,New Lead,0,0,0,0
+L-01507,2026-03-31,Referral,C03-REF,Pricing,Mobile,Australia,4.7,New Lead,0,0,0,0
+L-01508,2026-03-11,Organic Search,C03-ORG,Consultation,Mobile,United Kingdom,6.2,New Lead,0,0,0,0
+L-01509,2026-01-12,Direct,C01-DIR,Consultation,Desktop,Germany,9.6,New Lead,0,0,0,0
+L-01510,2026-04-14,Direct,C04-DIR,Homepage,Desktop,Germany,9.0,Qualified,1,0,0,0
+L-01511,2026-04-19,Paid Search,C04-PAI,Webinar,Mobile,United States,2.5,New Lead,0,0,0,0
+L-01512,2026-05-07,LinkedIn Ads,C05-LIN,Case Studies,Desktop,Canada,1.5,Customer,1,1,1,9992.8
+L-01513,2026-04-17,Paid Search,C04-PAI,Consultation,Desktop,Germany,4.1,Qualified,1,0,0,0
+L-01514,2026-05-10,Email,C05-EMA,Pricing,Tablet,Germany,2.6,New Lead,0,0,0,0
+L-01515,2026-06-26,Organic Search,C06-ORG,Webinar,Mobile,Germany,4.9,Qualified,1,0,0,0
+L-01516,2026-02-11,Email,C02-EMA,Homepage,Mobile,Netherlands,9.4,New Lead,0,0,0,0
+L-01517,2026-06-15,Paid Search,C06-PAI,Consultation,Desktop,Canada,2.4,Opportunity,1,1,0,0
+L-01518,2026-02-10,Referral,C02-REF,Webinar,Mobile,Netherlands,3.1,Qualified,1,0,0,0
+L-01519,2026-02-15,Organic Search,C02-ORG,Pricing,Mobile,United Kingdom,6.7,New Lead,0,0,0,0
+L-01520,2026-01-05,LinkedIn Ads,C01-LIN,Consultation,Desktop,Canada,2.4,Customer,1,1,1,5541.73
+L-01521,2026-03-03,Email,C03-EMA,Homepage,Mobile,Canada,9.2,Customer,1,1,1,4749.55
+L-01522,2026-02-05,Organic Search,C02-ORG,Webinar,Mobile,United States,3.8,New Lead,0,0,0,0
+L-01523,2026-01-17,Paid Search,C01-PAI,Webinar,Desktop,Netherlands,2.0,New Lead,0,0,0,0
+L-01524,2026-06-18,Email,C06-EMA,Consultation,Desktop,United Kingdom,3.0,New Lead,0,0,0,0
+L-01525,2026-03-27,Paid Search,C03-PAI,Homepage,Desktop,Canada,5.4,New Lead,0,0,0,0
+L-01526,2026-05-13,Paid Search,C05-PAI,Homepage,Desktop,Germany,2.6,Qualified,1,0,0,0
+L-01527,2026-01-27,Organic Search,C01-ORG,Case Studies,Desktop,Germany,2.2,New Lead,0,0,0,0
+L-01528,2026-05-28,Referral,C05-REF,Consultation,Mobile,Australia,10.7,Qualified,1,0,0,0
+L-01529,2026-01-24,LinkedIn Ads,C01-LIN,Consultation,Desktop,United Kingdom,2.9,New Lead,0,0,0,0
+L-01530,2026-01-08,Paid Search,C01-PAI,Consultation,Desktop,United States,6.3,Opportunity,1,1,0,0
+L-01531,2026-05-12,Email,C05-EMA,Consultation,Mobile,Netherlands,5.9,New Lead,0,0,0,0
+L-01532,2026-06-09,Paid Search,C06-PAI,Case Studies,Mobile,United States,4.9,New Lead,0,0,0,0
+L-01533,2026-06-06,LinkedIn Ads,C06-LIN,Case Studies,Desktop,United Kingdom,5.6,New Lead,0,0,0,0
+L-01534,2026-02-25,Referral,C02-REF,Homepage,Mobile,Germany,5.1,Qualified,1,0,0,0
+L-01535,2026-01-26,Direct,C01-DIR,Homepage,Desktop,United Kingdom,29.3,Qualified,1,0,0,0
+L-01536,2026-03-12,LinkedIn Ads,C03-LIN,Homepage,Desktop,Netherlands,6.1,Opportunity,1,1,0,0
+L-01537,2026-01-29,Paid Search,C01-PAI,Pricing,Desktop,United Kingdom,8.2,New Lead,0,0,0,0
+L-01538,2026-06-18,Organic Search,C06-ORG,Consultation,Desktop,United States,4.0,Opportunity,1,1,0,0
+L-01539,2026-03-27,Paid Search,C03-PAI,Homepage,Desktop,Germany,18.6,Qualified,1,0,0,0
+L-01540,2026-06-26,Organic Search,C06-ORG,Webinar,Desktop,United Kingdom,1.0,New Lead,0,0,0,0
+L-01541,2026-06-05,Paid Search,C06-PAI,Consultation,Desktop,Canada,6.2,Customer,1,1,1,11437.14
+L-01542,2026-04-11,Direct,C04-DIR,Consultation,Mobile,United Kingdom,15.6,New Lead,0,0,0,0
+L-01543,2026-05-14,Email,C05-EMA,Consultation,Desktop,United States,16.1,New Lead,0,0,0,0
+L-01544,2026-03-11,Paid Search,C03-PAI,Consultation,Mobile,Australia,5.1,New Lead,0,0,0,0
+L-01545,2026-02-05,Email,C02-EMA,Webinar,Desktop,United Kingdom,8.4,Customer,1,1,1,10043.07
+L-01546,2026-04-21,Partner,C04-PAR,Pricing,Desktop,Canada,6.3,Opportunity,1,1,0,0
+L-01547,2026-06-24,Direct,C06-DIR,Pricing,Tablet,United States,43.6,New Lead,0,0,0,0
+L-01548,2026-05-26,Direct,C05-DIR,Consultation,Desktop,Netherlands,3.0,New Lead,0,0,0,0
+L-01549,2026-05-16,Partner,C05-PAR,Pricing,Mobile,United Kingdom,8.1,New Lead,0,0,0,0
+L-01550,2026-05-12,Partner,C05-PAR,Homepage,Desktop,Germany,6.5,Qualified,1,0,0,0
+L-01551,2026-01-14,LinkedIn Ads,C01-LIN,Case Studies,Mobile,United States,3.0,New Lead,0,0,0,0
+L-01552,2026-02-09,LinkedIn Ads,C02-LIN,Case Studies,Desktop,Australia,5.8,New Lead,0,0,0,0
+L-01553,2026-04-24,Paid Search,C04-PAI,Homepage,Mobile,Germany,11.1,New Lead,0,0,0,0
+L-01554,2026-05-15,Email,C05-EMA,Pricing,Desktop,Germany,7.1,New Lead,0,0,0,0
+L-01555,2026-01-09,LinkedIn Ads,C01-LIN,Consultation,Desktop,Netherlands,13.9,Customer,1,1,1,6808.28
+L-01556,2026-01-05,Referral,C01-REF,Homepage,Mobile,Netherlands,4.6,New Lead,0,0,0,0
+L-01557,2026-04-16,Partner,C04-PAR,Pricing,Mobile,Australia,24.4,Qualified,1,0,0,0
+L-01558,2026-03-23,Email,C03-EMA,Homepage,Desktop,United States,3.1,Qualified,1,0,0,0
+L-01559,2026-04-07,LinkedIn Ads,C04-LIN,Consultation,Desktop,United Kingdom,3.3,New Lead,0,0,0,0
+L-01560,2026-03-28,Referral,C03-REF,Webinar,Desktop,United Kingdom,14.5,New Lead,0,0,0,0
+L-01561,2026-05-16,Direct,C05-DIR,Webinar,Tablet,Netherlands,6.3,New Lead,0,0,0,0
+L-01562,2026-01-27,LinkedIn Ads,C01-LIN,Case Studies,Desktop,United States,1.9,New Lead,0,0,0,0
+L-01563,2026-03-19,Direct,C03-DIR,Case Studies,Mobile,United Kingdom,21.3,New Lead,0,0,0,0
+L-01564,2026-03-20,Email,C03-EMA,Webinar,Desktop,United States,9.0,New Lead,0,0,0,0
+L-01565,2026-04-11,Email,C04-EMA,Pricing,Mobile,Netherlands,4.5,Qualified,1,0,0,0
+L-01566,2026-06-03,Paid Search,C06-PAI,Webinar,Desktop,Australia,5.5,New Lead,0,0,0,0
+L-01567,2026-03-24,LinkedIn Ads,C03-LIN,Homepage,Desktop,Germany,5.9,New Lead,0,0,0,0
+L-01568,2026-02-24,Email,C02-EMA,Webinar,Desktop,Germany,16.5,New Lead,0,0,0,0
+L-01569,2026-06-01,Paid Search,C06-PAI,Case Studies,Desktop,Netherlands,3.5,Opportunity,1,1,0,0
+L-01570,2026-04-16,Referral,C04-REF,Case Studies,Mobile,Germany,2.1,New Lead,0,0,0,0
+L-01571,2026-02-15,Organic Search,C02-ORG,Case Studies,Mobile,Canada,23.2,New Lead,0,0,0,0
+L-01572,2026-05-31,LinkedIn Ads,C05-LIN,Pricing,Mobile,Germany,4.1,Qualified,1,0,0,0
+L-01573,2026-02-06,Organic Search,C02-ORG,Pricing,Desktop,Australia,22.8,New Lead,0,0,0,0
+L-01574,2026-06-07,LinkedIn Ads,C06-LIN,Homepage,Tablet,United States,10.1,Opportunity,1,1,0,0
+L-01575,2026-05-10,Organic Search,C05-ORG,Homepage,Mobile,Australia,10.1,Customer,1,1,1,6162.17
+L-01576,2026-04-02,LinkedIn Ads,C04-LIN,Consultation,Mobile,Australia,17.8,New Lead,0,0,0,0
+L-01577,2026-04-30,Partner,C04-PAR,Consultation,Mobile,Netherlands,7.6,Customer,1,1,1,15104.9
+L-01578,2026-06-09,Paid Search,C06-PAI,Consultation,Mobile,United Kingdom,14.7,New Lead,0,0,0,0
+L-01579,2026-04-16,Organic Search,C04-ORG,Webinar,Desktop,United States,6.8,New Lead,0,0,0,0
+L-01580,2026-06-04,Paid Search,C06-PAI,Webinar,Mobile,Netherlands,2.1,New Lead,0,0,0,0
+L-01581,2026-03-03,Partner,C03-PAR,Case Studies,Desktop,Australia,8.4,Qualified,1,0,0,0
+L-01582,2026-02-09,Paid Search,C02-PAI,Webinar,Mobile,Canada,6.3,New Lead,0,0,0,0
+L-01583,2026-02-20,Paid Search,C02-PAI,Case Studies,Desktop,Germany,5.5,Qualified,1,0,0,0
+L-01584,2026-02-14,Partner,C02-PAR,Homepage,Mobile,United States,1.7,New Lead,0,0,0,0
+L-01585,2026-04-17,LinkedIn Ads,C04-LIN,Homepage,Mobile,Germany,15.0,New Lead,0,0,0,0
+L-01586,2026-05-28,Direct,C05-DIR,Homepage,Desktop,Canada,2.4,Qualified,1,0,0,0
+L-01587,2026-03-10,Paid Search,C03-PAI,Webinar,Desktop,United States,62.7,New Lead,0,0,0,0
+L-01588,2026-03-23,LinkedIn Ads,C03-LIN,Pricing,Mobile,Netherlands,5.1,New Lead,0,0,0,0
+L-01589,2026-01-06,Partner,C01-PAR,Homepage,Desktop,Netherlands,17.3,Qualified,1,0,0,0
+L-01590,2026-04-08,Referral,C04-REF,Pricing,Mobile,Canada,8.1,New Lead,0,0,0,0
+L-01591,2026-02-22,Direct,C02-DIR,Homepage,Desktop,United Kingdom,8.3,New Lead,0,0,0,0
+L-01592,2026-04-02,LinkedIn Ads,C04-LIN,Webinar,Mobile,Netherlands,5.2,Qualified,1,0,0,0
+L-01593,2026-04-25,Direct,C04-DIR,Homepage,Desktop,Canada,5.5,Customer,1,1,1,15685.95
+L-01594,2026-02-13,LinkedIn Ads,C02-LIN,Consultation,Mobile,United States,4.1,New Lead,0,0,0,0
+L-01595,2026-04-02,Paid Search,C04-PAI,Consultation,Mobile,Australia,3.7,New Lead,0,0,0,0
+L-01596,2026-02-11,Direct,C02-DIR,Consultation,Mobile,United States,2.2,Opportunity,1,1,0,0
+L-01597,2026-02-24,Referral,C02-REF,Pricing,Mobile,United States,3.7,New Lead,0,0,0,0
+L-01598,2026-02-19,LinkedIn Ads,C02-LIN,Consultation,Desktop,Germany,5.1,Opportunity,1,1,0,0
+L-01599,2026-03-28,Partner,C03-PAR,Homepage,Desktop,Germany,5.9,Qualified,1,0,0,0
+L-01600,2026-02-01,Partner,C02-PAR,Pricing,Mobile,Australia,2.9,Qualified,1,0,0,0
+L-01601,2026-03-15,Organic Search,C03-ORG,Webinar,Mobile,United States,6.3,Qualified,1,0,0,0
+L-01602,2026-03-25,Partner,C03-PAR,Webinar,Desktop,Netherlands,4.9,New Lead,0,0,0,0
+L-01603,2026-01-01,Organic Search,C01-ORG,Consultation,Desktop,Canada,9.5,New Lead,0,0,0,0
+L-01604,2026-06-16,LinkedIn Ads,C06-LIN,Case Studies,Mobile,United Kingdom,5.5,New Lead,0,0,0,0
+L-01605,2026-01-05,Organic Search,C01-ORG,Homepage,Desktop,Canada,6.8,New Lead,0,0,0,0
+L-01606,2026-03-12,Organic Search,C03-ORG,Consultation,Desktop,United Kingdom,10.5,New Lead,0,0,0,0
+L-01607,2026-03-29,Paid Search,C03-PAI,Consultation,Tablet,Canada,4.5,New Lead,0,0,0,0
+L-01608,2026-03-16,Paid Search,C03-PAI,Consultation,Desktop,Australia,10.5,New Lead,0,0,0,0
+L-01609,2026-01-12,Referral,C01-REF,Homepage,Mobile,Germany,3.4,Customer,1,1,1,7808.44
+L-01610,2026-03-29,LinkedIn Ads,C03-LIN,Case Studies,Desktop,United States,11.2,New Lead,0,0,0,0
+L-01611,2026-05-21,Organic Search,C05-ORG,Homepage,Mobile,Netherlands,4.5,Opportunity,1,1,0,0
+L-01612,2026-05-02,Direct,C05-DIR,Case Studies,Desktop,Netherlands,2.5,Qualified,1,0,0,0
+L-01613,2026-04-20,Organic Search,C04-ORG,Consultation,Desktop,Australia,3.0,New Lead,0,0,0,0
+L-01614,2026-03-22,Paid Search,C03-PAI,Case Studies,Desktop,Germany,5.7,New Lead,0,0,0,0
+L-01615,2026-01-08,Paid Search,C01-PAI,Homepage,Mobile,Australia,8.9,New Lead,0,0,0,0
+L-01616,2026-02-17,Direct,C02-DIR,Homepage,Desktop,Germany,5.6,New Lead,0,0,0,0
+L-01617,2026-02-03,Organic Search,C02-ORG,Consultation,Mobile,Canada,5.7,New Lead,0,0,0,0
+L-01618,2026-04-23,Referral,C04-REF,Consultation,Desktop,United States,12.6,Customer,1,1,1,11219.2
+L-01619,2026-04-18,Email,C04-EMA,Webinar,Mobile,Netherlands,5.9,New Lead,0,0,0,0
+L-01620,2026-03-08,Direct,C03-DIR,Pricing,Desktop,United Kingdom,11.9,New Lead,0,0,0,0
+L-01621,2026-04-17,Paid Search,C04-PAI,Consultation,Mobile,United States,2.3,New Lead,0,0,0,0
+L-01622,2026-02-27,Paid Search,C02-PAI,Homepage,Desktop,United States,12.2,New Lead,0,0,0,0
+L-01623,2026-05-05,LinkedIn Ads,C05-LIN,Consultation,Mobile,United States,1.4,Opportunity,1,1,0,0
+L-01624,2026-06-04,LinkedIn Ads,C06-LIN,Consultation,Mobile,Canada,4.1,New Lead,0,0,0,0
+L-01625,2026-06-29,Organic Search,C06-ORG,Consultation,Mobile,United Kingdom,16.9,New Lead,0,0,0,0
+L-01626,2026-06-20,Organic Search,C06-ORG,Pricing,Desktop,Netherlands,4.0,Qualified,1,0,0,0
+L-01627,2026-05-28,Organic Search,C05-ORG,Webinar,Desktop,Netherlands,11.3,New Lead,0,0,0,0
+L-01628,2026-03-05,Direct,C03-DIR,Webinar,Tablet,United Kingdom,4.1,New Lead,0,0,0,0
+L-01629,2026-05-28,Paid Search,C05-PAI,Consultation,Desktop,Canada,1.0,Opportunity,1,1,0,0
+L-01630,2026-04-05,LinkedIn Ads,C04-LIN,Case Studies,Desktop,United States,2.6,New Lead,0,0,0,0
+L-01631,2026-03-04,Referral,C03-REF,Consultation,Desktop,Germany,8.7,New Lead,0,0,0,0
+L-01632,2026-06-02,Email,C06-EMA,Webinar,Desktop,Germany,9.3,Qualified,1,0,0,0
+L-01633,2026-02-01,Direct,C02-DIR,Pricing,Desktop,Germany,8.8,New Lead,0,0,0,0
+L-01634,2026-01-01,LinkedIn Ads,C01-LIN,Pricing,Desktop,United Kingdom,2.7,Opportunity,1,1,0,0
+L-01635,2026-02-19,Paid Search,C02-PAI,Webinar,Mobile,United States,17.8,New Lead,0,0,0,0
+L-01636,2026-05-30,Paid Search,C05-PAI,Homepage,Mobile,Netherlands,25.1,New Lead,0,0,0,0
+L-01637,2026-01-21,Direct,C01-DIR,Consultation,Tablet,United Kingdom,2.9,New Lead,0,0,0,0
+L-01638,2026-01-01,Direct,C01-DIR,Case Studies,Mobile,United States,6.8,New Lead,0,0,0,0
+L-01639,2026-05-25,LinkedIn Ads,C05-LIN,Pricing,Desktop,Australia,3.7,Qualified,1,0,0,0
+L-01640,2026-01-30,Email,C01-EMA,Webinar,Mobile,Germany,9.2,New Lead,0,0,0,0
+L-01641,2026-03-18,Organic Search,C03-ORG,Webinar,Desktop,United States,6.7,New Lead,0,0,0,0
+L-01642,2026-06-17,Organic Search,C06-ORG,Webinar,Mobile,Canada,4.1,Qualified,1,0,0,0
+L-01643,2026-03-11,LinkedIn Ads,C03-LIN,Case Studies,Mobile,Canada,2.2,Qualified,1,0,0,0
+L-01644,2026-03-23,Referral,C03-REF,Case Studies,Mobile,Germany,5.9,New Lead,0,0,0,0
+L-01645,2026-03-22,Email,C03-EMA,Case Studies,Mobile,Germany,23.2,New Lead,0,0,0,0
+L-01646,2026-02-28,Organic Search,C02-ORG,Homepage,Mobile,Netherlands,3.5,New Lead,0,0,0,0
+L-01647,2026-05-17,Paid Search,C05-PAI,Homepage,Desktop,Australia,1.5,New Lead,0,0,0,0
+L-01648,2026-04-16,LinkedIn Ads,C04-LIN,Consultation,Desktop,Canada,3.4,New Lead,0,0,0,0
+L-01649,2026-02-26,Direct,C02-DIR,Consultation,Desktop,Germany,5.9,Qualified,1,0,0,0
+L-01650,2026-02-22,Referral,C02-REF,Consultation,Desktop,Australia,2.6,Opportunity,1,1,0,0
+L-01651,2026-04-29,LinkedIn Ads,C04-LIN,Homepage,Desktop,United States,10.2,Customer,1,1,1,8073.3
+L-01652,2026-02-19,LinkedIn Ads,C02-LIN,Webinar,Desktop,Canada,15.3,New Lead,0,0,0,0
+L-01653,2026-01-29,Paid Search,C01-PAI,Case Studies,Desktop,United Kingdom,4.1,New Lead,0,0,0,0
+L-01654,2026-06-20,Organic Search,C06-ORG,Case Studies,Mobile,Germany,10.7,New Lead,0,0,0,0
+L-01655,2026-06-30,Organic Search,C06-ORG,Webinar,Desktop,United Kingdom,9.7,Customer,1,1,1,6012.44
+L-01656,2026-04-21,Email,C04-EMA,Case Studies,Mobile,United States,7.5,New Lead,0,0,0,0
+L-01657,2026-03-19,Paid Search,C03-PAI,Consultation,Desktop,United States,5.0,New Lead,0,0,0,0
+L-01658,2026-05-28,Email,C05-EMA,Homepage,Desktop,United States,18.2,New Lead,0,0,0,0
+L-01659,2026-01-13,Partner,C01-PAR,Case Studies,Desktop,United States,4.4,Customer,1,1,1,12858.21
+L-01660,2026-03-03,Email,C03-EMA,Homepage,Desktop,Netherlands,1.9,New Lead,0,0,0,0
+L-01661,2026-01-04,Organic Search,C01-ORG,Consultation,Desktop,Australia,4.2,Opportunity,1,1,0,0
+L-01662,2026-02-28,Email,C02-EMA,Webinar,Mobile,Australia,1.8,New Lead,0,0,0,0
+L-01663,2026-06-16,Paid Search,C06-PAI,Consultation,Desktop,United Kingdom,2.3,Qualified,1,0,0,0
+L-01664,2026-03-26,Organic Search,C03-ORG,Pricing,Desktop,Australia,5.7,New Lead,0,0,0,0
+L-01665,2026-01-08,Referral,C01-REF,Case Studies,Desktop,Netherlands,5.0,New Lead,0,0,0,0
+L-01666,2026-05-25,LinkedIn Ads,C05-LIN,Consultation,Desktop,United States,12.9,New Lead,0,0,0,0
+L-01667,2026-01-16,Email,C01-EMA,Webinar,Desktop,United Kingdom,5.7,New Lead,0,0,0,0
+L-01668,2026-05-11,Paid Search,C05-PAI,Homepage,Desktop,United Kingdom,23.0,Opportunity,1,1,0,0
+L-01669,2026-05-11,LinkedIn Ads,C05-LIN,Webinar,Mobile,United States,8.8,New Lead,0,0,0,0
+L-01670,2026-04-03,Email,C04-EMA,Homepage,Desktop,Australia,12.1,New Lead,0,0,0,0
+L-01671,2026-03-04,Referral,C03-REF,Homepage,Tablet,Netherlands,3.9,New Lead,0,0,0,0
+L-01672,2026-06-17,Paid Search,C06-PAI,Consultation,Mobile,Germany,12.2,New Lead,0,0,0,0
+L-01673,2026-04-25,Paid Search,C04-PAI,Consultation,Desktop,Germany,2.5,New Lead,0,0,0,0
+L-01674,2026-06-24,Direct,C06-DIR,Case Studies,Mobile,Australia,2.5,New Lead,0,0,0,0
+L-01675,2026-06-22,Direct,C06-DIR,Consultation,Mobile,Australia,9.1,Opportunity,1,1,0,0
+L-01676,2026-03-31,LinkedIn Ads,C03-LIN,Case Studies,Mobile,Netherlands,4.3,New Lead,0,0,0,0
+L-01677,2026-01-05,Organic Search,C01-ORG,Pricing,Mobile,United Kingdom,10.0,New Lead,0,0,0,0
+L-01678,2026-01-26,Organic Search,C01-ORG,Pricing,Desktop,Germany,8.7,New Lead,0,0,0,0
+L-01679,2026-04-17,Referral,C04-REF,Homepage,Mobile,Netherlands,2.9,Qualified,1,0,0,0
+L-01680,2026-03-11,LinkedIn Ads,C03-LIN,Homepage,Mobile,Australia,1.9,New Lead,0,0,0,0
+L-01681,2026-06-05,Email,C06-EMA,Consultation,Mobile,United States,7.5,Opportunity,1,1,0,0
+L-01682,2026-04-28,Paid Search,C04-PAI,Webinar,Desktop,Germany,4.6,New Lead,0,0,0,0
+L-01683,2026-02-13,Organic Search,C02-ORG,Consultation,Mobile,Netherlands,1.1,Customer,1,1,1,10016.55
+L-01684,2026-05-02,Referral,C05-REF,Case Studies,Mobile,Netherlands,5.5,New Lead,0,0,0,0
+L-01685,2026-01-13,Paid Search,C01-PAI,Consultation,Mobile,United Kingdom,8.6,New Lead,0,0,0,0
+L-01686,2026-01-10,Paid Search,C01-PAI,Homepage,Desktop,United Kingdom,6.4,Opportunity,1,1,0,0
+L-01687,2026-06-21,LinkedIn Ads,C06-LIN,Consultation,Tablet,United Kingdom,1.9,New Lead,0,0,0,0
+L-01688,2026-02-23,Direct,C02-DIR,Consultation,Desktop,Germany,7.2,Opportunity,1,1,0,0
+L-01689,2026-06-27,Organic Search,C06-ORG,Webinar,Desktop,Canada,5.4,New Lead,0,0,0,0
+L-01690,2026-02-07,Paid Search,C02-PAI,Homepage,Desktop,Germany,6.0,New Lead,0,0,0,0
+L-01691,2026-04-17,Referral,C04-REF,Consultation,Mobile,Canada,7.9,New Lead,0,0,0,0
+L-01692,2026-05-20,Paid Search,C05-PAI,Pricing,Mobile,Netherlands,3.5,Customer,1,1,1,6046.37
+L-01693,2026-01-12,Direct,C01-DIR,Consultation,Desktop,Netherlands,2.9,New Lead,0,0,0,0
+L-01694,2026-06-04,Organic Search,C06-ORG,Pricing,Mobile,Netherlands,14.0,New Lead,0,0,0,0
+L-01695,2026-06-30,LinkedIn Ads,C06-LIN,Pricing,Tablet,United States,3.7,New Lead,0,0,0,0
+L-01696,2026-01-20,Organic Search,C01-ORG,Homepage,Mobile,United States,9.0,New Lead,0,0,0,0
+L-01697,2026-05-03,Direct,C05-DIR,Pricing,Desktop,Germany,11.5,New Lead,0,0,0,0
+L-01698,2026-06-09,Paid Search,C06-PAI,Webinar,Mobile,Canada,9.0,Customer,1,1,1,9196.61
+L-01699,2026-01-20,Email,C01-EMA,Consultation,Desktop,Canada,4.7,New Lead,0,0,0,0
+L-01700,2026-06-11,LinkedIn Ads,C06-LIN,Consultation,Desktop,Canada,20.4,Qualified,1,0,0,0
+L-01701,2026-02-07,Paid Search,C02-PAI,Case Studies,Desktop,United States,6.0,Opportunity,1,1,0,0
+L-01702,2026-01-27,Referral,C01-REF,Pricing,Mobile,United Kingdom,20.9,New Lead,0,0,0,0
+L-01703,2026-04-17,Organic Search,C04-ORG,Pricing,Desktop,Canada,2.1,New Lead,0,0,0,0
+L-01704,2026-02-02,Organic Search,C02-ORG,Consultation,Mobile,Germany,2.4,Qualified,1,0,0,0
+L-01705,2026-01-13,Organic Search,C01-ORG,Pricing,Mobile,Australia,3.6,Qualified,1,0,0,0
+L-01706,2026-05-14,Referral,C05-REF,Consultation,Desktop,Australia,2.1,Customer,1,1,1,7709.43
+L-01707,2026-05-07,Organic Search,C05-ORG,Homepage,Desktop,United Kingdom,3.2,New Lead,0,0,0,0
+L-01708,2026-04-30,Email,C04-EMA,Homepage,Desktop,United States,10.7,Opportunity,1,1,0,0
+L-01709,2026-06-01,LinkedIn Ads,C06-LIN,Homepage,Mobile,Germany,1.3,New Lead,0,0,0,0
+L-01710,2026-05-24,LinkedIn Ads,C05-LIN,Homepage,Mobile,Germany,3.0,New Lead,0,0,0,0
+L-01711,2026-03-10,Partner,C03-PAR,Webinar,Desktop,Australia,5.3,New Lead,0,0,0,0
+L-01712,2026-01-24,LinkedIn Ads,C01-LIN,Consultation,Mobile,Canada,4.6,New Lead,0,0,0,0
+L-01713,2026-04-01,Paid Search,C04-PAI,Webinar,Desktop,Germany,5.5,New Lead,0,0,0,0
+L-01714,2026-05-02,Direct,C05-DIR,Pricing,Desktop,United Kingdom,1.0,New Lead,0,0,0,0
+L-01715,2026-05-10,Organic Search,C05-ORG,Consultation,Tablet,Netherlands,19.2,New Lead,0,0,0,0
+L-01716,2026-05-31,Paid Search,C05-PAI,Homepage,Tablet,Netherlands,2.7,Opportunity,1,1,0,0
+L-01717,2026-04-21,Partner,C04-PAR,Consultation,Mobile,United Kingdom,1.7,Customer,1,1,1,6828.32
+L-01718,2026-05-28,Organic Search,C05-ORG,Homepage,Mobile,Australia,3.0,New Lead,0,0,0,0
+L-01719,2026-01-05,LinkedIn Ads,C01-LIN,Case Studies,Mobile,United Kingdom,3.7,Qualified,1,0,0,0
+L-01720,2026-02-24,Direct,C02-DIR,Consultation,Tablet,United States,7.2,Opportunity,1,1,0,0
+L-01721,2026-05-12,Direct,C05-DIR,Pricing,Mobile,Canada,3.0,New Lead,0,0,0,0
+L-01722,2026-04-25,Direct,C04-DIR,Pricing,Mobile,United Kingdom,2.3,New Lead,0,0,0,0
+L-01723,2026-04-02,Partner,C04-PAR,Homepage,Mobile,Canada,17.8,New Lead,0,0,0,0
+L-01724,2026-05-31,Referral,C05-REF,Pricing,Desktop,Australia,5.9,Opportunity,1,1,0,0
+L-01725,2026-03-23,Organic Search,C03-ORG,Webinar,Mobile,Canada,25.1,New Lead,0,0,0,0
+L-01726,2026-02-23,Paid Search,C02-PAI,Pricing,Desktop,United Kingdom,2.9,Qualified,1,0,0,0
+L-01727,2026-05-07,Organic Search,C05-ORG,Pricing,Tablet,Netherlands,6.4,New Lead,0,0,0,0
+L-01728,2026-06-09,Organic Search,C06-ORG,Consultation,Desktop,Netherlands,11.8,Opportunity,1,1,0,0
+L-01729,2026-03-24,Referral,C03-REF,Homepage,Desktop,Germany,8.5,New Lead,0,0,0,0
+L-01730,2026-03-08,Email,C03-EMA,Consultation,Desktop,United States,3.8,Customer,1,1,1,4850.91
+L-01731,2026-04-17,Email,C04-EMA,Webinar,Desktop,Canada,13.8,New Lead,0,0,0,0
+L-01732,2026-05-16,Organic Search,C05-ORG,Webinar,Desktop,United States,4.3,Opportunity,1,1,0,0
+L-01733,2026-06-27,Organic Search,C06-ORG,Consultation,Mobile,Netherlands,1.5,New Lead,0,0,0,0
+L-01734,2026-06-28,LinkedIn Ads,C06-LIN,Consultation,Mobile,Canada,4.7,New Lead,0,0,0,0
+L-01735,2026-03-18,Paid Search,C03-PAI,Webinar,Desktop,Netherlands,1.1,New Lead,0,0,0,0
+L-01736,2026-03-27,Paid Search,C03-PAI,Webinar,Desktop,United Kingdom,8.3,New Lead,0,0,0,0
+L-01737,2026-04-04,Direct,C04-DIR,Pricing,Mobile,United Kingdom,7.3,Opportunity,1,1,0,0
+L-01738,2026-05-17,Referral,C05-REF,Pricing,Mobile,Germany,11.6,New Lead,0,0,0,0
+L-01739,2026-05-26,Paid Search,C05-PAI,Pricing,Desktop,Australia,9.2,Customer,1,1,1,6867.19
+L-01740,2026-02-15,LinkedIn Ads,C02-LIN,Pricing,Desktop,Netherlands,2.2,New Lead,0,0,0,0
+L-01741,2026-01-11,Partner,C01-PAR,Case Studies,Tablet,Australia,3.3,Qualified,1,0,0,0
+L-01742,2026-03-27,Direct,C03-DIR,Pricing,Tablet,Netherlands,3.2,Opportunity,1,1,0,0
+L-01743,2026-03-11,Paid Search,C03-PAI,Consultation,Desktop,United Kingdom,1.5,New Lead,0,0,0,0
+L-01744,2026-05-09,LinkedIn Ads,C05-LIN,Webinar,Desktop,United States,5.5,Opportunity,1,1,0,0
+L-01745,2026-06-24,Paid Search,C06-PAI,Webinar,Mobile,United States,13.2,New Lead,0,0,0,0
+L-01746,2026-06-11,Referral,C06-REF,Consultation,Desktop,Australia,2.3,New Lead,0,0,0,0
+L-01747,2026-03-03,LinkedIn Ads,C03-LIN,Webinar,Desktop,Canada,2.7,New Lead,0,0,0,0
+L-01748,2026-05-19,Organic Search,C05-ORG,Homepage,Desktop,Australia,17.0,New Lead,0,0,0,0
+L-01749,2026-04-23,Organic Search,C04-ORG,Consultation,Desktop,Australia,3.3,Qualified,1,0,0,0
+L-01750,2026-06-03,Organic Search,C06-ORG,Consultation,Mobile,Canada,6.5,New Lead,0,0,0,0
+L-01751,2026-03-10,Partner,C03-PAR,Webinar,Mobile,Germany,6.2,New Lead,0,0,0,0
+L-01752,2026-06-13,LinkedIn Ads,C06-LIN,Pricing,Desktop,Germany,15.4,Opportunity,1,1,0,0
+L-01753,2026-05-06,Organic Search,C05-ORG,Pricing,Desktop,United Kingdom,3.8,Opportunity,1,1,0,0
+L-01754,2026-04-05,Partner,C04-PAR,Pricing,Mobile,Netherlands,1.5,Customer,1,1,1,11511.5
+L-01755,2026-02-14,LinkedIn Ads,C02-LIN,Consultation,Mobile,Germany,1.6,New Lead,0,0,0,0
+L-01756,2026-05-18,Direct,C05-DIR,Homepage,Tablet,Canada,4.0,Customer,1,1,1,4877.45
+L-01757,2026-03-25,Partner,C03-PAR,Homepage,Desktop,United States,2.4,Opportunity,1,1,0,0
+L-01758,2026-02-10,Referral,C02-REF,Consultation,Desktop,Canada,6.4,Qualified,1,0,0,0
+L-01759,2026-01-23,Referral,C01-REF,Webinar,Mobile,Australia,9.8,Opportunity,1,1,0,0
+L-01760,2026-06-07,Paid Search,C06-PAI,Webinar,Mobile,United Kingdom,8.3,New Lead,0,0,0,0
+L-01761,2026-05-05,Paid Search,C05-PAI,Pricing,Desktop,Germany,4.5,New Lead,0,0,0,0
+L-01762,2026-05-15,Email,C05-EMA,Consultation,Desktop,United Kingdom,3.4,Customer,1,1,1,5619.35
+L-01763,2026-04-29,Paid Search,C04-PAI,Pricing,Desktop,Netherlands,1.7,New Lead,0,0,0,0
+L-01764,2026-03-08,Direct,C03-DIR,Pricing,Mobile,Netherlands,3.3,New Lead,0,0,0,0
+L-01765,2026-05-27,Paid Search,C05-PAI,Webinar,Mobile,United Kingdom,20.5,New Lead,0,0,0,0
+L-01766,2026-02-24,Partner,C02-PAR,Consultation,Mobile,United Kingdom,10.5,New Lead,0,0,0,0
+L-01767,2026-06-26,Organic Search,C06-ORG,Consultation,Mobile,United Kingdom,4.1,Qualified,1,0,0,0
+L-01768,2026-05-01,Email,C05-EMA,Homepage,Desktop,United Kingdom,7.1,New Lead,0,0,0,0
+L-01769,2026-06-25,Direct,C06-DIR,Homepage,Desktop,Germany,5.6,New Lead,0,0,0,0
+L-01770,2026-03-13,Partner,C03-PAR,Case Studies,Mobile,Germany,2.6,New Lead,0,0,0,0
+L-01771,2026-01-31,Email,C01-EMA,Consultation,Desktop,Canada,6.6,Qualified,1,0,0,0
+L-01772,2026-05-07,Paid Search,C05-PAI,Consultation,Desktop,United Kingdom,6.4,Qualified,1,0,0,0
+L-01773,2026-04-10,Direct,C04-DIR,Pricing,Mobile,United States,3.4,Opportunity,1,1,0,0
+L-01774,2026-06-20,Organic Search,C06-ORG,Homepage,Desktop,United States,12.5,Qualified,1,0,0,0
+L-01775,2026-02-06,Referral,C02-REF,Case Studies,Mobile,Germany,4.8,Opportunity,1,1,0,0
+L-01776,2026-02-20,Referral,C02-REF,Case Studies,Desktop,Australia,16.5,New Lead,0,0,0,0
+L-01777,2026-04-14,Organic Search,C04-ORG,Pricing,Mobile,Australia,9.0,New Lead,0,0,0,0
+L-01778,2026-03-14,LinkedIn Ads,C03-LIN,Consultation,Desktop,United Kingdom,2.6,New Lead,0,0,0,0
+L-01779,2026-04-10,Paid Search,C04-PAI,Webinar,Mobile,Australia,3.4,New Lead,0,0,0,0
+L-01780,2026-01-16,Organic Search,C01-ORG,Consultation,Mobile,United States,3.4,New Lead,0,0,0,0
+L-01781,2026-01-25,Partner,C01-PAR,Pricing,Desktop,United States,3.4,Qualified,1,0,0,0
+L-01782,2026-04-14,Direct,C04-DIR,Case Studies,Mobile,United Kingdom,3.9,Qualified,1,0,0,0
+L-01783,2026-04-28,Organic Search,C04-ORG,Pricing,Desktop,Netherlands,1.7,Qualified,1,0,0,0
+L-01784,2026-01-22,LinkedIn Ads,C01-LIN,Consultation,Mobile,Netherlands,3.8,New Lead,0,0,0,0
+L-01785,2026-02-06,Partner,C02-PAR,Webinar,Mobile,United States,16.5,New Lead,0,0,0,0
+L-01786,2026-05-12,Referral,C05-REF,Pricing,Mobile,Netherlands,16.0,Qualified,1,0,0,0
+L-01787,2026-02-05,Paid Search,C02-PAI,Pricing,Mobile,Germany,4.6,New Lead,0,0,0,0
+L-01788,2026-06-16,Organic Search,C06-ORG,Consultation,Desktop,Canada,17.6,Qualified,1,0,0,0
+L-01789,2026-03-13,Paid Search,C03-PAI,Homepage,Mobile,United States,0.6,New Lead,0,0,0,0
+L-01790,2026-05-07,Paid Search,C05-PAI,Consultation,Desktop,Netherlands,2.9,New Lead,0,0,0,0
+L-01791,2026-05-29,Direct,C05-DIR,Homepage,Desktop,Canada,1.7,New Lead,0,0,0,0
+L-01792,2026-03-03,LinkedIn Ads,C03-LIN,Case Studies,Mobile,Germany,4.5,New Lead,0,0,0,0
+L-01793,2026-03-27,Organic Search,C03-ORG,Consultation,Mobile,Germany,2.4,New Lead,0,0,0,0
+L-01794,2026-04-25,Direct,C04-DIR,Pricing,Desktop,Germany,3.3,New Lead,0,0,0,0
+L-01795,2026-03-08,Organic Search,C03-ORG,Homepage,Desktop,United Kingdom,8.5,Customer,1,1,1,13780.28
+L-01796,2026-02-24,Paid Search,C02-PAI,Consultation,Mobile,United States,3.8,New Lead,0,0,0,0
+L-01797,2026-04-01,Paid Search,C04-PAI,Homepage,Mobile,Germany,8.8,New Lead,0,0,0,0
+L-01798,2026-03-18,Partner,C03-PAR,Case Studies,Mobile,Australia,8.7,Qualified,1,0,0,0
+L-01799,2026-03-05,Partner,C03-PAR,Case Studies,Desktop,Netherlands,1.2,Qualified,1,0,0,0
+L-01800,2026-03-18,Paid Search,C03-PAI,Pricing,Desktop,Australia,4.8,New Lead,0,0,0,0

@@ -1,0 +1,10 @@
+{
+  "as_of": "2026-08-08",
+  "customers_raw": 418,
+  "customers_clean": 355,
+  "orders_raw": 906,
+  "orders_clean": 746,
+  "clean_revenue": 217336.73,
+  "validation_passed": 6,
+  "validation_total": 6
+}

@@ -1,0 +1,7 @@
+hub,shipments,delivered,late,on_time_pct,avg_late_hours
+Bursa Hub,509,500,151,69.8,27.0
+Ankara Hub,627,614,108,82.4,26.0
+Izmir Hub,548,535,80,85.0,24.5
+Adana Hub,389,382,55,85.6,28.0
+Istanbul Central,1020,993,143,85.6,26.1
+Antalya Hub,428,415,53,87.2,29.0

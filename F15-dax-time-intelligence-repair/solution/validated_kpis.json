@@ -1,0 +1,17 @@
+{
+  "sales_rows": 1749,
+  "calendar_days": 577,
+  "coverage_start": "2025-01-01",
+  "coverage_end": "2026-07-31",
+  "total_revenue": 698439.8,
+  "total_profit": 291440.23,
+  "gross_margin_pct": 41.7,
+  "units": 6115,
+  "latest_month": "2026-07",
+  "latest_month_revenue": 33265.2,
+  "latest_ytd_revenue": 248403.0,
+  "latest_rolling_12m_revenue": 426149.85,
+  "latest_yoy_pct": -20.6,
+  "checks_passed": 12,
+  "checks_total": 12
+}

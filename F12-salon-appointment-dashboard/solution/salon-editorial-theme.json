@@ -1,0 +1,14 @@
+{
+  "name": "Salon Editorial",
+  "dataColors": [
+    "#A45C6A",
+    "#D99AA5",
+    "#4D6A6D",
+    "#D6A85F",
+    "#8B7E74",
+    "#C9B8A7"
+  ],
+  "background": "#F7F3F0",
+  "foreground": "#2C2927",
+  "tableAccent": "#A45C6A"
+}

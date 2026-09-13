@@ -1,0 +1,181 @@
+Invoice ID,Client ID,Client Name,Service,Issue Date,Due Date,Subtotal,Tax Rate,Tax,Invoice Total,Contact,Email
+INV-0001,C001,Northstar Creative,Dashboard build,2025-08-04,2025-09-03,1925.87,0.1,192.59,2118.46,Maya Chen,maya@northstar.example
+INV-0002,C002,Lumen Health Studio,Monthly reporting,2025-08-06,2025-08-21,917.58,0,0,917.58,Elias Ward,elias@lumen.example
+INV-0003,C003,Cedar & Co. Retail,Data cleanup,2025-08-08,2025-09-07,705.59,0,0,705.59,Nora Patel,nora@cedar.example
+INV-0004,C004,Harbor Legal Partners,Automation setup,2025-08-10,2025-09-09,731.38,0,0,731.38,Owen Brooks,owen@harbor.example
+INV-0005,C005,Atlas Property Group,KPI analysis,2025-08-12,2025-09-02,1023.76,0,0,1023.76,Sara Lin,sara@atlas.example
+INV-0006,C006,BrightPath Learning,Advisory retainer,2025-08-14,2025-08-29,494.24,0.1,49.42,543.66,Lina Costa,lina@brightpath.example
+INV-0007,C007,PeakFit Clubs,Dashboard build,2025-08-16,2025-09-15,744.94,0,0,744.94,Noah Reed,noah@peakfit.example
+INV-0008,C008,GreenFork Catering,Monthly reporting,2025-08-18,2025-09-01,1418.77,0,0,1418.77,Ava Stone,ava@greenfork.example
+INV-0009,C009,Orbit SaaS Labs,Data cleanup,2025-08-20,2025-09-19,911.35,0,0,911.35,Leo Martin,leo@orbit.example
+INV-0010,C010,Willow Events,Automation setup,2025-08-22,2025-09-06,2176.78,0,0,2176.78,Emma Hayes,emma@willow.example
+INV-0011,C011,Copperline Consulting,KPI analysis,2025-08-24,2025-09-23,1921.72,0.1,192.17,2113.89,Iris Young,iris@copperline.example
+INV-0012,C012,Bluebird Media,Advisory retainer,2025-08-26,2025-09-16,2238.78,0,0,2238.78,Theo King,theo@bluebird.example
+INV-0013,C001,Northstar Creative,Dashboard build,2025-08-28,2025-09-27,2778.8,0,0,2778.8,Maya Chen,maya@northstar.example
+INV-0014,C002,Lumen Health Studio,Monthly reporting,2025-08-30,2025-09-14,1551.72,0,0,1551.72,Elias Ward,elias@lumen.example
+INV-0015,C003,Cedar & Co. Retail,Data cleanup,2025-09-01,2025-10-01,1709.14,0,0,1709.14,Nora Patel,nora@cedar.example
+INV-0016,C004,Harbor Legal Partners,Automation setup,2025-09-03,2025-10-03,2546.34,0.1,254.63,2800.97,Owen Brooks,owen@harbor.example
+INV-0017,C005,Atlas Property Group,KPI analysis,2025-09-05,2025-09-26,610.2,0,0,610.2,Sara Lin,sara@atlas.example
+INV-0018,C006,BrightPath Learning,Advisory retainer,2025-09-07,2025-09-22,552.13,0,0,552.13,Lina Costa,lina@brightpath.example
+INV-0019,C007,PeakFit Clubs,Dashboard build,2025-09-09,2025-10-09,2689.14,0,0,2689.14,Noah Reed,noah@peakfit.example
+INV-0020,C008,GreenFork Catering,Monthly reporting,2025-09-11,2025-09-25,999.04,0,0,999.04,Ava Stone,ava@greenfork.example
+INV-0021,C009,Orbit SaaS Labs,Data cleanup,2025-09-13,2025-10-13,1387.93,0.1,138.79,1526.72,Leo Martin,leo@orbit.example
+INV-0022,C010,Willow Events,Automation setup,2025-09-15,2025-09-30,2080.77,0,0,2080.77,Emma Hayes,emma@willow.example
+INV-0023,C011,Copperline Consulting,KPI analysis,2025-09-17,2025-10-17,1098.34,0,0,1098.34,Iris Young,iris@copperline.example
+INV-0024,C012,Bluebird Media,Advisory retainer,2025-09-19,2025-10-10,846.35,0,0,846.35,Theo King,theo@bluebird.example
+INV-0025,C001,Northstar Creative,Dashboard build,2025-09-21,2025-10-21,2504.99,0,0,2504.99,Maya Chen,maya@northstar.example
+INV-0026,C002,Lumen Health Studio,Monthly reporting,2025-09-23,2025-10-08,669.72,0.1,66.97,736.69,Elias Ward,elias@lumen.example
+INV-0027,C003,Cedar & Co. Retail,Data cleanup,2025-09-25,2025-10-25,1556.54,0,0,1556.54,Nora Patel,nora@cedar.example
+INV-0028,C004,Harbor Legal Partners,Automation setup,2025-09-27,2025-10-27,497.54,0,0,497.54,Owen Brooks,owen@harbor.example
+INV-0029,C005,Atlas Property Group,KPI analysis,2025-09-29,2025-10-20,2065.01,0,0,2065.01,Sara Lin,sara@atlas.example
+INV-0030,C006,BrightPath Learning,Advisory retainer,2025-10-01,2025-10-16,1879.9,0,0,1879.9,Lina Costa,lina@brightpath.example
+INV-0031,C007,PeakFit Clubs,Dashboard build,2025-10-03,2025-11-02,2624.98,0.1,262.5,2887.48,Noah Reed,noah@peakfit.example
+INV-0032,C008,GreenFork Catering,Monthly reporting,2025-10-05,2025-10-19,2733.22,0,0,2733.22,Ava Stone,ava@greenfork.example
+INV-0033,C009,Orbit SaaS Labs,Data cleanup,2025-10-07,2025-11-06,2249.81,0,0,2249.81,Leo Martin,leo@orbit.example
+INV-0034,C010,Willow Events,Automation setup,2025-10-09,2025-10-24,2710.34,0,0,2710.34,Emma Hayes,emma@willow.example
+INV-0035,C011,Copperline Consulting,KPI analysis,2025-10-11,2025-11-10,1017.18,0,0,1017.18,Iris Young,iris@copperline.example
+INV-0036,C012,Bluebird Media,Advisory retainer,2025-10-13,2025-11-03,1519.19,0.1,151.92,1671.11,Theo King,theo@bluebird.example
+INV-0037,C001,Northstar Creative,Dashboard build,2025-10-16,2025-11-15,2101.44,0,0,2101.44,Maya Chen,maya@northstar.example
+INV-0038,C002,Lumen Health Studio,Monthly reporting,2025-10-18,2025-11-02,1668.74,0,0,1668.74,Elias Ward,elias@lumen.example
+INV-0039,C003,Cedar & Co. Retail,Data cleanup,2025-10-20,2025-11-19,1701.23,0,0,1701.23,Nora Patel,nora@cedar.example
+INV-0040,C004,Harbor Legal Partners,Automation setup,2025-10-22,2025-11-21,2552.25,0,0,2552.25,Owen Brooks,owen@harbor.example
+INV-0041,C005,Atlas Property Group,KPI analysis,2025-10-24,2025-11-14,2035.59,0.1,203.56,2239.15,Sara Lin,sara@atlas.example
+INV-0042,C006,BrightPath Learning,Advisory retainer,2025-10-26,2025-11-10,2726.59,0,0,2726.59,Lina Costa,lina@brightpath.example
+INV-0043,C007,PeakFit Clubs,Dashboard build,2025-10-28,2025-11-27,907.67,0,0,907.67,Noah Reed,noah@peakfit.example
+INV-0044,C008,GreenFork Catering,Monthly reporting,2025-10-30,2025-11-13,1537.82,0,0,1537.82,Ava Stone,ava@greenfork.example
+INV-0045,C009,Orbit SaaS Labs,Data cleanup,2025-11-01,2025-12-01,654.21,0,0,654.21,Leo Martin,leo@orbit.example
+INV-0046,C010,Willow Events,Automation setup,2025-11-03,2025-11-18,495.03,0.1,49.5,544.53,Emma Hayes,emma@willow.example
+INV-0047,C011,Copperline Consulting,KPI analysis,2025-11-05,2025-12-05,2302.96,0,0,2302.96,Iris Young,iris@copperline.example
+INV-0048,C012,Bluebird Media,Advisory retainer,2025-11-07,2025-11-28,1789.51,0,0,1789.51,Theo King,theo@bluebird.example
+INV-0049,C001,Northstar Creative,Dashboard build,2025-11-09,2025-12-09,1383.53,0,0,1383.53,Maya Chen,maya@northstar.example
+INV-0050,C002,Lumen Health Studio,Monthly reporting,2025-11-11,2025-11-26,2849.58,0,0,2849.58,Elias Ward,elias@lumen.example
+INV-0051,C003,Cedar & Co. Retail,Data cleanup,2025-11-13,2025-12-13,875.31,0.1,87.53,962.84,Nora Patel,nora@cedar.example
+INV-0052,C004,Harbor Legal Partners,Automation setup,2025-11-15,2025-12-15,1600.77,0,0,1600.77,Owen Brooks,owen@harbor.example
+INV-0053,C005,Atlas Property Group,KPI analysis,2025-11-17,2025-12-08,978.02,0,0,978.02,Sara Lin,sara@atlas.example
+INV-0054,C006,BrightPath Learning,Advisory retainer,2025-11-19,2025-12-04,2779.49,0,0,2779.49,Lina Costa,lina@brightpath.example
+INV-0055,C007,PeakFit Clubs,Dashboard build,2025-11-21,2025-12-21,1405.95,0,0,1405.95,Noah Reed,noah@peakfit.example
+INV-0056,C008,GreenFork Catering,Monthly reporting,2025-11-23,2025-12-07,2345.59,0.1,234.56,2580.15,Ava Stone,ava@greenfork.example
+INV-0057,C009,Orbit SaaS Labs,Data cleanup,2025-11-25,2025-12-25,1726.76,0,0,1726.76,Leo Martin,leo@orbit.example
+INV-0058,C010,Willow Events,Automation setup,2025-11-27,2025-12-12,2014.52,0,0,2014.52,Emma Hayes,emma@willow.example
+INV-0059,C011,Copperline Consulting,KPI analysis,2025-11-29,2025-12-29,2305.54,0,0,2305.54,Iris Young,iris@copperline.example
+INV-0060,C012,Bluebird Media,Advisory retainer,2025-12-01,2025-12-22,1361,0,0,1361,Theo King,theo@bluebird.example
+INV-0061,C001,Northstar Creative,Dashboard build,2025-12-03,2026-01-02,2523.55,0.1,252.36,2775.91,Maya Chen,maya@northstar.example
+INV-0062,C002,Lumen Health Studio,Monthly reporting,2025-12-05,2025-12-20,2296.23,0,0,2296.23,Elias Ward,elias@lumen.example
+INV-0063,C003,Cedar & Co. Retail,Data cleanup,2025-12-07,2026-01-06,2207.84,0,0,2207.84,Nora Patel,nora@cedar.example
+INV-0064,C004,Harbor Legal Partners,Automation setup,2025-12-09,2026-01-08,2023.11,0,0,2023.11,Owen Brooks,owen@harbor.example
+INV-0065,C005,Atlas Property Group,KPI analysis,2025-12-11,2026-01-01,1034.75,0,0,1034.75,Sara Lin,sara@atlas.example
+INV-0066,C006,BrightPath Learning,Advisory retainer,2025-12-13,2025-12-28,2783.38,0.1,278.34,3061.72,Lina Costa,lina@brightpath.example
+INV-0067,C007,PeakFit Clubs,Dashboard build,2025-12-15,2026-01-14,1412.52,0,0,1412.52,Noah Reed,noah@peakfit.example
+INV-0068,C008,GreenFork Catering,Monthly reporting,2025-12-17,2025-12-31,2384.64,0,0,2384.64,Ava Stone,ava@greenfork.example
+INV-0069,C009,Orbit SaaS Labs,Data cleanup,2025-12-19,2026-01-18,621.5,0,0,621.5,Leo Martin,leo@orbit.example
+INV-0070,C010,Willow Events,Automation setup,2025-12-21,2026-01-05,2025.55,0,0,2025.55,Emma Hayes,emma@willow.example
+INV-0071,C011,Copperline Consulting,KPI analysis,2025-12-23,2026-01-22,1893.02,0.1,189.3,2082.32,Iris Young,iris@copperline.example
+INV-0072,C012,Bluebird Media,Advisory retainer,2025-12-25,2026-01-15,2721.99,0,0,2721.99,Theo King,theo@bluebird.example
+INV-0073,C001,Northstar Creative,Dashboard build,2025-12-28,2026-01-27,1361.29,0,0,1361.29,Maya Chen,maya@northstar.example
+INV-0074,C002,Lumen Health Studio,Monthly reporting,2025-12-30,2026-01-14,1207.83,0,0,1207.83,Elias Ward,elias@lumen.example
+INV-0075,C003,Cedar & Co. Retail,Data cleanup,2026-01-01,2026-01-31,1568.58,0,0,1568.58,Nora Patel,nora@cedar.example
+INV-0076,C004,Harbor Legal Partners,Automation setup,2026-01-03,2026-02-02,2600.33,0.1,260.03,2860.36,Owen Brooks,owen@harbor.example
+INV-0077,C005,Atlas Property Group,KPI analysis,2026-01-05,2026-01-26,702.08,0,0,702.08,Sara Lin,sara@atlas.example
+INV-0078,C006,BrightPath Learning,Advisory retainer,2026-01-07,2026-01-22,2611.68,0,0,2611.68,Lina Costa,lina@brightpath.example
+INV-0079,C007,PeakFit Clubs,Dashboard build,2026-01-09,2026-02-08,568.79,0,0,568.79,Noah Reed,noah@peakfit.example
+INV-0080,C008,GreenFork Catering,Monthly reporting,2026-01-11,2026-01-25,2587.27,0,0,2587.27,Ava Stone,ava@greenfork.example
+INV-0081,C009,Orbit SaaS Labs,Data cleanup,2026-01-13,2026-02-12,547.49,0.1,54.75,602.24,Leo Martin,leo@orbit.example
+INV-0082,C010,Willow Events,Automation setup,2026-01-15,2026-01-30,668.53,0,0,668.53,Emma Hayes,emma@willow.example
+INV-0083,C011,Copperline Consulting,KPI analysis,2026-01-17,2026-02-16,690.81,0,0,690.81,Iris Young,iris@copperline.example
+INV-0084,C012,Bluebird Media,Advisory retainer,2026-01-19,2026-02-09,848.04,0,0,848.04,Theo King,theo@bluebird.example
+INV-0085,C001,Northstar Creative,Dashboard build,2026-01-21,2026-02-20,992.32,0,0,992.32,Maya Chen,maya@northstar.example
+INV-0086,C002,Lumen Health Studio,Monthly reporting,2026-01-23,2026-02-07,2097.82,0.1,209.78,2307.6,Elias Ward,elias@lumen.example
+INV-0087,C003,Cedar & Co. Retail,Data cleanup,2026-01-25,2026-02-24,2560.22,0,0,2560.22,Nora Patel,nora@cedar.example
+INV-0088,C004,Harbor Legal Partners,Automation setup,2026-01-27,2026-02-26,1119.84,0,0,1119.84,Owen Brooks,owen@harbor.example
+INV-0089,C005,Atlas Property Group,KPI analysis,2026-01-29,2026-02-19,921.62,0,0,921.62,Sara Lin,sara@atlas.example
+INV-0090,C006,BrightPath Learning,Advisory retainer,2026-01-31,2026-02-15,2037.98,0,0,2037.98,Lina Costa,lina@brightpath.example
+INV-0091,C007,PeakFit Clubs,Dashboard build,2026-02-02,2026-03-04,1096.66,0.1,109.67,1206.33,Noah Reed,noah@peakfit.example
+INV-0092,C008,GreenFork Catering,Monthly reporting,2026-02-04,2026-02-18,456.57,0,0,456.57,Ava Stone,ava@greenfork.example
+INV-0093,C009,Orbit SaaS Labs,Data cleanup,2026-02-06,2026-03-08,1854.7,0,0,1854.7,Leo Martin,leo@orbit.example
+INV-0094,C010,Willow Events,Automation setup,2026-02-08,2026-02-23,1539.47,0,0,1539.47,Emma Hayes,emma@willow.example
+INV-0095,C011,Copperline Consulting,KPI analysis,2026-02-10,2026-03-12,1992.65,0,0,1992.65,Iris Young,iris@copperline.example
+INV-0096,C012,Bluebird Media,Advisory retainer,2026-02-12,2026-03-05,574.18,0.1,57.42,631.6,Theo King,theo@bluebird.example
+INV-0097,C001,Northstar Creative,Dashboard build,2026-02-14,2026-03-16,2505.13,0,0,2505.13,Maya Chen,maya@northstar.example
+INV-0098,C002,Lumen Health Studio,Monthly reporting,2026-02-16,2026-03-03,575.37,0,0,575.37,Elias Ward,elias@lumen.example
+INV-0099,C003,Cedar & Co. Retail,Data cleanup,2026-02-18,2026-03-20,1663.76,0,0,1663.76,Nora Patel,nora@cedar.example
+INV-0100,C004,Harbor Legal Partners,Automation setup,2026-02-20,2026-03-22,1833.09,0,0,1833.09,Owen Brooks,owen@harbor.example
+INV-0101,C005,Atlas Property Group,KPI analysis,2026-02-22,2026-03-15,1642,0.1,164.2,1806.2,Sara Lin,sara@atlas.example
+INV-0102,C006,BrightPath Learning,Advisory retainer,2026-02-24,2026-03-11,783.34,0,0,783.34,Lina Costa,lina@brightpath.example
+INV-0103,C007,PeakFit Clubs,Dashboard build,2026-02-26,2026-03-28,918.21,0,0,918.21,Noah Reed,noah@peakfit.example
+INV-0104,C008,GreenFork Catering,Monthly reporting,2026-02-28,2026-03-14,2607.59,0,0,2607.59,Ava Stone,ava@greenfork.example
+INV-0105,C009,Orbit SaaS Labs,Data cleanup,2026-03-02,2026-04-01,2435.67,0,0,2435.67,Leo Martin,leo@orbit.example
+INV-0106,C010,Willow Events,Automation setup,2026-03-04,2026-03-19,1826.8,0.1,182.68,2009.48,Emma Hayes,emma@willow.example
+INV-0107,C011,Copperline Consulting,KPI analysis,2026-03-06,2026-04-05,1092.21,0,0,1092.21,Iris Young,iris@copperline.example
+INV-0108,C012,Bluebird Media,Advisory retainer,2026-03-08,2026-03-29,1852.67,0,0,1852.67,Theo King,theo@bluebird.example
+INV-0109,C001,Northstar Creative,Dashboard build,2026-03-11,2026-04-10,1672.56,0,0,1672.56,Maya Chen,maya@northstar.example
+INV-0110,C002,Lumen Health Studio,Monthly reporting,2026-03-13,2026-03-28,2238.51,0,0,2238.51,Elias Ward,elias@lumen.example
+INV-0111,C003,Cedar & Co. Retail,Data cleanup,2026-03-15,2026-04-14,2287.96,0.1,228.8,2516.76,Nora Patel,nora@cedar.example
+INV-0112,C004,Harbor Legal Partners,Automation setup,2026-03-17,2026-04-16,2852.06,0,0,2852.06,Owen Brooks,owen@harbor.example
+INV-0113,C005,Atlas Property Group,KPI analysis,2026-03-19,2026-04-09,1351.52,0,0,1351.52,Sara Lin,sara@atlas.example
+INV-0114,C006,BrightPath Learning,Advisory retainer,2026-03-21,2026-04-05,515.56,0,0,515.56,Lina Costa,lina@brightpath.example
+INV-0115,C007,PeakFit Clubs,Dashboard build,2026-03-23,2026-04-22,1006.01,0,0,1006.01,Noah Reed,noah@peakfit.example
+INV-0116,C008,GreenFork Catering,Monthly reporting,2026-03-25,2026-04-08,2662.54,0.1,266.25,2928.79,Ava Stone,ava@greenfork.example
+INV-0117,C009,Orbit SaaS Labs,Data cleanup,2026-03-27,2026-04-26,1302.29,0,0,1302.29,Leo Martin,leo@orbit.example
+INV-0118,C010,Willow Events,Automation setup,2026-03-29,2026-04-13,1905.52,0,0,1905.52,Emma Hayes,emma@willow.example
+INV-0119,C011,Copperline Consulting,KPI analysis,2026-03-31,2026-04-30,2152.54,0,0,2152.54,Iris Young,iris@copperline.example
+INV-0120,C012,Bluebird Media,Advisory retainer,2026-04-02,2026-04-23,520.79,0,0,520.79,Theo King,theo@bluebird.example
+INV-0121,C001,Northstar Creative,Dashboard build,2026-04-04,2026-05-04,813.77,0.1,81.38,895.15,Maya Chen,maya@northstar.example
+INV-0122,C002,Lumen Health Studio,Monthly reporting,2026-04-06,2026-04-21,1730.41,0,0,1730.41,Elias Ward,elias@lumen.example
+INV-0123,C003,Cedar & Co. Retail,Data cleanup,2026-04-08,2026-05-08,1385.17,0,0,1385.17,Nora Patel,nora@cedar.example
+INV-0124,C004,Harbor Legal Partners,Automation setup,2026-04-10,2026-05-10,2266.08,0,0,2266.08,Owen Brooks,owen@harbor.example
+INV-0125,C005,Atlas Property Group,KPI analysis,2026-04-12,2026-05-03,787.18,0,0,787.18,Sara Lin,sara@atlas.example
+INV-0126,C006,BrightPath Learning,Advisory retainer,2026-04-14,2026-04-29,1028.3,0.1,102.83,1131.13,Lina Costa,lina@brightpath.example
+INV-0127,C007,PeakFit Clubs,Dashboard build,2026-04-16,2026-05-16,1510.34,0,0,1510.34,Noah Reed,noah@peakfit.example
+INV-0128,C008,GreenFork Catering,Monthly reporting,2026-04-18,2026-05-02,933.36,0,0,933.36,Ava Stone,ava@greenfork.example
+INV-0129,C009,Orbit SaaS Labs,Data cleanup,2026-04-20,2026-05-20,2815.36,0,0,2815.36,Leo Martin,leo@orbit.example
+INV-0130,C010,Willow Events,Automation setup,2026-04-22,2026-05-07,1047.2,0,0,1047.2,Emma Hayes,emma@willow.example
+INV-0131,C011,Copperline Consulting,KPI analysis,2026-04-24,2026-05-24,2123.41,0.1,212.34,2335.75,Iris Young,iris@copperline.example
+INV-0132,C012,Bluebird Media,Advisory retainer,2026-04-26,2026-05-17,1705.84,0,0,1705.84,Theo King,theo@bluebird.example
+INV-0133,C001,Northstar Creative,Dashboard build,2026-04-28,2026-05-28,2839.67,0,0,2839.67,Maya Chen,maya@northstar.example
+INV-0134,C002,Lumen Health Studio,Monthly reporting,2026-04-30,2026-05-15,2053.93,0,0,2053.93,Elias Ward,elias@lumen.example
+INV-0135,C003,Cedar & Co. Retail,Data cleanup,2026-05-02,2026-06-01,2834.14,0,0,2834.14,Nora Patel,nora@cedar.example
+INV-0136,C004,Harbor Legal Partners,Automation setup,2026-05-04,2026-06-03,899.98,0.1,90,989.98,Owen Brooks,owen@harbor.example
+INV-0137,C005,Atlas Property Group,KPI analysis,2026-05-06,2026-05-27,636.03,0,0,636.03,Sara Lin,sara@atlas.example
+INV-0138,C006,BrightPath Learning,Advisory retainer,2026-05-08,2026-05-23,2346.5,0,0,2346.5,Lina Costa,lina@brightpath.example
+INV-0139,C007,PeakFit Clubs,Dashboard build,2026-05-10,2026-06-09,1910.56,0,0,1910.56,Noah Reed,noah@peakfit.example
+INV-0140,C008,GreenFork Catering,Monthly reporting,2026-05-12,2026-05-26,942.95,0,0,942.95,Ava Stone,ava@greenfork.example
+INV-0141,C009,Orbit SaaS Labs,Data cleanup,2026-05-14,2026-06-13,2372.59,0.1,237.26,2609.85,Leo Martin,leo@orbit.example
+INV-0142,C010,Willow Events,Automation setup,2026-05-16,2026-05-31,2542.39,0,0,2542.39,Emma Hayes,emma@willow.example
+INV-0143,C011,Copperline Consulting,KPI analysis,2026-05-18,2026-06-17,1790,0,0,1790,Iris Young,iris@copperline.example
+INV-0144,C012,Bluebird Media,Advisory retainer,2026-05-20,2026-06-10,1587.86,0,0,1587.86,Theo King,theo@bluebird.example
+INV-0145,C001,Northstar Creative,Dashboard build,2026-05-23,2026-06-22,2224.76,0,0,2224.76,Maya Chen,maya@northstar.example
+INV-0146,C002,Lumen Health Studio,Monthly reporting,2026-05-25,2026-06-09,2608.64,0.1,260.86,2869.5,Elias Ward,elias@lumen.example
+INV-0147,C003,Cedar & Co. Retail,Data cleanup,2026-05-27,2026-06-26,1589.8,0,0,1589.8,Nora Patel,nora@cedar.example
+INV-0148,C004,Harbor Legal Partners,Automation setup,2026-05-29,2026-06-28,2061.9,0,0,2061.9,Owen Brooks,owen@harbor.example
+INV-0149,C005,Atlas Property Group,KPI analysis,2026-05-31,2026-06-21,1822.94,0,0,1822.94,Sara Lin,sara@atlas.example
+INV-0150,C006,BrightPath Learning,Advisory retainer,2026-06-02,2026-06-17,729.13,0,0,729.13,Lina Costa,lina@brightpath.example
+INV-0151,C007,PeakFit Clubs,Dashboard build,2026-06-04,2026-07-04,940.07,0.1,94.01,1034.08,Noah Reed,noah@peakfit.example
+INV-0152,C008,GreenFork Catering,Monthly reporting,2026-06-06,2026-06-20,851.81,0,0,851.81,Ava Stone,ava@greenfork.example
+INV-0153,C009,Orbit SaaS Labs,Data cleanup,2026-06-08,2026-07-08,2899.88,0,0,2899.88,Leo Martin,leo@orbit.example
+INV-0154,C010,Willow Events,Automation setup,2026-06-10,2026-06-25,2284.55,0,0,2284.55,Emma Hayes,emma@willow.example
+INV-0155,C011,Copperline Consulting,KPI analysis,2026-06-12,2026-07-12,1189.17,0,0,1189.17,Iris Young,iris@copperline.example
+INV-0156,C012,Bluebird Media,Advisory retainer,2026-06-14,2026-07-05,1319.97,0.1,132,1451.97,Theo King,theo@bluebird.example
+INV-0157,C001,Northstar Creative,Dashboard build,2026-06-16,2026-07-16,1455.38,0,0,1455.38,Maya Chen,maya@northstar.example
+INV-0158,C002,Lumen Health Studio,Monthly reporting,2026-06-18,2026-07-03,783.61,0,0,783.61,Elias Ward,elias@lumen.example
+INV-0159,C003,Cedar & Co. Retail,Data cleanup,2026-06-20,2026-07-20,2774.34,0,0,2774.34,Nora Patel,nora@cedar.example
+INV-0160,C004,Harbor Legal Partners,Automation setup,2026-06-22,2026-07-22,2647.2,0,0,2647.2,Owen Brooks,owen@harbor.example
+INV-0161,C005,Atlas Property Group,KPI analysis,2026-06-24,2026-07-15,931.6,0.1,93.16,1024.76,Sara Lin,sara@atlas.example
+INV-0162,C006,BrightPath Learning,Advisory retainer,2026-06-26,2026-07-11,728.31,0,0,728.31,Lina Costa,lina@brightpath.example
+INV-0163,C007,PeakFit Clubs,Dashboard build,2026-06-28,2026-07-28,2117.48,0,0,2117.48,Noah Reed,noah@peakfit.example
+INV-0164,C008,GreenFork Catering,Monthly reporting,2026-06-30,2026-07-14,663.3,0,0,663.3,Ava Stone,ava@greenfork.example
+INV-0165,C009,Orbit SaaS Labs,Data cleanup,2026-07-02,2026-08-01,2545.59,0,0,2545.59,Leo Martin,leo@orbit.example
+INV-0166,C010,Willow Events,Automation setup,2026-07-04,2026-07-19,1052.26,0.1,105.23,1157.49,Emma Hayes,emma@willow.example
+INV-0167,C011,Copperline Consulting,KPI analysis,2026-07-06,2026-08-05,2872.76,0,0,2872.76,Iris Young,iris@copperline.example
+INV-0168,C012,Bluebird Media,Advisory retainer,2026-07-08,2026-07-29,2876.01,0,0,2876.01,Theo King,theo@bluebird.example
+INV-0169,C001,Northstar Creative,Dashboard build,2026-07-10,2026-08-09,1354.15,0,0,1354.15,Maya Chen,maya@northstar.example
+INV-0170,C002,Lumen Health Studio,Monthly reporting,2026-07-12,2026-07-27,1291.34,0,0,1291.34,Elias Ward,elias@lumen.example
+INV-0171,C003,Cedar & Co. Retail,Data cleanup,2026-07-14,2026-08-13,2420.4,0.1,242.04,2662.44,Nora Patel,nora@cedar.example
+INV-0172,C004,Harbor Legal Partners,Automation setup,2026-07-16,2026-08-15,1924.95,0,0,1924.95,Owen Brooks,owen@harbor.example
+INV-0173,C005,Atlas Property Group,KPI analysis,2026-07-18,2026-08-08,1592.68,0,0,1592.68,Sara Lin,sara@atlas.example
+INV-0174,C006,BrightPath Learning,Advisory retainer,2026-07-20,2026-08-04,548.73,0,0,548.73,Lina Costa,lina@brightpath.example
+INV-0175,C007,PeakFit Clubs,Dashboard build,2026-07-22,2026-08-21,1016.49,0,0,1016.49,Noah Reed,noah@peakfit.example
+INV-0176,C008,GreenFork Catering,Monthly reporting,2026-07-24,2026-08-07,1266.27,0.1,126.63,1392.9,Ava Stone,ava@greenfork.example
+INV-0177,C009,Orbit SaaS Labs,Data cleanup,2026-07-26,2026-08-25,1974.33,0,0,1974.33,Leo Martin,leo@orbit.example
+INV-0178,C010,Willow Events,Automation setup,2026-07-28,2026-08-12,1377.43,0,0,1377.43,Emma Hayes,emma@willow.example
+INV-0179,C011,Copperline Consulting,KPI analysis,2026-07-30,2026-08-29,1941.65,0,0,1941.65,Iris Young,iris@copperline.example
+INV-0180,C012,Bluebird Media,Advisory retainer,2026-08-01,2026-08-22,2303.63,0,0,2303.63,Theo King,theo@bluebird.example

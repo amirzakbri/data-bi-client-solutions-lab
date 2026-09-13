@@ -1,0 +1,13 @@
+{
+  "source_records": 855,
+  "true_entities": 465,
+  "golden_customers": 498,
+  "duplicate_records_removed": 357,
+  "auto_match_pairs": 421,
+  "review_pairs": 92,
+  "auto_pair_precision": 1.0,
+  "auto_pair_recall": 0.9132,
+  "combined_lifetime_value": 3545720.23,
+  "controls_passed": 8,
+  "controls_total": 8
+}
